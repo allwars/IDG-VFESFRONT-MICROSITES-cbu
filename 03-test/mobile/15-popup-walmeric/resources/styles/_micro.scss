@@ -1,0 +1,34 @@
+// CSS del microsite
+.vfes-ms-content-buttons {
+    .vfms-modal {
+        max-width: 424px;
+        .vfes-colours-bg-dark-grey {
+            background-color: #333;
+        }
+        &__icon {
+            color: #fff;
+        }
+        &__button {
+            width: 100%;
+        }
+        &__content {
+            padding-left: 43px;
+            padding-right: 43px;
+        }
+    }
+    .vfms-button__call {
+        background: transparent;
+        border: 1px solid #fff;
+        width: 100%;
+        color: white;
+    }
+    .vfms-line {
+        border-top: 1px solid #fff;
+    }
+    button#btnS20 {
+        padding: 9px 3px 11px;
+    }
+    #btnS202,#popup-walmeric a{
+        padding: 9px 14px 11px;
+    }
+}

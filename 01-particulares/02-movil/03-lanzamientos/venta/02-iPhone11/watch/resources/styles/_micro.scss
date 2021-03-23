@@ -1,0 +1,158 @@
+// CSS del microsite
+.vfes-ms-content{
+    .vfes-layout__wrapper {
+        padding: 0;
+        @media screen and (min-width: 1024px){
+            max-width: 100%;
+        }
+        p {
+            font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+            color: #86868b;
+        }
+        .vfms-btn {
+            display: block;
+            cursor: pointer;
+            text-decoration: none;
+            text-align: center;
+            -webkit-border-radius: 20px;
+            border-radius: 20px;
+            color: #6e6e73;
+            font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+            border: 1px solid #6e6e73;
+            font-size: 17px;
+            padding: 8px 0 9px 0;
+            width: 120px;
+            margin: 23px auto 38px;
+            font-weight: 500;
+        }
+        .vfms-btn:hover {
+            background: #6e6e73;
+		    color: #fff;
+        }
+        .vfms-container--bottom {
+            max-width: 600px;
+            padding: 20px 50px;
+            @media screen  and (min-width: 768px) {
+                max-width: none;
+            }
+            .vfes-flex {
+                .vfms-logo-min {
+                    max-width: 75px;
+                }
+            }
+            .vfms-container--center {
+                max-width: 500px;
+                margin: 0 auto;
+                display: flex;
+                justify-content: space-evenly;
+            }
+            .vfes-layout__item {
+                @media screen and (min-width: 1024px){
+                    max-width: 500px;
+                    margin: 0 auto;
+                    display: block;
+                }
+            }
+        }
+        .vfms-container {
+            max-width: 150px;
+            padding-bottom: 20px;
+            margin: 0 auto;
+            @media screen and (min-width: 768px) {
+                max-width: 300px;
+                padding: 20px 50px;
+            }
+            @media screen and (min-width: 1024px) {
+                max-width: 500px;
+                padding: 20px 0;
+            }
+            
+        }
+        .vfms-container-min {
+            max-width: 150px;
+            padding-top: 20px;
+            margin: 0 auto;
+            @media screen and (min-width: 768px) {
+                max-width: 300px;
+            }
+            @media screen and (min-width: 1024px) {
+                max-width: 500px;
+                .vfes-paragraph--large {
+                    font-size: 30px;
+                }
+            }
+            .vfms-text {
+               @media screen and (min-width: 1024px) {
+                   text-align: left;
+               } 
+            }
+            .vfms-align-left {
+                @media screen and (min-width: 1024px) {
+                    margin: 10px 0 50px;
+                }
+            }
+            .vfms-cta--bottom {
+                @media screen and (min-width: 1024px) {
+                    font-size: 24px;
+                    padding-top: 50px;
+                }
+            }
+            .vfms-nomargin {
+                margin-bottom: 0;
+            }
+        }
+        .vfms-dark {
+            color: #1d1d1f;
+            font-weight: 500;
+        }
+        .vfms-greybg {
+            background: #f5f5f7;
+        }
+        .vfes-layout{
+            .vfes-layout__item {
+                .vfms-list {
+                    color: #86868b;
+                    list-style: inside;
+                    list-style-type: decimal;
+                    padding-right: 5px;
+                    line-height: 20px;
+                    @media screen and (min-width: 1024px) {
+                        line-height: 22px;
+                    }
+                    li{
+                        padding: 0 0 10px 0;
+                    }
+                }
+            }
+        }
+        .vfms-desktop {
+            @media screen and (min-width: 1024px) {
+                max-width: 500px;
+                margin: 0 auto;
+            }
+        }
+        .vfms-desktop--show {
+            display: none;
+            @media screen and (min-width: 1024px) {
+                display: block;
+            }
+        }
+        .vfms-mobile--show {
+            @media screen and (min-width: 1024px) {
+                display: none;
+            }
+        }
+        .vfms-desktop--watch {
+            background: #f5f5f7;
+            img {
+                max-height: 250px;
+            }
+            .vfms-container--center {
+                max-width: 500px;
+                margin: 0 auto;
+                display: flex;
+                justify-content: space-evenly;
+            }
+        }
+    }
+}

@@ -1,0 +1,152 @@
+<h2>Llévate <strong>HBO España </strong>y <strong>Amazon Prime
+					</strong>por <strong>10€/mes </strong>con el Pack Serielovers</h2><p>Canales incluidos en el Pack:</p><ul>
+						<li>
+						</li>
+						<li>
+						</li>
+						<li>
+						</li>
+						<li>
+						</li>
+						<li>
+						</li>
+						<li>
+						</li>
+						<li>
+						</li>
+						<li>
+						</li>
+						<li>
+						</li>
+						<li>
+						</li>
+						<li>
+						</li>
+						<li>
+						</li>
+
+					</ul><a href="#" target="_self" data-modal="serielovers" data-modal-close="" aria-haspopup="dialog">Ver todos los canales
+					</a><button type="button" onclick="window.parent.document.ws_popup.open3('Pack Serielovers', '10€/mes');" title="Lo quiero">Lo quiero<span>:Pack
+							Serielovers</span>
+					</button><button aria-hidden="false"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px">
+						<title>Close</title>
+						<use xlink:href="#icon3-close"></use>
+					</svg></button><p>Canales Pack Serielovers</p><ul>
+						<li>
+							
+							<p>HBO España</p>
+						</li>
+						<li>
+							
+							<p>Amazon Prime Video</p>
+						</li>
+						<li>
+							
+							<p>Starzplay</p>
+						</li>
+						<li>
+							
+							<p>Movistar Series</p>
+						</li>
+						<li>
+							
+							<p>FOXNOW</p>
+						</li>
+						<li>
+							
+							<p>AXN Now</p>
+						</li>
+						<li>
+							
+							<p>FOX</p>
+						</li>
+						<li>
+							
+							<p>AXN</p>
+						</li>
+						<li>
+							
+							<p>TNT</p>
+						</li>
+						<li>
+							
+							<p>SYFY</p>
+						</li>
+						<li>
+							
+							<p>Calle 13</p>
+						</li>
+						<li>
+							
+							<p>AXN White</p>
+						</li>
+					</ul><p>Y además todos los Packs incluyen estos canales:</p><ul>
+						<li>
+							
+							<p>AMC</p>
+						</li>
+						<li>
+							
+							<p>FOX Life</p>
+						</li>
+						<li>
+							
+							<p>Cosmo</p>
+						</li>
+						<li>
+							
+							<p>Comedy Central</p>
+						</li>
+						<li>
+							
+							<p>XTRM</p>
+						</li>
+						<li>
+							
+							<p>TCM</p>
+						</li>
+						<li>
+							
+							<p>Sundance TV</p>
+						</li>
+						<li>
+							
+							<p>National Geographic</p>
+						</li>
+						<li>
+							
+							<p>National Geographic+</p>
+						</li>
+						<li>
+							
+							<p>Cocina</p>
+						</li>
+						<li>
+							
+							<p>Decasa</p>
+						</li>
+						<li>
+							
+							<p>MTV</p>
+						</li>
+						<li>
+							
+							<p>MyMTV Music</p>
+						</li>
+						<li>
+							
+							<p>SOL Música</p>
+						</li>
+						<li>
+							
+							<p>HIT TV</p>
+						</li>
+						<li>
+							
+							<p>Eurosport 1</p>
+						</li>
+						<li>
+							
+							<p>Disney XD</p>
+						</li>
+					</ul>

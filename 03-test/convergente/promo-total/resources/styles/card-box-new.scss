@@ -1,0 +1,562 @@
+/********************* START *********************/
+/* Card box () */
+.vfes-card-box-new {
+    background: #fff;
+    margin: 15px auto 0;
+    max-width: 380px;
+    position: relative;
+    display: inline-block;
+
+    padding: 0;
+
+    @media only screen and (max-width: 640px),
+        only screen and (max-device-width: 640px) {
+        margin: 5px auto 0;
+        display: block;
+        width: inherit;
+    }
+
+    &.vfes-tag-label {
+
+        @media only screen and (max-width: 640px),
+            only screen and (max-device-width: 640px) {
+            margin-top: 35px;
+        }
+    }
+
+
+    
+
+    /* */
+    .vfes-rate-data-list {
+        font-size: 0;
+        margin: 0;
+        padding: 0;
+        position: relative;
+        display: flex;
+        flex-wrap: wrap;
+
+        .vfes-rate-data {
+            /* transition: all 0.1s ease-in-out; */
+            display: inline-block;
+            list-style-type: none;
+            padding: 15px;
+            padding-right: 10px;
+            text-align: left;
+            vertical-align: middle;
+            width: 50%;
+
+
+            &--mid-row {
+                background: #f4f4f4;
+            }
+
+            &__title {
+                padding: 15px 0 15px 5px;
+                flex: 1 70%;
+
+                &-text {
+                    font-family: 'VodafoneLight', Helvetica, Arial, sans-serif;
+                    font-size: 20px;
+                    padding-left: 20px;
+                    margin: 0;
+
+                    @media only screen and (max-width: 640px),
+                    only screen and (max-device-width: 640px) {
+                    font-size: 18px;
+                    padding-left: 0;
+
+                }
+            }
+
+            }
+
+            &__price {
+                flex: 1 30%;
+
+                &-text {
+                    font-family: 'VodafoneRegularBold', Helvetica, Arial, sans-serif;
+                    font-size: 24px;
+                    text-align: right;
+
+                    @media only screen and (max-width: 640px),
+                    only screen and (max-device-width: 640px) {
+                    font-size: 18px;
+
+                    
+                }
+
+            }
+
+        }
+
+           
+            
+            //padding: 15px 0 30px 15px;
+
+            &__gb {
+                
+                flex: 2 50%;
+
+                &::before {
+                    content: "";
+                    background: url('../img/device-icon.svg') no-repeat center center;
+                    display: inline-block;
+                    height: 40px;
+                    vertical-align: middle;
+                    width: 40px;
+                    margin-left: -10px;
+                   /*@media screen and (min-width: 320px) and (max-width: 320px) {
+                        display: none;
+                    }*/
+                }
+
+                &-text {
+                    display: inline-block;
+                    font-size: 18px;
+                    vertical-align: middle;
+                   
+
+                    @media only screen and (max-width: 640px),
+                        only screen and (max-device-width: 640px) {
+                        font-size: 14px;
+                    }
+                }
+        
+                &-small-text {
+                    display: block;
+                    font-size: 14px;
+                    
+                
+                }
+                &-xsmall-text {
+                    display: block;
+                    width: 100%;
+                    font-size: 11px;
+                }
+
+            }
+
+            &__mg {
+                flex: 2 50%;
+                text-align: right;
+
+                &::before {
+                    content: "";
+                    background: url('../img/wifi-icon.svg') center center;
+                    display: inline-block;
+                    height: 40px;
+                    vertical-align: middle;
+                    width: 40px;
+                    margin-left: -10px;
+
+                    /*@media screen and (min-width: 320px) and (max-width: 320px) {
+                        display: none;
+                    }*/
+                }
+
+                &-text {
+                    display: inline-block;
+                    font-family: 'VodafoneRegular', Helvetica, Arial, sans-serif;
+                    font-size: 18px;
+                    text-align: left;
+                    vertical-align: middle;
+
+                    @media only screen and (max-width: 640px),
+                        only screen and (max-device-width: 640px) {
+                        font-size: 16px;
+                    }
+                }
+                &-small-text {
+                    display: block;
+                    font-size: 14px;
+                }
+              
+            }
+
+        }
+
+
+
+    }
+
+    /* Accordion*/
+    &__accordion {
+        /* transition: all 0.1s ease-in-out; */
+        padding: 15px;
+        height: inherit;
+        display: block;
+
+        /* Button to display  accordion*/
+        &-button {
+            display: none;
+
+            @media only screen and (max-width: 640px),
+                only screen and (max-device-width: 640px) {
+                border-right: 1px solid #E60000;
+                border-top: 1px solid #E60000;
+                display: block;
+                height: 12px;
+                width: 12px;
+                transform: rotate(-45deg);
+                -ms-transform: rotate(-45deg);
+                position: absolute;
+                top: 20px;
+                right: 15px;
+                text-indent: 999999999px;
+                transition: all .1s ease-in-out;
+            }
+
+        }
+
+        &-text {
+            text-align: left;
+            margin: 0;
+        }
+
+        &-price {
+            font-family: 'VodafoneRegularBold', Helvetica, Arial, sans-serif;
+            font-size: 18px;
+            text-align: center;
+        }
+
+        .vfes-button {
+            width: 100%;
+            margin: 15px auto;
+            display: block;
+        }
+    }
+
+    /* Closed box */
+    &--closed {
+        overflow: hidden;
+
+        // max-width: 300px;
+        .vfes-tag-label__outstanding {
+            display: none;
+        }
+
+        .vfes-rate-data-list {
+            .vfes-rate-data {
+                width: auto;
+
+                &--bolt {
+
+                    &::after {
+                        content: "";
+                        background: url('../img/speed-icon.png') no-repeat center center;
+                        background-size: 80%;
+                        border-radius: 10px;
+                        display: inline-block;
+                        height: 14px;
+                        margin-left: 5px;
+                        vertical-align: middle;
+                        width: 11px;
+                    }
+
+                    &-x2 {
+
+                        &::after {
+                            content: "";
+                            background: url('../img/speed-icon.png') repeat-x left center;
+                            background-position: 1px;
+                            background-size: 44%;
+                            display: inline-block;
+                            height: 14px;
+                            margin-left: 5px;
+                            vertical-align: middle;
+                            width: 22px;
+                        }
+                    }
+
+                    &-x3 {
+
+                        &::after {
+                            content: "";
+                            background: url('../img/speed-icon.png') repeat-x left center;
+                            display: inline-block;
+                            height: 14px;
+                            margin-left: 5px;
+                            vertical-align: middle;
+                            width: 33px;
+                            background-size: 32%;
+                        }
+                    }
+                }
+
+                &__title {
+                    // display: none;
+                }
+
+                &__price {
+                    display: block;
+                    margin-left: auto;
+                    width: 40%;
+                    padding-right: 40px;
+                }
+
+                &__gb {
+                    top: 3px;
+
+                    &::before {
+                        width: 25px;
+                        height: 25px;
+                        background-size: cover;
+                    }
+
+                    &-text {
+                        margin-left: 3px;
+                        font-size: 16px;
+                    }
+
+                    &-small-text {
+                        display: inline-block;
+                        @media only screen and (max-width: 640px) {
+                            display:none;
+                         }
+                    }
+                }
+
+                &__mg {
+                    top: 22px;
+                    text-align: left;
+                    padding: 0.3125rem 0.9375rem 0;
+
+                    &::before {
+                        width: 25px;
+                        height: 25px;
+                        background-size: cover;
+                    }
+
+                    &-text {
+                        margin-left: 3px;
+                        font-size: 16px;
+                    }
+
+                    &-small-text {
+                        display: none;
+                    }
+                }
+
+                &--mid-row {
+                    background: transparent;
+                    left: 0;
+                    padding: initial;
+                    position: absolute;
+                    width: 70%;
+                    padding: 0rem 0.9375rem;
+                    
+                }
+            }
+        }
+
+        li.vfes-rate-data.vfes-rate-data--mid-row.vfes-rate-data__mg{
+            padding-top: 4px;
+        }
+
+        .vfes-card-box-new__accordion-button {
+            transform: rotate(135deg);
+            -ms-transform: rotate(135deg);
+        }
+
+        .vfes-card-box-new__accordion {
+            height: 0;
+            padding: 0;
+            display: none;
+        }
+    }
+
+
+}
+
+/* Special box (Gb ilimitados) */
+.vfes-card-box-new--special {
+    @extend .vfes-card-box-new;
+    border: 1px solid #d0021b;
+
+    .vfes-rate-data-list {
+
+        .vfes-rate-data {
+            &--mid-row {
+                padding: 15px 15px 30px;
+                
+            }
+
+            &__gb {
+                padding: 15px 0 30px 10px;
+                
+
+                &-text {
+                    font-family: 'VodafoneRegularBold', Helvetica, Arial, sans-serif;
+                }
+
+                &-small-text {
+                    font-family: 'VodafoneRegular', Helvetica, Arial, sans-serif;
+                }
+            }
+
+            &__mg {
+                width: 44.2%;
+                padding: 15px 15px 30px 0;
+                
+
+                &-text {}
+            }
+        }
+    }
+
+    .vfes-card-box-new__speed-box {
+        background-color: #ffffff;
+        border-radius: 10px;
+        box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.17);
+        margin: -15px 10px 15px;
+        max-width: 350px;
+        padding: 10px;
+        position: relative;
+        text-align: left;
+        z-index: 8;
+
+        &:before {
+            content: '';
+            background: url('../img/corner-box.svg') no-repeat center center;
+            width: 15px;
+            height: 15px;
+            position: absolute;
+            top: -12px;
+            z-index: 9999999;
+        }
+
+        &-text {
+            margin-bottom: 7px;
+
+            &--bolt {
+                &:before {
+                    content: "";
+                    background: url('../img/speed-icon.png') no-repeat center center;
+                    background-size: 70%;
+                    display: inline-block;
+                    height: 16px;
+                    width: 16px;
+                    vertical-align: middle;
+                }
+
+                &-x2 {
+
+                    &::before {
+                        content: "";
+                        background: url('../img/speed-icon.png') repeat-x left center;
+                        background-size: 45%;
+                        display: inline-block;
+                        height: 16px;
+                        width: 22px;
+                        vertical-align: middle;
+                    }
+                }
+
+                &-x3 {
+
+                    &::before {
+                        content: "";
+                        background: url('../img/speed-icon.png') repeat-x left center;
+                        display: inline-block;
+                        height: 16px;
+                        width: 33px;
+                        background-size: 32%;
+                        background-position: 0;
+                     
+                        vertical-align: middle;
+                    }
+                }
+            }
+        }
+
+        &-list {
+            padding: 0;
+            margin: 0;
+            list-style: none;
+            width: calc(100% - 20px);
+            display: inline-block;
+            vertical-align: middle;
+            min-height:40px;
+
+            &-item {
+                display: inline-block;
+                margin: 0 10px 0 0;
+                font-family: 'VodafoneRegularBold', Helvetica, Arial, sans-serif;
+                color: #4a4a4a;
+                font-size: 14px;
+
+                &:before {
+                    content: '';
+                    background: url('../img/check-icon.svg') no-repeat center center;
+                    display: inline-block;
+                    height: 15px;
+                    vertical-align: middle;
+                    width: 20px;
+                    margin-right: 5px;
+                }
+            }
+        }
+
+        &-info {
+            display: inline-block;
+            vertical-align: middle;
+        }
+    }
+
+    .vfes-card-box-new__accordion {
+        padding: 0px 15px 15px;
+    }
+
+    /* Closed box*/
+    &.vfes-card-box-new--closed {
+
+        .vfes-rate-data-list {
+            .vfes-rate-data {
+                &__price {
+                    width: 40%;
+                }
+
+                &__gb {
+                    padding: 0rem 0.9375rem;
+
+                    &-text {
+                        font-family: 'VodafoneRegular', Helvetica, Arial, sans-serif;
+                        color: #E60000;
+                    }
+
+                    &-small-text {
+                        display: none;
+                    }
+                }
+
+                &__mg {
+                    padding: 5px 15px 0;
+                    width: 60%;
+                }
+            }
+        }
+
+        .vfes-card-box-new__accordion {
+            padding: 0;
+        }
+
+        .vfes-card-box-new__speed-box {
+            margin: 0;
+            padding: 0;
+        }
+
+    }
+
+
+}
+
+.vfms-close-hide{
+    @media only screen and (max-width: 640px) {
+        display:none;
+     }
+
+}
+
+
+/********************* END *********************/

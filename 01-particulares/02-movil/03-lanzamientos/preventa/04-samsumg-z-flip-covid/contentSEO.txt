@@ -1,0 +1,59 @@
+<div data-spritesheet="svg/sprite.mid.svg"></div><div>
+				
+			</div><p><span>Nuevo Samsung Galaxy Z Flip</span></p><h5>La experiencia móvil, reimaginada</h5><h5>¡Resérvalo ya!</h5><div>
+					
+				</div><ul>
+			<li><a title="Inicio" target="_self" href="https://www.vodafone.es/c/particulares/es/">Inicio</a></li>
+			<li><a title="Móviles" target="_self" href="https://www.vodafone.es/c/tienda-online/particulares/catalogo-moviles/">Móviles</a></li>
+			<li><a title="Samsung Galaxy Z Flip" target="_self" href="#">Samsung Galaxy Z Flip</a></li>
+		</ul><h5>Llévate el Samsung Galaxy Z Flip con tu Tarifa Móvil + Fibra o tu Tarifa Móvil</h5><ul>
+						<li>
+							<button data-option="1" role="tab" aria-controls="simpletab1" title="tarifa movil + fibra" aria-label="tarifa movil + fibra" aria-selected="true">Tarifa Móvil + Fibra</button>
+						</li>
+						<li>
+							<button data-option="2" role="tab" aria-controls="simpletab2" title="tarifa movil" aria-label="tarifa movil" aria-selected="false">Tarifa Móvil</button>
+						</li>
+					</ul><div>
+											
+										</div><h5>Nuevo Samsung Galaxy Z Flip</h5><p><span>Increíblemente compacto</span></p><p>Galaxy Z Flip se pliega para ser sorprendentemente pequeño y que cabe fácilmente en tu bolsillo o bolso.</p><p><span>El smartphone se sostiene solo</span></p><p>Se pliega y mantiene su posición en múltipes ángulos para realizar fotos</p><p>
+														<span>desde</span>
+														<span><span>56€/</span>mes en 24 meses</span>
+													</p><p>+0€ de pago inicial</p><p>precio de tarifa no incluido</p><button data-modal="info" data-modal-close="" aria-haspopup="dialog" data-device-name="Galaxy Z Flip">Reservar
+													</button><h5>Nuevo Samsung Galaxy Z Flip</h5><p><span>Increíblemente compacto</span></p><p>Galaxy Z Flip se pliega para ser sorprendentemente pequeño y que cabe fácilmente en tu bolsillo o bolso.</p><p><span>El smartphone se sostiene solo</span></p><p>Se pliega y mantiene su posición en múltipes ángulos para realizar fotos</p><p>
+														<span>desde</span>
+														<span><span>57,50€/</span>mes en 24 meses</span>
+													</p><p>+0€ de pago inicial</p><p>precio de tarifa no incluido</p><button data-modal="info" data-modal-close="" aria-haspopup="dialog" data-device-name="Galaxy Z Flip">Reservar
+													</button><div>
+											
+										</div><div> 
+			
+		</div><h5>Un nuevo giro en el mundo de los Smartphones</h5><div>
+						
+					</div><p><span>Cristal, pero puedes doblarlo</span></p><p>Pantalla de cristal, plegable y muy duradera</p><div>
+						
+					</div><p><span>Hazlo todo de una sola vez</span></p><p>Sube tu nivel de productividad al tener dos aplicaciones abiertas a la vez</p><div>
+						
+					</div><p><span>Batería con más potencia en menos espacio</span></p><p>La batería de Galaxy Z Flip dura todo el día y te permite aprovechar al máximo cada carga</p><h2>Preguntas Frecuentes</h2><button aria-expanded="false" aria-controls="accordion-content-0"><h3>¿Por qué un móvil con pantalla plegable?</h3></button><p>
+										Galaxy Z Flip se pliega para ser sorprendentemente pequeño y ofrecer un diseño sobresaliente que cabe fácilmente en tu bolsillo o bolso.
+									</p><p>
+										Su pantalla plegable Infinity Flex es una pantalla AMOLED dinámica inmersiva que ofrece una calidad de color increíble y una luz azul reducida. Con biseles minimizados y 6,7 pulgadas.
+									</p><button aria-expanded="false" aria-controls="accordion-content-0"><h3>¿Qué es y para que sirve el modo Flex? </h3></button><p>
+										Esta nueva funcionalidad traslada los controles a la mitad inferior de la pantalla para              convertir la mitad superior en un área de visualización para tus aplicaciones.
+									</p><p>
+										Es una nueva forma de entender un dispositivo multitarea ya que tiene el poder de establecer la pantalla en distintos ángulos, con el poder abrir dos aplicaciones a la vez cada una en su mitad de la pantalla. 
+									</p><button aria-expanded="false" aria-controls="accordion-content-0"><h3>¿Qué es freestop y para que sirve?</h3></button><p>
+										La tecnología de freestop plegable permite usar chats de vídeo con manos libres y selfies que antes eran inalcanzables.            
+									</p><p>
+										Gracias a su pantalla con cristal plegable y  bisagra articulada reinventarás la forma de hacer fotos con tu Smartphone.
+									</p><p>
+										Galaxy Z Flip se pliega y mantiene su posición en múltiples ángulos, lo que te permite realizar tomas increíbles desde diferentes ángulos y que juegan con la percepción
+									</p><button aria-expanded="false" aria-controls="accordion-content-0"><h3>¿Qué debo hacer una vez haya reservado mi teléfono?</h3></button><p>
+										A partir del día 2 de abril te llegará un SMS para finalizar tu compra y recibir tu Samsung Galaxy Z Flip.           
+									</p><button aria-hidden="false"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px">
+						<title>Close</title>
+						<use xlink:href="#icon3-close"></use>
+					</svg></button><p></p><p>¡Solo te queda un paso!</p><p>Déjanos tus datos y nos pondremos en contacto contigo para finalizar la reserva.</p><input type="hidden" name="preventa" value="Samsung Z Flip"><input style="display:none;" value="NO" name="verifyLeadId"><input name="wg-return" value="gracias" type="hidden"><input type="radio" name="esCliente" data-wg-validation="required" value="si"><label for="radio1">Soy cliente</label><input type="radio" name="esCliente" data-wg-validation="required" value="no"><label for="radio2">No soy
+											cliente</label><input type="hidden" style="display:none;" name="phone-model" placeholder="Modelo Teléfono"><input type="text" name="nombre" data-wg-validation="required" placeholder="Nombre"><input type="text" name="email" data-wg-validation="required" placeholder="Email"><input type="phone" name="phone" inputmode="numeric" pattern="[0-9]*" maxlength="9" data-wg-validation="required,phone" placeholder="Nº teléfono" oninput="javascript: if (this.value.length > this.maxLength) this.value = this.value.slice(0, this.maxLength);"><input data-wg-validation="required" type="checkbox" value="on" name="check"><label for="privacy">Acepto la 
+								<a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/movil/catalogo-clientes/politica-privacidad/" target="_blank" rel="nofollow"> Política de
+									Privacidad</a></label><input type="checkbox" name="gdpr" value="on"><label for="comunication">Acepto recibir comunicaciones
+								comerciales de Vodafone </label><input type="submit" value="Enviar">

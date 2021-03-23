@@ -1,0 +1,396 @@
+/**
+ * Vodafone Reboot Framework: Version 15.3.0. Generation Date: 2020-02-04T11:30:49.995Z
+ */
+
+.vfes-ms-content {
+  /*Banner One Ilimitada Flash*/
+}
+
+.vfes-ms-content a {
+  text-decoration: none;
+}
+
+.vfes-ms-content .vfes-layout.vfms-banner {
+  padding: 1.875rem 0;
+}
+
+@media screen and (min-width: 48rem) {
+  .vfes-ms-content .vfes-layout.vfms-banner .vfms-banner-form {
+    padding-right: 1.25rem;
+  }
+}
+
+@media screen and (min-width: 80rem) {
+  .vfes-ms-content .vfes-layout.vfms-banner .vfms-banner-form {
+    padding-right: 0rem;
+  }
+}
+
+.vfes-ms-content .vfes-layout.vfms-banner .vfms-banner-form .vfms-banner-form-container {
+  border-radius: 0.375rem;
+}
+
+@media screen and (min-width: 80rem) {
+  .vfes-ms-content .vfes-layout.vfms-banner .vfms-banner-form .vfms-banner-form-container {
+    width: 14.4375rem;
+    margin-left: auto;
+  }
+}
+
+.vfes-ms-content .vfes-layout.vfms-banner .vfms-banner-form .vfms-banner-form-container .vfms-banner-form-margin-p {
+  margin-bottom: 0;
+}
+
+.vfes-ms-content .vfes-layout.vfms-banner .vfms-banner-form .vfms-banner-form-container form {
+  padding: 1rem;
+}
+
+.vfes-ms-content .vfes-layout.vfms-banner .vfms-banner-form .vfms-banner-form-container form .vfes-modal__head-form .vfms-form-call-info {
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-pack: center;
+          justify-content: center;
+}
+
+@media screen and (min-width: 48rem) {
+  .vfes-ms-content .vfes-layout.vfms-banner .vfms-banner-form .vfms-banner-form-container form .vfes-modal__head-form .vfms-form-call-info {
+    justify-content: space-around;
+  }
+}
+
+.vfes-ms-content .vfes-layout.vfms-banner .vfms-banner-form .vfms-banner-form-container form .vfes-modal__head-form .vfms-phone-call__icon {
+  align-self: center;
+  margin-right: 1.25rem;
+}
+
+@media screen and (min-width: 48rem) {
+  .vfes-ms-content .vfes-layout.vfms-banner .vfms-banner-form .vfms-banner-form-container form .vfes-modal__head-form .vfms-phone-call__icon {
+    margin-right: 0;
+  }
+}
+
+.vfes-ms-content .vfes-layout.vfms-banner .vfms-banner-form .vfms-banner-form-container form .vfes-modal__head-form .vfms-modal__head-form-clain {
+  font-size: 1rem;
+}
+
+.vfes-ms-content .vfes-layout.vfms-banner .vfms-banner-form .vfms-banner-form-container form .vfes-box--form {
+  margin: 1rem 0;
+}
+
+.vfes-ms-content .vfes-layout.vfms-banner .vfms-banner-form .vfms-banner-form-container form .vfes-box--form .vfes-form__input {
+  margin: 0.3125rem 0;
+  font-size: 0.875rem;
+}
+
+.vfes-ms-content .vfes-layout.vfms-banner .vfms-banner-form .vfms-banner-form-container form .vfes-box--form .vfms-form__checks-space {
+  margin-bottom: 0.9375rem;
+}
+
+.vfes-ms-content .vfes-layout.vfms-banner .vfms-banner-form .vfms-banner-form-container form .vfes-box--form .vfms-form__checks-space label {
+  font-size: 0.75rem;
+}
+
+.vfes-ms-content .vfes-layout.vfms-banner .vfms-banner-form .vfms-banner-form-container form .vfes-box--form .vfms-form__checks-space label #condiciones {
+  margin-left: 0.125rem;
+  text-decoration: underline;
+}
+
+.vfes-ms-content .vfes-layout.vfms-banner .vfms-banner-form .vfms-banner-form-container form .vfes-box--form input[type="submit"] {
+  font-size: 1rem;
+  box-shadow: none;
+  padding: 0.625rem 1.25rem;
+}
+
+@media screen and (min-width: 48rem) {
+  .vfes-ms-content .vfes-layout.vfms-banner .vfms-banner-form .vfms-banner-form-container form .vfes-box--form input[type="submit"] {
+    width: 100%;
+  }
+}
+
+.vfes-ms-content .vfes-layout.vfms-banner.one.ilimitada-flash {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#910900), to(#c41005));
+  background-image: linear-gradient(to bottom, #910900, #c41005);
+}
+
+.vfes-ms-content .vfes-layout.vfms-banner.one.ilimitada-flash .vfms-banner-info .vfms-bolus {
+  width: 5rem;
+  height: 5rem;
+  position: absolute;
+  right: 1.5625rem;
+  top: 2.1875rem;
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+          flex-direction: column;
+  -webkit-box-align: center;
+          align-items: center;
+  border-radius: 50%;
+  color: #fff;
+}
+
+@media screen and (min-width: 48.125rem) {
+  .vfes-ms-content .vfes-layout.vfms-banner.one.ilimitada-flash .vfms-banner-info .vfms-bolus {
+    width: 15.625rem;
+    height: 15.625rem;
+    top: 4.375rem;
+  }
+}
+
+@media screen and (min-width: 80rem) {
+  .vfes-ms-content .vfes-layout.vfms-banner.one.ilimitada-flash .vfms-banner-info .vfms-bolus {
+    left: 0;
+  }
+}
+
+.vfes-ms-content .vfes-layout.vfms-banner.one.ilimitada-flash .vfms-banner-info .vfms-bolus__main {
+  font-size: 2rem;
+}
+
+@media screen and (min-width: 48.125rem) {
+  .vfes-ms-content .vfes-layout.vfms-banner.one.ilimitada-flash .vfms-banner-info .vfms-bolus__main {
+    font-size: 6.25rem;
+  }
+}
+
+.vfes-ms-content .vfes-layout.vfms-banner.one.ilimitada-flash .vfms-banner-info .vfms-bolus__extra {
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+          flex-direction: column;
+  -webkit-box-align: center;
+          align-items: center;
+  font-size: 1rem;
+}
+
+@media screen and (min-width: 48.125rem) {
+  .vfes-ms-content .vfes-layout.vfms-banner.one.ilimitada-flash .vfms-banner-info .vfms-bolus__extra {
+    font-size: 3.125rem;
+  }
+}
+
+.vfes-ms-content .vfes-layout.vfms-banner.one.ilimitada-flash .vfms-banner-info .vfms-banner-info-container {
+  background: #fff;
+  border-radius: 0.375rem;
+  margin-bottom: 1.5625rem;
+  padding: 0.75rem;
+}
+
+@media screen and (min-width: 64rem) {
+  .vfes-ms-content .vfes-layout.vfms-banner.one.ilimitada-flash .vfms-banner-info .vfms-banner-info-container {
+    margin-left: auto;
+    width: 65%;
+  }
+}
+
+.vfes-ms-content .vfes-layout.vfms-banner.one.ilimitada-flash .vfms-banner-info .vfms-banner-info-container .vfms-banner-copy {
+  margin-bottom: 0.75rem;
+  font-size: 1.25rem;
+}
+
+@media screen and (min-width: 48rem) {
+  .vfes-ms-content .vfes-layout.vfms-banner.one.ilimitada-flash .vfms-banner-info .vfms-banner-info-container .vfms-banner-copy {
+    font-size: 1.625rem;
+  }
+}
+
+.vfes-ms-content .vfes-layout.vfms-banner.one.ilimitada-flash .vfms-banner-info .vfms-banner-info-container .vfms-banner-rate-info {
+  padding: 1.5rem 0 0;
+}
+
+.vfes-ms-content .vfes-layout.vfms-banner.one.ilimitada-flash .vfms-banner-info .vfms-banner-info-container .vfms-rate-features {
+  position: relative;
+}
+
+.vfes-ms-content .vfes-layout.vfms-banner.one.ilimitada-flash .vfms-banner-info .vfms-banner-info-container .vfms-rate-features .vfms-rate-features-item {
+  display: -webkit-box;
+  display: flex;
+  margin-bottom: 0.4375rem;
+  -webkit-box-align: center;
+          align-items: center;
+}
+
+@media screen and (min-width: 48rem) {
+  .vfes-ms-content .vfes-layout.vfms-banner.one.ilimitada-flash .vfms-banner-info .vfms-banner-info-container .vfms-rate-features .vfms-rate-features-item .vfms-features-icon svg {
+    width: 2.25rem;
+    height: 2.25rem;
+  }
+}
+
+.vfes-ms-content .vfes-layout.vfms-banner.one.ilimitada-flash .vfms-banner-info .vfms-banner-info-container .vfms-rate-features .vfms-rate-features-item .vfms-features-icon svg use {
+  color: #e60000;
+}
+
+.vfes-ms-content .vfes-layout.vfms-banner.one.ilimitada-flash .vfms-banner-info .vfms-banner-info-container .vfms-rate-features .vfms-rate-features-item .vfms-rate-feature-description {
+  padding-left: 0.5rem;
+}
+
+.vfes-ms-content .vfes-layout.vfms-banner.one.ilimitada-flash .vfms-banner-info .vfms-banner-info-container .vfms-rate-features .vfms-rate-features-item .vfms-rate-feature-description .vfms-feature-description-title {
+  margin-bottom: 0;
+  font-size: 1rem;
+}
+
+.vfes-ms-content .vfes-layout.vfms-banner.one.ilimitada-flash .vfms-banner-info .vfms-banner-info-container .vfms-rate-features .vfms-rate-features-item .vfms-rate-feature-description .vfms-feature-description-title span {
+  font-size: 1rem;
+}
+
+@media screen and (min-width: 48rem) {
+  .vfes-ms-content .vfes-layout.vfms-banner.one.ilimitada-flash .vfms-banner-info .vfms-banner-info-container .vfms-rate-features .vfms-rate-features-item .vfms-rate-feature-description .vfms-feature-description-title span {
+    font-size: 1.25rem;
+  }
+}
+
+.vfes-ms-content .vfes-layout.vfms-banner.one.ilimitada-flash .vfms-banner-info .vfms-banner-info-container .vfms-rate-features .vfms-rate-features-item .vfms-rate-feature-description .vfms-feature-description-text {
+  font-size: 0.875rem;
+}
+
+@media screen and (min-width: 48rem) {
+  .vfes-ms-content .vfes-layout.vfms-banner.one.ilimitada-flash .vfms-banner-info .vfms-banner-info-container .vfms-rate-features .vfms-rate-features-item .vfms-rate-feature-description .vfms-feature-description-text {
+    font-size: 1rem;
+  }
+}
+
+.vfes-ms-content .vfes-layout.vfms-banner.one.ilimitada-flash .vfms-banner-info .vfms-banner-info-container .vfms-offer-details-banner {
+  font-size: 0.875rem;
+  margin: 1rem 0 1.5rem;
+}
+
+@media screen and (min-width: 48rem) {
+  .vfes-ms-content .vfes-layout.vfms-banner.one.ilimitada-flash .vfms-banner-info .vfms-banner-info-container .vfms-offer-details-banner {
+    width: 100%;
+  }
+}
+
+.vfes-ms-content .vfes-layout.vfms-banner.one.ilimitada-flash .vfms-banner-info .vfms-banner-info-container .vfms-offer-details-banner .vfms-offer-details-link {
+  text-decoration: underline;
+  font-size: 0.875rem;
+}
+
+.vfes-ms-content .vfes-layout.vfms-banner.one.ilimitada-flash .vfms-banner-info .vfms-banner-info-container .vfes-tag-label {
+  border-top-right-radius: 0;
+  border: 0;
+  box-shadow: none;
+}
+
+.vfes-ms-content .vfes-layout.vfms-banner.one.ilimitada-flash .vfms-banner-info .vfms-banner-info-container .vfes-tag-label__outstanding {
+  width: 100%;
+  text-align: center;
+  margin-left: 0.0625rem;
+  font-size: 1.125rem;
+}
+
+@media screen and (min-width: 48rem) {
+  .vfes-ms-content .vfes-layout.vfms-banner.one.ilimitada-flash .vfms-banner-info .vfms-banner-info-container .vfes-tag-label__outstanding {
+    font-size: 1.375rem;
+  }
+}
+
+.vfes-ms-content .vfes-layout.vfms-banner.one.ilimitada-flash .vfms-banner-info .vfms-banner-info-container .vfes-card {
+  box-shadow: none;
+  border-top-right-radius: 0;
+  border-top-left-radius: 0;
+  border: 0.0625rem solid #007C92;
+  border-top: none;
+  padding: 1rem 1.875rem;
+  margin-bottom: 0;
+}
+
+.vfes-ms-content .vfes-layout.vfms-banner.one.ilimitada-flash .vfms-banner-info .vfms-banner-info-container .vfes-card .vfes-card__product-gigas {
+  font-size: 0.875rem;
+}
+
+@media screen and (min-width: 48rem) {
+  .vfes-ms-content .vfes-layout.vfms-banner.one.ilimitada-flash .vfms-banner-info .vfms-banner-info-container .vfes-card .vfes-card__product-gigas {
+    font-size: 1.125rem;
+  }
+}
+
+@media screen and (min-width: 48rem) {
+  .vfes-ms-content .vfes-layout.vfms-banner.one.ilimitada-flash .vfms-banner-info .vfms-banner-info-container .vfes-card .vfes-paragraph--large {
+    font-size: 1.5rem;
+  }
+}
+
+.vfes-ms-content .vfes-layout.vfms-banner.one.ilimitada-flash .vfms-banner-info .vfms-banner-info-container .vfes-card .vfes-card__product-text {
+  margin: 0.25rem 0;
+}
+
+.vfes-ms-content .vfes-layout.vfms-banner.one.ilimitada-flash .vfms-banner-info .vfms-banner-info-container .vfes-card .vfes-card__product-text span {
+  text-decoration: line-through;
+  -webkit-text-decoration-color: #e60000;
+          text-decoration-color: #e60000;
+}
+
+.vfes-ms-content .vfes-layout.vfms-banner.one.ilimitada-flash .vfms-banner-info .vfms-banner-info-container .vfes-card .vfes-card__product-price {
+  font-weight: bold;
+  font-size: 1.125rem;
+}
+
+@media screen and (min-width: 48rem) {
+  .vfes-ms-content .vfes-layout.vfms-banner.one.ilimitada-flash .vfms-banner-info .vfms-banner-info-container .vfes-card .vfes-card__product-price {
+    font-size: 1.5rem;
+  }
+}
+
+.vfes-ms-content .vfes-layout.vfms-banner.one.ilimitada-flash .vfms-banner-info .vfms-banner-info-container .vfes-card .vfes-card__product-price span {
+  font-size: 1.75rem;
+}
+
+@media screen and (min-width: 48rem) {
+  .vfes-ms-content .vfes-layout.vfms-banner.one.ilimitada-flash .vfms-banner-info .vfms-banner-info-container .vfes-card .vfes-card__product-price span {
+    font-size: 2.25rem;
+  }
+}
+
+.vfes-ms-content .vfes-layout.vfms-banner.one.ilimitada-flash .vfms-banner-info .vfms-banner-info-container .vfes-card .vfms-card-deadline {
+  font-size: 0.75rem;
+  margin: 0.3125rem 0 0.6875rem;
+}
+
+.vfes-ms-content .vfes-layout.vfms-banner.one.ilimitada-flash .vfms-banner-info .vfms-banner-info-container .vfes-card .vfes-button {
+  width: 100%;
+  font-size: 1.125rem;
+}
+
+@media screen and (min-width: 48rem) {
+  .vfes-ms-content .vfes-layout.vfms-banner.one.ilimitada-flash .vfms-banner-info .vfms-banner-info-container .vfes-card .vfes-button {
+    width: auto;
+  }
+}
+
+.vfes-ms-content .vfms-modal-title {
+  padding-bottom: 0.625rem;
+  border-bottom: solid #333 0.0625rem;
+}
+
+.vfes-ms-content .vfms-tarifaMovil .vfms-offer-details-features-container {
+  list-style: disc;
+  padding-left: 1.25rem;
+  line-height: 1.5;
+  margin: 1.25rem 0;
+}
+
+.vfes-ms-content .vfms-tarifaMovil .vfms-offer-details-features-container .vfms-offer-details-features-item .vfms-rate-features-container {
+  list-style: disc;
+  padding-left: 3.125rem;
+}
+
+.vfes-ms-content .vfms-offer-details-conditions {
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+          flex-direction: column;
+}
+
+.vfes-ms-content .vfms-offer-details-conditions .vfms-feature-title {
+  margin-bottom: 0;
+  border-top: #333 solid 0.0625rem;
+  padding-top: 0.625rem;
+}
+
+.vfes-ms-content .vfms-offer-details-conditions .vfms-offer-details-conditions-container {
+  list-style: disc;
+  padding: 1.25rem 3.125rem;
+}

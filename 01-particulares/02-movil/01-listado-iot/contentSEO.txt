@@ -1,0 +1,2044 @@
+<button>Filtros</button><p><strong>Marca</strong></p><ul>
+                                <li><input type="checkbox" name="brand" value="amazon"><label tabindex="0" for="amazon-mov">Amazon</label></li>
+                                <li><input type="checkbox" name="brand" value="apple"><label for="apple-mov" tabindex="0">Apple</label></li>
+                                <li><input type="checkbox" name="brand" value="google"><label for="google-mov" tabindex="0">Google</label></li>
+                                <li><input type="checkbox" name="brand" value="samsung"><label for="samsung-mov" tabindex="0">Samsung</label></li>
+                                <li><input type="checkbox" name="brand" value="huawei"><label for="huawei-mov" tabindex="0">Huawei</label></li>
+                                <li><input type="checkbox" name="brand" value="xiaomi"><label for="xiaomi-mov" tabindex="0">Xiaomi</label></li>
+                                <li><input type="checkbox" name="brand" value="sony"><label for="sony-mov" tabindex="0">Sony</label></li>
+                                <li><input type="checkbox" name="brand" value="oppo"><label for="apple-mov" tabindex="0">Oppo</label></li>
+                                <li><input type="checkbox" name="brand" value="vodafone"><label for="vodafone-mov" tabindex="0">V by
+                                    Vodafone</label>
+                                </li>
+                            </ul><p><strong>Tipo de dispositivo</strong></p><ul>
+                                <li><input type="checkbox" name="type" value="hogar-inteligente"><label for="hogar-inteligente-mov" tabindex="0">Hogar inteligente</label></li>
+                                <li><input type="checkbox" name="type" value="relojes-pulseras"><label for="relojes-pulseras-mov" tabindex="0">Relojes y pulseras</label></li>
+                                <li><input type="checkbox" name="type" value="movilidad"><label for="movilidad-mov" tabindex="0">Movilidad</label></li>
+                                <li><input type="checkbox" name="type" value="ordenadores"><label for="ordenadores-mov" tabindex="0">Ordenadores</label></li>
+                                <li><input type="checkbox" name="type" value="tv"><label for="tv-mov" tabindex="0">TV</label></li>
+                            </ul><button>Marca</button><ul>
+                            <li>
+                                <input type="checkbox" name="brand" value="amazon">
+                                <label for="amazon" tabindex="0">Amazon</label></li>
+                            <li>
+                                <input type="checkbox" name="brand" value="apple">
+                                <label for="apple" tabindex="0">Apple</label>
+                            </li>
+                            <li><input type="checkbox" name="brand" value="google">
+                                <label for="google" tabindex="0">Google</label>
+                            </li>
+                            <li>
+                                <input type="checkbox" name="brand" value="samsung">
+                                <label for="samsung" tabindex="0">Samsung</label>
+                            </li>
+                                <li>
+                                <input type="checkbox" name="brand" value="huawei">
+                                <label for="huawei" tabindex="0">Huawei</label>
+                            </li>
+                             
+                                <li>
+                                <input type="checkbox" name="brand" value="xiaomi">
+                                <label for="xiaomi" tabindex="0">Xiaomi</label>
+                            </li>
+                             
+                            <li>
+                                <input type="checkbox" name="brand" value="sony">
+                                <label for="sony" tabindex="0">Sony</label>
+                            </li>
+                            <li>
+                                <input type="checkbox" name="brand" value="oppo">
+                                <label for="oppo" tabindex="0">Oppo</label>
+                            </li>
+                            <li>
+                                <input type="checkbox" name="brand" value="vodafone">
+                                <label for="vodafone" tabindex="0">V by Vodafone</label></li>
+                        </ul><button>Tipo de dispositivo</button><ul>
+                            <li>
+                                <input type="checkbox" name="type" value="hogar-inteligente">
+                                <label for="hogar-inteligente">Hogar inteligente</label>
+                            </li>
+                            <li>
+                                <input type="checkbox" name="type" value="relojes-pulseras">
+                                <label for="relojes-pulseras">Relojes y pulseras</label>
+                            </li>
+                            <li>
+                                <input type="checkbox" name="type" value="movilidad">
+                                <label for="movilidad">Movilidad</label>
+                            </li>
+                            <li>
+                                <input type="checkbox" name="type" value="ordenadores">
+                                <label for="ordenadores">Ordenadores</label>
+                            </li>
+                            <li>
+                                <input type="checkbox" name="type" value="tv">
+                                <label for="tv">TV</label>
+                            </li>
+                        </ul><p>No hay productos que mostrar</p><span>
+                    Ahorro de 183€ en Átika
+                </span><article data-brand="vodafone" data-type="hogar-inteligente">
+                    <h3>Átika</h3>
+                    <div>
+                        <div>
+                            
+                        </div>
+                        <p>Con el altavoz inteligente Átika, controla Vodafone TV con la voz, experimenta la mejor calidad de sonido inmersiva 360º con la tecnología de audio de Devialete e interactúa con Alexa.
+                        </p>
+                        <div>
+                            <input type="radio" name="atika" value="plazos" checked="">
+                            <label for="atika-plazos">A plazos</label>
+                            <div>
+                                <p><strong>0€</strong></p>
+                                <p><strong>6€/mes</strong> durante 36 meses con tu tarifa Fibra + Móvil
+                                </p>
+                            </div>
+                            <input type="radio" name="atika" value="contado">
+                            <label for="atika-contado">Al contado</label>
+                            <div>
+                                <p><strong>216€</strong></p>
+                                <p>con tu tarifa Fibra + Móvil</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div>
+                            <ul>
+                                <li>Control por voz de Vodafone TV</li>
+                                <li>Conectividad: Bluetooth 5.0</li>
+                                <li>6 micrófonos con tecnología de cancelación</li>
+                                <li>Sonido envolvente 5.1 Dolby Audio con tecnología Devialet</li>
+                                <li>Experiencia sonora inmersiva 360 º con tecnología SPACE™ y ajuste automático del volumen con AVL™ (Adaptive Volume Level).</li>
+                                <li>Alexa integrado</li>
+                            </ul>
+                            <a href="https://www.vodafone.es/c/particulares/es/mas-con-vodafone/objetos-conectados/v-home/atika/" target="_parent">Más detalles del producto</a>
+                        </div>
+                        <button data-common-function="dropdown" aria-controls="atika-dropdown">
+                            <span>Ver info
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-chevron-down"></use>
+                                </svg>
+                            </span>
+                            <span>Ocultar info
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-chevron-up"></use>
+                                </svg>
+                            </span>
+                        </button>
+                    </div>
+                    <div>
+                        <button title="Compra Fácil" onclick="window.parent.document.ws_popup.open3('Atika', '6€/mes durante 36 meses con tu tarifa Fibra + Móvil');" data-analytics-id="-6409371454419">Compra fácil</button>
+                        <button title="Compra Fácil" onclick="window.parent.document.ws_popup.open3('Atika', '216€ con tu tarifa Fibra + Móvil');" data-analytics-id="-2116191329484">Compra fácil</button>
+                    </div>
+                </article><span>
+                       ¡Compatible con Vodafone OneNumber!
+                    </span><article data-brand="oppo" data-type="relojes-pulseras">
+                    <h3>Oppo Watch Smartwatch 46mm - Negro</h3>
+                    <div>
+                        <div>
+                            
+                        </div>
+                        <p>Con Oppo Watch lleva la conectividad LTE en tu muñeca, pantalla flexible de doble curva y duración de la batería de hasta 21 días que permitirá hacer seguimiento de tus entrenamientos y salud.</p>
+
+                        <p>
+                            <strong>Compatible con Vodafone OneNumber</strong>
+                        </p>
+
+                        <div>
+                            <input type="radio" name="oppo-watch" value="plazos" checked="">
+                            <label for="oppo-watch-plazos">A plazos</label>
+                            <div>
+                                <p>Desde <strong>8,50€/mes</strong> durante 36 meses contratando <strong>Tarifa móvil ilimitada Total</strong>
+                                </p>
+
+                            </div>
+
+                            <input type="radio" name="oppo-watch" value="contado">
+                            <label for="oppo-watch-contado">Al contado</label>
+                            <div>
+                                <p><strong>324€</strong>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div>
+                            <ul>
+                                <li>Esfera: 46mm</li>
+                                <li>Pantalla: 1.91" AMOLED display</li>
+                                <li>Batería: Watch VOOC Flash Charging y duración de 21 días</li>
+                                <li>Conectividad: BT+LTE</li>
+                            </ul>
+                        </div>
+                        <button data-common-function="dropdown" aria-controls="oppo-watch-dropdown">
+                            <span>Ver info
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-chevron-down"></use>
+                                </svg>
+                            </span>
+                            <span>Ocultar info
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-chevron-up"></use>
+                                </svg>
+                            </span>
+                        </button>
+                    </div>
+
+                    <div>
+                        <button title="Compra Fácil" onclick="window.parent.document.ws_popup.open3('Oppo Watch Smartwatch 46mm - Negro', '8,50€/mes contratando Tarifa móvil ilimitada Total');" data-analytics-id="-4479397644507">Compra fácil
+                        </button>
+                        <button title="Compra Fácil" onclick="window.parent.document.ws_popup.open3('Oppo Watch Smartwatch 46mm - Negro', '342€');" data-analytics-id="-8293088240071">Compra fácil</button>
+                    </div>
+
+                </article><span>
+                       Re-estrena ahorro de hasta 145€
+                    </span><article data-brand="samsung" data-type="relojes-pulseras">
+                    <h3>Samsung Galaxy Watch 3 4G Bronze
+                    </h3>
+                    <div>
+                        <div data-config="{&quot;responsive&quot;:{&quot;0&quot;:{&quot;breakpoint&quot;:0,&quot;elements&quot;:1}},&quot;build&quot;:{&quot;arrows&quot;:false,&quot;bullets&quot;:true,&quot;clickable_bullets&quot;:true}}">
+                            <ul>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                        <p>Lleva el poder de un smartphone en tu muñeca con el Galaxy Watch3, el nuevo reloj inteligente de Samsung que cuenta con la tecnología de salud más avanzada en un único dispositivo clásico y premium.</p>
+
+                        <p>
+                            <strong>Compatible con Vodafone OneNumber</strong>
+                        </p>
+
+                        <div>
+                            <input type="radio" name="samsung-watch3-bronze" value="plazos" checked="">
+                            <label for="samsung-watch3-bronze-plazos">A plazos</label>
+                            <div>
+                                <p><strong>0€</strong></p>
+                                <p>Desde <strong>12€/mes</strong> durante 36 meses contratando&nbsp;<strong>Tarifa móvil ilimitada Total</strong>
+                                </p>
+
+                            </div>
+                            <input type="radio" name="samsung-watch3-bronze" value="contado">
+                            <label for="samsung-watch3-bronze-contado">Al contado</label>
+                            <div>
+                                <p><strong>360€</strong>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div>
+                            <ul>
+                                <li>Esfera: 41mm</li>
+                                <li>Pantalla: 1.2"</li>
+                                <li>Batería: 247 mAh y duración de 43 horas</li>
+                                <li>Conectividad: BT+LTE</li>
+                                <li>Consigue un ahorro de 145€ entregando tu móvil antiguo con Re-Estrena</li>
+                            </ul>
+                        </div>
+                        <button data-common-function="dropdown" aria-controls="samsung-watch3-bronze-dropdown">
+                            <span>Ver info
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-chevron-down"></use>
+                                </svg>
+                            </span>
+                            <span>Ocultar info
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-chevron-up"></use>
+                                </svg>
+                            </span>
+                        </button>
+                    </div>
+                    <div>
+                        <button title="Compra Fácil" onclick="window.parent.document.ws_popup.open3('Samsung Galaxy Watch3 Bronze', '12€/mes x36 meses');" data-analytics-id="-1899159809159">Compra fácil
+                        </button>
+                        <button title="Compra Fácil" onclick="window.parent.document.ws_popup.open3('Samsung Galaxy Watch3 Bronze', '360€');" data-analytics-id="-2691354570776">Compra fácil</button>
+                    </div>
+                </article><span>
+                       Re-estrena ahorro de hasta 145€
+                    </span><article data-brand="samsung" data-type="relojes-pulseras">
+                    <h3>Samsung Galaxy Watch 3 4G Black
+                    </h3>
+                    <div>
+                        <div data-config="{&quot;responsive&quot;:{&quot;0&quot;:{&quot;breakpoint&quot;:0,&quot;elements&quot;:1}},&quot;build&quot;:{&quot;arrows&quot;:false,&quot;bullets&quot;:true,&quot;clickable_bullets&quot;:true}}">
+                            <ul>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                        <p>Lleva el poder de un smartphone en tu muñeca con el Galaxy Watch3, el nuevo reloj inteligente de Samsung que cuenta con la tecnología de salud más avanzada en un único dispositivo clásico y premium.</p>
+
+                        <p>
+                            <strong>Compatible con Vodafone OneNumber</strong>
+                        </p>
+
+                        <div>
+                            <input type="radio" name="samsung-watch3" value="plazos" checked="">
+                            <label for="samsung-watch3-plazos">A plazos</label>
+                            <div>
+                                <p><strong>0€</strong></p>
+                                <p>Desde <strong>13€/mes</strong> durante 36 meses contratando&nbsp;<strong>Taifa móvil ilimitada Total</strong>
+                                </p>
+
+                            </div>
+                            <input type="radio" name="samsung-watch3" value="contado">
+                            <label for="samsung-watch3-contado">Al contado</label>
+                            <div>
+                                <p><strong>378€</strong>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div>
+                            <ul>
+                                <li>Esfera: 45mm</li>
+                                <li>Pantalla: 1.4"</li>
+                                <li>Batería: 340 mAh y duración de 56 horas</li>
+                                <li>Conectividad: BT+LTE</li>
+                                <li>Consigue un ahorro de 145€ entregando tu móvil antiguo con Re-Estrena</li>
+                            </ul>
+                        </div>
+                        <button data-common-function="dropdown" aria-controls="samsung-watch3-dropdown">
+                            <span>Ver info
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-chevron-down"></use>
+                                </svg>
+                            </span>
+                            <span>Ocultar info
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-chevron-up"></use>
+                                </svg>
+                            </span>
+                        </button>
+                    </div>
+                    <div>
+                        <button title="Compra Fácil" onclick="window.parent.document.ws_popup.open3('Samsung Galaxy Watch3 Black', '13€/mes x36 meses');" data-analytics-id="-3717319510352">Compra fácil
+                        </button>
+                        <button title="Compra Fácil" onclick="window.parent.document.ws_popup.open3('Samsung Galaxy Watch3 Black', '378€');" data-analytics-id="-1986437247396">Compra fácil</button>
+                    </div>
+                </article><span>
+                       ¡Compatible con Vodafone OneNumber!
+                    </span><article data-brand="apple" data-type="relojes-pulseras">
+                    <h3>Apple Watch Series 6 (GPS + Cellular) 40mm - Rosa</h3>
+                    <div>
+                        <div data-config="{&quot;responsive&quot;:{&quot;0&quot;:{&quot;breakpoint&quot;:0,&quot;elements&quot;:1}},&quot;build&quot;:{&quot;arrows&quot;:false,&quot;bullets&quot;:true,&quot;clickable_bullets&quot;:true}}">
+                            <ul>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                        <p>El Apple Watch Series 6 incorpora una app y un sensor revolucionarios que miden el oxígeno en
+                            sangre, además de la app ECG y otras prestaciones de salud avanzadas.</p>
+
+                        <p>
+                            <strong>Compatible con Vodafone OneNumber</strong>
+                        </p>
+
+                        <div>
+                            <input type="radio" name="apple-watch-series6-rosa" value="plazos" checked="">
+                            <label for="apple-watch-series6-rosa-plazos">A plazos</label>
+                            <div>
+                                <p>Desde <strong>13€/mes</strong> durante 36 meses contratando <strong>Vodafone One Maxi</strong>
+                                </p>
+
+                            </div>
+
+                            <input type="radio" name="apple-watch-series6-rosa" value="contado">
+                            <label for="apple-watch-series6-rosa-contado">Al contado</label>
+                            <div>
+                                <p><strong>529€</strong>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div>
+                            <ul>
+                                <li>Esfera: 40mm</li>
+                                <li>Pantalla de retina siempre activa</li>
+                                <li>El chip S6 SiP es hasta un 20 % más rápido que el del Series 5</li>
+                                <li>Diseño apto para nadar</li>
+                            </ul>
+                        </div>
+                        <button data-common-function="dropdown" aria-controls="apple-watch-series6-rosa-dropdown">
+                            <span>Ver info
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-chevron-down"></use>
+                                </svg>
+                            </span>
+                            <span>Ocultar info
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-chevron-up"></use>
+                                </svg>
+                            </span>
+                        </button>
+                    </div>
+
+                    <div>
+                        <button title="Compra Fácil" onclick="window.parent.document.ws_popup.open3('Apple Watch Series 6 (GPS + Cellular) 40mm - Rosa', '13€/mes contratando Vodafone One Maxi');" data-analytics-id="-1833966958198">Compra fácil
+                        </button>
+                        <button title="Compra Fácil" onclick="window.parent.document.ws_popup.open3('Apple Watch Series 6 (GPS + Cellular) 40mm - Rosa', '529€');" data-analytics-id="-7366286742562">Compra fácil</button>
+                    </div>
+
+                </article><span>
+                       ¡Compatible con Vodafone OneNumber!
+                    </span><article data-brand="apple" data-type="relojes-pulseras">
+                    <h3>Apple Watch Series 6 (GPS + Cellular) 40mm - Space Grey</h3>
+                    <div>
+                        <div data-config="{&quot;responsive&quot;:{&quot;0&quot;:{&quot;breakpoint&quot;:0,&quot;elements&quot;:1}},&quot;build&quot;:{&quot;arrows&quot;:false,&quot;bullets&quot;:true,&quot;clickable_bullets&quot;:true}}">
+                            <ul>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                        <p>El Apple Watch Series 6 incorpora una app y un sensor revolucionarios que miden el oxígeno en
+                            sangre, además de la app ECG y otras prestaciones de salud avanzadas.</p>
+
+                        <p>
+                            <strong>Compatible con Vodafone OneNumber</strong>
+                        </p>
+
+                        <div>
+                            <input type="radio" name="apple-watch-series6-space-grey" value="plazos" checked="">
+                            <label for="apple-watch-series6-space-grey-plazos">A plazos</label>
+                            <div>
+                                <p>Desde <strong>13€/mes</strong> durante 36 meses contratando <strong>Vodafone One Maxi</strong>
+                                </p>
+
+                            </div>
+
+                            <input type="radio" name="apple-watch-series6-space-grey" value="contado">
+                            <label for="apple-watch-series6-space-grey-contado">Al contado</label>
+                            <div>
+                                <p><strong>529€</strong>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div>
+                            <ul>
+                                <li>Esfera: 40mm</li>
+                                <li>Pantalla de retina siempre activa</li>
+                                <li>El chip S6 SiP es hasta un 20 % más rápido que el del Series 5</li>
+                                <li>Diseño apto para nadar</li>
+                            </ul>
+                        </div>
+                        <button data-common-function="dropdown" aria-controls="apple-watch-series6-space-grey-dropdown">
+                            <span>Ver info
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-chevron-down"></use>
+                                </svg>
+                            </span>
+                            <span>Ocultar info
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-chevron-up"></use>
+                                </svg>
+                            </span>
+                        </button>
+                    </div>
+                    <div>
+                        <button title="Compra Fácil" onclick="window.parent.document.ws_popup.open3('Apple Watch Series 6 (GPS + Cellular) 40mm - Space Grey', '13€/mes contratando Vodafone One Maxi');" data-analytics-id="-8644461365723">Compra fácil
+                        </button>
+                        <button title="Compra Fácil" onclick="window.parent.document.ws_popup.open3('Apple Watch Series 6 (GPS + Cellular) 40mm - Space Grey', '529€');" data-analytics-id="-7639681656689">Compra fácil</button>
+                    </div>
+
+                </article><span>
+                       ¡Compatible con Vodafone OneNumber!
+                    </span><article data-brand="apple" data-type="relojes-pulseras">
+                    <h3>Apple Watch Series 6 (GPS + Cellular) 44mm - Blue</h3>
+                    <div>
+                        <div data-config="{&quot;responsive&quot;:{&quot;0&quot;:{&quot;breakpoint&quot;:0,&quot;elements&quot;:1}},&quot;build&quot;:{&quot;arrows&quot;:false,&quot;bullets&quot;:true,&quot;clickable_bullets&quot;:true}}">
+                            <ul>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                        <p>El Apple Watch Series 6 incorpora una app y un sensor revolucionarios que miden el oxígeno en
+                            sangre, además de la app ECG y otras prestaciones de salud avanzadas.</p>
+
+                        <p>
+                            <strong>Compatible con Vodafone OneNumber</strong>
+                        </p>
+
+                        <div>
+                            <input type="radio" name="apple-watch-series6-blue" value="plazos" checked="">
+                            <label for="apple-watch-series6-blue-plazos">A plazos</label>
+                            <div>
+                                <p>Desde <strong>13,50€/mes</strong> durante 36 meses contratando <strong>Vodafone One Maxi</strong>
+                                </p>
+
+                            </div>
+
+                            <input type="radio" name="apple-watch-series6-blue" value="contado">
+                            <label for="apple-watch-series6-blue-contado">Al contado</label>
+                            <div>
+                                <p><strong>559€</strong>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div>
+                            <ul>
+                                <li>Esfera: 44mm</li>
+                                <li>Pantalla de retina siempre activa</li>
+                                <li>El chip S6 SiP es hasta un 20 % más rápido que el del Series 5</li>
+                                <li>Diseño apto para nadar</li>
+                            </ul>
+                        </div>
+                        <button data-common-function="dropdown" aria-controls="apple-watch-series6-blue-dropdown">
+                            <span>Ver info
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-chevron-down"></use>
+                                </svg>
+                            </span>
+                            <span>Ocultar info
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-chevron-up"></use>
+                                </svg>
+                            </span>
+                        </button>
+                    </div>
+                    <div>
+                        <button title="Compra Fácil" onclick="window.parent.document.ws_popup.open3('Apple Watch Series 6 (GPS + Cellular) 44mm - Blue', '13,50€/mes contratando Vodafone One Maxi');" data-analytics-id="-9588887742632">Compra fácil
+                        </button>
+                        <button title="Compra Fácil" onclick="window.parent.document.ws_popup.open3('Apple Watch Series 6 (GPS + Cellular) 44mm - Blue', '559€');" data-analytics-id="-1274844714173">Compra fácil</button>
+                    </div>
+
+                </article><span>
+                       ¡Compatible con Vodafone OneNumber!
+                    </span><article data-brand="apple" data-type="relojes-pulseras">
+                    <h3>Apple Watch Series 6 (GPS + Cellular) 44mm - Red</h3>
+                    <div>
+                        <div data-config="{&quot;responsive&quot;:{&quot;0&quot;:{&quot;breakpoint&quot;:0,&quot;elements&quot;:1}},&quot;build&quot;:{&quot;arrows&quot;:false,&quot;bullets&quot;:true,&quot;clickable_bullets&quot;:true}}">
+                            <ul>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                        <p>El Apple Watch Series 6 incorpora una app y un sensor revolucionarios que miden el oxígeno en
+                            sangre, además de la app ECG y otras prestaciones de salud avanzadas.</p>
+
+                        <p>
+                            <strong>Compatible con Vodafone OneNumber</strong>
+                        </p>
+
+                        <div>
+                            <input type="radio" name="apple-watch-series6-red" value="plazos" checked="">
+                            <label for="apple-watch-series6-red-plazos">A plazos</label>
+                            <div>
+                                <p>Desde <strong>13,50€/mes</strong> durante 36 meses contratando <strong>Vodafone One Maxi</strong>
+                                </p>
+
+                            </div>
+
+                            <input type="radio" name="apple-watch-series6-red" value="contado">
+                            <label for="apple-watch-series6-red-contado">Al contado</label>
+                            <div>
+                                <p><strong>559€</strong>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div>
+                            <ul>
+                                <li>Esfera: 44mm</li>
+                                <li>Pantalla de retina siempre activa</li>
+                                <li>El chip S6 SiP es hasta un 20 % más rápido que el del Series 5</li>
+                                <li>Diseño apto para nadar</li>
+                            </ul>
+                        </div>
+                        <button data-common-function="dropdown" aria-controls="apple-watch-series6-red-dropdown">
+                            <span>Ver info
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-chevron-down"></use>
+                                </svg>
+                            </span>
+                            <span>Ocultar info
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-chevron-up"></use>
+                                </svg>
+                            </span>
+                        </button>
+                    </div>
+                     <div>
+                        <button title="Compra Fácil" onclick="window.parent.document.ws_popup.open3('Apple Watch Series 6 (GPS + Cellular) 44mm - Red', '13,50€/mes contratando Vodafone One Maxi');" data-analytics-id="-9149465664815">Compra fácil
+                        </button>
+                        <button title="Compra Fácil" onclick="window.parent.document.ws_popup.open3('Apple Watch Series 6 (GPS + Cellular) 44mm - Red', '559€');" data-analytics-id="-2896772987964">Compra fácil</button>
+                    </div>
+
+                </article><span>
+                       ¡Compatible con Vodafone OneNumber!
+                    </span><article data-brand="apple" data-type="relojes-pulseras">
+                    <h3>Apple Watch Series 6 (GPS + Cellular) 44mm - Space Grey</h3>
+                    <div>
+                        <div data-config="{&quot;responsive&quot;:{&quot;0&quot;:{&quot;breakpoint&quot;:0,&quot;elements&quot;:1}},&quot;build&quot;:{&quot;arrows&quot;:false,&quot;bullets&quot;:true,&quot;clickable_bullets&quot;:true}}">
+                            <ul>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                        <p>El Apple Watch Series 6 incorpora una app y un sensor revolucionarios que miden el oxígeno en
+                            sangre, además de la app ECG y otras prestaciones de salud avanzadas.</p>
+
+                        <p>
+                            <strong>Compatible con Vodafone OneNumber</strong>
+                        </p>
+
+                        <div>
+                            <input type="radio" name="apple-watch-series6-space-grey44" value="plazos" checked="">
+                            <label for="apple-watch-series6-space-grey44-plazos">A plazos</label>
+                            <div>
+                                <p>Desde <strong>13,50€/mes</strong> durante 36 meses contratando <strong>Vodafone One Maxi</strong>
+                                </p>
+
+                            </div>
+
+                            <input type="radio" name="apple-watch-series6-space-grey44" value="contado">
+                            <label for="apple-watch-series6-space-grey44-contado">Al contado</label>
+                            <div>
+                                <p><strong>559€</strong>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div>
+                            <ul>
+                                <li>Esfera: 44mm</li>
+                                <li>Pantalla de retina siempre activa</li>
+                                <li>El chip S6 SiP es hasta un 20 % más rápido que el del Series 5</li>
+                                <li>Diseño apto para nadar</li>
+                            </ul>
+                        </div>
+                        <button data-common-function="dropdown" aria-controls="apple-watch-series6-space-grey44-dropdown">
+                            <span>Ver info
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-chevron-down"></use>
+                                </svg>
+                            </span>
+                            <span>Ocultar info
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-chevron-up"></use>
+                                </svg>
+                            </span>
+                        </button>
+                    </div>
+                   <div>
+                        <button title="Compra Fácil" onclick="window.parent.document.ws_popup.open3('Apple Watch Series 6 (GPS + Cellular) 44mm - Space Grey', '13,50€/mes contratando Vodafone One Maxi');" data-analytics-id="-0969014581254">Compra fácil
+                        </button>
+                        <button title="Compra Fácil" onclick="window.parent.document.ws_popup.open3('Apple Watch Series 6 (GPS + Cellular) 44mm - Space Grey', '559€');" data-analytics-id="-9704359118779">Compra fácil</button>
+                    </div>
+
+                </article><span>
+                       ¡Compatible con Vodafone OneNumber!
+                    </span><article data-brand="apple" data-type="relojes-pulseras">
+                    <h3>Apple Watch SE (GPS + Cellular) 40mm - Rosa</h3>
+                    <div>
+                        <div data-config="{&quot;responsive&quot;:{&quot;0&quot;:{&quot;breakpoint&quot;:0,&quot;elements&quot;:1}},&quot;build&quot;:{&quot;arrows&quot;:false,&quot;bullets&quot;:true,&quot;clickable_bullets&quot;:true}}">
+                            <ul>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                        <p>El Apple Watch SE llega con una pantalla Retina y sensores avanzados que registran tu actividad y tus entrenos, y grandes prestaciones que velan por tu salud, incluyendo la app de Sueño.</p>
+
+                        <p>
+                            <strong>Compatible con Vodafone OneNumber</strong>
+                        </p>
+
+                        <div>
+                            <input type="radio" name="apple-watch-se-rosa" value="plazos" checked="">
+                            <label for="apple-watch-se-rosa-plazos">A plazos</label>
+                            <div>
+                                <p>Desde <strong>9€/mes</strong> durante 36 meses contratando <strong>Vodafone One Maxi</strong>
+                                </p>
+
+                            </div>
+
+                            <input type="radio" name="apple-watch-se-rosa" value="contado">
+                            <label for="apple-watch-se-rosa-contado">Al contado</label>
+                            <div>
+                                <p><strong>349€</strong>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div>
+                            <ul>
+                                <li>Esfera: 40mm</li>
+                                <li>Gran pantalla Retina OLED</li>
+                                <li>Procesador hasta el doble de rápido que el Series 3</li>
+                                <li>Sincroniza y escucha música, podcasts y audiolibros</li>
+                            </ul>
+                        </div>
+                        <button data-common-function="dropdown" aria-controls="apple-watch-se-rosa-dropdown">
+                            <span>Ver info
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-chevron-down"></use>
+                                </svg>
+                            </span>
+                            <span>Ocultar info
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-chevron-up"></use>
+                                </svg>
+                            </span>
+                        </button>
+                    </div>
+                    <div>
+                        <button title="Compra Fácil" onclick="window.parent.document.ws_popup.open3('Apple Watch SE (GPS + Cellular) 40mm - Rosa', '9€/mes contratando Vodafone One Maxi');" data-analytics-id="-5886091171210">Compra fácil
+                        </button>
+                        <button title="Compra Fácil" onclick="window.parent.document.ws_popup.open3('Apple Watch SE (GPS + Cellular) 40mm - Rosa', '349€');" data-analytics-id="-0685730754435">Compra fácil</button>
+                    </div>
+
+                </article><span>
+                       ¡Compatible con Vodafone OneNumber!
+                    </span><article data-brand="apple" data-type="relojes-pulseras">
+                    <h3>Apple Watch SE (GPS + Cellular) 44mm - Space Grey</h3>
+                    <div>
+                        <div data-config="{&quot;responsive&quot;:{&quot;0&quot;:{&quot;breakpoint&quot;:0,&quot;elements&quot;:1}},&quot;build&quot;:{&quot;arrows&quot;:false,&quot;bullets&quot;:true,&quot;clickable_bullets&quot;:true}}">
+                            <ul>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                        <p>El Apple Watch SE llega con una pantalla Retina y sensores avanzados que registran tu actividad y tus entrenos, y grandes prestaciones que velan por tu salud, incluyendo la app de Sueño.</p>
+
+                        <p>
+                            <strong>Compatible con Vodafone OneNumber</strong>
+                        </p>
+
+                        <div>
+                            <input type="radio" name="apple-watch-se-space-grey44" value="plazos" checked="">
+                            <label for="apple-watch-se-space-grey44-plazos">A plazos</label>
+                            <div>
+                                <p>Desde <strong>9,50€/mes</strong> durante 36 meses contratando <strong>Vodafone One Maxi</strong>
+                                </p>
+
+                            </div>
+
+                            <input type="radio" name="apple-watch-se-space-grey44" value="contado">
+                            <label for="apple-watch-se-space-grey44-contado">Al contado</label>
+                            <div>
+                                <p><strong>379€</strong>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div>
+                            <ul>
+                                <li>Esfera: 44mm</li>
+                                <li>Gran pantalla Retina OLED</li>
+                                <li>Procesador hasta el doble de rápido que el Series 3</li>
+                                <li>Sincroniza y escucha música, podcasts y audiolibros</li>
+                            </ul>
+                        </div>
+                        <button data-common-function="dropdown" aria-controls="apple-watch-se-space-grey44-dropdown">
+                            <span>Ver info
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-chevron-down"></use>
+                                </svg>
+                            </span>
+                            <span>Ocultar info
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-chevron-up"></use>
+                                </svg>
+                            </span>
+                        </button>
+                    </div>
+                    <div>
+                        <button title="Compra Fácil" onclick="window.parent.document.ws_popup.open3('Apple Watch SE (GPS + Cellular) 44mm - Space Grey', '9,50€/mes contratando Vodafone One Maxi');" data-analytics-id="-3225922263376">Compra fácil
+                        </button>
+                        <button title="Compra Fácil" onclick="window.parent.document.ws_popup.open3('Apple Watch SE (GPS + Cellular) 44mm - Space Grey', '379€');" data-analytics-id="-4712755284244">Compra fácil</button>
+                    </div>
+
+                </article><span>
+                       ¡Nuevo!
+                    </span><article data-brand="vodafone" data-type="hogar-inteligente">
+                    <h3>Localizador GPS Curve
+                    </h3>
+                    <div>
+                        <div data-config="{&quot;responsive&quot;:{&quot;0&quot;:{&quot;breakpoint&quot;:0,&quot;elements&quot;:1}},&quot;build&quot;:{&quot;arrows&quot;:false,&quot;bullets&quot;:true,&quot;clickable_bullets&quot;:true}}">
+                            <ul>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                        <p>Curve es un localizador GPS inteligente gracias a la Smart SIM de Vodafone integrada (también conocida como V-Sim by Vodafone).</p>
+                        <p>Esta tarjeta SIM inteligente conecta Curve a Internet a través de nuestra red global, de modo que aunque estés alejado del objeto, seguirás recibiendo actualizaciones en tu smartphone.</p>
+                        <div>
+                            <input type="radio" name="curve" value="plazos" checked="">
+                            <label for="curve-plazos">A plazos</label>
+                            <div>
+                                <p><strong>3€/mes</strong></p>
+                                <p>Durante 24 meses</p>
+                                <p>Después 2€/mes</p>
+
+                            </div>
+                            <input type="radio" name="curve" value="contado">
+                            <label for="curve-contado">Al contado</label>
+                            <div>
+                                <p><span>40,90€</span><strong> 12€</strong>
+                                </p>
+                            </div>
+                        </div>
+<!--                        <div class="filter__pay-simple vfes-pt0 vfes-align--center">-->
+<!--                            <p class="vfes-paragraph vfes-paragraph--large vfes-align--center vfes-pt0">Al contado</p>-->
+<!--                            <p class="vfes-paragraph vfes-title--4 vfes-title--center"><strong>24€</strong></p>-->
+<!--                            <p class="vfes-paragraph"><strong>+2€/mes</strong> cuota de servicio</p>-->
+<!--                        </div>-->
+                    </div>
+                    <div>
+                        <div>
+                            <ul>
+                                <li>Compacto e inteligente</li>
+                                <li>Batería de hasta 7 días de duración</li>
+                                <li>Personalización de alertas</li>
+                                <li>Visualiza dónde está Curve en tiempo real con la app</li>
+                                <li>Permanece en contacto con el botón de Aviso inmediato</li>
+                            </ul>
+                        </div>
+                        <button data-common-function="dropdown" aria-controls="curve-dropdown">
+                            <span>Ver info
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-chevron-down"></use>
+                                </svg>
+                            </span>
+                            <span>Ocultar info
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-chevron-up"></use>
+                                </svg>
+                            </span>
+                        </button>
+                    </div>
+                    <div>
+                        <button title="Compra Fácil" onclick="window.parent.document.ws_popup.open3('Localizador GPS Curve', '3€/mes x 24 meses');" data-analytics-id="-">Compra fácil
+                        </button>
+                        <a href="https://eshop.v.vodafone.com/es/curve-gps-tracker#slate" title="Lo quiero" target="_parent" data-analytics-id="-9373934885627">Lo quiero</a>
+
+                    </div>
+                </article><article data-brand="vodafone" data-type="movilidad">
+                    <h3>
+                        V-MultiTracker
+                    </h3>
+                    <div>
+                        <div data-config="{&quot;responsive&quot;:{&quot;0&quot;:{&quot;breakpoint&quot;:0,&quot;elements&quot;:1}},&quot;build&quot;:{&quot;arrows&quot;:false,&quot;bullets&quot;:true,&quot;clickable_bullets&quot;:true}}">
+                            <ul>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                        <p>V-Multi Tracker es un pequeño e inteligente localizador GPS que te
+                            permite conocer en todo momento y desde el móvil, dónde está cualquier cosa que sea
+                            importante para ti (las llaves, el ordenador, la bici…).Además, gracias a su amplia
+                            funcionalidad, puede ser utilizado también por miembros de la familia que necesiten especial
+                            atención (como niños, personas mayores, o mascotas)
+                        </p>
+                            <div>
+<!--                                    <div class="filter__pay-simple vfes-pt0">-->
+<!--                                        <p class="vfes-paragraph vfes-paragraph--large vfes-align--center vfes-pt0">Al contado</p>-->
+<!--                                        <p class="vfes-paragraph vfes-title--4 vfes-title--center"><strong>24€</strong></p>-->
+<!--                                        <p class="vfes-paragraph"><strong>+2€/mes</strong> cuota de servicio</p>-->
+<!--                                    </div>-->
+
+                            <input type="radio" name="v-multitracker" value="plazos" checked="">
+                            <label for="v-multitracker-plazos">A plazos</label>
+                            <div>
+                                <p><strong>2,5€/mes</strong></p>
+                                <p>Durante 24 meses.</p>
+                                <p>Después 2€/mes</p>
+
+                            </div>
+                            <input type="radio" name="v-multitracker" value="contado">
+                            <label for="v-multitracker-contado">Al contado</label>
+                            <div>
+                                <p><span>29,90€</span><strong> 24€</strong>
+                                </p>
+                            </div>
+                            </div>
+                    </div>
+                    <div>
+                        <div>
+                            <ul>
+                                <li>Localización en cualquier lugar</li>
+                                <li>Aviso de movimiento y velocidad</li>
+                                <li>Alerta de proximidad</li>
+                                <li>Almacenamiento histórico</li>
+                                <li>Botón SOS</li>
+                                <li>Dimensiones: 3.9 x 3.9 x 1.2 cm </li>
+                                <li>Peso: 20 g</li>
+                            </ul>
+                            <a href="https://eshop.v.vodafone.com/es/v-multi-tracker-trackisafe-mini" target="_parent">Más
+                                detalles del producto</a>
+                        </div>
+                        <button data-common-function="dropdown" aria-controls="v-multitracker-dropdown">
+                            <span>Ver info
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-chevron-down"></use>
+                                </svg>
+                            </span>
+                            <span>Ocultar info
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-chevron-up"></use>
+                                </svg>
+                            </span>
+                        </button>
+                    </div>
+                    <div>
+
+                        <button title="Compra Fácil" onclick="window.parent.document.ws_popup.open3('V-Multitracker', '2,5€/mes x 24 meses');" data-analytics-id="-6370352050812">Compra fácil
+                        </button>
+                        <a href="https://eshop.v.vodafone.com/es/v-basket-external-integration?sku=10210243&amp;qty=1" title="Lo quiero" target="_parent" data-analytics-id="-0994870845580">Lo quiero</a>
+
+
+
+                    </div>
+                </article><article data-brand="vodafone" data-type="hogar-inteligente">
+                    <h3>
+                        Fire TV Stick
+                    </h3>
+                    <div>
+                        <div data-config="{&quot;responsive&quot;:{&quot;0&quot;:{&quot;breakpoint&quot;:0,&quot;elements&quot;:1}},&quot;build&quot;:{&quot;arrows&quot;:false,&quot;bullets&quot;:true,&quot;clickable_bullets&quot;:true}}">
+                            <ul>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                        <p>Fire TV Stick es un dispositivo que convierte tu televisor en una Smart TV con conexión a Internet y acceso a apps. Incluye mando por voz Alexa para buscar y reproducir contenidos en streaming y controlar tu Hogar inteligente.
+                        </p>
+                        <div>
+                            <input type="radio" name="fire-tv-stick" value="plazos" checked="">
+                            <label for="fire-tv-stick-plazos">A plazos</label>
+                            <div>
+                                <p><strong>0€</strong></p>
+                                <p><strong>+1,5€/mes</strong> cuota x 24 meses
+                                </p>
+
+                            </div>
+                            <input type="radio" name="fire-tv-stick" value="contado">
+                            <label for="fire-tv-stick-contado">Al contado</label>
+                            <div>
+                                <p><strong>36€</strong>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div>
+                            <ul>
+                                <li>Compatibilidad con TV con entrada HDMI</li>
+                                <li>Audio Dolby Audio</li>
+                                <li>Procesador: Quad-Core de 1,7 GHz</li>
+                                <li>Calidad de la imagen: Hasta 1080p</li>
+                                <li>Bluetooth: BT 4.2 y BLE</li>
+                                <li>Compatibilidad con plataformas en streaming</li>
+                            </ul>
+                        </div>
+                        <button data-common-function="dropdown" aria-controls="fire-tv-stick-dropdown">
+                            <span>Ver info
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-chevron-down"></use>
+                                </svg>
+                            </span>
+                            <span>Ocultar info
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-chevron-up"></use>
+                                </svg>
+                            </span>
+                        </button>
+                    </div>
+                    <div>
+
+
+                        <button title="Compra Fácil" onclick="window.parent.document.ws_popup.open3('Fire TV Stick', '1,5€/mes x24 meses');" data-analytics-id="-6742478010069">Compra fácil
+                        </button>
+                        <button title="Compra Fácil" onclick="window.parent.document.ws_popup.open3('Fire TV Stick', '39,99€');" data-analytics-id="-8067329029310">Compra fácil</button>
+                    </div>
+                </article><article data-brand="vodafone" data-type="hogar-inteligente">
+                    <h3>
+                        Fire TV Stick 4K Ultra HD
+                    </h3>
+                    <div>
+                        <div data-config="{&quot;responsive&quot;:{&quot;0&quot;:{&quot;breakpoint&quot;:0,&quot;elements&quot;:1}},&quot;build&quot;:{&quot;arrows&quot;:false,&quot;bullets&quot;:true,&quot;clickable_bullets&quot;:true}}">
+                            <ul>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                        <p>Fire TV Stick es un dispositivo que convierte tu televisor en una Smart TV con conexión a Internet y acceso a apps. Incluye mando por voz Alexa para buscar y reproducir contenidos en streaming y controlar tu Hogar inteligente.
+                        </p>
+                        <div>
+                            <input type="radio" name="fire-tv-stick-4k" value="plazos" checked="">
+                            <label for="fire-tv-stick-4k-plazos">A plazos</label>
+                            <div>
+                                <p><strong>0€</strong></p>
+                                <p><strong>+2,5€/mes</strong> cuota x 24 meses
+                                </p>
+
+                            </div>
+                            <input type="radio" name="fire-tv-stick-4k" value="contado">
+                            <label for="fire-tv-stick-4k-contado">Al contado</label>
+                            <div>
+                                <p><strong>60€</strong>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div>
+                            <ul>
+                                <li>Compatibilidad con TV con entrada HDMI</li>
+                                <li>Audio Dolby Atmos</li>
+                                <li>Procesador: Quad-Core de 1,7 GHz</li>
+                                <li>Calidad de la imagen: 4K Ultra HD, HDR, HDR10, Dolby Vision, HLG, HDR10+</li>
+                                <li>Compatibilidad con plataformas en streaming</li>
+                            </ul>
+                        </div>
+                        <button data-common-function="dropdown" aria-controls="fire-tv-stick-4k-dropdown">
+                            <span>Ver info
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-chevron-down"></use>
+                                </svg>
+                            </span>
+                            <span>Ocultar info
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-chevron-up"></use>
+                                </svg>
+                            </span>
+                        </button>
+                    </div>
+                    <div>
+                        <button title="Compra Fácil" onclick="window.parent.document.ws_popup.open3('Fire TV Stick 4k', '2,5€/mes x24 meses');" data-analytics-id="-8555451949379">Compra fácil
+                        </button>
+                        <button title="Compra Fácil" onclick="window.parent.document.ws_popup.open3('Fire TV Stick 4k', '60€');" data-analytics-id="-6415353739420">Compra fácil</button>
+                    </div>
+                </article><article data-brand="vodafone" data-type="movilidad">
+                    <h3>V-Pet Tracker Kippy
+                        EVO
+                    </h3>
+                    <div>
+                        <div data-config="{&quot;responsive&quot;:{&quot;0&quot;:{&quot;breakpoint&quot;:0,&quot;elements&quot;:1}},&quot;build&quot;:{&quot;arrows&quot;:false,&quot;bullets&quot;:true,&quot;clickable_bullets&quot;:true}}">
+                            <ul>
+                                <li>
+                                    
+                                </li>
+
+                            </ul>
+                        </div>
+                        <p>Un localizados GPS que te permite ver desde tu Smartphone dónde
+                            está
+                            tu mascota. Monitoriza su actividad diaria y recibe consejos sobre sus niveles de
+                            ejercicio
+                            y descanso.</p>
+
+
+                        <div>
+                            <input type="radio" name="v-pet-tracker" value="plazos" checked="">
+                            <label for="v-pet-tracker-plazos">A plazos</label>
+                            <div>
+                                <p><strong>5€/mes</strong> durante 24 meses</p>
+                                <p>Después 5€/mes</p>
+                            </div>
+                            <input type="radio" name="v-pet-tracker" value="contado">
+                            <label for="v-pet-tracker-contado">Al contado</label>
+                            <div>
+                                <p><span>90,90€</span><strong> 45€</strong>
+                                </p>
+                            </div>
+                        </div>
+<!--                        <div class="filter__pay-simple vfes-pt0 vfes-align--center">-->
+<!--                            <p class="vfes-paragraph vfes-paragraph--large vfes-align--center vfes-pt0">Al contado</p>-->
+<!--                            <p class="vfes-paragraph vfes-title--4 vfes-title--center"><strong>48€</strong></p>-->
+<!--                            <p class="vfes-paragraph"><strong>+3€/mes</strong> cuota de servicio</p>-->
+<!--                        </div>-->
+
+                    </div>
+                    <div>
+                        <div>
+                            <p><strong>¡Nuevas funcionalidades y diseño!</strong></p>
+                            <ul>
+                                <li>Método de localización mejorado</li>
+                                <li>Resistente al agua (IP67)</li>
+                                <li>Menor peso: 34g</li>
+                                <li><strong>V-Sim</strong> integrada</li>
+                                <li>Fabricante Kippy s.r.l</li>
+                            </ul>
+                            <a href="https://eshop.v.vodafone.com/es/v-pet-tracker-kippy-evo" target="_parent">Más detalles del
+                                producto</a>
+                        </div>
+                        <button data-common-function="dropdown" aria-controls="v-pet-tracker-kippy-vita-s-dropdown">
+                            <span>Ver info
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-chevron-down"></use>
+                                </svg>
+                            </span>
+                            <span>Ocultar info
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-chevron-up"></use>
+                                </svg>
+                            </span>
+                        </button>
+                    </div>
+
+                    <div>
+                        <a href="tel:900920052" title="Llama gratis" alt="Llama gratis">Llama gratis al <span>900 920 052</span><span>Llama gratis al 900
+                                920 159</span> </a>
+                        <a data-analytics-id="-4092108037901" href="https://eshop.v.vodafone.com/es/v-basket-external-integration?sku=10216301&amp;qty=1" title="Lo quiero" target="_parent">Lo quiero</a>
+                    </div>
+                </article><article data-brand="vodafone" data-type="relojes-pulseras">
+                    <h3>V-Kids Watch TCLMOVE
+                    </h3>
+                    <div>
+                        <div data-config="{&quot;responsive&quot;:{&quot;0&quot;:{&quot;breakpoint&quot;:0,&quot;elements&quot;:1}},&quot;build&quot;:{&quot;arrows&quot;:false,&quot;bullets&quot;:true,&quot;clickable_bullets&quot;:true}}">
+                            <ul>
+                                <li>
+                                    
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                        <p>Podrás localizar el reloj V-Kids Watch de tu hijo desde tu
+                            Smartphone
+                            y recibirás indicaciones para llegar hasta él con Google Maps o Apple.Incluye botón SOS.
+                        </p>
+                        <div>
+                            <input type="radio" name="v-kids-watch-tclmove-mini" value="plazos" checked="">
+                            <label for="v-kids-watch-tclmove-mini-plazos">A plazos</label>
+                            <div>
+                                <p><strong>4€/mes</strong> x 24 meses</p>
+                                <p>Después 5€/mes</p>
+                            </div>
+                            <input type="radio" name="v-kids-watch-tclmove-mini" value="contado">
+                            <label for="v-kids-watch-tclmove-mini-contado">Al
+                                contado</label>
+                            <div>
+                                <p><strong>129,90€</strong>
+                                </p>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div>
+                        <div>
+                            <ul>
+                                <li>Métodos de localización <strong>GPS, LBS, WLAN, AGPS</strong></li>
+                                <li>Resistente al agua</li>
+                                <li>Peso: 50g</li>
+                                <li><strong>V-Sim</strong> incluida</li>
+                                <li>Batería li-polymer (tiempo de carga 90 minutos)</li>
+                                <li>Fabricante: TCL Communication Limited</li>
+                            </ul>
+                            <a href="https://eshop.v.vodafone.com/es/v-kids-watch" target="_parent">Más detalles del
+                                producto</a>
+                        </div>
+                        <button data-common-function="dropdown" aria-controls="v-kids-watch-tclmove-mini-dropdown">
+                            <span>Ver info
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-chevron-down"></use>
+                                </svg>
+                            </span>
+                            <span>Ocultar info
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-chevron-up"></use>
+                                </svg>
+                            </span>
+                        </button>
+                    </div>
+                    <div>
+                        <a href="tel:900920052" title="Llama gratis" alt="Llama gratis">Llama gratis al <span>900 920 052</span><span>Llama gratis al 900
+                                920 159</span> </a>
+                        <a href="https://eshop.v.vodafone.com/es/v-basket-external-integration?sku=10123274qty=1" title="Lo quiero" target="_parent" data-analytics-id="-9410244983564">Lo quiero</a>
+
+                    </div>
+                </article><article data-brand="vodafone" data-type="hogar-inteligente">
+                    <h3>V-Home Safety Starter
+                        Kit
+                    </h3>
+                    <div>
+                        <div data-config="{&quot;responsive&quot;:{&quot;0&quot;:{&quot;breakpoint&quot;:0,&quot;elements&quot;:1}},&quot;build&quot;:{&quot;arrows&quot;:false,&quot;bullets&quot;:true,&quot;clickable_bullets&quot;:true}}">
+                            <ul>
+                                <li>
+                                    
+                                </li>
+                                <li>
+                                    
+                                </li>
+                                <li>
+                                    
+                                </li>
+                                <li>
+                                    
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                        <p>El Safety Starter Kit incluye una serie de dispositivos
+                            inteligentes que te permiten conocer en tiempo real lo que ocurre en tu hogar y verlo desde tu móvil.
+                        </p>
+                        <div>
+                            <input type="radio" name="safety-starter" value="plazos" checked="">
+                            <label for="safety-starter-plazos">A plazos</label>
+                            <div>
+                                <p><strong>8€/mes</strong> cuota x 24 meses
+                                </p>
+                                <p>Después 4€/mes
+                                </p>
+                            </div>
+                            <input type="radio" name="safety-starter" value="contado">
+                            <label for="safety-starter-contado">Al contado</label>
+                            <div>
+                                <p><span>216€</span><strong> 120€</strong>
+                                </p>
+                                <p><strong>+4€/mes</strong> de cuota de servicio
+                                </p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                    <div>
+                        <div>
+                            <ul>
+                                <li>Cámara de vídeo</li>
+                                <li>Sensor <strong>multifunción</strong> para puertas y ventanas</li>
+                                <li>Sirena activada por movimiento</li>
+                                <li>Hub: Conecta de <strong>forma inalámbrica</strong> todos los dispositivos</li>
+                                <li>Fabricante: Samsung SmartThings</li>
+                            </ul>
+                            <a href="https://eshop.v.vodafone.com/es/v-home-by-vodafone-safety-starter-kit" target="_parent">Más
+                                detalles del producto</a>
+                        </div>
+                        <button data-common-function="dropdown" aria-controls="safety-starter-dropdown">
+                            <span>Ver info
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-chevron-down"></use>
+                                </svg>
+                            </span>
+                            <span>Ocultar info
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-chevron-up"></use>
+                                </svg>
+                            </span>
+                        </button>
+                    </div>
+                    <div>
+
+                        <a href="tel:900920052" title="Llama gratis" alt="Llama gratis">Llama gratis al <span>900 920 052</span><span>Llama gratis al 900
+                                920 159</span> </a>
+                        <a href="https://eshop.v.vodafone.com/es/v-basket-external-integration?sku=10207814&amp;qty=1" title="Lo quiero" target="_parent" data-analytics-id="-0501632537225">Lo quiero</a>
+                    </div>
+                </article><span>
+                       ¡Compatible con Vodafone OneNumber!
+                    </span><article data-brand="amazon" data-type="hogar-inteligente">
+                    <h3>Amazon Echo</h3>
+                    <div>
+                        <div data-config="{&quot;responsive&quot;:{&quot;0&quot;:{&quot;breakpoint&quot;:0,&quot;elements&quot;:1}},&quot;build&quot;:{&quot;arrows&quot;:false,&quot;bullets&quot;:true,&quot;clickable_bullets&quot;:true}}">
+                            <ul>
+                                <li>
+                                    
+                                </li>
+                                <li>
+                                    
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                        <p>Amazon Echo es el altavoz inteligente de Amazon que te proporciona
+                            información, te ayuda a organizar tu día y a controlar tu hogar inteligente con V-Home.
+                        </p>
+                        <p>
+                            <strong>Compatible con Vodafone OneNumber</strong>
+                        </p>
+
+                        <div>
+                            <input type="radio" name="amazon-echo" value="plazos" checked="">
+                            <label for="amazon-echo-plazos">A plazos</label>
+                            <div>
+                                <p><strong>0€</strong></p>
+                                <p><strong>+4€/mes</strong> cuota x 24 meses</p>
+                            </div>
+                            <input type="radio" name="amazon-echo" value="contado">
+                            <label for="amazon-echo-contado">Al contado</label>
+                            <div>
+                                <p><strong>96€</strong></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div>
+                            <ul>
+                                <li>Amazon Echo (2.ª generación) con Alexa</li>
+                                <li>Woofer de 63 mm y tweeter de 16 mm</li>
+                                <li>Dos altavoces con tecnología Dolby</li>
+                                <li>Salida de audio auxiliar con jack de 3,5 mm o Bluetooth</li>
+                                <li>Reproducción en streaming de música</li>
+                            </ul>
+                            <a href="https://www.vodafone.es/c/particulares/es/mas-con-vodafone/objetos-conectados/v-home/amazon-echo/" target="_parent">Más detalles del producto</a>
+                        </div>
+                        <button data-common-function="dropdown" aria-controls="amazon-echo-dropdown">
+                            <span>Ver info
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-chevron-down"></use>
+                                </svg>
+                            </span>
+                            <span>Ocultar info
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-chevron-up"></use>
+                                </svg>
+                            </span>
+                        </button>
+                    </div>
+                    <div>
+                        <button title="Compra Fácil" onclick="window.parent.document.ws_popup.open3('Amazon Echo', '0€ + 4€/mes cuota x 24 meses');" data-analytics-id="-6088619950469">Compra fácil</button>
+                        <button title="Compra Fácil" onclick="window.parent.document.ws_popup.open3('Amazon Echo', '96€');" data-analytics-id="-1782128825891">Compra fácil</button>
+                    </div>
+                </article><span>
+                       ¡Compatible con Vodafone OneNumber!
+                    </span><article data-brand="amazon" data-type="hogar-inteligente">
+                    <h3>Amazon Echo Dot</h3>
+                    <div>
+                        <div data-config="{&quot;responsive&quot;:{&quot;0&quot;:{&quot;breakpoint&quot;:0,&quot;elements&quot;:1}},&quot;build&quot;:{&quot;arrows&quot;:false,&quot;bullets&quot;:true,&quot;clickable_bullets&quot;:true}}">
+                            <ul>
+                                <li>
+                                    
+                                </li>
+                                <li>
+                                    
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                        <p>Echo Dot es el altavoz inteligente de Amazon que te proporciona
+                            información, te ayuda a organizar tu día y a controlar tu hogar inteligente con V-Home.
+                        </p>
+                        <p>
+                            <strong>Compatible con Vodafone OneNumber</strong>
+                        </p>
+                        <div>
+                            <input type="radio" name="amazon-echo-dot" value="plazos" checked="">
+                            <label for="amazon-echo-dot-plazos">A plazos</label>
+                            <div>
+                                <p><strong>0€</strong></p>
+                                <p><strong>+2€/mes</strong> cuota x 24 meses con Vodafone One
+                                </p>
+                            </div>
+                            <input type="radio" name="amazon-echo-dot" value="contado">
+                            <label for="amazon-echo-dot-contado">Al contado</label>
+                            <div>
+                                <p><strong>48€</strong></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div>
+                            <ul>
+                                <li>Echo Dot (3.ª generación) con Alexa</li>
+                                <li>Altavoz de 41mm</li>
+                                <li>Salida de audio auxiliar con jack de 3,5 mm o Bluetooth</li>
+                                <li>Reproducción en streaming de música</li>
+                            </ul>
+                            <a href="https://www.vodafone.es/c/particulares/es/mas-con-vodafone/objetos-conectados/v-home/amazon-echo/" target="_parent">Más detalles del producto</a>
+                        </div>
+                        <button data-common-function="dropdown" aria-controls="amazon-echo-dot-dropdown">
+                            <span>Ver info
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-chevron-down"></use>
+                                </svg>
+                            </span>
+                            <span>Ocultar info
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-chevron-up"></use>
+                                </svg>
+                            </span>
+                        </button>
+                    </div>
+                    <div>
+                        <button title="Compra Fácil" onclick="window.parent.document.ws_popup.open3('Amazon Echo Dot', '0€ + 2€/mes cuota x 24 meses con Vodafone One');" data-analytics-id="-1501772536109">Compra fácil</button>
+                        <button title="Compra Fácil" onclick="window.parent.document.ws_popup.open3('Amazon Echo Dot', '48€');" data-analytics-id="-0894063084135">Compra fácil</button>
+                    </div>
+                </article><article data-brand="google" data-type="hogar-inteligente">
+                    <h3>Google Home</h3>
+                    <div>
+                        <div data-config="{&quot;responsive&quot;:{&quot;0&quot;:{&quot;breakpoint&quot;:0,&quot;elements&quot;:1}},&quot;build&quot;:{&quot;arrows&quot;:false,&quot;bullets&quot;:true,&quot;clickable_bullets&quot;:true}}">
+                            <ul>
+                                <li>
+                                    
+                                </li>
+                                <li>
+                                    
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                        <p>Google Home es un asistente de voz y altavoz que te ayuda en el
+                            día a
+                            día, te da información y te permite controlar dispositivos inteligentes de tu hogar,
+                            como
+                            los de V-Home.</p>
+                        <div>
+                            <input type="radio" name="google-home" value="plazos" checked="">
+                            <label for="google-home-plazos">A plazos</label>
+                            <div>
+                                <p><strong>3€/mes</strong> x 24 meses</p>
+                            </div>
+                            <input type="radio" name="google-home" value="contado">
+                            <label for="google-home-contado">Al contado</label>
+                            <div>
+                                <p><strong>72€</strong></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div>
+                            <ul>
+                                <li>Sistema operativo: Android / iOS</li>
+                                <li>Conexión <strong>inalámbrica</strong>: WiFi 02.11b/g/n/ac</li>
+                                <li>Alto: <strong>142,8mm</strong></li>
+                                <li>Diámetro: 96,4mm</li>
+                                <li>Peso: 477g</li>
+                                <li>Cable de alimentación: 1,8m</li>
+                            </ul>
+                            <a href="https://www.vodafone.es/c/particulares/es/mas-con-vodafone/objetos-conectados/v-home/google-home/" target="_parent">Más detalles del producto</a>
+                        </div>
+                        <button data-common-function="dropdown" aria-controls="google-home-dropdown">
+                            <span>Ver info
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-chevron-down"></use>
+                                </svg>
+                            </span>
+                            <span>Ocultar info
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-chevron-up"></use>
+                                </svg>
+                            </span>
+                        </button>
+                    </div>
+                    <div>
+                        <button title="Compra Fácil" onclick="window.parent.document.ws_popup.open3('Google Home', '0€ + 4€/mes cuota x 24 meses');" data-analytics-id="-1367611709934">Compra fácil</button>
+                        <button title="Compra Fácil" onclick="window.parent.document.ws_popup.open3('Google Home', '72€');" data-analytics-id="-6264599481382">Compra fácil</button>
+                    </div>
+                </article><article data-brand="google" data-type="hogar-inteligente">
+                    <h3>Google Home Mini</h3>
+                    <div>
+                        <div data-config="{&quot;responsive&quot;:{&quot;0&quot;:{&quot;breakpoint&quot;:0,&quot;elements&quot;:1}},&quot;build&quot;:{&quot;arrows&quot;:false,&quot;bullets&quot;:true,&quot;clickable_bullets&quot;:true}}">
+                            <ul>
+                                <li>
+                                    
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                        <p>Google Home Mini es un asistente de voz y altavoz que te ayuda en
+                            el
+                            día a día, te da información y te permite controlar dispositivos inteligentes de tu
+                            hogar,
+                            como los de V-Home.</p>
+                        <div>
+                            <input type="radio" name="google-home-mini" value="plazos" checked="">
+                            <label for="google-home-mini-plazos">A plazos</label>
+                            <div>
+                                <p><strong>1€/mes</strong> x 24 meses</p>
+                            </div>
+                            <input type="radio" name="google-home-mini" value="contado">
+                            <label for="google-home-mini-contado">Al contado</label>
+                            <div>
+                                <p><strong>24€</strong></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div>
+                            <ul>
+                                <li>Sistema operativo: Android / iOS</li>
+                                <li>Conexión <strong>inalámbrica</strong>: WiFi 02.11b/g/n/ac</li>
+                                <li>Alto: <strong>142,8mm</strong></li>
+                                <li>Diámetro: 96,4mm</li>
+                                <li>Peso: 477g</li>
+                                <li>Cable de alimentación: 1,8m</li>
+                            </ul>
+                            <a href="https://www.vodafone.es/c/particulares/es/mas-con-vodafone/objetos-conectados/v-home/google-home/" target="_parent">Más detalles del producto</a>
+                        </div>
+                        <button data-common-function="dropdown" aria-controls="google-home-mini-dropdown">
+                            <span>Ver info
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-chevron-down"></use>
+                                </svg>
+                            </span>
+                            <span>Ocultar info
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-chevron-up"></use>
+                                </svg>
+                            </span>
+                        </button>
+                    </div>
+                    <div>
+                        <button title="Compra Fácil" onclick="window.parent.document.ws_popup.open3('Google Home Mini', '0€ + 1€/mes cuota x 24 meses con Vodafone One');" data-analytics-id="-0101208437892">Compra fácil</button>
+                        <button title="Compra Fácil" onclick="window.parent.document.ws_popup.open3('Google Home Mini', '24€');" data-analytics-id="-2472253278727">Compra fácil</button>
+                    </div>
+                </article><article data-brand="vodafone" data-type="hogar-inteligente">
+                    <h3>V-Home Automation Kit
+                    </h3>
+                    <div>
+                        <div data-config="{&quot;responsive&quot;:{&quot;0&quot;:{&quot;breakpoint&quot;:0,&quot;elements&quot;:1}},&quot;build&quot;:{&quot;arrows&quot;:false,&quot;bullets&quot;:true,&quot;clickable_bullets&quot;:true}}">
+                            <ul>
+                                <li>
+                                    
+                                </li>
+                                <li>
+                                    
+                                </li>
+                                <li>
+                                    
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                        <p>Este Kit te permitirá encender y apagar las luces y pequeños
+                            electrodomésticos de tu hogar desde tu Smartphone. Podrás configurar las luces para
+                            cuando
+                            no estés en casa.</p>
+                        <div>
+                            <div>
+                                <p>Al contado</p>
+                                <p><strong>99,90€</strong>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div>
+                            <ul>
+                                <li>1 x Enchufe inteligente OSRAM SMART+</li>
+                                <li>1 x Bombilla LED-E27 blanco reg. OSRAM SMART+</li>
+                                <li>1 x Sensor de movimiento SmartThings</li>
+                                <li>El Hub del Safety Starter Kit imprescindible para su utilización</li>
+                            </ul>
+                        </div>
+                        <button data-common-function="dropdown" aria-controls="v-home-automation-kit-dropdown">
+                            <span>Ver info
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-chevron-down"></use>
+                                </svg>
+                            </span>
+                            <span>Ocultar info
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-chevron-up"></use>
+                                </svg>
+                            </span>
+                        </button>
+                    </div>
+                    <div>
+                        <a href="https://eshop.v.vodafone.com/es/v-basket-external-integration?sku=10209935&amp;qty=1" title="Lo quiero" target="_parent" data-analytics-id="-8871335573249">Lo quiero</a>
+                    </div>
+                </article><article data-brand="vodafone" data-type="hogar-inteligente">
+                    <h3>V-Home Detection Kit
+                    </h3>
+                    <div>
+                        <div data-config="{&quot;responsive&quot;:{&quot;0&quot;:{&quot;breakpoint&quot;:0,&quot;elements&quot;:1}},&quot;build&quot;:{&quot;arrows&quot;:false,&quot;bullets&quot;:true,&quot;clickable_bullets&quot;:true}}">
+                            <ul>
+                                <li>
+                                    
+                                </li>
+                                <li>
+                                    
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                        <p>El V-Home Detection Kit te permitirá recibir avisos en tu
+                            Smartphone
+                            cuando algún exceso de humo, fuga de agua o cambio de temperatura en tu hogar.</p>
+                        <div>
+                            <div>
+                                <p>Al contado</p>
+                                <p><strong>99,90€</strong>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div>
+                            <ul>
+                                <li>Cámara de vídeo</li>
+                                <li>Sensor <strong>multifunción</strong> para puertas y ventanas</li>
+                                <li>Sirena activada por movimiento</li>
+                                <li>Hub: Conecta de <strong>forma inalámbrica</strong> todos los dispositivos</li>
+                                <li>Fabricante: Samsung SmartThings</li>
+                            </ul>
+                        </div>
+                        <button data-common-function="dropdown" aria-controls="v-home-detection-kit-dropdown">
+                            <span>Ver info
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-chevron-down"></use>
+                                </svg>
+                            </span>
+                            <span>Ocultar info
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-chevron-up"></use>
+                                </svg>
+                            </span>
+                        </button>
+                    </div>
+                    <div>
+                        <a href="https://eshop.v.vodafone.com/es/v-basket-external-integration?sku=10209926&amp;qty=1" title="Lo quiero" target="_parent" data-analytics-id="-8663754398810">Lo quiero</a>
+
+                    </div>
+                </article><article data-brand="vodafone" data-type="hogar-inteligente">
+                    <h3>Bombilla LED OSRAM
+                        SMART+
+                    </h3>
+                    <div>
+                        <div data-config="{&quot;responsive&quot;:{&quot;0&quot;:{&quot;breakpoint&quot;:0,&quot;elements&quot;:1}},&quot;build&quot;:{&quot;arrows&quot;:false,&quot;bullets&quot;:true,&quot;clickable_bullets&quot;:true}}">
+                            <ul>
+                                <li>
+                                    
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                        <p>Con la bombilla clásica LED-E27 blanco regulable OSRAM SMART+
+                            podrás
+                            encender, apagar y regular la intensidad y la calidez de las luces de tu hogar.</p>
+                        <div>
+                            <div>
+                                <p>Al contado</p>
+                                <p><strong>29,90€</strong>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div>
+                            <ul>
+                                <li>Modelo: Clásica LED-E27 blanco regulable</li>
+                                <li>Peso y dimensiones: 102g / 11,5 x 6 cm</li>
+                                <li>Color blanco ajustable (2700K a 6500K)</li>
+                                <li>Voltaje: 240V</li>
+                                <li>Lúmenes: 810Lm</li>
+                                <li>Vida útil media: 20000h</li>
+                            </ul>
+                        </div>
+                        <button data-common-function="dropdown" aria-controls="bombilla-led-osram-smart+-dropdown">
+                            <span>Ver info
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-chevron-down"></use>
+                                </svg>
+                            </span>
+                            <span>Ocultar info
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-chevron-up"></use>
+                                </svg>
+                            </span>
+                        </button>
+                    </div>
+                    <div>
+                        <a href="https://eshop.v.vodafone.com/es/v-basket-external-integration?sku=10209928&amp;qty=1" title="Lo quiero" target="_parent" data-analytics-id="-5243166984211">Lo quiero</a>
+
+                    </div>
+                </article><article data-brand="vodafone" data-type="hogar-inteligente">
+                    <h3>Enchufe inteligente
+                    </h3>
+                    <div>
+                        <div data-config="{&quot;responsive&quot;:{&quot;0&quot;:{&quot;breakpoint&quot;:0,&quot;elements&quot;:1}},&quot;build&quot;:{&quot;arrows&quot;:false,&quot;bullets&quot;:true,&quot;clickable_bullets&quot;:true}}">
+                            <ul>
+                                <li>
+                                    
+                                </li>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                        <p>El enchufe inteligente OSRAM SMART+ transforma tus
+                            electrodomésticos
+                            en dispositivos inteligentes que podrás encender y apagar con tu móvil.</p>
+                        <div>
+                            <div>
+                                <p>Al contado</p>
+                                <p><strong>28,90€</strong>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div>
+                            <ul>
+                                <li>Peso: 131g</li>
+                                <li>Dimensiones: 6 x 6 cm</li>
+                                <li>Color: Blanco/Gris</li>
+                                <li>Voltaje: 220-240 V</li>
+                                <li>Diseño: EU</li>
+                                <li>El Hub del Safety Kit imprescindible para su utilización</li>
+                            </ul>
+                        </div>
+                        <button data-common-function="dropdown" aria-controls="enchufe-inteligente-dropdown">
+                            <span>Ver info
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-chevron-down"></use>
+                                </svg>
+                            </span>
+                            <span>Ocultar info
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-chevron-up"></use>
+                                </svg>
+                            </span>
+                        </button>
+                    </div>
+                    <div>
+                        <a href="https://eshop.v.vodafone.com/es/v-basket-external-integration?sku=10209933&amp;qty=1" title="Lo quiero" target="_parent" data-analytics-id="-4087758311507">Lo quiero</a>
+
+                    </div>
+                </article><article data-brand="samsung" data-type="tv">
+                    <h3>Samsung Smart TV 55 Crystal UHD</h3>
+                    <div>
+                        <div data-config="{&quot;responsive&quot;:{&quot;0&quot;:{&quot;breakpoint&quot;:0,&quot;elements&quot;:1}},&quot;build&quot;:{&quot;arrows&quot;:false,&quot;bullets&quot;:true,&quot;clickable_bullets&quot;:true}}">
+                            <ul>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                        <p>Compatible con Vodafone TV, la Smart TV Crystal UHD de 55" de Samsung viene con procesador cristal 4K que  optimiza  el  color  y  el  alto rango dinámico, para que  tengas una  experiencia cinematográfica inmersiva con imágenes más claras y nítidas.</p>
+
+                        <!--<p class="vfes-paragraph vfes-color--vodafone-red vfes-align--center vfes-mb-">
+                            <strong>Compatible con Vodafone OneNumber</strong>
+                        </p>-->
+
+                        <div>
+                            <input type="radio" name="samsung-smart-tv-55-crystal" value="plazos" checked="">
+                            <label for="samsung-smart-tv-55-crystal-plazos">A plazos</label>
+                            <div>
+                                <p>Desde <strong>11,50€/mes</strong> durante 36 meses contratando <strong>Vodafone One ilimitada</strong>
+                                </p>
+
+                            </div>
+
+                            <input type="radio" name="samsung-smart-tv-55-crystal" value="contado">
+                            <label for="samsung-smart-tv-55-crystal-contado">Al contado</label>
+                            <div>
+                                <p><strong>408€</strong>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                   <!--<div class="vfes-rates__accordion vfes-align--center">
+                        <div id="apple-watch-series6-rosa-dropdown" class="vfes-rates__accordion-content">
+                            <ul class="vfes-list--checkmarks vfes-align--left">
+                                <li>Esfera: 40mm</li>
+                                <li>Pantalla de retina siempre activa</li>
+                                <li>El chip S6 SiP es hasta un 20 % más rápido que el del Series 5</li>
+                                <li>Diseño apto para nadar</li>
+                            </ul>
+                        </div>
+                        <button class="vfes-rates__button" data-vfes-js="_common" data-common-function="dropdown"
+                                aria-controls="apple-watch-series6-rosa-dropdown">
+                            <span class="vfes-paragraph vfes-paragraph__down js-common-dropdown-show">Ver info
+                                <svg class="icon vfes-icon__button" xmlns="http://www.w3.org/2000/svg"
+                                     xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use class="icon-v3" xlink:href="#icon3-chevron-down"></use>
+                                </svg>
+                            </span>
+                            <span class="vfes-paragraph vfes-paragraph__up js-common-dropdown-hide">Ocultar info
+                                <svg class="icon vfes-icon__button" xmlns="http://www.w3.org/2000/svg"
+                                     xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use class="icon-v3" xlink:href="#icon3-chevron-up"></use>
+                                </svg>
+                            </span>
+                        </button>
+                    </div>-->
+
+                    <div>
+                        <button title="Compra Fácil" onclick="window.parent.document.ws_popup.open3('samsung-smart-tv-55-crystal', '11,50€/mes contratando Vodafone One ilimitada');" data-analytics-id="-4858680981449">Compra fácil
+                        </button>
+                        <button title="Compra Fácil" onclick="window.parent.document.ws_popup.open3('samsung-smart-tv-55-crystal', '408€');" data-analytics-id="-1277974795963">Compra fácil</button>
+                    </div> 
+                
+                </article><article data-brand="sony" data-type="tv">
+                    <h3>Sony TV 32 Smart TV</h3>
+                    <div>
+                        <div data-config="{&quot;responsive&quot;:{&quot;0&quot;:{&quot;breakpoint&quot;:0,&quot;elements&quot;:1}},&quot;build&quot;:{&quot;arrows&quot;:false,&quot;bullets&quot;:true,&quot;clickable_bullets&quot;:true}}">
+                            <ul>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                        <p>Con la Smart TV Sony de 32" disfruta incluso de los detalles  más  nítidos  y  de un  sonido envolvente potenciado por el subwoofer integrado.</p>
+
+                        <!--<p class="vfes-paragraph vfes-color--vodafone-red vfes-align--center vfes-mb-">
+                            <strong>Compatible con Vodafone OneNumber</strong>
+                        </p>-->
+
+                        <div>
+                            <input type="radio" name="sony-tv-32-smart-tv" value="plazos" checked="">
+                            <label for="sony-tv-32-smart-tv-plazos">A plazos</label>
+                            <div>
+                                <p>Desde <strong>5,00€/mes</strong> durante 36 meses contratando <strong>Vodafone One ilimitada</strong>
+                                </p>
+
+                            </div>
+
+                            <input type="radio" name="sony-tv-32-smart-tv" value="contado">
+                            <label for="sony-tv-32-smart-tv-contado">Al contado</label>
+                            <div>
+                                <p><strong>180€</strong>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                   <!--<div class="vfes-rates__accordion vfes-align--center">
+                        <div id="apple-watch-series6-rosa-dropdown" class="vfes-rates__accordion-content">
+                            <ul class="vfes-list--checkmarks vfes-align--left">
+                                <li>Esfera: 40mm</li>
+                                <li>Pantalla de retina siempre activa</li>
+                                <li>El chip S6 SiP es hasta un 20 % más rápido que el del Series 5</li>
+                                <li>Diseño apto para nadar</li>
+                            </ul>
+                        </div>
+                        <button class="vfes-rates__button" data-vfes-js="_common" data-common-function="dropdown"
+                                aria-controls="apple-watch-series6-rosa-dropdown">
+                            <span class="vfes-paragraph vfes-paragraph__down js-common-dropdown-show">Ver info
+                                <svg class="icon vfes-icon__button" xmlns="http://www.w3.org/2000/svg"
+                                     xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use class="icon-v3" xlink:href="#icon3-chevron-down"></use>
+                                </svg>
+                            </span>
+                            <span class="vfes-paragraph vfes-paragraph__up js-common-dropdown-hide">Ocultar info
+                                <svg class="icon vfes-icon__button" xmlns="http://www.w3.org/2000/svg"
+                                     xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use class="icon-v3" xlink:href="#icon3-chevron-up"></use>
+                                </svg>
+                            </span>
+                        </button>
+                    </div>-->
+
+                    <div>
+                        <button title="Compra Fácil" onclick="window.parent.document.ws_popup.open3('sony-tv-32-smart-tv', '5,00€/mes contratando Vodafone One ilimitada');" data-analytics-id="-1919872467472">Compra fácil
+                        </button>
+                        <button title="Compra Fácil" onclick="window.parent.document.ws_popup.open3('sony-tv-32-smart-tv', '180€');" data-analytics-id="-1561969902656">Compra fácil</button>
+                    </div> 
+                
+                </article><article data-brand="huawei" data-type="ordenadores">
+                    <h3>Matebook D15</h3>
+                    <div>
+                        <div data-config="{&quot;responsive&quot;:{&quot;0&quot;:{&quot;breakpoint&quot;:0,&quot;elements&quot;:1}},&quot;build&quot;:{&quot;arrows&quot;:false,&quot;bullets&quot;:true,&quot;clickable_bullets&quot;:true}}">
+                            <ul>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                        <p>Descubre el nuevo portátil Matebook D15 increíblemente ligero y elegante con pantalla FullView, colaboración multipantalla y sensor de huella One Touch para que puedas desbloquearlo con un solo gesto.</p>
+
+                        <!--<p class="vfes-paragraph vfes-color--vodafone-red vfes-align--center vfes-mb-">
+                            <strong>Compatible con Vodafone OneNumber</strong>
+                        </p>-->
+
+                        <div>
+                            <input type="radio" name="matebook" value="plazos" checked="">
+                            <label for="matebook-plazos">A plazos</label>
+                            <div>
+                                <p>Desde <strong>16,00€/mes</strong> durante 36 meses contratando <strong>Vodafone One ilimitada</strong>
+                                </p>
+
+                            </div>
+
+                            <input type="radio" name="matebook" value="contado">
+                            <label for="matebook-contado">Al contado</label>
+                            <div>
+                                <p><strong>576€</strong>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                   <!--<div class="vfes-rates__accordion vfes-align--center">
+                        <div id="apple-watch-series6-rosa-dropdown" class="vfes-rates__accordion-content">
+                            <ul class="vfes-list--checkmarks vfes-align--left">
+                                <li>Esfera: 40mm</li>
+                                <li>Pantalla de retina siempre activa</li>
+                                <li>El chip S6 SiP es hasta un 20 % más rápido que el del Series 5</li>
+                                <li>Diseño apto para nadar</li>
+                            </ul>
+                        </div>
+                        <button class="vfes-rates__button" data-vfes-js="_common" data-common-function="dropdown"
+                                aria-controls="apple-watch-series6-rosa-dropdown">
+                            <span class="vfes-paragraph vfes-paragraph__down js-common-dropdown-show">Ver info
+                                <svg class="icon vfes-icon__button" xmlns="http://www.w3.org/2000/svg"
+                                     xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use class="icon-v3" xlink:href="#icon3-chevron-down"></use>
+                                </svg>
+                            </span>
+                            <span class="vfes-paragraph vfes-paragraph__up js-common-dropdown-hide">Ocultar info
+                                <svg class="icon vfes-icon__button" xmlns="http://www.w3.org/2000/svg"
+                                     xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use class="icon-v3" xlink:href="#icon3-chevron-up"></use>
+                                </svg>
+                            </span>
+                        </button>
+                    </div>-->
+
+                    <div>
+                        <button title="Compra Fácil" onclick="window.parent.document.ws_popup.open3('Matebook D15', '16,00€/mes contratando Vodafone One ilimitada');" data-analytics-id="-5790457064510">Compra fácil
+                        </button>
+                        <button title="Compra Fácil" onclick="window.parent.document.ws_popup.open3('Matebook D15', '576€');" data-analytics-id="-2226997221841">Compra fácil</button>
+                    </div> 
+                
+                </article><article data-brand="xiaomi" data-type="tv">
+                    <h3>Xiaomi Smart TV 55</h3>
+                    <div>
+                        <div data-config="{&quot;responsive&quot;:{&quot;0&quot;:{&quot;breakpoint&quot;:0,&quot;elements&quot;:1}},&quot;build&quot;:{&quot;arrows&quot;:false,&quot;bullets&quot;:true,&quot;clickable_bullets&quot;:true}}">
+                            <ul>
+                                <li>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                        <p>Disfruta de cada detalle con la nueva Smart TV de Xiaomi: 55", calidad de imagen Ultra HD4K, sonidos envolventes y sistema operativo Android. Además ,es compatible con Vodafone TV.</p>
+
+                        <!--<p class="vfes-paragraph vfes-color--vodafone-red vfes-align--center vfes-mb-">
+                            <strong>Compatible con Vodafone OneNumber</strong>
+                        </p>-->
+
+                        <div>
+                            <input type="radio" name="xiaomi-smart-tv-55" value="plazos" checked="">
+                            <label for="xiaomi-smart-tv-55-plazos">A plazos</label>
+                            <div>
+                                <p>Desde <strong>11,00€/mes</strong> durante 36 meses contratando <strong>Vodafone One ilimitada</strong>
+                                </p>
+
+                            </div>
+
+                            <input type="radio" name="xiaomi-smart-tv-55" value="contado">
+                            <label for="xiaomi-smart-tv-55-contado">Al contado</label>
+                            <div>
+                                <p><strong>396€</strong>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                   <!--<div class="vfes-rates__accordion vfes-align--center">
+                        <div id="apple-watch-series6-rosa-dropdown" class="vfes-rates__accordion-content">
+                            <ul class="vfes-list--checkmarks vfes-align--left">
+                                <li>Esfera: 40mm</li>
+                                <li>Pantalla de retina siempre activa</li>
+                                <li>El chip S6 SiP es hasta un 20 % más rápido que el del Series 5</li>
+                                <li>Diseño apto para nadar</li>
+                            </ul>
+                        </div>
+                        <button class="vfes-rates__button" data-vfes-js="_common" data-common-function="dropdown"
+                                aria-controls="apple-watch-series6-rosa-dropdown">
+                            <span class="vfes-paragraph vfes-paragraph__down js-common-dropdown-show">Ver info
+                                <svg class="icon vfes-icon__button" xmlns="http://www.w3.org/2000/svg"
+                                     xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use class="icon-v3" xlink:href="#icon3-chevron-down"></use>
+                                </svg>
+                            </span>
+                            <span class="vfes-paragraph vfes-paragraph__up js-common-dropdown-hide">Ocultar info
+                                <svg class="icon vfes-icon__button" xmlns="http://www.w3.org/2000/svg"
+                                     xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px">
+                                    <title>Tick</title>
+                                    <use class="icon-v3" xlink:href="#icon3-chevron-up"></use>
+                                </svg>
+                            </span>
+                        </button>
+                    </div>-->
+
+                    <div>
+                        <button title="Compra Fácil" onclick="window.parent.document.ws_popup.open3('xiaomi-smart-tv-55', '11,00€/mes contratando Vodafone One ilimitada');" data-analytics-id="-6709058542507">Compra fácil
+                        </button>
+                        <button title="Compra Fácil" onclick="window.parent.document.ws_popup.open3('xiaomi-smart-tv-55', '396€');" data-analytics-id="-9035587726718">Compra fácil</button>
+                    </div> 
+                
+                </article><h3>¿Necesitas ayuda?</h3><h3>Conoce todo lo que necesites saber sobre <strong>objetos conectados</strong></h3><a data-analytics-id="-1616819442341" href="https://www.vodafone.es/c/particulares/es/mas-con-vodafone/objetos-conectados/" target="_self">Más información</a>

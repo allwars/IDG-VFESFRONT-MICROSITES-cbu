@@ -1,0 +1,185 @@
+.vfes-ms-content {
+    .wg-form-sticky {
+        display: none;
+        position: fixed;
+        left: 0;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        @include mq-desktop {
+            display: block;
+            //position: relative;
+            //left: auto;right: auto;top: auto;bottom: auto;
+            width: calc(100% - 40px);
+            max-width: 300px;
+            background: none;
+            position: absolute;
+            left: auto;
+            right: 20px;
+            top: 0;
+            bottom: auto;
+        }
+        &__overlay {
+            position: absolute;
+            background-color: rgba(0, 0, 0, 0.6);
+            left: 0;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            @include mq-desktop {
+                position: relative;
+                background-color: transparent;
+            }
+        }
+        p {
+            font-size: 20px;
+        }
+        &__wrapper {
+            position: relative;
+            background-color: #fff;
+            color: #333;
+            box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);
+            width: calc(100% - 40px);
+            max-width: 300px;
+            border-radius: 6px;
+            position: fixed;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            top: 50%; //-100%;
+            transition: all 1s;
+            padding: 30px 20px 20px;
+            @include mq-desktop {
+                color: white;
+                background-color: #333;
+                border-radius: 0;
+                position: static;
+                width: 100%;
+                display: block;
+                transform: none;
+                left: auto;
+                right: 20px;
+                top: 0;
+                bottom: auto;
+                transition: all 0.5s ease-in-out;
+                overflow: hidden;
+                max-height: 79px;
+                padding: 10px 20px 20px;
+            }
+        }
+        &__collapsable {
+            @include mq-desktop {}
+        }
+        &--on {
+            display: block;
+            @include mq-desktop {
+                .wg-form-sticky__wrapper {
+                    bottom: auto;
+                    border-radius: 0 0 6px 6px;
+                    max-height: 500px;
+                    transition: all 0.5s ease-in-out/* 0.5s */
+                    ;
+                }
+                .wg-form-sticky__collapse-btn:before {
+                    transform: translate(-50%, -20%) scaleY(-1) rotate(135deg);
+                }
+            }
+        }
+        &__collapse-btn {
+            display: none;
+            @include mq-desktop {
+                outline: none;
+                width: 42px;
+                height: 21px;
+                border-radius: 0 0 42px 42px;
+                background-color: #333;
+                display: block;
+                visibility: hidden;
+                position: absolute;
+                bottom: -21px;
+                left: 50%;
+                transform: translateX(-50%) scale(0);
+                transform-origin: center top;
+                transition: all 0.3s ease-out/* 0.4s */
+                ;
+                color: white;
+                &--show {
+                    visibility: visible;
+                    transform: translateX(-50%) scale(1);
+                }
+                &:before {
+                    content: '';
+                    width: 15px;
+                    height: 15px;
+                    border: 1px solid #fff;
+                    border-left: none;
+                    border-bottom: none;
+                    position: absolute;
+                    left: 50%;
+                    top: 10%;
+                    transition: transform 0.5s;
+                    //transition-delay: 0.5s;
+                    transform-origin: center center;
+                    transform: translate(-50%, -50%) scaleY(1) rotate(135deg);
+                }
+            }
+        }
+        &__close-btn {
+            position: absolute;
+            right: 10px;
+            top: 10px;
+            color: black;
+            @include mq-desktop {
+                color: white;
+                display: none;
+            }
+        }
+        hr {
+            width: 85%;
+            height: 1px;
+            border: none;
+            background-color: #333;
+            margin: 15px auto;
+            @include mq-desktop {
+                width: auto;
+                background-color: white;
+            }
+        }
+        .vfes-button {
+            padding: 12px;
+            font-size: 20px;
+            width: 100%;
+            margin: 10px 0 0 0;
+            box-shadow: none;
+        }
+        .phone-number {
+            font-size: 28px;
+            display: block;
+            color: inherit;
+            svg {
+                vertical-align: middle;
+                margin-right: 3px;
+                width: 24px;
+                height: 24px;
+            }
+            a {
+                text-decoration: none;
+                color: inherit;
+            }
+        }
+        .vfes-form__input {
+            margin-bottom: 15px;
+            color: #333;
+        }
+        .vfes-form__box {
+            margin-bottom: 5px;
+        }
+        .vfes-form__checkbox+.vfes-form__label {
+            font-size: 14px;
+            button {
+                display: contents;
+                text-decoration: underline;
+                color: inherit;
+            }
+        }
+    }
+}

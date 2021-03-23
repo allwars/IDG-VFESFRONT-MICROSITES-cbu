@@ -1,0 +1,462 @@
+// CSS del microsite
+.vfes-ms-content {
+    .vfms-bg {
+        .vfes-layout__wrapper {
+            .vfms-hero--container {
+                @media screen and (min-width: 768px) {
+                    display: flex;
+                }
+            }
+        }
+        background-image: url('../img/bg-mobile.jpg');
+        background-size: cover;
+        background-position-x: -100px;
+        background-repeat: no-repeat;
+        @media screen and (min-width: 768px) {
+            background-image: url('../img/bg-tablet.jpg');
+            background-size: cover;
+            background-position-x: -200px;
+        }
+        @media screen and (min-width: 1024px){
+            background-image: url('../img/bg-desktop.jpg');
+            background-position-x: -300px;
+        }
+        @media screen and (min-width: 1280px) {
+            background-image: url('../img/fondo-desktop-ampliado.jpg');
+            background-position-x: -500px;
+        }
+        @media screen and (min-width: 1700px) {
+            background-position-x: -300px;
+        }
+    }
+    background-color:#DCDBDA; 
+    .vfms-header-container 
+    {
+        .vfms-flex {
+            display: flex;
+            width: 70%;
+            justify-content: center;
+            align-items: center;
+            @media screen and (min-width: 768px) {
+                width: 80%;
+            }
+            .vfes-flex {
+                .vfms-phone {
+                    width: 32px;
+                    height: 32px;
+                }
+                .vfms-free--call {
+                    margin: 0;
+                    p {
+                    font-size: 18px;
+                    }
+                    .vfms-nomargin {
+                        margin-bottom: 0;
+                    }
+                    .drp-phone {
+                        text-decoration: none;
+                    }
+                }
+            }
+            
+            .vfms-mobile {
+                display: flex;
+                @media screen and (min-width: 768px) {
+                    display: none;
+                }
+            }
+            .vfms-dektop {
+                display: none;
+                @media screen and (min-width: 768px) {
+                    display: block;
+                    margin: 0 auto;
+                }
+                .vfms-title--desktop {
+                    font-size: 34px;
+                    @media screen and (min-width: 1280px) {
+                        font-size: 40px;
+                    }
+                }
+            }
+        }
+        box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);
+        background-color: #ffffff;
+        position: fixed;
+        width: 100%;
+        z-index: 10;
+        @media screen and (min-width: 768px) {
+            position: relative;
+        }
+        .vfms-nav-container {
+            display: flex;
+            width: 100%;
+            align-items: center;
+            @media screen and (min-width: 768px) {
+                padding: 20px;
+            }
+            div
+            {
+            margin: 10px;
+            }
+            
+            .vfms-logo-container.vfms-logo-container-vodafone
+            {
+                width: 30px;
+                @media screen and (min-width: 768px) {
+                    width: 36px;
+                }
+                @media only screen and (min-width: 1280px) {
+                    width: 50px;          
+                }
+                img 
+                {
+                    width: 100%;
+                    max-width: 100%;
+                }
+                
+                
+            }
+        }
+    }
+    .vfms-minpadding {
+        padding: 30px 0 0 0;
+        @media screen and (min-width:768px) {
+            padding: 50px 0 0 0;
+        }
+    }
+    .vfms-nopadding {
+            padding: 0 0 40px 0;
+        .vfms-underline {
+            text-decoration: underline;
+        }
+    }
+    .vfms-line {
+        border-top: solid 33px #333;
+        padding: 10px;
+        display: none;
+        @media screen and (min-width: 768px) {
+            display: block;
+        }
+    }
+    .vfes-layout{
+        &__item {
+            .vfms-text {
+                font-size: 28px;
+            }
+            .vfms-ic--phone {
+                width: 24px;
+                height: 24px;
+                margin-right: 5px;
+            }
+        }
+        .vfms-button--container {
+            .vfms-cta {
+                font-size: 20px;
+            }
+            a {
+                width: 430px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                margin: 0 auto;
+            }
+        } 
+        &__wrapper
+        {  
+            ul 
+            {
+                .vfms-hero {
+                    height: 400px;
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: space-between;
+                    margin-top: 80px;
+                    @media screen and (min-width: 768px) {
+                        justify-content: flex-start;
+                        margin-top: 0;
+                    }
+                    .vfms-ofer {
+                        @media screen and (min-width: 768px) {
+                        margin-top: 0;
+                        }
+                    }
+                }
+                li 
+                { 
+                    &:first-child
+                    {
+                        .vfms-info-container
+                        {
+                            .vfms-before--price {
+                                margin-bottom: 5px;
+                                text-decoration: line-through;
+                                text-decoration-color: #E60000;
+                                @media screen and (min-width: 768px) {
+                                    font-size: 20px;
+                                }
+                                @media screen and (min-width: 1024px) {
+                                    font-size: 24px;
+                                }
+                                span {
+                                    font-size: 16px;
+                                     @media only screen and (min-width: 768px) {
+                                        font-size: 18px;
+                                        margin: 0 auto;
+                                    }
+                                     @media only screen and (min-width: 768px) {
+                                        font-size: 20px;
+                                    }
+                                }
+                            }
+                            @media only screen and (min-width: 768px) 
+                            {
+                                text-align: center;
+                                margin-top: 27px;
+                                padding-left: 1em;
+                            }
+                            @media only screen and (min-width: 1280px) 
+                                {
+                                    
+                                    width: 70%;
+                                    margin-top: 30px;
+                                    float: right;
+                                    padding-left: 0;
+                                }
+  
+                            h1 {
+                                font-size: 28px;
+                                margin-bottom: 0;
+                                line-height: 40px;
+                                @media screen and (min-width: 768px) {
+                                    font-size: 40px;
+                                }
+                                @media screen and (min-width: 1280px) {
+                                    line-height: 62px;
+                                }
+                            }
+                            h2 {
+                                font-size: 32px;
+                                margin-bottom: 10px;
+                                line-height: 40px;
+                                @media screen and (min-width: 768px) {
+                                    font-size: 40px;
+                                }
+                                @media screen and (min-width: 1280px) {
+                                    font-size: 56px;
+                                    margin-bottom: 25px;
+                                }
+                            }
+                            p {
+                                margin-bottom: 0;
+                                font-size: 14px;
+                                @media only screen and (min-width: 768px) 
+                                {
+                                    font-size: 14px;
+                                    margin: 0 auto;
+                                }
+                                @media only screen and (min-width: 1280px) 
+                                {
+                                    font-size: 14px;
+                                }
+                            }
+                            .vfms-price {
+                                font-size: 28px;
+                                 @media only screen and (min-width: 768px) {
+                                    font-size: 34px;
+                                    margin: 0 auto;
+                                }
+                                @media screen and (min-width: 1280px) {
+                                    font-size: 40px;
+                                }
+                                span {
+                                    font-size: 20px;
+                                     @media only screen and (min-width: 768px) {
+                                        font-size: 24px;
+                                        margin: 0 auto;
+                                    }
+                                     @media only screen and (min-width: 768px) {
+                                        font-size: 28px;
+                                    }
+                                }
+
+                            }
+
+                        }  
+                    }
+                    &:last-child
+                    { 
+                    }
+                     .vfms-form-container
+                     {
+                        .vfes-form 
+                        {
+                            border-radius: 6px;
+                            padding:20px;
+                            .vfms-submit {
+                                margin-top: 20px;
+                            }
+                            .vfes-modal__head-form {
+                                .vfms-call {
+                                    border-top: 1px solid white;
+                                    padding-top: 20px;
+                                }
+                                .vfms-phone {
+                                    font-size: 24px;
+                                    a{
+                                        text-decoration: none;
+                                    }
+                                }
+                            }
+
+                            .vfms-title-form
+                            {
+                                margin-bottom: .2em;
+                            }                     
+                            .vfes-box--form
+                            {
+                                margin: 0 auto;
+                                position: relative;
+                                display: block;
+                        
+                                .vfes-form__checkbox:checked + .vfes-form__label:before
+                                {
+                                    border: solid #999 1px;
+                                }
+                                .vfes-form__checkbox:checked+.vfes-form__label:after
+                                {
+                                    border: .0625rem solid white;
+                                    border-top: 0;
+                                    border-right: 0;
+                                }
+                                .vfes-form__checkbox:focus+.vfes-form__label:before
+                                {
+                                    border: solid white 1px;
+                                }
+                                .vfes-form__label:before
+                                {
+                                    background-color:transparent;
+                                }
+                                .vfes-form__label
+                                {
+                                    #condiciones
+                                    {
+                                        text-decoration: none;
+                                    }
+                                    .button-privacy
+                                    {
+                                        margin-left: .2em;
+                                    }
+                                }  
+                                .vfes-box--form__name,.vfes-box--form__tlf
+                                {
+                                    font-size: 16px;
+                                    border-radius: .375rem;
+                                    color: #333;
+                                    font-family: VodafoneLight,arial,sans-serif;
+                                    font-weight: 100;
+                                    background-color: #fff;
+                                    border: .0625rem solid #fff;
+                                    padding: .8em;
+                                    width: 100%;
+                                    position: relative;
+                                    display: block;
+                                    margin: .625rem 0;
+                                    @media only screen and (min-width: 768px) 
+                                    {
+                                        font-size: 18px;
+                                    }
+                                }
+                                .vfes-form__checkbox:checked
+                                {
+                                    border: solid green 1px;
+
+                                }
+                                .vfms-form__checks-space
+                                {
+                                    margin-bottom: .5em;
+                                }
+                                .vfes-button
+                                {
+                                    width: 100%;
+                                    font-size: 18px;
+                                    @media only screen and (min-width: 768px) 
+                                    {
+                                        font-size: 20px;
+                                    }
+                                }
+                                
+                                .vfes-form__checkbox+.vfes-form__label, .vfes-form__radio+.vfes-form__label 
+                                {
+                                    font-size: 12px;
+                                }
+                            } 
+                        }
+
+                     }
+                    }
+            }
+            .vfms-subtitle {
+                padding: 0 20px 25px 20px
+            }
+
+        }
+        .vfms-info-container {
+            
+            .vfms-link {
+                .vfms-modal {
+                    text-decoration: underline;
+                    margin-bottom: 20px;
+                    color: #fff;
+                    @media screen and (min-width: 768px) {
+                        color: #333;
+                    }
+                }
+            }
+        }
+    }
+    .vfms-footer-container {
+        width: 100%;
+        background-color: #333333;
+        color: #fff;
+        padding: 1.25rem;
+        margin-top: auto;
+    }
+    
+
+    .vfms-thankyou-container
+    {
+        display:none;
+        max-width: 250px;
+        margin:0 auto;
+        min-height:486px;
+        background-color: #5f5f5e;
+        @media only screen and (max-width: 640px) {
+            max-width: 90%!important;  
+    
+        }
+    }
+    .vfes-modal
+    {
+        .vfms-paragraph_popup
+        {
+            margin-bottom: 3.125rem;
+        }
+    }
+
+}
+//CSS modales
+.vfes-modal {
+    .vfms-list-container {
+        max-width: 600px;
+        margin: 0 auto;
+    }
+    .vfms-list--text {
+        margin: 10px;
+    }
+    &__item {
+        padding: 0 20px;
+        @media screen and (min-width: 768px) {
+            padding: 0;
+        }
+    }
+}

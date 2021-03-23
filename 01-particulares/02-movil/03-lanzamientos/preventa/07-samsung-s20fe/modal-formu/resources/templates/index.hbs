@@ -1,0 +1,60 @@
+<link href="css/ws2r.v15.css" rel="stylesheet" />
+<link href="css/styles.css" rel="stylesheet" data-microcss data-vfes-inline-asset />
+<div class="vfes-ms-content" id="formu-samsungFE">
+	<button id="vfJsButton" class="vf-button--primary" data-device-name="Samsung Galaxy S20 FE"
+			data-analytics-context="samsung galaxy s20 fe"
+			data-analytics-element="reservar"
+			data-analytics-category="cta">Reservar
+			<span class="visually-hidden">: Reservar Samsung Galaxy Note20 5G + Gaming Pack</span>
+	</button>
+	<div style="display: none;" id="vfJsModal" class="vf-modal">
+
+		<!-- Modal content -->
+		<div class="vf-modal-content">
+			<span class="vf-close">&times;</span>
+			<div class="vfes-mt vfes-mb">
+				<p id="device-title" class="vfes-title vfes-title--3  vfes-title--center vfes-mb-">Samsung Galaxy S20 FE</p>
+				<p class="vfes-title vfes-title--4 vfes-title--center vfes-mb vfes-mb--mov">¡Solo te queda un paso!</p>
+				<p class="vfes-paragraph vfes-paragraph--center vfes-mb">Déjanos tus datos y nos pondremos en contacto contigo para finalizar compra.</p>
+				<form class="wg-form vf-form" action="">
+					<input class="wg-input" type="hidden" name="preventa" value="Samsung S20 FE 5G">
+					<input class="vfes-box-input wg-input" style="display:none;" value="NO" name="verifyLeadId">
+					<input name="wg-return" class="wg-return wg-input" value="gracias" type="hidden">
+					<input id="phone-model" class="vfes-form__input wg-input" type="hidden"
+						style="display:none;" name="phone-model" placeholder="Teléfono" />
+					<div class="form-name">
+						<input class="vfes-form__input vfes-box--form__name wg-input vfms-input" type="text" name="nombre" data-wg-validation="required" placeholder="Nombre" />
+						<input type="hidden" class="wg-error" />
+					</div>
+					<div>
+						<input class="vfes-box--form__tlf wg-input vfes-form__input vfms-input vfes-mt vfes-mt--mov" type="phone"
+						name="phone" inputmode="numeric" pattern="[0-9]*" maxlength="9"
+						data-wg-validation="required,phone" placeholder="Nº teléfono"
+						oninput="javascript: if (this.value.length > this.maxLength) this.value = this.value.slice(0, this.maxLength);">
+						<input type="hidden" class="wg-error" />
+					</div>
+					<div class="form-privacy">
+						<input class="vfes-form__checkbox wg-input" data-wg-validation="required" type="checkbox"
+						id="privacyNote" value="on" type="checkbox" name="check" />
+						<label class="vfes-form__label vfes-mt vfes-mt---mov" for="privacyNote">Acepto la 
+						<a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/movil/catalogo-clientes/politica-privacidad/" id="condicionesNote" class="button-privacy vfes-ml--" target="_blank" rel="nofollow"> Política de
+							Privacidad</a></label>
+						<input type="hidden" class="wg-error" />
+					</div>
+					<div class="form-comercial">
+						<input class="vfes-form__checkbox wg-input" type="checkbox" name="gdpr" id="comunicationNote"
+						value="on" />
+						<label class="vfes-form__label" for="comunicationNote">Acepto recibir comunicaciones
+						comerciales de Vodafone </label>
+						<input type="hidden" class="wg-error" />
+					</div>
+					<input class="vf-button--primary vfes-mt vfms-large wg-submit tellamamos-ltc"
+						type="submit" value="Enviar">
+				</form>
+			</div>
+		</div>
+	</div>
+
+</div>
+<script src="js/ws2r.v15.js"></script>
+<script src="js/main.js" data-vfes-inline-asset></script>

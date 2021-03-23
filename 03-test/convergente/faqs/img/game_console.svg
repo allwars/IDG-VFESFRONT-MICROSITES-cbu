@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="28px" viewBox="0 0 40 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Icons+Indicators / Mid-Render Icons / game_console</title>
+    <desc>Created with Sketch.</desc>
+    <g id="⚙️Fichas-detalle---TV---Pop-Up-Serielovers---Amazon-Prime" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons+Indicators-/-Mid-Render-Icons-/-game_console" transform="translate(-4.000000, -10.000000)">
+            <g id="game_console_mid">
+                <rect id="bg" fill-opacity="0" fill="#D8D8D8" x="0" y="0" width="48" height="48"></rect>
+                <g id="3fc183b5_166f_47b6_9285_74dd022bd923">
+                    <rect id="Rectangle_path" x="0" y="0" width="48" height="48"></rect>
+                    <path d="M24,31.27 L15.19,31.27 C14.5476718,31.2698834 13.972732,31.6684552 13.7475,32.27 L12.9225,34.5 C12.2686005,36.2960995 10.5639181,37.4937686 8.6525,37.5 L8.6525,37.5 C7.44017091,37.4907138 6.29136945,36.9564607 5.503084,36.0353559 C4.71479855,35.1142511 4.36440969,33.896713 4.5425,32.6975 L6.945,15.8425 C7.36322529,12.7925835 9.96157882,10.5150276 13.04,10.5 L34.96,10.5 C38.0384212,10.5150276 40.6367747,12.7925835 41.055,15.8425 L43.4575,32.6975 C43.6355903,33.896713 43.2852014,35.1142511 42.496916,36.0353559 C41.7086306,36.9564607 40.5598291,37.4907138 39.3475,37.5 L39.3475,37.5 C37.4360819,37.4937686 35.7313995,36.2960995 35.0775,34.5 L34.2525,32.2725 C34.027268,31.6709552 33.4523282,31.2723834 32.81,31.2725 L24,31.27 Z" id="Shape" stroke="#666666" stroke-linejoin="round"></path>
+                    <path d="M15.5,17.5 L15.5,25.5" id="Shape" stroke="#E60000" stroke-width="1.0125" stroke-linecap="round"></path>
+                    <path d="M11.5,21.5 L19.5,21.5" id="Shape" stroke="#E60000" stroke-width="1.0125" stroke-linecap="round"></path>
+                </g>
+                <path d="M31,23 C30.4477153,23 30,23.4477153 30,24 C30,24.5522847 30.4477153,25 31,25 C31.5522847,25 32,24.5522847 32,24 C32,23.4477153 31.5522847,23 31,23 Z" id="Shape" fill="#E60000" fill-rule="nonzero"></path>
+                <path d="M31,17 C30.4477153,17 30,17.4477153 30,18 C30,18.5522847 30.4477153,19 31,19 C31.5522847,19 32,18.5522847 32,18 C32,17.4477153 31.5522847,17 31,17 Z" id="Shape" fill="#E60000" fill-rule="nonzero"></path>
+                <path d="M34,20 C33.4477153,20 33,20.4477153 33,21 C33,21.5522847 33.4477153,22 34,22 C34.5522847,22 35,21.5522847 35,21 C35,20.4477153 34.5522847,20 34,20 Z" id="Shape" fill="#E60000" fill-rule="nonzero"></path>
+                <path d="M28,20 C27.4477153,20 27,20.4477153 27,21 C27,21.5522847 27.4477153,22 28,22 C28.5522847,22 29,21.5522847 29,21 C29,20.4477153 28.5522847,20 28,20 Z" id="Shape" fill="#E60000" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

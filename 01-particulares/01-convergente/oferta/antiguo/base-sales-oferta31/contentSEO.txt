@@ -1,0 +1,5 @@
+<h2>
+                    <span>Por ser cliente...</span>
+                    <span>Llévate un<strong>50% dto. 6 meses</strong></span>
+                    <span>en Móvil + Fibra</span>  
+                </h2><a href="tel:900920179" target="_new">Llámanos gratis al 900 920 179</a><p><strong>¡Date prisa!</strong> esta oferta termina en:</p><div></div>

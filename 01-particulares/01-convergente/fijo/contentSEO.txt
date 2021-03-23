@@ -1,0 +1,223 @@
+<div data-spritesheet="svg/sprite.mid.svg"></div><main>   
+		<h1>Teléfono fijo: tu tarifa de teléfono fijo</h1>
+		<section>
+			<div>
+				<div>
+					<div>
+						<p>Teléfono fijo</p>
+						<p>
+							<span><span>Habla sin preocupaciones</span> y llévate tu fijo donde tú quieras</span>
+						</p>
+					</div>
+				</div>
+			</div>
+		</section>
+		<div>
+			<div>
+				<section vfms-data-show="sticky">
+					<h2>Tarifa Teléfono fijo</h2>
+					<h3><span>Habla sin límites</span> con otros teléfonos fijos y móviles nacionales
+					</h3> 
+					
+					
+					
+					<p><span>Llama a todos tus amigos y familiares</span> y habla todo lo que quieras con ellos, ya sean fijo o móvil, sin ningún tipo de recargos, con el fijo de Vodafone. </p>
+					<div>
+						<ul>
+							<li>
+								<div>
+									<div>
+										<svg width="44" height="44"><use xlink:href="#icon-minutes-sms-mid"></use></svg>
+									</div>
+									<p>Tendrás<span> llamadas ilimitadas</span> a otros<span> teléfonos fijos y móviles nacionales</span> sin límites ni recargos.</p>
+								</div>
+							</li>
+							<li>
+								<div>
+									<div>
+										<svg width="44" height="44"><use xlink:href="#icon-connected-car-mid"></use></svg>
+									</div>
+									<p>No te pierdas ni una llamada <span>llevándote el fijo siempre contigo</span>, tanto dentro como fuera del domicilio.</p>
+								</div>
+							</li>
+							<li>
+								<div>
+									<div>
+										<svg width="44" height="44"><use xlink:href="#icon-consultant-mid"></use></svg>
+									</div>
+									<p>Compatible con el servicio de teleasistencia: <span>atención telefónica 24/7</span>, que permite atender a personas en su domicilio <span>ante cualquier emergencia</span> o a través de la caja de voz Adoc v1.</p>
+								</div>
+							</li>
+						</ul>
+					</div>
+				</section>
+				<section>
+					<div>
+							<h3>
+								<span>Sin sorpresas.</span>
+								<span>No escondemos nada</span>
+							</h3>
+							<p>Impuestos y cuota incluidos.</p>
+							<p>Permanencia de 1 año.</p> 
+							<a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/internet-y-fijo/solo-telefono-fijo/legales/" target="_new" data-analytics-id="1435603191151-0009666562513">Ver Condiciones Legales</a> 
+					</div>
+				</section>
+				<section>
+					<h3>¿Cómo contratar Vodafone Fijo?</h3>
+					<div>
+						<ul>
+							<li>
+								<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="68px" height="68px">
+									<use xlink:href="#icon-shopping-trolley-mid"></use>	
+								</svg>
+								<h4><span>Compra</span></h4>
+								<p>Recibirás un email de confirmación con el detalle de tu pedido y próximos pasos.</p>
+							</li>
+							<li>
+								<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="68px" height="68px">
+									<use xlink:href="#icon-home-mid"></use>
+								</svg>
+								<h4><span>Elige dónde recibir tu pedido</span></h4>
+								<p>Podrás recibirlo directamente en tu casa o en una tienda Vodafone</p>
+							</li>
+							<li>
+								<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="68px" height="68px">
+									<use xlink:href="#icon-landline-or-call-mid"></use>
+								</svg>
+								<h4><span>Actívalo</span></h4>
+								<p>Una vez en casa introduce la SIM dentro de la caja de voz y conecta tu teléfono</p>
+							</li>
+						</ul>
+					</div>
+				</section>
+			</div>   
+			<!-- TICKET -->
+			<div>
+				<div>
+					<h2>Vodafone Fijo</h2>
+					<ul>
+						<li>
+							<div>
+								<svg width="24" height="24px">
+									<title>Teléfono fijo</title>
+									<use xlink:href="#icon3-business-phone"></use>
+								</svg>
+							</div>
+							<div>
+								<p><span>Llamadas ilimitadas</span></p>
+								<p><span>a fijos y móviles nacionales</span></p>
+							</div>
+						</li>
+						<li>
+							<div>
+								<p>Permanencia 1 año</p>
+								<p><span>13€/mes</span></p>
+							</div>
+							<div>
+								<a title="Lo quiero" style="cursor: pointer;" onclick="window.parent.document.ws_popup.open('Vodafone fijo', '13€/mes');" target="_parent" data-analytics-id="1435603191151-0006288400085">Lo quiero</a>
+							</div>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<!-- SECTION BANNER SEO-->
+		<section>
+			<div>
+				<div>
+					<div>
+						<h2>Disfruta de la tarifa Vodafone Fijo llamando a los tuyos</h2>
+						<p>
+							Con la<span> tarifa teléfono fijo de Vodafone</span> podrás hablar con todos tus amigos y familiares, ya sea a fijo o móvil nacionales, sin preocuparte del tiempo de la llamada. Además, con nuestra<span> línea de teléfono fijo</span> podrás<span> llevarte el teléfono a donde quieras</span> para realizar o recibir llamadas. Esta<span> tarifa de fijo</span> no tiene ningún recargo adicional.
+						</p>
+						<p>
+							Vodafone fijo es compatible con cualquier<span> solución de Teleasistencia del mercado</span> (como por ejemplo el de Cruz Roja), para<span> atender a cualquier persona de tu domicilio</span> ante cualquier circunstancia o emergencia.
+						</p>
+					</div>
+					
+					
+				</div>
+			</div>
+		</section>
+		<!-- STICKY TICKET MOBILE-->
+		<section vfms-data-show="show">
+			<div>
+				<div>
+					<div>
+					<span>13€<span>/mes</span></span>
+					<p>Permanencia 1 año</p>
+				</div>
+					<div>
+						<a title="Lo quiero" style="cursor: pointer;" onclick="window.parent.document.ws_popup.open('Vodafone fijo', '13€/mes');" target="_parent" data-analytics-id="1435603191151-0006288400005">Lo quiero</a>
+					</div>
+				</div>
+			</div>
+		</section>
+	</main><aside>
+		<div>
+			<h2>Preguntas Frecuentes</h2>
+			<div>
+				<div>
+					<div>
+						<div>
+							<button aria-expanded="false" aria-controls="accordion-content-0">
+								<h3>¿Está incluido el servicio de identificación de llamadas en el precio?</h3>
+							</button>
+							<div aria-hidden="true">
+								<div>
+									<p>
+										El servicio de identificación de llamadas te permite conocer los números de teléfono desde los que se efectúan las llamadas entrantes en tu teléfono fijo Vodafone. Tiene una cuota mensual de 2 € (IVA incluido) y no viene incluido. Puede activarse y desactivarse desde la App Mi Vodafone.
+									</p>
+								</div>
+							</div>
+						</div>
+						<div>
+							<button aria-expanded="false" aria-controls="accordion-content-0">
+								<h3>¿Qué necesito para contratar el servicio de Teleasistencia?</h3>
+							</button>
+							<div aria-hidden="true">
+								<div>
+									<ul>
+										<li>
+											<p>Tu línea fija de Vodafone.</p>
+										</li>
+										<li>
+											<p>Una caja de voz ADOC V1, conectada a la red eléctrica y al teléfono, que tendrás que solicitar a uno de nuestros agentes en tu llamada.</p>
+										</li>
+										<li>
+											<p>Un dispositivo de alarma, que instala el servicio técnico del prestador del servicio en el domicilio. Además, se proporciona una medalla con un pulsador de alarma para que el destinatario final la lleve colgada.</p>
+										</li>
+									</ul>
+									<p>
+										(El servicio de Teleasistencia ofrecido por la Administración Pública (local/provincial) o aseguradoras de salud privada para personas que precisan asistencia en su domicilio. El usuario paga mensualmente al prestador del servicio. El coste depende del proveedor (Cruz Roja, SAR Quavitae, Asispa, Tunstall-Televida, etc). Las llamadas y SMS al servicio de Teleasistencia de Cruz Roja son gratuitas.)
+									</p>
+								</div>
+							</div>
+						</div>
+						<div>
+							<button aria-expanded="false" aria-controls="accordion-content-0">
+								<h3>¿Qué significa Movilidad Total?</h3>
+							</button>
+							<div aria-hidden="true">
+								<div>
+									<p>
+										Significa que no te pierdes ninguna llamada porque puedes llevarte siempre el fijo contigo.
+									</p>
+								</div>
+							</div>
+						</div>
+						<div>
+							<button aria-expanded="false" aria-controls="accordion-content-0">
+								<h3>¿Es compatible con Vodafone TV?</h3>
+							</button>
+							<div aria-hidden="true">
+								<div>
+									<p>Vodafone TV no es compatible con el producto “Solo fijo”. Si deseas teléfono fijo y televisión descubre las tarifas Vodafone One con Fibra + Teléfono Fijo y Teléfono Móvil en <a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/" target="_new">www.vodafone.es/one</a></p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</aside>

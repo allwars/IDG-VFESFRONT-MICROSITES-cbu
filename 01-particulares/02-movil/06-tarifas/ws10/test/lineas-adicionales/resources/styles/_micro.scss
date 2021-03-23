@@ -1,0 +1,288 @@
+// CSS del microsite
+.vfes-ms-content{
+
+    //ADDONS
+ 
+    .vfms-switch {
+      position: absolute;
+      left: 15%;
+      top: 0;
+      transform: translate(5%, -20px);
+      -webkit-transform: translate(5%, -20px);
+
+      @media screen and (min-width: 992px) {
+        position: absolute;
+        left: 50%;
+        top: 0;
+        transform: translate(-50%, -20px);
+        -webkit-transform: translate(-50%, -20px);
+      }
+
+      &--button {
+        background: #ebebeb;
+        border: 2px solid #ebebeb;
+        border-radius: 25px;
+        padding: 12px 20px;
+        z-index:1;
+      }
+
+      &--button__active {
+        background: #ffffff;
+        border-radius: 25px;
+        border: 2px solid #007c92;
+        padding: 12px 20px;
+        z-index: 5;
+      }
+    }
+
+    .vfms-card-addons-content{
+      align-items: center;
+      margin-left:0;
+    }
+    .vfms-card-addons{
+      position:relative;
+    }
+    .vfms-delete-icon{
+      padding-left:55px;
+    }
+    .vfms-card-addon-1{
+      display:flex;
+      justify-content: start;
+      align-items: center;
+      padding: 0;
+    }
+    .vfms-card-addon-2{
+      padding: 0;
+      padding-left: 0;
+      padding-bottom: 0;
+      padding-top: 1rem !important;
+    }
+    .vfms-card-addon-3{
+      padding: 0;
+      padding-left: 0;
+      padding-bottom: 0;
+      padding-top: 1rem !important;
+    }
+    .vfms-switch--button-2{
+      margin-left:-20px;
+    }
+    // clase genérica arreglo radio buttons
+  
+    .ws10-c-form__radio:checked+.ws10-c-form__label::after {
+      background-color: #007c92;
+    }
+    .wfms__legal{
+      font-size: 14px;
+    }
+    .vfms-link{
+      color:#E60000;
+    }
+    //banner terminal
+  
+    .vfms__banner-terminal{
+      display: flex;
+    }
+  
+    // clase genérica
+  
+    .vf-banner{
+      position: relative;
+      background-image: url("../img/banner/maxi-tablet.png");
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: left;
+      @media screen and (min-width: 640px) {
+        background-position: center;
+      }
+      @media screen and (min-width: 970px) {
+        background-image: url("../img/banner/maxi-deskop.png");
+        background-attachment: fixed;
+        background-position-y: -150px;
+      }
+      &__textcontainer {
+        padding-top: 20px;
+          @media screen and (min-width: 768px) {
+            padding-top: 50px;
+          }
+          @media screen and (min-width: 970px) {
+          padding-top: 98px;
+          padding-bottom: 98px;
+          }
+      }
+    }
+    .vf-mobile{
+      &__animation{
+        padding: 30px 0;
+        position: relative;
+        &--img{
+          position: absolute;
+          top: 0;
+          left: 0;
+          right: 0;
+          bottom: 0;
+          margin: auto;
+        }
+      }
+      &__apps{
+        overflow: hidden;
+        min-height: 290px;
+        position: relative;
+        display: flex;
+        align-items: center;
+        box-sizing: border-box;
+        &:before {
+          content: "";
+          position: absolute;
+          max-height: 280px;
+          top: 20px;
+          left: 0;
+          right: -100%;
+          bottom: 0;
+          animation: slide 20s linear infinite;
+          background-size: cover;
+          background: url("../img/section-mobile/appilimitada.png") 0 100%;
+        }
+  
+        @-webkit-keyframes slide {
+          100% {
+            transform: translateX(-50%);
+          }
+        }
+  
+      }
+    }
+    .vf-terminal {
+      border-radius: 6px;
+      overflow: hidden;
+      flex-direction: column;
+      @media screen and (min-width: 768px) {
+        flex-direction: row;
+      }
+      &__content {
+        order: 2;
+        text-align: center;
+        @media screen and (min-width: 768px) {
+          order: 1;
+          text-align: left;
+        }
+      }
+      &__imgdesktop {
+        display: none;
+        @media screen and (min-width: 768px) {
+          display: block;
+          order: 2;
+        }
+      }
+      &__imgmobile {
+        order: 1;
+        @media screen and (min-width: 768px) {
+          display: none;
+        }
+      }
+    }
+    .vf-tv{
+      &__flexdirection{
+        flex-direction: column;
+        @media screen and (min-width: 768px){
+          flex-direction: row;
+        }
+  
+      }
+    }
+    .vf-fiber{
+      &__flexdirection{
+        flex-direction: column;
+        @media screen and (min-width: 970px){
+          flex-direction: row;
+        }
+  
+      }
+    }
+    .vf-superwifi{
+      &__flexdirection{
+        flex-direction: column;
+        @media screen and (min-width: 970px){
+          flex-direction: row-reverse;
+        }
+      }
+      &__img{
+        max-width: 300px;
+        @media screen and (min-width: 970px) {
+          max-width: 450px;
+        }
+      }
+    }
+    .vf-form{
+      margin-top: 10px;
+      padding:0 0 0 0;
+      &__box{
+        width: initial;
+        &:first-child{
+          padding-right: 20px;
+        }
+      }
+    }
+    .vf-timeline{
+      .ws10-c-timeline-steps__title{
+        max-width: initial;
+      }
+      .ws10-c-timeline-steps__item{
+        min-width: 20%;
+      }
+    }
+    .vf-ticket{
+      position: relative;
+  
+      @media screen and (min-width: 768px){
+        position: absolute;
+        right: 1rem;
+        padding-top: 70px;
+      }
+  
+      &__floating{
+        position: sticky;
+        width: inherit;
+        width: 100%;
+        max-width: 400px;
+        padding-top: 10px;
+      }
+  
+      &__opacity0{
+        opacity: 0;
+      }
+  
+    }
+    .vf-sticky {
+      position: fixed;
+      z-index: 1;
+      bottom: 0;
+      width: 100%;
+      @media screen and (min-width: 970px) {
+        display: none;
+      }
+    }
+    .vf-block {
+      @media screen and (min-width: 970px) {
+        display: block;
+      }
+    }
+    .ws10-c-card-addons {
+      min-height: 254px;
+      @media screen and (min-width: 640px) {
+        min-height: 230px;
+      }
+      @media screen and (min-width: 970px) {
+        min-height: 208px;
+      }
+    }
+    // 5g
+    .vf-img {
+      width: 100%;
+    }
+    // addons
+    .vf-carousel{
+      &--height {
+        height: 100%;
+      }
+    } 
+  }

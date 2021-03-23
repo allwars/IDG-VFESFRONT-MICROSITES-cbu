@@ -1,0 +1,17 @@
+.vf-steps {
+  .ws10-c-timeline-steps__title{
+    max-width: initial;
+  }
+  .ws10-c-timeline-steps__text {
+    max-width: none;
+  }
+  &__amazon{
+    *{
+      color: #999;
+      font-size: 14px;
+    }
+    img{
+      width: 80px;
+    }
+  }
+}

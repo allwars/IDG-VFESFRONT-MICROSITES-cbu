@@ -1,0 +1,71 @@
+/**
+ * Vodafone Reboot Framework: Version 13.0.2. Generation Date: 2019-08-26T06:57:53.020Z
+ */
+
+.vfes-cards-standard.vfes-link.vfes-link--red-chevron.vfes-color-bg-vodafone-white.vfes-box-shadow:hover {
+  text-decoration: none;
+}
+
+.vfes-cards-standard.vfes-color-bg-vodafone-white.vfes-box-shadow.vfms-banner {
+  flex-direction: column;
+}
+
+.vfes-cards-standard.vfes-color-bg-vodafone-white.vfes-box-shadow.vfms-banner .vfms-fullimg {
+  width: 100%;
+}
+
+@media screen and (min-width: 48rem) {
+  .vfes-cards-standard.vfes-color-bg-vodafone-white.vfes-box-shadow.vfms-banner .vfms-fullimg {
+    width: 20.4375rem;
+    margin-right: 1.5rem;
+  }
+}
+
+.vfes-cards-standard.vfes-color-bg-vodafone-white.vfes-box-shadow.vfms-banner .vfms-text-banner {
+  padding: 0.9375rem 0.625rem;
+}
+
+@media screen and (min-width: 64rem) {
+  .vfes-cards-standard.vfes-color-bg-vodafone-white.vfes-box-shadow.vfms-banner .vfms-text-banner {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+  }
+}
+
+.vfes-cards-standard.vfes-color-bg-vodafone-white.vfes-box-shadow.vfms-banner .vfms-text-banner .vfms-flex--banner {
+  max-width: 34.375rem;
+}
+
+@media screen and (min-width: 48rem) {
+  .vfes-cards-standard.vfes-color-bg-vodafone-white.vfes-box-shadow.vfms-banner .vfms-button--banner {
+    width: 11.25rem;
+  }
+}
+
+.vfes-cards-standard.vfes-color-bg-vodafone-white.vfes-box-shadow.vfms-banner .vfms-button--banner {
+  margin-top: 0.625rem;
+}
+
+@media screen and (min-width: 48rem) {
+  .vfes-cards-standard.vfes-color-bg-vodafone-white.vfes-box-shadow.vfms-banner {
+    flex-direction: row;
+  }
+}
+
+.vfes-title.vfes-title--bold.vfes-title--3 {
+  margin-bottom: 1rem;
+}
+
+@media screen and (min-width: 48rem) {
+  .vfes-title.vfes-title--bold.vfes-title--3 {
+    font-size: 1.25rem;
+  }
+}
+
+@media screen and (min-width: 64rem) {
+  .vfes-title.vfes-title--bold.vfes-title--3 {
+    font-size: 1.75rem;
+  }
+}

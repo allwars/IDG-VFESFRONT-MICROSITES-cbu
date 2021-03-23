@@ -1,0 +1,191 @@
+// CSS del microsite
+.vfes-ms-content{
+    .vfms-modal {
+        overflow-y: unset;
+    }
+    .vfms-large {
+        width: 100%;
+    }
+    .vfms-nopaddingtop {
+        padding-top: 0;
+    }
+    .vfms-nopadding {
+        padding: 0;
+    }
+    .vfes-tabs__tab {
+        max-width: 160px;
+    }
+    .vfes-tabs__tab-button {
+        padding: 15px 0;
+    }
+    .vfms-tabs{
+        &__title {
+            @media screen and (min-width: 640px) {
+                font-size: 30px;
+            }
+        }
+    } 
+    .vfms-mobile{
+        padding-top: 0;
+        &-card{
+            padding: 20px;
+        }
+        .vfes-tag-label__outstanding{
+            left:0;
+            display: flex;
+
+            .vfms-icon{
+                width: 20px;
+                height: 20px;
+            }
+        }
+        &-img{
+            position: relative;
+            display: block;
+            margin: 0 auto;
+            max-width: 50px;
+            @media screen and (min-width: 640px) {
+                max-width: 200px;
+            }
+            @media screen and (min-width: 970px) {
+                min-width: 87px;
+            }
+        }
+        &-prices{
+            text-align: center;
+            padding: 15px 0px;
+            @media screen and (min-width: 970px) {
+                min-height: 185px;
+            }
+            &-big{
+                font-size: 20px;
+                @media screen and (min-width: 640px) {
+                    font-size: 23px;
+                }
+                @media screen and (min-width: 970px) {
+                    font-size: 23px;
+                }
+            }
+        }
+        .vfms-flex{
+            display: flex;
+            width: 100%;
+            border-top: 1px solid #ccc;
+            padding: 12px 0 16px 0;
+            justify-content: space-between;
+            &:nth-child(3){
+                border-bottom: 1px solid #ccc;
+            }
+            &-left{
+                display: flex;
+                &__title{
+                    padding-left: 9px;
+                }
+            }
+            &-right{
+                p{
+                    margin-bottom: 0;
+                }
+                display: flex;
+                flex-direction: column;
+                text-align: right;
+            }
+
+    
+        }
+    }
+    .vfms-steps{
+        &__title {
+            @media screen and (min-width: 640px) {
+                font-size: 30px;
+            }
+        }
+    } 
+    .vfms-form {
+        &--container {
+            max-width: 550px;
+            margin: 0 auto;
+        }
+    }
+    .vfes-card__product, .vfes-button, .vfes-layout__item {
+        box-sizing: border-box !important;
+    }
+    .vfes-layout {
+        padding-top: 10px;
+      }
+      // modal styles
+      .vfes-modal {
+        height: auto;
+        background-color: rgba(0,0,0,0.25);
+        align-items: center;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        justify-content: center;
+      
+        &__content {
+            margin-top: -5px;
+        }
+        .vfms-form--container {
+        width: 90%;
+        margin: 0 auto;
+        }
+        .vfms-text--container {
+            width:90%;
+            margin: 0 auto;
+            margin-bottom: 20px;
+        }
+        .button-privacy{
+            display: block;
+        }
+        // .vfms-input{  
+        //     margin-bottom:15px;
+        // }
+        .vfms-input-left{
+            margin-left:10px;
+        }
+      
+        .vfms-device-title{
+            margin-bottom: 5px;
+        }
+        .vfms-flex {
+            display: flex;
+            margin-left:10px;
+            padding:0;
+            
+        }
+        .vfms-large {
+            width: 100%;
+        }
+        @media screen and (min-width: 640px) {
+             &__content {
+                margin-top: 10px;
+            }
+            .vfes-modal__item {
+                max-width: 500px;
+            }
+            .vfes-modal__head {
+                padding-top: 30px;
+                margin-bottom: -10px;
+            }   
+            .vfms-form--container {
+                max-width: 300px;
+            }
+        }
+        @media screen and (min-width: 970px) {
+            .vfes-modal__item {
+                max-width: 700px;
+            }
+        }
+      }
+}
+html {
+    scroll-behavior: smooth;
+  }
+  
+
+
+
+    

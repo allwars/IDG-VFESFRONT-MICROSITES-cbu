@@ -1,0 +1,42 @@
+// CSS del microsite
+.vfes-ms-content-banner{
+   background-image: url('https://www.vodafone.es/c/statics/imagen/imagen_boxless_mobile.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 459px;
+    @media screen and (min-width: 640px) {
+        background-image: url('https://www.vodafone.es/c/statics/imagen/img-boxless-tablet-v2.jpg');
+        height: auto;   
+    }
+    @media screen and (min-width: 970px) {
+        background-image: url('https://www.vodafone.es/c/statics/imagen/img-boxless-desktop-v2.jpg');
+        min-height: 257px;
+    }
+    .vfms-title {
+        font-size: 24px;
+        @media screen and (min-width: 640px) {
+            font-size: 32px;
+            max-width: 400px;
+        }
+        @media screen and (min-width: 970px) {
+            max-width: none;
+        }
+    }
+    .vfms-text {
+        font-size: 14px;
+        @media screen and (min-width: 640px) {
+            max-width: 400px;
+            font-size: 18px;
+        }
+        @media screen and (min-width: 970px) {
+            max-width: 573px;
+        }
+    }
+    .icon-mv {
+        min-width: 64px;
+    }
+    .vfms-icon-rsp {
+        min-width: 85px;
+    }
+}

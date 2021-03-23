@@ -1,0 +1,47 @@
+// CSS del microsite
+.vfes-ms-content-hero{
+    margin-top: -25px;
+    @media screen and (min-width: 640px) {
+        margin-top: 0;
+    }
+    background-color: #161617;
+    @media screen and (min-width: 970px) {
+        min-height: 380px;
+    }
+    .vfms-hero {
+        &__title {
+            font-size: 34px;
+        }
+        &__button {
+            @media screen and (min-width: 640px) {
+                max-width: 172px;
+            }
+        }
+        &__info {
+            text-align: center;
+            @media screen and (min-width: 640px) {
+                padding-left: 50px;
+                text-align: left;
+            }
+            @media screen and (min-width: 970px){
+                padding-left: 150px;
+            }
+        }
+        &__device {
+            max-height: 220px;
+            @media screen and (min-width: 640px) {
+                max-height: 300px;
+            }
+            @media screen and (min-width: 970px) {
+                max-height: none;
+            }
+        }
+        &__logo {
+            margin: 0 auto;
+            @media screen and (min-width: 640px) {
+                margin: 0;
+            }
+        }
+    }
+    
+}

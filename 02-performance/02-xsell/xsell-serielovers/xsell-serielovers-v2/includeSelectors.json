@@ -1,0 +1,10 @@
+[
+    ".vfes-ms-content*",
+    ".vfes-layout*",
+    ".vfes-title*",
+    ".vfes-paragraph*",
+    ".vfes-button*",
+    ".vfes-modal*",
+    ".vfes-modal-channel*",
+    ".vfes-list*"
+]

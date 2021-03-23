@@ -1,0 +1,18 @@
+// CSS del microsite
+.vfes-ms-content{
+	.vfes-layout__nopadding{
+		padding: 10px 0;
+		font-size: 14px;
+	}
+
+	.vfms-flex{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+
+		.vfms-img{
+			width: 25px;
+			margin-right: 10px;
+		}
+	}
+}

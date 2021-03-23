@@ -1,0 +1,160 @@
+// CSS del microsite
+.vfes-ms-content{
+    .vfms-modal {
+        overflow-y: unset;
+    }
+    .vfms-large {
+        width: 100%;
+    }
+    .vfms-nopaddingtop {
+        padding-top: 0;
+    }
+    .vfms-nopadding {
+        padding: 0;
+    }
+    .vfms-hero{
+        background-color: #000;
+        @media screen and (min-width: 640px) {
+            background-image: url('../img/hero-background-tablet.png');
+            background-size: cover;
+            background-position: center;
+        } 
+        @media screen and (min-width: 970px) {
+            background-image: url('../img/hero-background-desktop.png');
+            background-size: cover;
+            background-position: center;
+        } 
+        &__container {
+            @media screen and (min-width: 640px) {
+                max-width: 368px;
+                margin-left: 150px;
+            }
+            @media screen and (min-width: 970px) {
+                max-width: none;
+                width: 672px;
+                margin-left: 150px;
+            }
+        }
+        &__align {
+            text-align: center;
+            @media screen and (min-width: 640px) {
+                text-align: left;
+            }
+        }
+        &__title {
+            @media screen and (min-width: 640px) {
+                font-size: 40px;
+            }
+            @media screen and (min-width: 970px) {
+                font-size: 54px;
+            }
+        }
+        &__subtitle {
+            @media screen and (min-width: 640px) {
+                font-size: 24px;
+            }
+            @media screen and (min-width: 970px) {
+                font-size: 28px;
+            }
+        }
+    } 
+    .vfes-tabs__tab {
+        max-width: 160px;
+    }
+    .vfes-tabs__tab-button {
+        padding: 15px 0;
+    }
+    .vfms-tabs{
+        &__title {
+            @media screen and (min-width: 640px) {
+                font-size: 30px;
+            }
+        }
+    } 
+    .vfms-mobile{
+        padding-top: 0;
+        &-card{
+            padding: 20px;
+        }
+        .vfes-tag-label__outstanding{
+            left:0;
+            display: flex;
+
+            .vfms-icon{
+                width: 20px;
+                height: 20px;
+            }
+        }
+        &-img{
+            position: relative;
+            display: block;
+            margin: 0 auto;
+            max-width: 50px;
+            @media screen and (min-width: 640px) {
+                max-width: 200px;
+            }
+            @media screen and (min-width: 970px) {
+                min-width: 87px;
+            }
+        }
+        &-prices{
+            text-align: center;
+            padding: 15px 0px;
+            @media screen and (min-width: 970px) {
+                min-height: 185px;
+            }
+            &-big{
+                font-size: 20px;
+                @media screen and (min-width: 640px) {
+                    font-size: 23px;
+                }
+                @media screen and (min-width: 970px) {
+                    font-size: 23px;
+                }
+            }
+        }
+        .vfms-flex{
+            display: flex;
+            width: 100%;
+            border-top: 1px solid #ccc;
+            padding: 12px 0 16px 0;
+            justify-content: space-between;
+            &:nth-child(3){
+                border-bottom: 1px solid #ccc;
+            }
+            &-left{
+                display: flex;
+                &__title{
+                    padding-left: 9px;
+                }
+            }
+            &-right{
+                p{
+                    margin-bottom: 0;
+                }
+                display: flex;
+                flex-direction: column;
+                text-align: right;
+            }
+
+    
+        }
+    }
+    .vfms-steps{
+        &__title {
+            @media screen and (min-width: 640px) {
+                font-size: 30px;
+            }
+        }
+    } 
+    .vfms-form {
+        &--container {
+            max-width: 550px;
+            margin: 0 auto;
+        }
+    }
+}
+
+
+
+    

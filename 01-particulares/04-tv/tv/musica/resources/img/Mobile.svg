@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Mobile</title>
+    <defs>
+        <linearGradient x1="26.8239721%" y1="10.7295082%" x2="73.1760279%" y2="89.2704918%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.3" offset="0%"></stop>
+            <stop stop-color="#F6F6F6" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons+Indicators-/-HiFi-Icons-/-mobile-/-light_theme">
+            <g id="mobile_hi">
+                <rect id="bg" fill-opacity="0" fill="#D8D8D8" x="0" y="0" width="96" height="96"></rect>
+                <path d="M32,8 L64,8 C66.209139,8 68,9.790861 68,12 L68,84 C68,86.209139 66.209139,88 64,88 L32,88 C29.790861,88 28,86.209139 28,84 L28,12 C28,9.790861 29.790861,8 32,8 Z" id="Rectangle_path" fill="#EBEBEB" fill-rule="nonzero"></path>
+                <path d="M64,87 L32,87 C29.790861,87 28,85.209139 28,83 L28,84 C28,86.209139 29.790861,88 32,88 L64,88 C66.209139,88 68,86.209139 68,84 L68,83 C68,85.209139 66.209139,87 64,87 Z" id="Shape" fill="#000000" fill-rule="nonzero" opacity="0.06"></path>
+                <path d="M31,16 L65,16 C65.5522847,16 66,16.4477153 66,17 L66,76 C66,76.5522847 65.5522847,77 65,77 L31,77 C30.4477153,77 30,76.5522847 30,76 L30,17 C30,16.4477153 30.4477153,16 31,16 Z" id="Rectangle_path" fill="#333333" fill-rule="nonzero"></path>
+                <path d="M31,16 L65,16 C65.5522847,16 66,16.4477153 66,17 L66,76 C66,76.5522847 65.5522847,77 65,77 L31,77 C30.4477153,77 30,76.5522847 30,76 L30,17 C30,16.4477153 30.4477153,16 31,16 Z" id="Rectangle_path" fill="url(#linearGradient-1)" fill-rule="nonzero" opacity="0.5"></path>
+                <g id="Group" opacity="0.24" transform="translate(30.000000, 16.000000)" fill="#333333" fill-rule="nonzero">
+                    <path d="M35,0.5 C35.2761424,0.5 35.5,0.723857625 35.5,1 L35.5,60 C35.5,60.2761424 35.2761424,60.5 35,60.5 L1,60.5 C0.723857625,60.5 0.5,60.2761424 0.5,60 L0.5,1 C0.5,0.723857625 0.723857625,0.5 1,0.5 L35,0.5 L35,0.5 Z M35,0 L1,0 C0.44771525,0 0,0.44771525 0,1 L0,60 C0,60.5522847 0.44771525,61 1,61 L35,61 C35.5522847,61 36,60.5522847 36,60 L36,1 C36,0.44771525 35.5522847,0 35,0 Z" id="Shape"></path>
+                </g>
+                <path d="M44.355,12 L51.645,12 C51.8410611,12 52,12.1589389 52,12.355 L52,12.645 C52,12.8410611 51.8410611,13 51.645,13 L44.355,13 C44.1589389,13 44,12.8410611 44,12.645 L44,12.355 C44,12.1589389 44.1589389,12 44.355,12 Z" id="Rectangle_path" fill="#4A4D4E" fill-rule="nonzero"></path>
+                <path d="M41.355,12 L41.645,12 C41.8410611,12 42,12.1589389 42,12.355 L42,12.645 C42,12.8410611 41.8410611,13 41.645,13 L41.355,13 C41.1589389,13 41,12.8410611 41,12.645 L41,12.355 C41,12.1589389 41.1589389,12 41.355,12 Z" id="Rectangle_path" fill="#E60000" fill-rule="nonzero"></path>
+                <circle id="Oval" fill="#E60000" fill-rule="nonzero" cx="48" cy="82" r="3"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

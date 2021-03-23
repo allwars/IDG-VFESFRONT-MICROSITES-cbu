@@ -1,0 +1,172 @@
+$hhmobile: 48px;
+$hhtablet: 78px;
+$breakpoint-desktop: 1200px;
+$breakpoint-tablet: 1025px;
+$breakpoint-mov: 765px; //768px; //640px;
+$breakpoint-mov-small: 362px;
+@mixin mq-huge {
+    @media only screen and (min-width: $breakpoint-desktop) {
+        @content;
+    }
+}
+
+@mixin mq-desktop {
+    @media only screen and (min-width: $breakpoint-tablet) {
+        @content;
+    }
+}
+
+@mixin mq-tablet-desktop {
+    @media only screen and (min-width: $breakpoint-mov) {
+        @content;
+    }
+}
+
+@mixin mq-tablet {
+    @media only screen and (min-width: $breakpoint-mov) and (max-width: $breakpoint-tablet) {
+        @content;
+    }
+}
+
+@mixin mq-phone {
+    @media only screen and (max-width: $breakpoint-mov) {
+        @content;
+    }
+}
+
+@mixin mq-phone-small {
+    @media only screen and (min-width: $breakpoint-mov-small) {
+        @content;
+    }
+}
+
+.debug .vfes-ms-content {
+    @include mq-desktop {
+        min-height: 2000px;
+    }
+}
+
+// CSS del microsite
+.vfes-ms-content {
+    background-color: #e5e5e5;
+    padding-top: $hhmobile;
+    @include mq-desktop {
+        padding-top: $hhtablet;
+    }
+    .vf-fl {
+        display: block;
+        width: 50px;
+        float: left;
+        margin-right: 10px;
+        margin-top: -5px;
+    }
+    .vfes-modal {
+        background-color: rgba(0, 0, 0, 0.45);
+    }
+    .vfes-overlay {
+        @media screen and (min-width: 970px) {
+            padding-top: 20px !important;
+            padding-bottom: 20px !important;
+        }
+    }
+    .bf-modal-item {
+        .modal-oferta__icon {
+            float: left;
+            @include mq-tablet-desktop {
+                float: none;
+            }
+        }
+        .vfes-layout__item {
+            margin-top: 20px;
+        }
+    }
+    .performance-hero {
+        position: relative;
+        z-index: 0;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        &__container {
+            @include mq-tablet-desktop {
+                flex-direction: row;
+                flex-wrap: wrap;
+            }
+        }
+        &__title {
+            text-align: center;
+            padding: 0 15px;
+            font-size: 18px;
+            margin: 0;
+            width: 100%;
+            @include mq-desktop {
+                display: none;
+            }
+        }
+        &__img {
+            margin: 20px 0;
+            @include mq-tablet-desktop {
+                width: 200px;
+            }
+            @include mq-desktop {
+                width: 400px;
+            }
+        }
+        .bonus-mid-reference {
+            display: none;
+        }
+    }
+    .performance-card {
+        align-self: center;
+        &__title {
+            margin-bottom: 0;
+            font-size: 20px;
+            text-align: center;
+            @include mq-tablet-desktop {
+                font-size: 28px;
+                text-align: left;
+                margin-left: 50px;
+            }
+        }
+    }
+    .wg-form-trigger {
+        position: absolute;
+        right: 5px;
+        top: 2px;
+        bottom: 2px;
+        padding-left: 10px;
+        padding-right: 15px;
+        width: auto;
+        svg {
+            display: inline-block;
+            vertical-align: middle;
+        }
+        @include mq-desktop {
+            display: none;
+        }
+        &--circle {
+            padding: 0;
+            position: fixed;
+            top: auto;
+            bottom: 5px;
+            right: 10px;
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.35);
+            border: solid 2px #e02020;
+            background-color: #ffffff;
+            svg {
+                width: 30px;
+                height: 30px;
+                path {
+                    fill: #e60000;
+                }
+            }
+        }
+    }
+    .center-xs {
+        text-align: center;
+        @include mq-tablet-desktop {
+            text-align: left;
+        }
+    }
+}

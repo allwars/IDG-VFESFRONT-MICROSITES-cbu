@@ -1,0 +1,15 @@
+<picture>
+			<source media="(min-width:1024px)" srcset="img/cu106-dsk.jpg">
+			<source media="(min-width:768px)" srcset="img/cu106-tb.jpg">
+			
+		</picture><p>
+				Llévate <strong>HBO España</strong> y <strong>Amazon Prime</strong> incluídos en tu tarifa
+			</p><p>
+				<a href="#?dmp=12626262:cp-acciondmp:cn-dmp:md-CU106&amp;c_var_11=dmp-cu106" target="_self" data-analytics-dmp-click="particulares:cu106:tv">
+				Más información
+					<span>:Más información tele con tu tarifa</span>
+				</a>
+				<a href="tel:900920141" title="Llama gratis" data-analytics-dmp-click="particulares:cu106:tv">
+				Llama gratis al 900 920 141
+				</a>
+			</p>

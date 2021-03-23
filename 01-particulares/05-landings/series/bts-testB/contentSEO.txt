@@ -1,0 +1,654 @@
+<h2>
+                    <span>Llévate ahora Vodafone TV con<strong> Vodafone One ilimitada
+                            al 50%</strong></span>
+                </h2><video src="/c/microsite/1500032556294/media/video.mp4" width="622" height="350" autoplay="" muted="">
+                    </video><h4>Vodafone, el
+                        mayor agregador de Cine y Series del mundo</h4><p><a href="#" target="_self" data-modal="youtube" data-modal-youtube="tJJVSMCMsCo" data-modal-close="" aria-haspopup="dialog">Ver video completo</a></p><ul>
+            <li><a title="Home" target="_self" href="https://www.vodafone.es/c/particulares/es/">
+                    Home</a></li>
+            <li><a title="Home" target="_self" href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/television/">Televisión</a>
+            </li>
+            <li>Series</li>
+        </ul><ul>
+                <li>
+                    <button data-rates="toast1" data-option="1" role="tab" aria-controls="simpletab1" title="Tab" aria-label="Tab" aria-selected="false">Vodafone One
+                        ilimitada</button>
+                </li>
+                <li>
+                    <button data-rates="toast2" data-option="2" role="tab" aria-controls="simpletab2" title="Tab" aria-label="Tab" aria-selected="true">Vodafone One
+                        ilimitada Súper</button>
+                </li>
+                <li>
+                    <button data-rates="toast3" data-option="3" role="tab" aria-controls="simpletab3" title="Tab" aria-label="Tab" aria-selected="false">Vodafone One
+                        ilimitada Total</button>
+                </li>
+            </ul><h3>
+                                ¿Qué incluye esta oferta?</h3><ul role="list">
+                                    <li>
+                                        
+                                        <div>
+                                            <h3>
+                                                Datos ilimitados 5G</h3>
+                                            <p>
+                                                A 2Mbps para uso de Redes Sociales, aplicaciones de mensajería
+                                                instantánea, escuchar música online y gestionar el correo electrónico.
+                                            </p>
+                                            <p>
+                                                Llamadas ilimitadas a fijos y móviles. Roaming incluido en Europa y
+                                                EEUU.
+                                            </p>
+
+                                        </div>
+
+                                    </li>
+
+                                    <li>
+                                        
+                                        <div>
+                                            <h3>
+                                                100Mbps de fibra simétrica</h3>
+                                            <p>
+                                                Conecta hasta 7 dispositivos a la vez con la mejor conexión de fibra.
+                                            </p>
+                                            <p>
+                                                Llamadas ilimitadas a fijos y móviles.
+                                            </p>
+
+                                        </div>
+
+                                    </li>
+                                    <li>
+
+
+                                        
+                                        <div>
+                                            <h3>
+                                                Pack Seriefans GRATIS</h3>
+                                            <p>
+                                                Las temporadas completas de las series de HBO España, FOXNOW y AXN Now
+                                                además de canales especialistas en series como TNT o Calle 13 entre
+                                                otros.
+                                            </p>
+                                            <p>
+                                                <a href="#" target="_self" data-modal="seriefans2" data-modal-close="" aria-haspopup="dialog">Ver
+                                                    todos los canales
+                                                    incluidos</a>
+
+                                            </p>
+
+                                        </div>
+
+                                    </li>
+                                </ul><h3>
+                                ¿Qué incluye esta oferta?</h3><ul role="list">
+                                    <li>
+                                        
+                                        <div>
+                                            <h3>
+                                                Datos ilimitados 5G</h3>
+                                            <p>
+                                                A 10Mbps para uso de Redes Sociales, vídeo y música en alta calidad y
+                                                apps de GPS.
+
+                                            </p>
+                                            <p>
+                                                Llamadas ilimitadas a fijos y móviles. Roaming incluido en Europa y
+                                                EEUU.
+                                            </p>
+
+                                        </div>
+
+                                    </li>
+
+                                    <li>
+                                        
+                                        <div>
+                                            <h3>
+                                                100Mbps de fibra simétrica</h3>
+                                            <p>
+                                                Conecta hasta 7 dispositivos a la vez con la mejor conexión de fibra.
+                                            </p>
+                                            <p>
+                                                Llamadas ilimitadas a fijos y móviles.
+                                            </p>
+
+                                        </div>
+
+                                    </li>
+                                    <li>
+
+
+                                        
+                                        <div>
+                                            <h3>
+                                                Pack Serielovers</h3>
+                                            <p>La oferta más completa con todas las series de HBO España, FOXNOW, AXN Now, STARZPLAY y ahora también, Amazon Prime con todas las series de Amazon Prime Video para verlas bajo demanda cuando tú quieras.</p>
+                                            <p>
+                                                <a href="#" target="_self" data-modal="serielovers" data-modal-close="" aria-haspopup="dialog">Ver
+                                                    todos los canales
+                                                    incluidos</a>
+
+                                            </p>
+
+                                        </div>
+
+                                    </li>
+                                </ul><h3>
+                                ¿Qué incluye esta oferta?</h3><ul role="list">
+                                    <li>
+                                        
+                                        <div>
+                                            <h3>
+                                                Datos ilimitados 5G</h3>
+                                            <p>
+                                                A Máxima de velocidad para ver vídeos online de máxima calidad,jugar
+                                                online y descargar y subir archivos de gran tamaño.
+                                            </p>
+                                            <p>
+                                                Llamadas ilimitadas a fijos y móviles. Roaming incluido en Europa y
+                                                EEUU.
+                                            </p>
+
+                                        </div>
+
+                                    </li>
+
+                                    <li>
+                                        
+                                        <div>
+                                            <h3>
+                                                1Gbps de fibra simétrica</h3>
+                                            <p>
+                                                Conecta hasta 15 dispositivos a la vez con la mejor conexión de fibra.
+                                            </p>
+                                            <p>
+                                                Llamadas ilimitadas a fijos y móviles.
+                                            </p>
+
+                                        </div>
+
+                                    </li>
+                                    <li>
+
+
+                                        
+                                        <div>
+                                            <h3>
+                                                Pack Seriefans GRATIS</h3>
+                                            <p>
+                                                Las temporadas completas de las
+                                                series de HBO España, FOXNOW y AXN
+                                                Now además de canales especialistas
+                                                en series como TNT o Calle 13 entre
+                                                otros. </p>
+                                            <p>
+                                                <a href="#" target="_self" data-modal="seriefans2" data-modal-close="" aria-haspopup="dialog">Ver
+                                                    todos los canales
+                                                    incluidos</a>
+
+                                            </p>
+
+                                        </div>
+
+                                    </li>
+                                </ul><h2>Elige otros contenidos de Vodafone
+                TV</h2><span></span><ul>
+
+                        <li data-card="title">
+                            <h3>Netflix
+                            </h3>
+                        </li>
+
+                    </ul><button type="button" data-card="accordion-button">
+                        <span>Ver detalles</span>
+                    </button><div data-card="accordion">
+                    </div><p>
+                            Disfruta de&nbsp;Netflix, películas y series en streaming en tu smart TV, consola, PC, Mac,
+                            móvil, tableta y más dispositivos.
+                        </p><button onclick="window.parent.document.ws_popup.open3('Netflix', '11,99€');" target="_parent">
+                            Lo prefiero<span>:<span></span></span>
+                        </button><span></span><ul>
+
+                        <li data-card="title">
+                            <h3> Pack Documentales
+                            </h3>
+                        </li>
+                        <!-- <li class="vfes-rate-data vfes-rate-data__price">
+                                <p class="vfes-rate-data__price-text">8€<span
+                                        class="vfes-rate-data__gb-small-text vfes-title--light">/mes</span>
+                                </p>
+                            </li>-->
+
+                    </ul><button type="button" data-card="accordion-button">
+                        <span>Ver detalles</span>
+                    </button><div data-card="accordion">
+                    </div><p>
+                            Todo el contenido sobre documentales y entretenimiento de ciencia, historia, naturaleza,
+                            viajes… tanto bajo de demanda como en los canales especialistas más importantes.
+
+                        </p><button onclick="window.parent.document.ws_popup.open3('Pack Documentales', '8€');" target="_parent">
+                            Lo prefiero<span>:<span></span></span>
+                        </button><span></span><ul>
+
+                        <li data-card="title">
+                            <h3> Pack Peques
+                            </h3>
+                        </li>
+                        <!-- <li class="vfes-rate-data vfes-rate-data__price">
+                                <p class="vfes-rate-data__price-text">5€<span
+                                        class="vfes-rate-data__gb-small-text vfes-title--light">/mes</span>
+                                </p>
+                            </li>-->
+
+                    </ul><button type="button" data-card="accordion-button"><span>Ver detalles
+                            <span></span></span></button><div data-card="accordion">
+                    </div><p>
+                            Series, programas, películas y dibujos para disfrutar sin límite. Gran cantidad de
+                            contenido
+                            infantil dirigido a niños y niñas de varias edades ¡La diversión está asegurada!
+                        </p><button onclick="window.parent.document.ws_popup.open3('Pack Peques', '5€');" target="_parent">
+                            Lo prefiero<span>:<span></span></span>
+                        </button><p>
+                        Datos ilimitados 5G+
+                        100Mbps de fibra simétrica +
+                        Pack Seriefans GRATIS
+                    </p><p><strong>31,99€</strong><span>/mes</span><span> (IVA incl)</span>
+                    </p><p>Dto. durante 3 meses, después 64,99€/mes.</p><button type="button" onclick="window.parent.document.ws_popup.open3('tarifa One Ilimitada  Pack Seriefans', '31,99€/mes');">
+                        Quiero esta oferta<span>: Pack Seriefans GRATIS</span>
+                    </button><p>
+                        Datos ilimitados 5G+
+                        100Mbps de fibra simétrica +
+                        Pack Serielovers con HBO España y Amazon Prime Video
+                    </p><p><strong>40,99€</strong><span>/mes</span><span> (IVA incl) 6 meses</span>
+                    </p><button type="button" onclick="window.parent.document.ws_popup.open3('tarifa One Ilimitada Super con Pack Serielovers incluido', '40,99€/mes');">
+                        Quiero esta oferta<span>: Pack Serielovers incluido</span>
+                    </button><p>
+                        Datos ilimitados 5G+
+                        1Gbps de fibra simétrica +
+                        Pack Seriefans con HBO España
+                    </p><p><strong>54,99€</strong><span>/mes</span><span> (IVA incl) 3 meses</span>
+                    </p><button type="button" onclick="window.parent.document.ws_popup.open3('tarifa One Ilimitada Total Pack Seriefans con HBO España', '54,99€/mes');">
+                        Quiero esta oferta<span>: Pack Seriefans con HBO España</span>
+                    </button><button aria-hidden="false"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px">
+                        <title>Close</title>
+                        <use xlink:href="#icon3-close"></use>
+                    </svg></button><div></div><button aria-hidden="false"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px">
+                        <title>Close</title>
+                        <use xlink:href="#icon3-close"></use>
+                    </svg></button><div></div><button aria-hidden="false"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px">
+                        <title>Close</title>
+                        <use xlink:href="#icon3-close"></use>
+                    </svg></button><p>Canales Pack Serielovers</p><ul>
+                        <li>
+                            
+                            <p>HBO España</p>
+                        </li>
+                        <li>
+                            
+                            <p>Amazon Prime Video</p>
+                        </li>
+                        <li>
+                            
+                            <p>Starzplay</p>
+                        </li>
+                        <li>
+                            
+                            <p>Movistar Series</p>
+                        </li>
+                        <li>
+                            
+                            <p>FOXNOW</p>
+                        </li>
+                        <li>
+                            
+                            <p>AXN Now</p>
+                        </li>
+                        <li>
+                            
+                            <p>FOX</p>
+                        </li>
+                        <li>
+                            
+                            <p>AXN</p>
+                        </li>
+                        <li>
+                            
+                            <p>TNT</p>
+                        </li>
+                        <li>
+                            
+                            <p>SYFY</p>
+                        </li>
+                        <li>
+                            
+                            <p>Calle 13</p>
+                        </li>
+                        <li>
+                            
+                            <p>AXN White</p>
+                        </li>
+
+                        <p>Canales Pack Cinefans</p>
+                        <ul>
+                            <li>
+                                
+                                <p>M. Estrenos</p>
+                            </li>
+                            <li>
+                                
+                                <p>Filmin</p>
+                            </li>
+                            <li>
+                                
+                                <p>Hollywood</p>
+                            </li>
+                            <li>
+                                
+                                <p>Somos</p>
+                            </li>
+                            <li>
+                                
+                                <p>Dark</p>
+                            </li>
+                        </ul>
+                    </ul><p>Y además todos los Packs incluyen estos canales:</p><ul>
+                        <li>
+                            
+                            <p>AMC</p>
+                        </li>
+                        <li>
+                            
+                            <p>FOX Life</p>
+                        </li>
+                        <li>
+                            
+                            <p>Cosmo</p>
+                        </li>
+                        <li>
+                            
+                            <p>Comedy Central</p>
+                        </li>
+                        <li>
+                            
+                            <p>XTRM</p>
+                        </li>
+                        <li>
+                            
+                            <p>TCM</p>
+                        </li>
+                        <li>
+                            
+                            <p>Sundance TV</p>
+                        </li>
+                        <li>
+                            
+                            <p>National Geographic</p>
+                        </li>
+                        <li>
+                            
+                            <p>National Geographic+</p>
+                        </li>
+                        <li>
+                            
+                            <p>Cocina</p>
+                        </li>
+                        <li>
+                            
+                            <p>Decasa</p>
+                        </li>
+                        <li>
+                            
+                            <p>MTV</p>
+                        </li>
+                        <li>
+                            
+                            <p>MyMTV Music</p>
+                        </li>
+                        <li>
+                            
+                            <p>SOL Música</p>
+                        </li>
+                        <li>
+                            
+                            <p>HIT TV</p>
+                        </li>
+                        <li>
+                            
+                            <p>Eurosport 1</p>
+                        </li>
+                        <li>
+                            
+                            <p>Disney XD</p>
+                        </li>
+                    </ul><button aria-hidden="false"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px">
+                        <title>Close</title>
+                        <use xlink:href="#icon3-close"></use>
+                    </svg></button><p>Canales Pack Serielovers</p><ul>
+                        <li>
+                            
+                            <p>HBO España</p>
+                        </li>
+
+                        <li>
+                            
+                            <p>FOXNOW</p>
+                        </li>
+                        <li>
+                            
+                            <p>AXN Now</p>
+                        </li>
+                        <li>
+                            
+                            <p>TNT</p>
+                        </li>
+                        <li>
+                            
+                            <p>FOX</p>
+                        </li>
+                        <li>
+                            
+                            <p>SYFY</p>
+                        </li>
+                        <li>
+                            
+                            <p>Calle 13</p>
+                        </li>
+                        <li>
+                            
+                            <p>AXN</p>
+                        </li>
+                        <li>
+                            
+                            <p>AXN White</p>
+                        </li>
+                        <li>
+                            
+                            <p>Movistar Series</p>
+                        </li>
+                        <li>
+                            
+                            <p>Starzplay</p>
+                        </li>
+                        <li>
+                            
+                            <p>Amazon Prime Video</p>
+                        </li>
+                    </ul><p>Y además todos los Packs incluyen estos canales:</p><ul>
+                        <li>
+                            
+                            <p>AMC</p>
+                        </li>
+                        <li>
+                            
+                            <p>FOX Life</p>
+                        </li>
+                        <li>
+                            
+                            <p>Cosmo</p>
+                        </li>
+                        <li>
+                            
+                            <p>Comedy Central</p>
+                        </li>
+                        <li>
+                            
+                            <p>XTRM</p>
+                        </li>
+                        <li>
+                            
+                            <p>TCM</p>
+                        </li>
+                        <li>
+                            
+                            <p>Sundance TV</p>
+                        </li>
+                        <li>
+                            
+                            <p>National Geographic</p>
+                        </li>
+                        <li>
+                            
+                            <p>National Geographic+</p>
+                        </li>
+                        <li>
+                            
+                            <p>Cocina</p>
+                        </li>
+                        <li>
+                            
+                            <p>Decasa</p>
+                        </li>
+                        <li>
+                            
+                            <p>MTV</p>
+                        </li>
+                        <li>
+                            
+                            <p>MyMTV Music</p>
+                        </li>
+                        <li>
+                            
+                            <p>SOL Música</p>
+                        </li>
+                        <li>
+                            
+                            <p>HIT TV</p>
+                        </li>
+                        <li>
+                            
+                            <p>Eurosport 1</p>
+                        </li>
+                        <li>
+                            
+                            <p>Disney XD</p>
+                        </li>
+                    </ul><button aria-hidden="false"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px">
+                            <title>Close</title>
+                            <use xlink:href="#icon3-close"></use>
+                        </svg></button><p>Canales Pack Seriefans</p><ul>
+                            <li>
+                                
+                                <p>HBO España</p>
+                            </li>
+                            <li>
+                                
+                                <p>FOXNOW</p>
+                            </li>
+                            <li>
+                                
+                                <p>AXN Now</p>
+                            </li>
+                            <li>
+                                
+                                <p>TNT</p>
+                            </li>
+                            <li>
+                                
+                                <p>FOX</p>
+                            </li>
+                            <li>
+                                
+                                <p>SYFY</p>
+                            </li>
+                            <li>
+                                
+                                <p>Calle 13</p>
+                            </li>
+                            <li>
+                                
+                                <p>AXN</p>
+                            </li>
+                            <li>
+                                
+                                <p>AXN White</p>
+                            </li>
+                        </ul><p>Y además todos los Packs incluyen estos canales:</p><ul>
+                            <li>
+                                
+                                <p>AMC</p>
+                            </li>
+                            <li>
+                                
+                                <p>FOX Life</p>
+                            </li>
+                            <li>
+                                
+                                <p>Cosmo</p>
+                            </li>
+                            <li>
+                                
+                                <p>Comedy Central</p>
+                            </li>
+                            <li>
+                                
+                                <p>XTRM</p>
+                            </li>
+                            <li>
+                                
+                                <p>TCM</p>
+                            </li>
+                            <li>
+                                
+                                <p>Sundance TV</p>
+                            </li>
+                            <li>
+                                
+                                <p>National Geographic</p>
+                            </li>
+                            <li>
+                                
+                                <p>National Geographic+</p>
+                            </li>
+                            <li>
+                                
+                                <p>Cocina</p>
+                            </li>
+                            <li>
+                                
+                                <p>Decasa</p>
+                            </li>
+                            <li>
+                                
+                                <p>MTV</p>
+                            </li>
+                            <li>
+                                
+                                <p>MyMTV Music</p>
+                            </li>
+                            <li>
+                                
+                                <p>SOL Música</p>
+                            </li>
+                            <li>
+                                
+                                <p>HIT TV</p>
+                            </li>
+                            <li>
+                                
+                                <p>Eurosport 1</p>
+                            </li>
+                            <li>
+                                
+                                <p>Disney XD</p>
+                            </li>
+                        </ul>

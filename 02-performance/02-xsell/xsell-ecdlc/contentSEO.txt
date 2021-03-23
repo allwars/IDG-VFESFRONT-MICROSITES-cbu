@@ -1,0 +1,7 @@
+<h2>Si eres de Vodafone ya eres ilimitable</h2><p>Contrata Serielovers por 10€ y llévate
+					la
+					suscripción a <strong>Amazon Prime incluida.</strong></p><button type="button" onclick="window.parent.document.ws_popup.open3('Pack Serielovers', '0€/mes');" title="Compra fácil">Compra fácil<span>:Pack
+						Serieloves</span></button><div>
+				
+				
+			</div>

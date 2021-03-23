@@ -1,0 +1,29 @@
+// CSS del microsite
+.vfes-ms-content{
+    .vf-block {
+        display: block;
+    }
+    .vf-field {
+        max-width: 450px;
+    }
+    .vf-esCliente {
+        margin: 0 auto;
+    }
+    .vf-device{
+        &--img {
+            width: auto;
+        }
+        &--icon {
+            width: auto;
+        }
+        &--item {
+            border-bottom: 2px solid #f4f4f4;
+        }
+    } 
+    .vf-input__shadow {
+        box-shadow: none;
+    }
+    .vf-input__shadow:focus {
+        box-shadow: none;
+    }
+}

@@ -1,0 +1,16 @@
+<h1 data-animation-element="category">Móvil + Fibra</h1><h2>
+                    <div data-animation-element="1sentence">Los únicos con</div>               
+                    <div data-animation-element="2sentence"><span>datos ilimitados</span> y la</div>   
+                    <div data-animation-element="3sentence"> <span>TV</span> con <span>más contenidos</span></div>
+                </h2><div data-animation-element="sello">
+                    
+                </div><div data-animation-element="imac">
+                    
+                </div><div data-animation-element="ipad">
+                    
+                </div><div data-animation-element="deco">
+                    
+                </div><div data-animation-element="iphone">
+                    
+                </div><path fill="#f4f4f4" d="M 0 85.2514 C 315.313 86.2845 443.806 157.51 881.113 50.7109 C 1317.15 -55.9125 1318.42 33.4285 1536.31 69.3087 C 1818.67 115.154 2156.92 186.209 2560 85.2515 V 231.253 L 0 231.252 V 85.2514 Z"><animate repeatCount="indefinite" fill="freeze" attributeName="d" dur="30s" values="M0 25.9086C277 84.5821 433 65.736 720 25.9086C934.818 -3.9019 1214.06 -5.23669 1442 8.06597C2079 45.2421 2208 63.5007 2560 25.9088V171.91L0 171.91V25.9086Z; M0 86.3149C316 86.315 444 159.155 884 51.1554C1324 -56.8446 1320.29 34.1214 1538 70.4063C1814 116.407 2156 188.408 2560 86.315V232.317L0 232.316V86.3149Z; M0 53.6584C158 11.0001 213 0 363 0C513 0 855.555 115.001 1154 115.001C1440 115.001 1626 -38.0004 2560 53.6585V199.66L0 199.66V53.6584Z; M0 25.9086C277 84.5821 433 65.736 720 25.9086C934.818 -3.9019 1214.06 -5.23669 1442 8.06597C2079 45.2421 2208 63.5007 2560 25.9088V171.91L0 171.91V25.9086Z"></animate></path><div></div><div> 
+    </div>

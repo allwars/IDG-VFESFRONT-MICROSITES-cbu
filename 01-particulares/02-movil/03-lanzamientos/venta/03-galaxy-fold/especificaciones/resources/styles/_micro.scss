@@ -1,0 +1,38 @@
+// CSS del microsite
+.vfes-ms-content{
+    .vfms {
+        &-img {
+            max-width: 288px;
+            margin: 10px 0;
+            border-radius: 10px;
+            @media screen and (min-width: 640px) {
+                min-width: 352px;
+                margin: 0 0 20px 0;
+            }
+            @media screen and (min-width: 1024px) {
+                min-width: 580px;
+                margin: 0 0 40px 0;
+            }
+        }
+        &-button--size {
+            max-width: 288px;
+            @media screen and (min-width: 640px) {
+                width: 150px;
+            }
+        }
+        &-bold {
+            font-family: "VodafoneRegularBold";
+        }
+        &-border {
+            border-top: 1px solid #ccc;
+            padding: 10px;
+            &:last-child {
+                border-bottom: 1px solid #ccc;
+                margin-bottom: 35px;
+            }
+        }
+    }
+    .vfes-mr-- {
+        margin-right: 10px;
+    }
+}

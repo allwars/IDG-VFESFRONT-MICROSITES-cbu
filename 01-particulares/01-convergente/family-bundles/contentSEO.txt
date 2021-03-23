@@ -1,0 +1,1496 @@
+<p>Ahora tu hogar <span>es <strong>ilimitable</strong></span></p><p>Tu hogar <strong>conectado</strong> para disfrutar de los mejores contenidos con la mayor <strong>seguridad</strong></p><h3>
+                                ¿Cuántas líneas móviles necesitas?
+                            </h3><h4>
+        
+                                                    <input type="radio" name="rate" value="1" data-vf-twin="rate-4" checked="">
+                                                    <label for="rate-1">
+                                                            <span>
+                                                                <span data-js="linesFamily">2</span> líneas
+                                                            </span>
+                                                            <span><span>47,50</span>€/mes</span>
+                                                    </label>
+                                                </h4><h4>
+                                                    <input type="radio" name="rate" value="2" data-vf-twin="rate-5">
+                                                    <label for="rate-2">
+                                                                <span>
+                                                                    <span data-js="linesFamily">3</span> líneas
+                                                                </span>
+                                                        <span>
+                                                                    <span>55</span>€/mes
+                                                                </span>
+                                                    </label>
+                                                </h4><h4>
+                                                    <input type="radio" name="rate" value="3" data-vf-twin="rate-6">
+                                                    <label for="rate-3">
+                                                                <span>
+                                                                    <span data-js="linesFamily">4</span> líneas
+                                                                </span>
+                                                        <span>
+                                                                <span>62,50</span>€/mes
+                                                                </span>
+                                                    </label>
+                                                </h4><p>
+                                            Hogar ilimitable 2.0
+                                        </p><p>
+                                                            <span>
+                                                                50% dto. 3 meses
+                                                            </span>
+                                                <span>Permanencia 1 año</span>
+                                                <del>
+                                                    <span>95</span>
+                                                    <span>€</span>
+                                                    <sub>/mes</sub>
+                                                </del>
+                                                <span>
+                                                                    <span>47,50</span>
+                                                                    <span>€</span>
+                                                                    <sub>/mes</sub>
+                                                             </span>
+                                            </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1292057&amp;tcli=0&amp;tta=13" type="submit" data-analytics-id="1500090787835-0001054047192" onmousedown="addtocart(utag_data.plans_add2cart[0])">
+                                                    Lo quiero
+                                                </a><p>
+                                            Hogar ilimitable 3.0
+                                        </p><p>
+                                                            <span>
+                                                                50% dto. 3 meses
+                                                            </span>
+                                                <span>Permanencia 1 año</span>
+                                                <del>
+                                                    <span>110</span>
+                                                    <span>€</span>
+                                                    <sub>/mes</sub>
+                                                </del>
+                                                <span>
+                                                                <span>55</span>
+                                                                <span>€</span>
+                                                                <sub>/mes</sub>
+                                                            </span>
+                                            </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1293270&amp;tcli=0&amp;tta=13" type="submit" data-analytics-id="1500090787835-0004840395856" onmousedown="addtocart(utag_data.plans_add2cart[1])">
+                                                    Lo quiero
+                                                </a><p>
+                                            Hogar ilimitable 4.0
+                                        </p><p>
+                                                            <span>
+                                                                50% dto. 3 meses
+                                                            </span>
+                                                <span>
+                                                    Permanencia 1 año
+                                                </span>
+                                                <del>
+                                                    <span>125</span>
+                                                    <span>€</span>
+                                                    <sub>/mes</sub>
+                                                </del>
+                                                <span>
+                                                                <span>62,50</span>
+                                                                <span>€</span>
+                                                                <sub>/mes</sub>
+                                                            </span>
+                                            </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1293277&amp;tcli=0&amp;tta=13" type="submit" data-analytics-id="1500090787835-0005284714345" onmousedown="addtocart(utag_data.plans_add2cart[2])">
+                                                    Lo quiero
+                                                </a><p>
+                                                Conectividad
+                                            </p><ul>
+                                                    <li>
+                                                        2 líneas con datos y minutos ilimitados
+                                                    </li>
+                                                    <li>
+                                                        Fibra simétrica 600Mbps
+                                                    </li>
+                                                    <li>
+                                                        Super WiFi
+                                                    </li>
+                                                </ul><a href="#rate1-featured1-collapse" data-ws10-collapse="card-rate-ticket-features" data-analytics-id="1500090787835-0006069446667">
+                                                Más detalles
+                                            </a><p>
+                                                Cine y Series
+                                            </p><ul>
+                                                    <li>
+                                                        TV con decodificador 4K
+                                                    </li>
+                                                    <li>
+                                                        HBO España
+                                                    </li>
+                                                    <li>
+                                                        Amazon Prime Video
+                                                    </li>
+                                                </ul><a href="#rate1-featured2-collapse" data-ws10-collapse="card-rate-ticket-features" data-analytics-id="1500090787835-0004702761013">
+                                                Más detalles
+                                            </a><p>
+                                                Hogar inteligente
+                                            </p><ul>
+                                                    <li>
+                                                        Secure Net Family
+                                                    </li>
+                                                </ul><a href="#rate1-featured3-collapse" data-ws10-collapse="card-rate-ticket-features" data-analytics-id="1500090787835-0003195054389">
+                                                Más detalles
+                                            </a><p>
+                                                Conectividad
+                                            </p><ul>
+                                                    <li>
+                                                        3 líneas con datos y minutos ilimitados
+                                                    </li>
+                                                    <li>
+                                                        Fibra simétrica 600Mbps
+                                                    </li>
+                                                    <li>
+                                                        Super WiFi
+                                                    </li>
+                                                    <li>
+                                                        OneNumber
+                                                    </li>
+                                                </ul><a href="#rate2-featured1-collapse" data-ws10-collapse="card-rate-ticket-features" data-analytics-id="1500090787835-0008020607888">
+                                                Más detalles
+                                            </a><p>
+                                                Cine y Series
+                                            </p><ul>
+                                                    <li>
+                                                        TV con decodificador 4K
+                                                    </li>
+                                                    <li>
+                                                        HBO España
+                                                    </li>
+                                                    <li>
+                                                        Amazon Prime Video
+                                                    </li>
+                                                </ul><a href="#rate2-featured2-collapse" data-ws10-collapse="card-rate-ticket-features" data-analytics-id="1500090787835-0008885444000">
+                                                Más detalles
+                                            </a><p>
+                                                Hogar inteligente
+                                            </p><ul>
+                                                    <li>
+                                                        Secure Net Family
+                                                    </li>
+                                                    <li>
+                                                        V-Home Mini
+                                                    </li>
+                                                </ul><a href="#rate2-featured3-collapse" data-ws10-collapse="card-rate-ticket-features" data-analytics-id="1500090787835-0004721904346">
+                                                Más detalles
+                                            </a><p>
+                                                Conectividad
+                                            </p><ul>
+                                                    <li>
+                                                        4 líneas con datos y minutos ilimitados
+                                                    </li>
+                                                    <li>
+                                                        Fibra simétrica 600Mbps
+                                                    </li>
+                                                    <li>
+                                                        Super WiFi
+                                                    </li>
+                                                    <li>
+                                                        OneNumber
+                                                    </li>
+                                                </ul><a href="#rate3-featured1-collapse" data-ws10-collapse="card-rate-ticket-features" data-analytics-id="1500090787835-0005546845240">
+                                                Más detalles
+                                            </a><p>
+                                                Cine y Series
+                                            </p><ul>
+                                                    <li>
+                                                        TV con decodificador 4K
+                                                    </li>
+                                                    <li>
+                                                        HBO España
+                                                    </li>
+                                                    <li>
+                                                        Amazon Prime Video
+                                                    </li>
+                                                </ul><a href="#rate3-featured2-collapse" data-ws10-collapse="card-rate-ticket-features" data-analytics-id="1500090787835-0003108243753">
+                                                Más detalles
+                                            </a><p>
+                                                Hogar inteligente
+                                            </p><ul>
+                                                    <li>
+                                                        Secure Net Family
+                                                    </li>
+                                                    <li>
+                                                        V-Home Mini
+                                                    </li>
+                                                    <li>
+                                                        CarConnect
+                                                    </li>
+                                                </ul><a href="#rate3-featured3-collapse" data-ws10-collapse="card-rate-ticket-features" data-analytics-id="1500090787835-0008232888739">
+                                                Más detalles
+                                            </a><a href="#family-comparative" data-analytics-id="1500090787835-0008780932379">
+                                        Aún tengo dudas, quiero comparar las tarifas
+                                    </a><h2>
+                            <strong>¿Qué incluye el paquete familiar?</strong>
+                        </h2><b>
+                                            Incluido en el paquete
+                                        </b><picture>
+                                        <source media="(min-width: 960px)" srcset="img/conectivity/bg-conectivity.jpg" type="image/jpg">
+                                        <source media="(min-width: 960px)" srcset="img/conectivity/bg-conectivity.webp" type="image/webp">
+                                        <source media="(min-width: 768px)" srcset="img/conectivity/bg-conectivity.jpg" type="image/jpg">
+                                        <source media="(min-width: 768px)" srcset="img/conectivity/bg-conectivity.webp" type="image/webp">
+                                        
+                                    </picture><p>Conectividad</p><h3><strong>Datos Ilimitados 5G y 600Mbps de fibra</strong>
+                                        para estar conectado dentro y fuera de tu hogar
+                                    </h3><picture>
+                                                <source srcset="img/conectivity/moviles-5g.webp" type="image/webp">
+                                                <source srcset="img/conectivity/moviles-5g.jpg" type="image/jpg">
+                                                
+                                            </picture><p><span data-js="numberOfLinesChange">2</span> Líneas móviles con llamadas y <strong>datos
+                                                ilimitados a máxima velocidad en la red 5G.</strong>
+                                            </p><picture>
+                                                <source srcset="img/conectivity/fiber.webp" type="image/webp">
+                                                <source srcset="img/conectivity/fiber.jpg" type="image/jpg">
+                                                
+                                            </picture><p><strong>600Mbps de Fibra
+                                                Simétrica,</strong> podrás conectar más de 25 dispositivos a la vez.
+                                            </p><picture>
+                                                <source srcset="img/conectivity/super-wifi.webp" type="image/webp">
+                                                <source srcset="img/conectivity/super-wifi.jpg" type="image/jpg">
+                                                
+                                            </picture><p>Super WiFi <strong> máxima cobertura y calidad
+                                            de tu red WiFi.</strong>
+                                            </p><picture>
+                                                <source srcset="img/conectivity/onenumber.webp" type="image/webp">
+                                                <source srcset="img/conectivity/onenumber.jpg" type="image/jpg">
+                                                
+                                            </picture><span>
+                                                 Incluido solo en el pack de 3 y 4 líneas
+                                                 </span><p><strong>Mismo número y misma
+                                                    tarifa</strong> de voz y datos en todos tus dispositivos <strong>sin
+                                                    tener que cambiar la SIM</strong> con OneNumber.
+                                                </p><a data-analytics-id="1500090787835-0003970453209" data-backdrop="vf-backdrop-conectivity" data-backdrop-close="" aria-haspopup="dialog">
+                                    <p>Más info</p>
+                                </a><h3>Conectividad</h3><button aria-hidden="false">
+                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                                <title>Close</title>
+                                                <use xlink:href="#icon-close"></use>
+                                            </svg>
+                                        </button><a data-vf-js="_tabsAnimation" role="tab" href="#c-contenedor-1" data-analytics-id="1500090787835-0005617225854">
+                                                    <div>
+                                                        <div>
+                                                            <p>
+                                                                <span data-js="numberOfLinesChange">2</span>
+                                                            </p>
+                                                            <p>Líneas móviles</p>
+                                                        </div>
+                                                        <picture>
+                                                            <source srcset="img/conectivity/pop-up/moviles5g.webp" type="image/webp">
+                                                            <source srcset="img/conectivity/pop-up/moviles5g.png" type="image/png">
+                                                            
+                                                        </picture>
+                                                    </div>
+                                                </a><a data-vf-js="_tabsAnimation" role="tab" href="#c-contenedor-2" data-analytics-id="1500090787835-0003276642375">
+                                                    <div>
+                                                        <div>
+                                                            <p>
+                                                                600Mbps
+                                                            </p>
+                                                            <p>Fibra simétrica</p>
+                                                        </div>
+                                                        <picture>
+                                                            <source srcset="img/conectivity/pop-up/fiber.webp" type="image/webp">
+                                                            <source srcset="img/conectivity/pop-up/fiber.png" type="image/png">
+                                                            
+                                                        </picture>
+                                                    </div>
+                                                </a><a data-vf-js="_tabsAnimation" role="tab" href="#c-contenedor-3" data-analytics-id="1500090787835-0005041072710">
+                                                    <div>
+                                                        <div>
+                                                            <p>
+                                                                Super WiFi
+                                                            </p>
+                                                            <p>Mejor Cobertura</p>
+                                                        </div>
+                                                        <picture>
+                                                            <source srcset="img/conectivity/pop-up/super-wifi.webp" type="image/webp">
+                                                            <source srcset="img/conectivity/pop-up/super-wifi.png" type="image/png">
+                                                            
+                                                        </picture>
+                                                    </div>
+                                                </a><a data-vf-js="_tabsAnimation" role="tab" href="#c-contenedor-4" data-analytics-id="1500090787835-0009837251786">
+                                                    <div>
+                                                        <div>
+                                                            <p>OneNumber</p>
+                                                            <p>
+                                                                Multidispositivo
+                                                            </p>
+                                                        </div>
+                                                        <picture>
+                                                            <source srcset="img/conectivity/pop-up/onenumber.webp" type="image/webp">
+                                                            <source srcset="img/conectivity/pop-up/onenumber.png" type="image/png">
+                                                            
+                                                        </picture>
+                                                    </div>
+                                                </a><ul>
+                                                        <li>
+                                                            <p>Datos ilimitados a
+                                                                <strong>máxima velocidad.</strong>
+                                                            </p>
+                                                        </li>
+                                                        <li>
+                                                            <p><strong>Llamadas y
+                                                                SMS ilimitados</strong> con cualquier operador nacional las 24
+                                                                horas, establecimiento incluido.
+                                                            </p>
+                                                        </li>
+                                                        <li>
+                                                            <p>Todo con la nueva
+                                                                <strong>conexión 5G.</strong>
+                                                            </p>
+                                                        </li>
+                                                        <li>
+                                                            <p><strong>Roaming
+                                                                incluido en la Unión Europea, Reino Unido y EE.UU.</strong> Disfruta sin
+                                                                preocupaciones también en EE.UU.
+                                                            </p>
+                                                        </li>
+                                                    </ul><ul>
+                                                        <li>
+                                                            <p><strong>600Mbps de
+                                                                fibra óptica simétrica</strong>, podrás conectar más de 25
+                                                                dispositivos a la vez.
+                                                            </p>
+                                                        </li>
+                                                        <li>
+                                                            <p><strong>Fijo con
+                                                                llamadas ilimitadas</strong> a fijos y móviles.
+                                                            </p>
+                                                        </li>
+                                                    </ul><ul>
+                                                        <li>
+                                                            <p><strong>Super WiFi</strong> incluido
+                                                                para <strong>ampliar la cobertura WiFi y estabilidad de la conexión</strong> de fibra.</p>
+                                                        </li>
+                                                        <li>
+                                                            <p><strong>Todo en la
+                                                                nube para monitorizar y optimizar la señal</strong>
+                                                                continuamente ante interferencias, movimientos dentro del hogar…
+                                                            </p>
+                                                        </li>
+                                                        <li>
+                                                            <p><strong>Soporte
+                                                                remoto 24x7</strong> monitorizando y optimizando la conexión de
+                                                                forma automática.
+                                                            </p>
+                                                        </li>
+                                                        <li>
+                                                            <p><strong>Incluye dos extensores</strong>, para ampliar la señal de tu router y maximizar la cobertura WiFi en tu hogar.
+                                                            </p>
+                                                        </li>
+                                                    </ul><p>Utiliza tu número de teléfono y tarifa sin cambiar la SIM, en el dispositivo que mejor se adapte a tus necesidades:</p><ul>
+                                                            <li><strong>Smartwatches: Apple Watch 4G </strong>(SE, Series 6, Series 5, Series 4, Series 3), <strong>Samsung Watch 4G </strong>(Galaxy watch3, Galaxy active2, Galaxy watch) o <strong>cualquier otro smartwatch 4G.</strong></li>
+                                                            <li><strong>Teléfono o Tablet con SIM:</strong> que quieras utilizar como dispositivo complementario a tu Smartphone.</li>
+                                                            <li><strong>Smart speaker con Alexa:</strong>conecta tu número móvil a cualquier dispositivo Amazon Echo con Alexa para poder hacer y recibir llamadas utilizando solo tu voz.
+                                                            </li>
+                                                        </ul><span>Incluido solo en el pack de 3 y 4 líneas</span><b>
+                                            Incluido en el paquete
+                                        </b><picture>
+                                        <source media="(min-width: 960px)" srcset="img/entertainment/bg-entertainment-desktop.jpg" type="image/jpg">
+                                        <source media="(min-width: 960px)" srcset="img/entertainment/bg-entertainment-desktop.webp" type="image/webp">
+                                        <source media="(min-width: 768px)" srcset="img/entertainment/bg-entertainment.jpg" type="image/jpg">
+                                        <source media="(min-width: 768px)" srcset="img/entertainment/bg-entertainment-desktop.webp" type="image/webp">
+                                        
+                                    </picture><p>Cine y Series</p><h3><strong>La oferta de TV más
+                                        completa</strong> a tu alcance
+                                    </h3><picture>
+                                                <source srcset="img/entertainment/decodificador.webp" type="image/webp">
+                                                <source srcset="img/entertainment/decodificador.jpg" type="image/jpg">
+                                                
+                                            </picture><p>TV con <strong>+100 canales, +40.000
+                                                contenidos bajo demanda, HBO España y Amazon Prime incluidos con decodificador 4K.</strong>
+                                            </p><picture>
+                                                    <source srcset="img/entertainment/logo-hbo.webp" type="image/webp">
+                                                    <source srcset="img/entertainment/logo-hbo.jpg" type="image/jpg">
+                                                    
+                                                </picture><picture>
+                                                    <source srcset="img/entertainment/logo-prime.webp" type="image/webp">
+                                                    <source srcset="img/entertainment/logo-prime.jpg" type="image/jpg">
+                                                    
+                                                </picture><a data-backdrop="vf-backdrop-entertainment" data-backdrop-close="" aria-haspopup="dialog" data-analytics-id="1500090787835-0004936803224">
+                                    <p>Más info</p>
+                                </a><h3>Cine y Series</h3><button aria-hidden="false">
+                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                                <title>Close</title>
+                                                <use xlink:href="#icon-close"></use>
+                                            </svg>
+                                        </button><a data-vf-js="_tabsAnimation" role="tab" href="#e-contenedor-1" data-analytics-id="1500090787835-0009084383895">
+                                                    <div>
+                                                        <div>
+                                                            <p>
+                                                                TV 4K
+                                                            </p>
+                                                            <p>+ 100 canales</p>
+                                                        </div>
+                                                        <picture>
+                                                            <source srcset="img/entertainment/deco-pop.webp" type="image/webp">
+                                                            <source srcset="img/entertainment/deco-pop.png" type="image/png">
+                                                            
+                                                        </picture>
+                                                    </div>
+                                                </a><a data-vf-js="_tabsAnimation" role="tab" href="#e-contenedor-2" data-analytics-id="1500090787835-0003632818844">
+                                                    <div>
+                                                        <div>
+                                                            <p>
+                                                                HBO
+                                                            </p>
+                                                            <p>España</p>
+                                                        </div>
+                                                        <picture>
+                                                            <source srcset="img/entertainment/hbo-pop.webp" type="image/webp">
+                                                            <source srcset="img/entertainment/hbo-pop.png" type="image/png">
+                                                            
+                                                        </picture>
+                                                    </div>
+                                                </a><a data-vf-js="_tabsAnimation" role="tab" href="#e-contenedor-3" data-analytics-id="1500090787835-0002915083213">
+                                                    <div>
+                                                        <div>
+                                                            <p>
+                                                                Amazon Prime
+                                                            </p>
+                                                            <p>con Prime Video</p>
+                                                        </div>
+                                                        <picture>
+                                                            <source srcset="img/entertainment/prime-pop.webp" type="image/webp">
+                                                            <source srcset="img/entertainment/prime-pop.png" type="image/png">
+                                                            
+                                                        </picture>
+                                                    </div>
+                                                </a><a data-vf-js="_tabsAnimation" role="tab" href="#e-contenedor-4" data-analytics-id="1500090787835-0002915083213">
+                                                    <div>
+                                                        <div>
+                                                            <p>
+                                                                Vodafone
+                                                            </p>
+                                                            <p>
+                                                                TV
+                                                            </p>
+                                                        </div>
+                                                        <picture>
+                                                            <source srcset="img/entertainment/vftv-pop.webp" type="image/webp">
+                                                            <source srcset="img/entertainment/vftv-pop.png" type="image/png">
+                                                            
+                                                        </picture>
+                                                    </div>
+                                                </a><ul>
+                                                    <li>
+                                                        <p>
+                                                            Accede a <strong>HBO España, Amazon Prime Video, YouTube, National Geographic Now, y más apps </strong> desde el menú de tu decodificador.
+                                                        </p>
+                                                    </li>
+                                                    <li>
+                                                        <p>Vodafone TV con <strong>decodificador 4K incluido</strong> para una <strong>experiencia completa e integrada</strong>
+                                                        </p>
+                                                    </li>
+                                                    <li>
+                                                        <p><strong>3 reproducciones simultáneas</strong> (2 dispositivos + decodificador)
+                                                        </p>
+                                                    </li>
+                                                    <li>
+                                                        <p>Con las funcionalidades más avanzadas: <strong>Últimos 7 días, Grabación, Ver Ahora y Descarga</strong>
+                                                        </p>
+                                                    </li>
+                                                </ul><a href="#accordion-canales-tv" data-analytics-id="1500090787835-0008466063626" data-ws10-collapse="linked-accordion">
+                                                                <h3>Ver canales incluidos</h3>
+                                                            </a><ul>
+                                                                    <li>
+                                                                        
+                                                                        <p>HBO España</p>
+                                                                    </li>
+                                                                    <li>
+                                                                        
+                                                                        <p>Amazon Prime</p>
+                                                                    </li>
+                                                                    <li>
+                                                                        
+                                                                        <p>FOXNOW</p>
+                                                                    </li>
+                                                                    <li>
+                                                                        
+                                                                        <p>AXN Now</p>
+                                                                    </li>
+                        
+                                                                    <li>
+                                                                        
+                                                                        <p>FOX</p>
+                                                                    </li>
+                                                                    <li>
+                                                                        
+                                                                        <p>AXN</p>
+                                                                    </li>
+                                                                    <li>
+                                                                        
+                                                                        <p>TNT</p>
+                                                                    </li>
+                                                                    <li>
+                                                                        
+                                                                        <p>Calle 13</p>
+                                                                    </li>
+                                                                    <li>
+                                                                        
+                                                                        <p>SYFY</p>
+                                                                    </li>
+                                                                    <li>
+                                                                        
+                                                                        <p>Comedy Central</p>
+                                                                    </li>
+                                                                    <li>
+                                                                        
+                                                                        <p>AMC</p>
+                                                                    </li>
+                                                                    <li>
+                                                                        
+                                                                        <p>Fox Life</p>
+                                                                    </li>
+                                                                    <li>
+                                                                        
+                                                                        <p>AXN White</p>
+                                                                    </li>
+                                                                    <li>
+                                                                        
+                                                                        <p>COSMO</p>
+                                                                    </li>
+                                                                    <li>
+                                                                        
+                                                                        <p>XTRM</p>
+                                                                    </li>
+                                                                    <li>
+                                                                        
+                                                                        <p>AMC Series</p>
+                                                                    </li>
+                        
+                        
+                        
+                                                                    <li>
+                                                                        
+                                                                        <p>M.Estrenos</p>
+                                                                    </li>
+                                                                    <li>
+                                                                        
+                                                                        <p>TCM</p>
+                                                                    </li>
+                                                                    <li>
+                                                                        
+                                                                        <p>Sundance TV</p>
+                                                                    </li>
+                                                                    <li>
+                                                                        
+                                                                        <p>AMC Cine</p>
+                                                                    </li>
+                        
+                        
+                        
+                        
+                                                                    <li>
+                                                                        
+                                                                        <p>National Geographic</p>
+                                                                    </li>
+                                                                    <li>
+                                                                        
+                                                                        <p>National Geographic Now</p>
+                                                                    </li>
+                                                                    <li>
+                                                                        
+                                                                        <p>Discovery</p>
+                                                                    </li>
+                                                                    <li>
+                                                                        
+                                                                        <p>Odisea</p>
+                                                                    </li>
+                        
+                                                                    <li>
+                                                                        
+                                                                        <p>Nat Geo Wild</p>
+                                                                    </li>
+                                                                    <li>
+                                                                        
+                                                                        <p>Historia</p>
+                                                                    </li>
+                                                                    <li>
+                                                                        
+                                                                        <p>Viajar</p>
+                                                                    </li>
+                                                                    <li>
+                                                                        
+                                                                        <p>Decasa</p>
+                                                                    </li>
+                        
+                        
+                                                                    <li>
+                                                                        
+                                                                        <p>Cocina</p>
+                                                                    </li>
+                                                                    <li>
+                                                                        
+                                                                        <p>Blaze</p>
+                                                                    </li>
+                                                                    <li>
+                                                                        
+                                                                        <p>Crimen e investigación</p>
+                                                                    </li>
+                                                                    <li>
+                                                                        
+                                                                        <p>My Zen TV</p>
+                                                                    </li>
+                        
+                        
+                                                                    <li>
+                                                                        
+                                                                        <p>Festival 4k</p>
+                                                                    </li>
+                                                                    <li>
+                                                                        
+                                                                        <p>Slow Channel</p>
+                                                                    </li>
+                                                                  
+                                                                    <li>
+                                                                        
+                                                                        <p>Fun Box</p>
+                                                                    </li>
+                                                                    <li>
+                                                                        
+                                                                        <p>AMC Documentales</p>
+                                                                    </li>
+                        
+                                                                    <li>
+                                                                        
+                                                                        <p>AMC Entretenimiento</p>
+                                                                    </li>
+                        
+                                                                    <li>
+                                                                        
+                                                                        <p>Disney Jr.</p>
+                                                                    </li>
+                                                                    <li>
+                                                                        
+                                                                        <p>Nick Jr.</p>
+                                                                    </li>
+                        
+                        
+                                                                    <li>
+                                                                        
+                                                                        <p>Nickelodeon</p>
+                                                                    </li>
+                        
+                                                                    <li>
+                                                                        
+                                                                        <p>Canal Panda</p>
+                                                                    </li>
+                        
+                                                                    <li>
+                                                                        
+                                                                        <p>Baby TV</p>
+                                                                    </li>
+                                                                    <li>
+                                                                        
+                                                                        <p>My Nick Jr.</p>
+                                                                    </li>
+                        
+                        
+                        
+                                                                    <li>
+                                                                        
+                                                                        <p>AMC Infantil</p>
+                                                                    </li>
+                        
+                                                                    <li>
+                                                                        
+                                                                        <p>MTV</p>
+                                                                    </li>
+                        
+                                                                    <li>
+                                                                        
+                                                                        <p>MyMTV Music</p>
+                                                                    </li>
+                                                                    <li>
+                                                                        
+                                                                        <p>SOL Música</p>
+                                                                    </li>
+                        
+                        
+                        
+                                                                    <li>
+                                                                        
+                                                                        <p>HIT TV</p>
+                                                                    </li>
+                        
+                                                                    <li>
+                                                                        
+                                                                        <p>Eurosport 1</p>
+                                                                    </li>
+                        
+                                                                    <li>
+                                                                        
+                                                                        <p>Selekt</p>
+                                                                    </li>
+                        
+                                                                    <li>
+                                                                        
+                                                                        <p>Euronews</p>
+                                                                    </li>
+                                                                    <li>
+                                                                        
+                                                                        <p>CNN International</p>
+                                                                    </li>
+                        
+                        
+                                                                    <li>
+                                                                        
+                                                                        <p>CNBC</p>
+                                                                    </li>
+                        
+                                                                    <li>
+                                                                        
+                                                                        <p>BLOOMBERANG</p>
+                                                                    </li>
+                        
+                                                                    <li>
+                                                                        
+                                                                        <p>BBC HD</p>
+                                                                    </li>
+                        
+                                                                    <li>
+                                                                        
+                                                                        <p>Aljazeera</p>
+                                                                    </li>
+                        
+                                                                    <li>
+                                                                        
+                                                                        <p>CGTN</p>
+                                                                    </li>
+                        
+                                                                    <li>
+                                                                        
+                                                                        <p>RT</p>
+                                                                    </li>
+                        
+                                                                    <li>
+                                                                        
+                                                                        <p>France 24</p>
+                                                                    </li>
+                                                                    <li>
+                                                                        
+                                                                        <p>Canal Parlamento</p>
+                                                                    </li>
+                        
+                        
+                                                                    <li>
+                                                                        
+                                                                        <p>EWTN</p>
+                                                                    </li>
+                        
+                                                                    <li>
+                                                                        
+                                                                        <p>DW</p>
+                                                                    </li>
+                        
+                                                                    <li>
+                                                                        
+                                                                        <p>TV5 Monde</p>
+                                                                    </li>
+                                                                    <li>
+                                                                        
+                                                                        <p>RTM</p>
+                                                                    </li>
+                        
+                        
+                                                                    <li>
+                                                                        
+                                                                        <p>TVP</p>
+                                                                    </li>
+                        
+                                                                    <li>
+                                                                        
+                                                                        <p>PRO TV</p>
+                                                                    </li>
+                        
+                                                                    <li>
+                                                                        
+                                                                        <p>AZ Corazón</p>
+                                                                    </li>
+                                                                    <li>
+                                                                        
+                                                                        <p>El Trece TV</p>
+                                                                    </li>
+                        
+                        
+                        
+                                                                    <li>
+                                                                        
+                                                                        <p>Ve Plus TV</p>
+                                                                    </li>
+                        
+                                                                    <li>
+                                                                        
+                                                                        <p>TV Chile</p>
+                                                                    </li>
+                        
+                                                                    <li>
+                                                                        
+                                                                        <p>Cubavisión Internacional</p>
+                                                                    </li>
+                                                                    <li>
+                                                                        
+                                                                        <p>Caracol</p>
+                                                                    </li>
+                                                                </ul><p>También se incluye la <strong>TDT con todos los canales autonómicos, regionales y locales</strong></p><a href="#accordion-funcionality" data-ws10-collapse="linked-accordion" data-analytics-id="1500090787835-0007169029645">
+                                                                <h3>Ver funcionalidades de TV</h3>
+                                                            </a><div>
+                                                                                
+                                                                            </div><p>
+                                                                                Descarga tus contenidos para verlos estés donde estés y cuando quieras.
+                                                                            </p><div>
+                                                                                
+                                                                            </div><p>
+                                                                                Control del Directo: Para, rebobina y pasa a cámara lenta
+                                                                            </p><p>
+                                                                                Más de 350 horas de grabación en la nube.
+                                                                            </p><p>
+                                                                                La televisión aprende de tus gustos y te recomienda y encuentra contenido que estás buscando.
+                                                                            </p><p>
+                                                                                Podrás ver la programación de la última semana y poner un programa ya comenzado desde el inicio.
+                                                                            </p><p>
+                                                                                Con el Servicio Multidispositivo puedes ver tus contenidos en tu smartphone, tablet,  PC, Fire TV Stick, Chromecast y Smart TV." y el logo que acompaña es el de multidispositivo que es como un bodegon con un PC, un móvil y una tablet.
+                                                                            </p><p>HBO España con un extenso <strong>catálogo de miles de contenidos bajo demanda</strong>: temporadas completas, nuevas temporadas emitidas al mismo que en EEUU, últimos estrenos y series en exclusiva.
+                                                        </p><div>
+                                                            
+                                                            
+                                                        </div><div>
+                                                            
+                                                            
+                                                        </div><div>
+                                                            
+                                                            
+                                                        </div><div>
+                                                            
+                                                            
+                                                        </div><div>
+                                                            
+                                                            
+                                                        </div><div>
+                                                            
+                                                            
+                        
+                                                        </div><div>
+                                                            
+                        
+                                                            
+                                                        </div><div>
+                                                            
+                                                            
+                                                        </div><ul>
+                                                    <div>
+                                                        <p>Amazon Prime con <strong>todo el catálogo de Prime Video,</strong> y todos los <strong>beneficios de una suscripción Prime.</strong>
+                                                        </p>
+                                                    </div>
+                                                </ul><div>
+                                                            
+                                                            
+                                                        </div><div>
+                                                            
+                                                            
+                                                        </div><div>
+                                                            
+                                                            
+                                                        </div><div>
+                                                            
+                                                            
+                                                        </div><div>
+                                                            
+                                                            
+                                                        </div><div>
+                                                            
+                                                            
+                        
+                                                        </div><div>
+                                                            
+                                                            
+                                                        </div><div>
+                                                            
+                                                            
+                                                        </div><ul>
+                                                    <div>
+                                                        <p>Vodafone TV: disfruta de <strong>miles de contenidos bajo demanda</strong> y mucho más en el extenso catálogo de <strong>cine y series</strong> que incluye Vodafone TV
+                                                        </p>
+                                                    </div>
+                                                </ul><div>
+                                                            
+                                                            
+                                                        </div><div>
+                                                            
+                                                            
+                                                        </div><div>
+                                                            
+                                                            
+                                                        </div><div>
+                                                            
+                                                            
+                                                        </div><b>
+                                            Incluido en el paquete
+                                        </b><picture>
+                                        <source media="(min-width: 960px)" srcset="img/smarthome/bg-smarthome-desktop.jpg" type="image/jpg">
+                                        <source media="(min-width: 960px)" srcset="img/smarthome/bg-smarthome-desktop.webp" type="image/webp">
+                                        <source media="(min-width: 768px)" srcset="img/smarthome/bg-smarthome-desktop.jpg" type="image/jpg">
+                                        <source media="(min-width: 768px)" srcset="img/smarthome/bg-smarthome-desktop.webp" type="image/webp">
+                                        
+                                    </picture><p>Hogar inteligente</p><h3>Conecta lo que más quieres con
+                                        tranquilidad
+                                    </h3><picture>
+                                                <source srcset="img/smarthome/securenet.webp" type="image/webp">
+                                                <source srcset="img/smarthome/securenet.jpg" type="image/jpg">
+                                                
+                                            </picture><p><strong>Secure Net Family</strong> te protege de <strong>virus (malware) y páginas fraudulentas (phising)</strong>, permitiendo&nbsp;además aplicar políticas de<strong> control parental</strong> en todos los dispositivos de tu hogar.
+                                            </p><picture>
+                                                <source srcset="img/smarthome/v-home.webp" type="image/webp">
+                                                <source srcset="img/smarthome/v-home.jpg" type="image/jpg">
+                                                
+                                            </picture><span>Incluido solo en el pack de 3 y 4 líneas</span><p><strong>V-Home Mini</strong> para ver desde el móvil <strong>lo que pasa en tu casa</strong> cuando no estás.
+                                                </p><picture>
+                                                <source srcset="img/smarthome/connected-car.webp" type="image/webp">
+                                                <source srcset="img/smarthome/connected-car.jpg" type="image/jpg">
+                                                
+                                            </picture><span>Incluido solo en el pack de 4 líneas</span><p>Disfruta de <strong>WiFi en tu coche</strong> con localización, alertas y servicios desde tu móvil <strong>con CarConnect.</strong>
+                                                </p><a data-backdrop="vf-backdrop-smarthome" data-backdrop-close="" aria-haspopup="dialog" data-analytics-id="1500090787835-0006108346239" data-analyitics-category="cta">
+                                        <p>Más info</p>
+                                    </a><h3>Hogar Inteligente</h3><button aria-hidden="false">
+                                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                                    <title>Close</title>
+                                                    <use xlink:href="#icon-close"></use>
+                                                </svg>
+                                            </button><a data-vf-js="_tabsAnimation" role="tab" href="#sm-contenedor-1" data-analytics-id="1500090787835-0004809471064">
+                                                        <div>
+                                                            <div>
+                                                                <p>
+                                                                    Secure Net
+                                                                </p>
+                                                                <p>Family</p>
+                                                            </div>
+                                                            <picture>
+                                                                <source srcset="img/smarthome/securenet-pop.webp" type="image/webp">
+                                                                <source srcset="img/smarthome/securenet-pop.png" type="image/png">
+                                                                
+                                                            </picture>
+                                                        </div>
+                                                    </a><a data-vf-js="_tabsAnimation" role="tab" href="#sm-contenedor-2" data-analytics-id="1500090787835-0006598400998">
+                                                        <div>
+                                                            <div>
+                                                                <p>
+                                                                    V-Home Mini
+                                                                </p>
+                                                                <p>Hogar Seguro</p>
+                                                            </div>
+                                                            <picture>
+                                                                <source srcset="img/smarthome/v-home-pop.webp" type="image/webp">
+                                                                <source srcset="img/smarthome/v-home-pop.png" type="image/png">
+                                                                
+                                                            </picture>
+                                                        </div>
+                                                    </a><a data-vf-js="_tabsAnimation" role="tab" href="#sm-contenedor-3" data-analytics-id="1500090787835-0001112422860">
+                                                        <div>
+                                                            <div>
+                                                                <p>
+                                                                    CarConnect
+                                                                </p>
+                                                                <p>Coche inteligente</p>
+                                                            </div>
+                                                            <picture>
+                                                                <source srcset="img/smarthome/connectedcar-pop.webp" type="image/webp">
+                                                                <source srcset="img/smarthome/connectedcar-pop.png" type="image/png">
+                                                                
+                                                            </picture>
+                                                        </div>
+                                                    </a><ul>
+                                                            <li>
+                                                                <p><strong>Te protege de software malicioso que puede infiltrase y dañar tus dispositivos</strong> o recopilar y divulgar información sin tu consentimiento (malware) y de <strong>páginas fraudulentas que intentan recopilar información personal</strong> como contraseñas o tu tarjeta de crédito (phising).</p>
+                                                            </li>
+                                                            <li>
+                                                                <p><strong>Te permite gestionar el tiempo y acceso a Internet</strong> de una manera sencilla y unificada en todos los dispositivos del hogar a través de funciones avanzadas de control parental que te permiten <strong>filtrar la navegación por tipo de contenido, bloquear el acceso a Internet, elegir los periodos de desconexión digital</strong> para cada miembro de la familia o los contenidos que deben bloquearse para no interferir en sus tiempos de estudio.</p>
+                                                            </li>
+                                                            <li>
+                                                                <p><strong>Te ayuda y asesora</strong> a través de artículos y contenido publicado por expertos <strong>sobre lo que ocurre en Internet y los riesgos</strong> que suponen para ti y para tus hijos.
+                                                                </p>
+                                                            </li>
+                                                        </ul><p>(*) El servicio Secure Net viene activado por defecto. La activación y configuración de Secure Net Family podrás hacerlo a través de la app de gestión.</p><ul>
+                                                            <li>
+                                                                <p><strong>La nueva tecnología</strong> de Vodafone para poder ver lo <strong>que ocurre en casa cuando no estás</strong> y ser avisado si ocurre algo importante que necesites saber.
+                                                                </p>
+                                                            </li>
+                                                            <li>
+                                                                <p>Aquellas familias que tengan <strong>mascotas</strong> a las que dejen <strong>solas en casa, podrán vigilar</strong> cómo se encuentra.
+                                                                </p>
+                                                            </li>
+                                                            <li>
+                                                                <p><strong>Tu hogar SIEMPRE vigilado</strong> Aviso de acceso a tu hogar al instante y podrás llamar rápidamente a emergencias.
+                                                                </p>
+                                                            </li>
+                                                        </ul><span>Incluido solo en el pack de 3 y 4 líneas</span><ul>
+                                                                <li>
+                                                                    <p><strong>Conexión Wi-Fi en el coche para todos</strong> los ocupantes.
+                                                                    </p>
+                                                                </li>
+                                                                <li>
+                                                                    <p><strong>Localización del vehículo</strong> en todo momento a través del móvil.
+                                                                    </p>
+                                                                </li>
+                                                                <li>
+                                                                    <p><strong>Información del estado del coche</strong> que te <strong>muestra errores y fallos registrados</strong> en la centralita
+                                                                    </p>
+                                                                </li>
+                                                                <li>
+                                                                    <p><strong>Ofertas personalizadas</strong> para talleres, gasolineras, etc.
+                                                                    </p>
+                                                                </li>
+                                                            </ul><span>Incluido solo en el pack de 4 líneas</span><p>
+                                    <span><strong>Sin sorpresas.</strong></span>
+                                    <span><strong>No escondemos nada</strong></span>
+                                </p><p>Todas las cuotas de todos los servicios están incluidos:</p><p>Cuota de línea fija incluida.</p><p>Cuota mensual de servicio de Super WiFi, Secure Net Family incluidos.</p><p>Cuota mensual del decodificador 4K incluido. Suscripción mensual de HBO España y Amazon Prime (con Prime Video) incluida.</p><p>Después de 3 meses 95€/mes.</p><p>Permanencia 1 año</p><p>
+                                    <span><strong>Sin sorpresas.</strong></span>
+                                    <span><strong>No escondemos nada</strong></span>
+                                </p><p>Todas las cuotas de todos los servicios están incluidos:</p><p>Cuota de línea fija incluida.</p><p>Cuota mensual de servicio de OneNumber, Super WiFi, Secure Net Family, V-Home Mini incluidos.
+                                </p><p>Cuota mensual del decodificador 4K incluido. Suscripción mensual de HBO España y Amazon Prime (con Prime Video) incluida.
+                                </p><p>Después de 3 meses 110€/mes.</p><p>Permanencia 1 año</p><p>
+                                    <span><strong>Sin sorpresas.</strong></span>
+                                    <span><strong>No escondemos nada</strong></span>
+                                </p><p>Todas las cuotas de todos los servicios están incluidos:</p><p>Cuota de línea fija incluida.</p><p>Cuota mensual de servicio de Super WiFi, OneNumber, Secure Net Family, V-Home Mini y CarConnect incluidos.</p><p>Cuota mensual del decodificador 4K incluido. Suscripción mensual de HBO España y Amazon Prime (con Prime Video) incluida.</p><p>Después de 3 meses 125€/mes.</p><p>Permanencia 1 año.</p><a target="_blank" href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/tarifas-familiares/legales/" title="Ver condiciones legales" data-analytics-id="1500090787835-0009972279240">
+                                <p>Ver Condiciones Legales</p>
+                            </a><h3>
+                <span>¿Cuáles son los siguientes pasos?</span>
+            </h3><ul>
+                <li>
+                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
+                        <title>Business</title>
+                        <use xlink:href="#icon-shopping-trolley-mid"></use>
+                    </svg>
+                    <h4>Compra online</h4>
+                    <p>Recibirás un email de confirmación con el detalle de tu
+                        pedido y próximos pasos para conseguir todos los productos.
+                    </p>
+                </li>
+                <li>
+                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
+                        <title>Business</title>
+                        <use xlink:href="#icon-engineer-mid"></use>
+                    </svg>
+                    <h4>Cita de instalación</h4>
+                    <p>Una vez contratado, un experto se pondrá en contacto contigo para concretar la fecha de instalación que más te convenga. ¡Tú eliges!</p>
+                </li>
+                <li>
+                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
+                        <title>Business</title>
+                        <use xlink:href="#icon-calendar-mid"></use>
+                    </svg>
+                    <h4>Día de instalación</h4>
+                    <p>El técnico llevará el router, los extensores de Super WiFi y el decodificador.
+                    </p>
+                </li>
+                <li>
+                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
+                        <title>Business</title>
+                        <use xlink:href="#icon-business-mid"></use>
+                    </svg>
+                    <h4>Portabilidad</h4>
+                    <p>Eliges la fecha y lugar de entrega de tu nueva SIM del móvil,
+                        y sabrás el día exacto del cambio. Nos aseguramos de que no te quedas sin línea.
+                    </p>
+                </li>
+                <li>
+                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
+                        <title>Business</title>
+                        <use xlink:href="#icon-unified-communication-mid"></use>
+                    </svg>
+                    <h4>Mi Vodafone</h4>
+                    <p>¡Ya eres de Vodafone! Accede a la app para gestionar, activar
+                        y hacer seguimiento de todos los productos.
+                    </p>
+                </li>
+            </ul><h4>
+                <span>¿Aún tienes dudas? Compara entre tarifas</span>
+            </h4><table summary="Tabla comparativa de la tarifa ilimitada Total en función del número de líneas escogidas (entre 1 y 4)">
+                    <caption>Comparativa de tarifas Family Bundles</caption>
+                    <thead>
+                    <tr>
+                        <th headers="blank" scope="col">
+                            <span>1 línea móvil</span><br>
+                            <span><strong>
+                                41,99€
+                                </strong><span>/mes</span></span>
+                        </th>
+                        <th headers="blank" scope="col">
+                            <span>2 líneas móviles</span><br>
+                            <span><strong>
+                                47,50€
+                                </strong><span>/mes</span></span>
+                        </th>
+                        <th headers="blank" scope="col">
+                            <span>3 líneas móviles</span><br>
+                            <span><strong>
+                                55€
+                                </strong><span>/mes</span></span>
+                        </th>
+                        <th headers="blank" scope="col">
+                            <span>4 líneas móviles</span><br>
+                            <span><strong>
+                                62,50€
+                                </strong><span>/mes</span></span>
+                        </th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr>
+                        <th headers="blank" scope="rowgroup" colspan="4"><strong>Datos y llamadas</strong> ilimitados
+                        </th>
+                    </tr>
+                    <tr>
+                        <td headers="total ilimitados"><span>Sí</span></td>
+                        <td headers="moviles2 ilimitados"><span>Sí</span></td>
+                        <td headers="moviles3 ilimitados"><span>Sí</span></td>
+                        <td headers="moviles4 ilimitados"><span>Sí</span></td>
+                    </tr>
+                    <tr>
+                        <th headers="blank" scope="rowgroup" colspan="4">
+                            <strong>600Mbps</strong> de fibra
+                        </th>
+                    </tr>
+                    <tr>
+                        <td headers="total fibra"><span>Sí</span></td>
+                        <td headers="moviles2 fibra"><span>Sí</span></td>
+                        <td headers="moviles3 fibra"><span>Sí</span></td>
+                        <td headers="moviles4 fibra"><span>Sí</span></td>
+                    </tr>
+                    <tr>
+                        <th headers="blank" scope="rowgroup" colspan="4">
+                            <strong>Super WiFi</strong>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td headers="total wifi"><span>No</span></td>
+                        <td headers="moviles2 wifi"><span>Sí</span></td>
+                        <td headers="moviles3 wifi"><span>Sí</span></td>
+                        <td headers="moviles4 wifi"><span>Sí</span></td>
+                    </tr>
+                    <tr>
+                        <th headers="blank" scope="rowgroup" colspan="4">
+                            <strong>OneNumber</strong>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td headers="total onenumber"><span>No</span></td>
+                        <td headers="moviles2 onenumber"><span>No</span></td>
+                        <td headers="moviles3 onenumber"><span>Sí</span></td>
+                        <td headers="moviles4 onenumber"><span>Sí</span></td>
+                    </tr>
+                    <tr>
+                        <th headers="blank" scope="rowgroup" colspan="4">
+                            <strong>TV con +100 canales + HBO España + Amazon Prime</strong>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td headers="total tv"><span>No</span></td>
+                        <td headers="moviles2 tv"><span>Sí</span></td>
+                        <td headers="moviles3 tv"><span>Sí</span></td>
+                        <td headers="moviles4 tv"><span>Sí</span></td>
+                    </tr>
+                    <tr>
+                        <th headers="blank" scope="rowgroup" colspan="4">
+                            <strong>Secure Net</strong> Family
+                        </th>
+                    </tr>
+                    <tr>
+                        <td headers="total securenet"><span>No</span></td>
+                        <td headers="moviles2 securenet"><span>Sí</span></td>
+                        <td headers="moviles3 securenet"><span>Sí</span></td>
+                        <td headers="moviles4 securenet"><span>Sí</span></td>
+                    </tr>
+                    <tr>
+                        <th headers="blank" scope="rowgroup" colspan="4"><strong>CarConnect</strong></th>
+                    </tr>
+                    <tr>
+                        <td headers="total carconnect"><span>No</span></td>
+                        <td headers="moviles2 carconnect">
+                            <span>No</span>
+                        </td>
+                        <td headers="moviles3 carconnect">
+                            <span>No</span>
+                        </td>
+                        <td headers="moviles4 carconnect"><span>Sí</span></td>
+                    </tr>
+                    <tr>
+                        <th headers="blank" scope="rowgroup" colspan="4">
+                            <strong>V-Home</strong> Mini
+                        </th>
+                    </tr>
+                    <tr>
+                        <td headers="total vhome"><span>No</span></td>
+                        <td headers="moviles2 vhome"><span>No</span></td>
+                        <td headers="moviles3 vhome"><span>Sí</span></td>
+                        <td headers="moviles4 vhome"><span>Sí</span></td>
+                    </tr>
+                    </tbody>
+                </table><a data-analytics-id="1500090787835-0006325078277" data-ws10-collapse="card-rate-ticket-features" data-ws10-sticky-backdrop-toggler="">
+                Más detalles
+            </a><p>
+                            Hogar ilimitable 2.0
+                        </p><p>
+                                   <span>
+                                       50% dto. 3 meses
+                                   </span>
+                                    <span>
+                                        Permanencia 1 año
+                                    </span>
+                                    <del>
+                                        <span>95</span>
+                                        <span>€</span>
+                                        <sub>/mes</sub>
+                                    </del>
+                                    <span>
+                                       <span>47,50</span>
+                                       <span>€</span>
+                                       <sub>/mes</sub>
+                                    </span>
+                                </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1292057&amp;tcli=0&amp;tta=13" type="submit" data-analytics-id="1500090787835-0006229912059" onmousedown="addtocart(utag_data.plans_add2cart[0])">
+                                    Lo quiero
+                                </a><p>
+                            Hogar ilimitable 3.0
+                        </p><p>
+                                   <span>
+                                       50% dto. 3 meses
+                                   </span>
+                                    <span>
+                                        Permanencia 1 año
+                                    </span>
+                                    <del>
+                                        <span>110</span>
+                                        <span>€</span>
+                                        <sub>/mes</sub>
+                                    </del>
+                                    <span>
+                                       <span>55</span>
+                                       <span>€</span>
+                                       <sub>/mes</sub>
+                                    </span>
+                                </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1293270&amp;tcli=0&amp;tta=13" type="submit" data-analytics-id="1500090787835-0006229912059" onmousedown="addtocart(utag_data.plans_add2cart[1])">
+                                    Lo quiero
+                                </a><p>
+                            Hogar ilimitable 4.0
+                        </p><p>
+                                   <span>
+                                       50% dto. 3 meses
+                                   </span>
+                                    <span>
+                                        Permanencia 1 año
+                                    </span>
+                                    <del>
+                                        <span>125</span>
+                                        <span>€</span>
+                                        <sub>/mes</sub>
+                                    </del>
+                                    <span>
+                           <span>62,50</span>
+                           <span>€</span>
+                           <sub>/mes</sub>
+                       </span>
+                                </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1293277&amp;tcli=0&amp;tta=13" type="submit" data-analytics-id="1500090787835-0006229912059" onmousedown="addtocart(utag_data.plans_add2cart[2])">
+                                    Lo quiero
+                                </a><p>
+                            ¿Cuántas líneas móviles necesitas?
+                        </p><input type="radio" name="rate" value="4" checked="" data-vf-twin="rate-1"><label for="rate-4">
+                                                   <span>
+                                                       <span data-js="linesFamily">2</span> líneas
+                                                   </span>
+                                                <span><span>47,50</span>€</span>
+                                            </label><input type="radio" name="rate" value="5" data-vf-twin="rate-2"><label for="rate-5">
+                                                   <span>
+                                                       <span data-js="linesFamily">3</span> líneas
+                                                   </span>
+                                                <span>
+                                                       <span>55</span>€
+                                                   </span>
+                                            </label><input type="radio" name="rate" value="6" data-vf-twin="rate-3"><label for="rate-6">
+                                                   <span>
+                                                       <span data-js="linesFamily">4</span> líneas
+                                                   </span>
+                                                <span>
+                                                   <span>62,50</span>€
+                                                   </span>
+                                            </label><p>
+                                        Hogar ilimitable 2.0
+                                    </p><p>
+                                       <span>
+                                           50% dto. 3 meses
+                                       </span>
+                                        <span>Permanencia 1 año</span>
+                                        <del>
+                                            <span>95</span>
+                                            <span>€</span>
+                                            <sub>/mes</sub>
+                                        </del>
+                                        <span>
+                                                   <span>47,50</span>
+                                                   <span>€</span>
+                                                   <sub>/mes</sub>
+                                            </span>
+                                    </p><p>
+                                                Conectividad
+                                            </p><ul>
+                                                    <li>
+                                                        2 líneas con datos y minutos ilimitados
+                                                    </li>
+                                                    <li>
+                                                        Fibra simétrica 600Mbps
+                                                    </li>
+                                                    <li>
+                                                        Super WiFi
+                                                    </li>
+                                                </ul><a href="#sticky1-featured1-collapse" data-ws10-collapse="card-rate-ticket-features">
+                                                Más detalles
+                                            </a><p>
+                                                Cine y Series
+                                            </p><ul>
+                                                    <li>
+                                                        TV con decodificador 4K
+                                                    </li>
+                                                    <li>
+                                                        HBO España
+                                                    </li>
+                                                    <li>
+                                                        Amazon Prime Video
+                                                    </li>
+                                                </ul><a href="#sticky1-featured2-collapse" data-ws10-collapse="card-rate-ticket-features">
+                                                Más detalles
+                                            </a><p>
+                                                Hogar inteligente
+    
+                                            </p><ul>
+                                                    <li>
+                                                        Secure Net Family
+                                                    </li>
+    
+                                                </ul><a href="#sticky1-featured3-collapse" data-ws10-collapse="card-rate-ticket-features">
+                                              Más detalles
+                                            </a><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1292057&amp;tcli=0&amp;tta=13" type="submit" data-analytics-id="1500090787835-0001876445623" onmousedown="addtocart(utag_data.plans_add2cart[0])">
+                                            Lo quiero
+                                        </a><p>
+                                        Hogar ilimitable 3.0
+                                    </p><p>
+                                           <span>
+                                               50% dto. 3 meses
+                                           </span>
+                                        <span>Permanencia 1 año</span>
+                                        <del>
+                                            <span>110</span>
+                                            <span>€</span>
+                                            <sub>/mes</sub>
+                                        </del>
+                                        <span>
+                                               <span>55</span>
+                                               <span>€</span>
+                                               <sub>/mes</sub>
+                                           </span>
+                                    </p><p>
+                                                Conectividad
+                                            </p><ul>
+                                                    <li>
+                                                        3 líneas con datos y minutos ilimitados
+                                                    </li>
+                                                    <li>
+                                                        Fibra simétrica 600Mbps
+                                                    </li>
+                                                    <li>
+                                                        Super WiFi
+                                                    </li>
+                                                    <li>
+                                                        OneNumber
+                                                    </li>
+                                                </ul><a href="#sticky2-featured1-collapse" data-ws10-collapse="card-rate-ticket-features">
+                                                Más detalles
+                                            </a><p>
+                                                Cine y Series
+                                            </p><ul>
+                                                    <li>
+                                                        TV con decodificador 4K
+                                                    </li>
+                                                    <li>
+                                                        HBO España
+                                                    </li>
+                                                    <li>
+                                                        Amazon Prime Video
+                                                    </li>
+                                                </ul><a href="#sticky2-featured2-collapse" data-ws10-collapse="card-rate-ticket-features">
+                                                Más detalles
+                                            </a><p>
+                                                Hogar inteligente
+                                            </p><ul>
+                                                    <li>
+                                                        Secure Net Family
+                                                    </li>
+                                                    <li>
+                                                        V-Home Mini
+                                                    </li>
+                                                </ul><a href="#sticky2-featured3-collapse" data-ws10-collapse="card-rate-ticket-features">
+                                                Más detalles
+                                            </a><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1293270&amp;tcli=0&amp;tta=13" type="submit" data-analytics-id="1500090787835-0007110971024" onmousedown="addtocart(utag_data.plans_add2cart[1])">
+                                            Lo quiero
+                                        </a><p>
+                                        Hogar ilimitable 4.0
+                                    </p><p>
+                                           <span>
+                                               50% dto. 3 meses
+                                           </span>
+                                        <span>
+                                            Permanencia 1 año
+                                        </span>
+                                        <del>
+                                           <span>
+                                               125
+                                           </span>
+                                            <span>€</span>
+                                            <sub>/mes</sub>
+                                        </del>
+                                        <span>
+                                               <span>
+                                                   62,50
+                                               </span>
+                                               <span>€</span>
+                                               <sub>/mes</sub>
+                                           </span>
+                                    </p><p>
+                                                Conectividad
+                                            </p><ul>
+                                                    <li>
+                                                        4 líneas con datos y minutos ilimitados
+                                                    </li>
+                                                    <li>
+                                                        Fibra simétrica 600Mbps
+                                                    </li>
+                                                    <li>
+                                                        Super WiFi
+                                                    </li>
+                                                    <li>
+                                                        OneNumber
+                                                    </li>
+                                                </ul><a href="#sticky3-featured1-collapse" data-ws10-collapse="card-rate-ticket-features">
+                                               Más detalles
+                                            </a><p>
+                                                Cine y Series
+                                            </p><ul>
+                                                    <li>
+                                                        TV con decodificador 4K
+                                                    </li>
+                                                    <li>
+                                                        HBO España
+                                                    </li>
+                                                    <li>
+                                                        Amazon Prime Video
+                                                    </li>
+                                                </ul><a href="#sticky3-featured2-collapse" data-ws10-collapse="card-rate-ticket-features">
+                                                Más detalles
+                                            </a><p>
+                                                Hogar inteligente
+                                            </p><ul>
+                                                    <li>
+                                                        Secure Net Family
+                                                    </li>
+                                                    <li>
+                                                        V-Home Mini
+                                                    </li>
+                                                    <li>
+                                                        CarConnect
+                                                    </li>
+                                                </ul><a href="#sticky3-featured3-collapse" data-ws10-collapse="card-rate-ticket-features">
+                                                Más detalles
+                                            </a><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1293277&amp;tcli=0&amp;tta=13" type="submit" data-analytics-id="1500090787835-0004138116800" onmousedown="addtocart(utag_data.plans_add2cart[2])">
+                                            Lo quiero
+                                        </a>

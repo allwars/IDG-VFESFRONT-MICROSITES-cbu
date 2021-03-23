@@ -1,0 +1,46 @@
+// Aqui se pueden importar librerías externas
+// ej: @import '/tools/functions';
+
+@import "micro";
+
+.vfes-ms-content {
+
+  .vfms-rate {
+    min-height: 297px;
+  }
+
+  .vfms-last-rate {
+    padding-bottom: 46px;
+  }
+
+  .vfms-why {
+    background-image: url("../img/bg-why-vodafone.jpg");
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .vfms-banner {
+    &-text {
+      order: 2;
+    }
+
+    &-img {
+      order: 1;
+    }
+  }
+
+  @media screen and (min-width: 970px) {
+    .vfms-banner {
+      &-text {
+        order: 1;
+      }
+
+      &-img {
+        order: 2;
+      }
+    }
+
+  }
+
+}

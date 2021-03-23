@@ -1,0 +1,130 @@
+// CSS del microsite
+.vfms-content{
+
+.vfes-iconShopping{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+
+    &:hover .vfes-iconShopping__list{
+      display: block;
+      animation: fadeIn ease 0.5s;
+      -webkit-animation: fadeIn ease 0.5s;
+      -moz-animation: fadeIn ease 0.5s;
+      -o-animation: fadeIn ease 0.5s;
+      -ms-animation: fadeIn ease 0.5s;
+    }
+    &:hover .vfes-iconShopping__icon{
+      background-color: #ebebeb;
+
+    }
+
+  @keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+  }
+
+  @-moz-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+  }
+
+  @-webkit-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+  }
+
+  @-o-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+  }
+
+  @-ms-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+  }
+    &__icon{
+      width: 72px;
+      height: 72px;
+      position: relative;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border: none;
+      cursor: pointer;
+      background: #ffffff;
+    }
+    &__iconshopping{
+      width: 32px;
+      height: 32px;
+    }
+    &__list{
+      display: none;
+      list-style: none;
+      background-color: #ebebeb;
+      width: 295px;
+      margin-left: 0;
+
+      &--item{
+        display: flex;
+        // align-items: center;
+        padding: 20px;
+        border-bottom: solid 2px #cccccc;
+        &-container {
+          position: relative;
+        }
+
+        &__price{
+          border: none;
+          flex-direction: column;
+          align-items: start;
+          color: #333;
+          &--text {
+            text-align: left;
+          }
+        }
+      }
+
+      &--icon{
+        width: 35px;
+        height: 35px;
+        margin-right: 10px;
+      }
+      &--badge {
+        position: absolute;
+        bottom: -10px;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+    }
+    &__price{
+      font-weight: 700;
+      font-size: 28px;
+    }
+  }
+  .open .vfes-iconShopping__list{
+    display: block;
+  }
+  .vfms-counter {
+      width: 15px;
+      height: 15px;
+      background: #e60000;
+      border-radius: 50%;
+      color: #ffffff;
+      text-align: center;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: bold;
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      font-size: 12px;
+  }
+  .vfms-iconShopping__list {
+    left: 0;
+  }
+}

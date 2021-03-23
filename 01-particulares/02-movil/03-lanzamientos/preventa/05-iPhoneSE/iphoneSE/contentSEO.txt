@@ -1,0 +1,236 @@
+<main role="main">
+		<!-- PARTNER-MODULE : BODY : BEGIN -->
+		<div>
+	
+			<!-- PARTNER-MODULE : HEAD : END -->
+			<section>
+				<div>
+					<figure></figure>
+					<figure></figure>
+					<figure>
+						<h1>iPhone&nbsp;SE. Mucho iPhone. Por&nbsp;menos.</h1>
+					</figure>
+					<div>
+						<p>El iPhone&nbsp;SE une el chip más potente, el&nbsp;tamaño de&nbsp;iPhone más popular y un precio más asequible. Justo&nbsp;lo que estabas esperando.</p>
+						<a href="#catalogo" role="button" aria-label="Comprar un iPhone:nbsp:SE">Reservar</a>
+					</div>
+					<figure></figure>
+				</div>
+			</section>
+			<section>
+				<div>
+					<div>
+						<div>
+							<div>
+								<figure>
+									<h2>Diseño. Una pequeña obra maestra.</h2>
+								</figure>
+								<figure></figure>
+								<p>Asombrosa pantalla Retina&nbsp;HD de 4,7&nbsp;pulgadas. La velocidad y&nbsp;la seguridad de&nbsp;Touch&nbsp;ID. Resistencia al agua hasta un&nbsp;metro de profundidad durante 30&nbsp;minutos.<sup><a href="#footnote-1" aria-label="Footnote 1">1</a></sup> Todo en un diseño fino y&nbsp;ligero.</p>
+							</div>
+							<div>
+								<figure></figure>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div>
+					<div>
+						<div>
+							<div>
+								<figure>
+									<h2>Rendimiento. Gracias por&nbsp;el&nbsp;chip, iPhone&nbsp;11&nbsp;Pro.</h2>
+								</figure>
+								<figure></figure>
+								<p>El A13&nbsp;Bionic es el chip más rápido en un smartphone. Lo&nbsp;notarás al abrir apps o echar partidas, y podrás hacer lo que quieras a una velocidad increíble.</p>
+							</div>
+							<div>
+								<figure></figure>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div>
+					<div>
+						<div>
+							<div>
+								<figure>
+									<h2>Cámara. Sonríe, estás en modo&nbsp;Retrato.</h2>
+								</figure>
+								<figure></figure>
+								<p>El sistema de cámara avanzado incluye el modo Retrato, que resalta al protagonista incluso cuando haces selfies. Es otro regalo del chip A13&nbsp;Bionic.</p>
+							</div>
+							<div>
+								<figure></figure>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div>
+					<div>
+						<div>
+							<div>
+								<figure>
+									<h2>Vídeo. Vídeo de alta, alta, alta, alta definición.</h2>
+								</figure>
+								<p>El vídeo&nbsp;4K tiene cuatro veces más definición que el formato Full&nbsp;HD. Y&nbsp;con QuickTake puedes grabar un vídeo desde el&nbsp;modo fotos con solo mantener pulsado el&nbsp;disparador.</p>
+							</div>
+							<div>
+								<figure></figure>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div>
+					<div>
+						<div>
+							<div>
+								<figure>
+									<h2>Batería. Devorarás la serie, no&nbsp;la&nbsp;batería.</h2>
+								</figure>
+								<p>El iPhone&nbsp;SE te permite ver hasta 13&nbsp;horas de vídeo con una sola carga, así que elige título y ponte cómodo.<sup><a href="#footnote-2" aria-label="Footnote 2">2</a></sup></p>
+							</div>
+							<div>
+								<figure></figure>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div>
+					<div>
+						<div>
+							<div>
+								<figure>
+									<h2>Privacidad. Privacidad de&nbsp;serie.</h2>
+								</figure>
+								<figure></figure>
+								<p>Los productos Apple están diseñados para proteger tu privacidad y darte el control de tu información. La tarea no siempre es&nbsp;sencilla, pero es el tipo de innovación en el&nbsp;que cree Apple.</p>
+							</div>
+							<div>
+								<figure></figure>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div>
+					<div>
+						<figure>
+							<h2>Lo bueno no se acaba.</h2>
+						</figure>
+						<div>
+							<div>
+								<div>
+									<figure></figure>
+									<h3>True&nbsp;Tone</h3>
+									<p>Esta prestación ajusta de forma dinámica el balance de blancos para mantener los tonos naturales y reducir la fatiga visual.</p>
+								</div>
+							</div>
+							<div>
+								<div>
+									<figure></figure>
+									<h3>Respuesta háptica</h3>
+									<p>Mantén pulsado un icono para ver&nbsp;los atajos (notarás una pequeña vibración como si&nbsp;estuvieras pulsando un botón físico).</p>
+								</div>
+							</div>
+							<div>
+								<div>
+									<figure></figure>
+									<h3>Realidad aumentada</h3>
+									<p>Usa las últimas apps de realidad aumentada para medir objetos de tu casa, superponer constelaciones sobre el cielo y&nbsp;mucho&nbsp;más.</p>
+								</div>
+							</div>
+							<div>
+								<div>
+									<figure></figure>
+									<h3>Grabación en&nbsp;estéreo</h3>
+									<p>El iPhone&nbsp;SE graba vídeos en estéreo para que el sonido esté a&nbsp;la altura de la imagen.</p>
+								</div>
+							</div>
+							<div>
+								<div>
+									<figure></figure>
+									<h3>Redes wifi y&nbsp;móviles más&nbsp;rápidas</h3>
+									<p>Con la tecnología wifi de sexta generación y LTE de clase Gigabit, la&nbsp;velocidad está asegurada en redes tanto wifi como móviles.<sup><a href="#footnote-3" aria-label="Footnote 3">3</a></sup></p>
+								</div>
+							</div>
+							<div>
+								<div>
+									<figure></figure>
+									<h3>Audio compartido</h3>
+									<p>Enlaza un par de&nbsp;AirPods o&nbsp;auriculares Beats al&nbsp;iPhone para escuchar la misma música con un amigo.<sup><a href="#footnote-4" aria-label="Footnote 4">4</a></sup></p>
+								</div>
+							</div>
+							<div>
+								<div>
+									<figure></figure>
+									<h3>Doble SIM. Dos&nbsp;números.</h3>
+									<p>La doble SIM con eSIM te permite tener un número personal y otro del trabajo en el&nbsp;mismo&nbsp;iPhone.<sup><a href="#footnote-5" aria-label="Footnote 5">5</a></sup></p>
+								</div>
+							</div>
+							<div>
+								<div>
+									<figure></figure>
+									<h3>Carga rápida</h3>
+									<p>Conéctalo a un adaptador de carga rápida (se&nbsp;vende por separado) para pasar del 0 al 50&nbsp;% de batería en media&nbsp;hora.<sup><a href="#footnote-6" aria-label="Footnote 6">6</a></sup></p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<section>
+				<div>
+					<div> 
+					<section>
+						<div>
+							<div>
+								<h3>Llévate uno de estos iPhone con tu<span> Tarifa Móvil + Fibra</span> o tu<span> Tarifa Móvil</span></h3>
+							</div>
+							<div>
+								<div>
+									<h4>iPhone SE</h4>
+									<p>64GB Negro</p>
+									
+									<p>desde<strong>10,50</strong>€/mes</p>
+									<p>con <span> Vodafone One ilimitada Súper</span></p>
+									<p>x 36 meses </p>
+									<button data-modal="info" data-modal-close="" aria-haspopup="dialog" data-device-name="iPhone SE 64GB Negro">Reservar</button><span>:iPhone SE 64GB Negro tarifa movil + fibra</span>
+								</div>
+							</div>
+							<div>
+								<div>
+									<h4>iPhone SE</h4>
+									<p>64GB Negro</p>
+									
+									<p>desde<strong>11</strong>€/mes</p>
+									<p>con <span> Tarifa Móvil Ilimitada Súper</span></p>
+									<p>x 36 meses </p>
+									<button data-modal="info" data-modal-close="" aria-haspopup="dialog" data-device-name="iPhone SE 64GB Negro">Reservar</button><span>:iPhone SE 64GB Negro tarifa movil</span>
+								</div>
+							</div>
+						</div>
+					</section> 
+					</div>
+				</div>
+			</section>
+			<section>
+				<div>
+					<ol>
+						<li>El iPhone&nbsp;SE (2ª&nbsp;generación) es resistente a las salpicaduras, el agua y el polvo. Las pruebas se han realizado bajo control en un laboratorio y este modelo ha obtenido la calificación&nbsp;IP67 según la norma IEC&nbsp;60529 (hasta 1&nbsp;metro de profundidad durante un máximo de 30&nbsp;minutos). La resistencia a las salpicaduras, el&nbsp;agua y el polvo no es permanente y puede disminuir como consecuencia del uso habitual. No intentes cargar el iPhone si está mojado. Consulta el manual del usuario antes de limpiarlo o secarlo. La&nbsp;garantía no cubre los daños producidos por líquidos.</li>
+						<li>La autonomía depende de la configuración de la red y de otros muchos factores. Los&nbsp;resultados reales pueden variar. La batería tiene un número limitado de ciclos de carga y pasado un tiempo puede ser necesario sustituirla en un Proveedor de Servicios Apple. Su duración y número de ciclos de carga varían según el uso y los ajustes. Más información en <a href="https://www.apple.com/es/batteries/">apple.com/es/batteries</a> y <a href="https://www.apple.com/es/iphone/battery.html">apple.com/es/iphone/battery.html</a>.</li>
+						<li>Se requiere un plan de datos. La red LTE de clase Gigabit solo está disponible en algunos países y con determinados operadores. La velocidad se basa en datos teóricos y puede variar según el operador y las condiciones del lugar. Para obtener más información sobre la compatibilidad con redes LTE, ponte en contacto con tu operador y consulta la página <a href="https://www.apple.com/es/iphone/LTE/">apple.com/es/iphone/LTE</a>.</li>
+						<li>Compatible con los AirPods (1.ª&nbsp;generación o posterior), Powerbeats&nbsp;Pro, Beats&nbsp;Solo3&nbsp;Wireless, BeatsX, Beats&nbsp;Studio3 Wireless y Powerbeats3&nbsp;Wireless. Requiere la última versión de&nbsp;iOS.</li>
+						<li>El uso de una eSIM requiere un plan de datos móviles (que puede incluir condiciones especiales de portabilidad e itinerancia, incluso una vez finalizado el contrato). La&nbsp;eSIM no es compatible con todos los operadores. La eSIM podría estar desactivada al comprar el iPhone a través de determinados operadores. Consulta los detalles con tu operador. Más información en <a href="https://support.apple.com/es-es/HT209044">support.apple.com/es-es/HT209044</a>.</li>
+						<li>Pruebas realizadas por Apple en febrero de 2020 con prototipos del iPhone&nbsp;SE (2.ª&nbsp;generación) y versiones beta de software empleando adaptadores USB-C de Apple (modelo A1720 de 18&nbsp;W y modelo A1882 de 30&nbsp;W). Pruebas de carga rápida realizadas con unidades de iPhone al 0&nbsp;% de batería. El tiempo de carga depende de factores ambientales. Los&nbsp;resultados reales pueden variar.</li>
+					</ol>
+				</div>
+			</section>
+		</div>
+		<!--/sk_overview-->
+		<!-- PARTNER-MODULE : BODY : END -->
+	</main><button aria-hidden="false"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px">
+              <title>Close</title>
+              <use xlink:href="#icon3-close"></use>
+            </svg></button><p></p><p>¡Solo te queda un paso!</p><p>Déjanos tus datos y nos pondremos en contacto
+              contigo para finalizar la reserva.</p><input style="display:none;" value="NO" name="verifyLeadId"><input name="wg-return" value="gracias" type="hidden"><input type="radio" name="esCliente" data-wg-validation="required" value="si"><label for="radio1">Soy cliente</label><input type="radio" name="esCliente" data-wg-validation="required" value="no"><label for="radio2">No soy
+                    cliente</label><input type="hidden"><input type="hidden" style="display:none;" name="phone-model" placeholder="Modelo Teléfono"><input type="text" name="nombre" data-wg-validation="required" placeholder="Nombre"><input type="hidden"><input type="phone" name="phone" inputmode="numeric" pattern="[0-9]*" maxlength="9" data-wg-validation="required,phone" placeholder="Nº teléfono" oninput="javascript: if (this.value.length > this.maxLength) this.value = this.value.slice(0, this.maxLength);"><input type="hidden"><input data-wg-validation="required" type="checkbox" value="on" name="check"><label for="privacy">Acepto la <a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/movil/catalogo-clientes/politica-privacidad/" title="Vodafone One" target="_blank" data-modal="legales" rel="nofollow">&nbsp;Política de Privacidad</a></label><input type="hidden"><input type="checkbox" name="gdpr" value="on"><label for="comunication">Acepto recibir comunicaciones comerciales de Vodafone </label><input type="submit" value="Enviar">

@@ -1,0 +1,82 @@
+// CSS del microsite
+.content {
+    position: relative;
+}
+.dropdown {
+    font-family: "VodafoneRegular",Helvetica,Arial,sans-serif;
+    position: absolute;
+    top: 0;
+    left: 0;
+    // transform: translateX(-50%) translateY(-50%);
+    // padding: 20px;
+    width: 200px;
+    z-index: 2;
+    
+    &__switch:checked + &__options-filter &__select {
+        transform: scaleY(1);
+    }
+    
+    &__switch:checked + &__options-filter &__filter:after {
+        transform: rotate(-135deg);
+    }
+    
+    &__options-filter {
+    width: 100%;
+    cursor: pointer;
+    }
+
+    &__filter {
+    font-family: "VodafoneRegular",Helvetica,Arial,sans-serif;
+    display: flex;
+    position: relative;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #E60000;
+    color: #fff;
+    font-size: 14px;
+
+    &::after {
+        position: absolute;
+        top: 45%;
+        right: 20px;
+        width: 10px;
+        height: 10px;
+        transform: rotate(45deg) translateX(-45%);
+        transition: .2s ease-in-out;
+        border-right: 2px solid #fff;
+        border-bottom: 2px solid #fff;
+        content: "";
+    }
+    }
+
+    &__select {
+    font-family: "VodafoneRegular",Helvetica,Arial,sans-serif;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    margin-top: 5px;
+    transition: .2s ease-in-out;
+    font-weight: 300;
+    box-shadow: 0 5px 10px 0 rgba(152, 152, 152, 0.6);
+        transform: scaleY(0);
+        transform-origin: top;
+    overflow: hidden;
+    color: #333;
+    }
+
+    &__select-option {
+    font-family: "VodafoneRegular",Helvetica,Arial,sans-serif;
+    padding: 20px;
+    transition: .3s;
+    background-color: #fff;
+
+    &:first-of-type {
+        border-bottom: 1px solid #d6d6d6;
+    }
+
+    &:hover {
+        background-color: #f9f9f9;
+    }
+    }	
+}   

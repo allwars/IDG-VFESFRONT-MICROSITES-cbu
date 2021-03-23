@@ -1,0 +1,16 @@
+// CSS del microsite
+@import "partials/breadcrumbs";
+@import "partials/advantages";
+@import "partials/bannerTicket";
+@import "partials/atikaOffers";
+@import "partials/vodafoneTV";
+@import "partials/fiberMobilTv";
+@import "partials/steps";
+@import "partials/sticky";
+
+.vfes-ms-content {
+
+  iframe{
+    width: 100%;
+  }
+}

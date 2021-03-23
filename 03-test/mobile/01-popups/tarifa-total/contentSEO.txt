@@ -1,0 +1,14 @@
+<button aria-hidden="false"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><title>Close</title><use xlink:href="#icon3-close"></use></svg></button><h2>¿Qué puedes hacer con datos ilimitados?</h2><p>Ya no tienes que buscar WIFI. Ahora con <strong>datos ilimitados</strong> podrás, por ejemplo, acceder a apps de juego online, descargar y subir archivos de gran tamaño o ver vídeos en máxima calidad.</p><p>Con la Tarifa Móvil Ilimitada Total disfruta de la máxima velocidad<strong> 5G</strong></p><p>Te recomendamos esta tarifa para</p><ul>
+                                <li>Vídeos Online de máxima calidad</li>
+                                <li>Jugar Online</li>
+                                <li>Aplicaciones de mensajería instantánea</li>
+                                <li>Redes Sociales</li>
+                                <li>Música Online</li>
+                                <li>Video y música online de alta calidad</li>
+                                <li>Uso avanzado de redes sociales</li>
+                                <li>Aplicaciones que requieren ubicación</li>
+                                <li>Videojuegos online</li>
+                                <li>Descargar y subir archivos de gran tamaño</li>
+                                <li>Vídeos en máxima calidad (UHD Y 4K)</li>
+                            </ul><div>
+                </div>

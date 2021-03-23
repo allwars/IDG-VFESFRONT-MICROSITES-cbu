@@ -1,0 +1,34 @@
+<p><span>Oferta válida</span> hasta el 31 de octubre</p><ul>
+                        <li>
+                            <div>
+                                             
+                            </div>
+                            <div>
+                                <p><span>600Mbps Fibra</span></p>
+                                <p><span>Antes 300Mbps</span></p>
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                  
+                            </div>
+                            <div>
+                                <p><span>Fijo + llamadas ilimitadas</span></p>
+                                <p>entre fijos y móviles</p>
+                            </div>
+                        </li>
+                        <li>
+                            <p><span>Fibra yuser recomendada para estudiantes</span></p>
+                            <p><span>Precio final, sin promociones.</span></p>
+
+                            <div>
+                                <div>
+                                    <p><span>Sin permanencia</span></p>
+                                    <p><span>32€</span><span>/mes</span></p>
+                                </div>
+                                <div>
+                                    <a href="https://yu.vodafone.es/contratacion/inicio/tarifa-fibra/" target="_parent" data-analytics-product="movil+fibra;vodafone one ilimitada super"><span>Lo quiero<span>Lo quiero</span></span></a>
+                                </div>
+                            </div>
+                        </li>
+                    </ul><a _ngcontent-woh-c34="" tabindex="0" type="button" title="Más información: Fibra Yuser"> Más info <span _ngcontent-woh-c34="">: Fibra Yuser</span></a>

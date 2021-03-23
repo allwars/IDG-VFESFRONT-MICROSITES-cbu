@@ -1,0 +1,533 @@
+<div data-spritesheet="svg/sprite.mid.svg"></div><main>
+			<section>
+				<div> 
+					<h3>Samsung Galaxy S20 FE 5G</h3>
+					<h4>Elige el Samsung Galaxy que más se adapte a ti y llévate gratis los 3 primeros meses de <span>Vodafone Care</span></h4> 
+					<div>
+						<div>
+							<ul>
+								<li>
+									<button data-option="1" role="tab" aria-controls="simpletab1" title="nuevo cliente" aria-label="nuevo cliente" aria-selected="true">Nuevo cliente</button>
+								</li>
+								<li>
+									<button data-option="2" role="tab" aria-controls="simpletab2" title="ya soy cliente" aria-label="ya soy cliente" aria-selected="false">Ya soy cliente</button>
+								</li>
+							</ul>
+							<div data-tab="1" role="tabpanel">
+								<div>
+									<div>
+										<div>
+											<div>
+												<p>Samsung Galaxy S20 FE 5G Rojo 128GB</p>
+												
+												<div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Pantalla</p>
+														</div>
+														<div>
+															<p>6.5”</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Cámara</p>
+														</div>
+														<div>
+															<p>12MP F2.2</p>
+															<p>12MP F1.8</p>
+															<p>8MP 3x  F2.4</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Memoria</p>
+														</div>
+														<div>
+															<p>128GB</p>
+															<p>RAM 6GB</p>
+														</div>
+													</div>
+												</div>
+												<div>
+													<p><span><strong>13,50€/mes</strong></span> en 36
+														meses</p>
+													<p><span><strong>+0€</strong></span> de pago inicial
+													</p>
+													<a href="https://www.vodafone.es/c/tienda-online/particulares/catalogo-moviles/samsung-galaxy-s20-fe-5g-rojo-128gb-313936/" target="_self" data-analytics-id="1500089957853-1957610789070">Más información
+														<span>: Más información Samsung Galaxy S20 FE 5G Rojo 128GB</span>
+													</a>
+												</div>
+											</div>
+										</div>
+										<div>
+											<div>
+												<p>Samsung Galaxy S20 FE 5G Azul 128GB</p>
+												
+												<div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Pantalla</p>
+														</div>
+														<div>
+															<p>6.5”</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Cámara</p>
+														</div>
+														<div>
+															<p>12MP F2.2</p>
+															<p>12MP F1.8</p>
+															<p>8MP 3x  F2.4</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Memoria</p>
+														</div>
+														<div>
+															<p>128GB</p>
+															<p>RAM 6GB</p>
+														</div>
+													</div>
+												</div>
+												<div>
+													<p><span><strong>13,50€/mes</strong></span> en 36
+														meses</p>
+													<p><span><strong>+0€</strong></span> de pago inicial
+													</p>
+													<a href="https://www.vodafone.es/c/tienda-online/particulares/catalogo-moviles/samsung-galaxy-s20-fe-5g-azul-128gb-313935/" target="_self" data-analytics-id="1500089957853-3243256279464">Más información
+														<span>: Más información Samsung Galaxy S20 FE 5G Azul</span>
+													</a>
+												</div>
+											</div>
+										</div>
+										<div>
+											<div>
+												<p>Samsung Galaxy S20 FE 5G Lavanda 128GB</p>
+												
+												<div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Pantalla</p>
+														</div>
+														<div>
+															<p>6.5”</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Cámara</p>
+														</div>
+														<div>
+															<p>12MP F2.2</p>
+															<p>12MP F1.8</p>
+															<p>8MP 3x  F2.4</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Memoria</p>
+														</div>
+														<div>
+															<p>128GB</p>
+															<p>RAM 6GB</p>
+														</div>
+													</div>
+												</div>
+												<div>
+													<p><span><strong>13,50€/mes</strong></span> en 36
+														meses</p>
+													<p><span><strong>+0€</strong></span> de pago inicial
+													</p>
+													<a href="https://www.vodafone.es/c/tienda-online/particulares/catalogo-moviles/samsung-galaxy-s20-fe-5g-lavanda-128gb-313938/" target="_self" data-analytics-id="1500089957853-8795491994836">Más información
+														<span>: Más información Samsung Galaxy S20 FE 5G Lavanda 128GB</span>
+													</a>
+												</div>
+											</div>
+										</div>
+										<div>
+											<div>
+												<p>Samsung Galaxy S20 FE 5G Verde 128GB</p>
+												
+												<div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Pantalla</p>
+														</div>
+														<div>
+															<p>6.5”</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Cámara</p>
+														</div>
+														<div>
+															<p>12MP F2.2</p>
+															<p>12MP F1.8</p>
+															<p>8MP 3x  F2.4</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Memoria</p>
+														</div>
+														<div>
+															<p>128GB</p>
+															<p>RAM 6GB</p>
+														</div>
+													</div>
+												</div>
+												<div>
+													<p><span><strong>13,50€/mes</strong></span> en 36
+														meses</p>
+													<p><span><strong>+0€</strong></span> de pago inicial
+													</p>
+													<a href="https://www.vodafone.es/c/tienda-online/particulares/catalogo-moviles/samsung-galaxy-s20-fe-5g-verde-128gb-313937/" target="_self" data-analytics-id="1500089957853-4538767178623">Más información
+														<span>: Más información Samsung Galaxy S20 FE 5G Verde 128GB</span>
+													</a>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div data-tab="2" role="tabpanel">
+								<div>
+									<div>
+										<div>
+											<div>
+												<p>Samsung Galaxy S20 FE 5G Rojo 128GB</p>
+												
+												<div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Pantalla</p>
+														</div>
+														<div>
+															<p>6.5”</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Cámara</p>
+														</div>
+														<div>
+															<p>12MP F2.2</p>
+															<p>12MP F1.8</p>
+															<p>8MP 3x  F2.4</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Memoria</p>
+														</div>
+														<div>
+															<p>128GB</p>
+															<p>RAM 6GB</p>
+														</div>
+													</div>
+												</div>
+												<div>
+													<p><span><strong>13,50€/mes</strong></span> en 36
+														meses</p>
+													<p><span><strong>+0€</strong></span> de pago inicial
+													</p>
+													<button data-modal="modalFE" data-modal-close="" aria-haspopup="dialog" data-device-name="Samsung Galaxy S20 FE 5G Rojo 128GB" data-analytics-id="1500089957853-7311505521129">Resérvalo</button>
+													<span>: Resérvalo Samsung Galaxy S20 FE 5G Rojo 128GB</span>
+												</div>
+											</div>
+										</div>
+										<div>
+											<div>
+												<p>Samsung Galaxy S20 FE 5G Azul 128GB</p>
+												
+												<div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Pantalla</p>
+														</div>
+														<div>
+															<p>6.5”</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Cámara</p>
+														</div>
+														<div>
+															<p>12MP F2.2</p>
+															<p>12MP F1.8</p>
+															<p>8MP 3x  F2.4</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Memoria</p>
+														</div>
+														<div>
+															<p>128GB</p>
+															<p>RAM 6GB</p>
+														</div>
+													</div>
+												</div>
+												<div>
+													<p><span><strong>13,50€/mes</strong></span> en 36
+														meses</p>
+													<p><span><strong>+0€</strong></span> de pago inicial
+													</p>
+													<button data-modal="modalFE" data-modal-close="" aria-haspopup="dialog" data-device-name="Samsung Galaxy S20 FE 5G Azul 128GB" data-analytics-id="1500089957853-2615848129886">Resérvalo</button>
+													<span>: Resérvalo Samsung Galaxy S20 FE 5G Azul 128GB</span>
+												</div>
+											</div>
+										</div>
+										<div>
+											<div>
+												<p>Samsung Galaxy S20 FE 5G Lavanda 128GB</p>
+												
+												<div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Pantalla</p>
+														</div>
+														<div>
+															<p>6.5”</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Cámara</p>
+														</div>
+														<div>
+															<p>12MP F2.2</p>
+															<p>12MP F1.8</p>
+															<p>8MP 3x  F2.4</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Memoria</p>
+														</div>
+														<div>
+															<p>128GB</p>
+															<p>RAM 6GB</p>
+														</div>
+													</div>
+												</div>
+												<div>
+													<p><span><strong>13,50€/mes</strong></span> en 36
+														meses</p>
+													<p><span><strong>+0€</strong></span> de pago inicial
+													</p>
+													<button data-modal="modalFE" data-modal-close="" aria-haspopup="dialog" data-device-name="Samsung Galaxy S20 FE 5G Lavanda 128GB" data-analytics-id="1500089957853-7704037413355">Resérvalo</button>
+													<span>: Resérvalo Samsung Galaxy S20 FE 5G Lavanda 128GB</span>
+												</div>
+											</div>
+										</div>
+										<div>
+											<div>
+												<p>Samsung Galaxy S20 FE 5G Verde 128GB</p>
+												
+												<div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Pantalla</p>
+														</div>
+														<div>
+															<p>6.5”</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Cámara</p>
+														</div>
+														<div>
+															<p>12MP F2.2</p>
+															<p>12MP F1.8</p>
+															<p>8MP 3x  F2.4</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Memoria</p>
+														</div>
+														<div>
+															<p>128GB</p>
+															<p>RAM 6GB</p>
+														</div>
+													</div>
+												</div>
+												<div>
+													<p><span><strong>13,50€/mes</strong></span> en 36
+														meses</p>
+													<p><span><strong>+0€</strong></span> de pago inicial
+													</p>
+													<button data-modal="modalFE" data-modal-close="" aria-haspopup="dialog" data-device-name="Samsung Galaxy S20 FE 5G Verde 128GB" data-analytics-id="1500089957853-2836118293979">Resérvalo</button>
+													<span>: Resérvalo Samsung Galaxy S20 FE 5G Verde 128GB</span>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div> 
+				</div>
+			</section>
+			<section>
+				<div>
+					<div>
+						<p>Escoge uno de los regalos</p>
+						<h4>Una vez que recibas tu nuevo Samsung Galaxy S20 FE 5G debes registrar la promoción en la app de Samsung Members y seleccionar uno de los regalos</h4> 
+					</div>
+					<div>
+						<div>
+							
+						</div>
+						<p>Galaxy Fit2</p>
+						<p>Llévate el <span>Galaxy Fit2</span>, la nueva pulsera de fitness de Samsung, de <span>regalo</span></p>
+					</div>
+					<div>
+						<div>
+							
+						</div>
+						<p>Gaming Pack</p>
+						<p>Llévate de <span>regalo</span> un <span>Game Controler</span> y <span>3 meses de suscripción gratuita</span> en la plataforma <span>Xbox Game Pass</span>, con acceso a más de 100 juegos de Xbox online</p>
+					</div>
+				</div>
+			</section>
+			<section>
+				<p>¿Cómo conseguir tu nuevo Samsung Galaxy S20 FE 5G?</p>
+				<div>
+					<ul>
+						<li>
+							<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="68px" height="68px"><title>Icono Móvil</title><use xlink:href="#icon-mobile-mid"></use></svg>
+							<h4><span>Elige el Samsung Galaxy S20 FE 5G</span></h4>
+							<p>Elige el Samsung Galaxy S20 FE 5G que más se adapte a ti</p>
+						</li>
+						<li>
+							<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="68px" height="68px"><title>Icono Ahorro</title><use xlink:href="#icon-saving-mid-esp"></use></svg>
+							<h4><span>Precómpralo</span></h4>
+							<p>Precómpralo ya y asegúrate de ser el primero en disfrutarlo. Recibirás un mail de confirmación al finalizar la compra y un SMS informándote de cuando recibirás tu pedido.</p>
+						</li>
+						<li>
+							<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="68px" height="68px"><title>Icono Paquetería</title><use xlink:href="#icon-bundles-mid"></use></svg>
+							<h4><span>Recibe tu nuevo móvil</span></h4>
+							<p>Podrás cancelar tu pedido en cualquier momento. Hasta que no recibas tu nuevo móvil no se realizará la Portabilidad y no se cargará ningún importe.</p>
+						</li>
+						<li>
+							<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="68px" height="68px"><title>Icono Regalo</title><use xlink:href="#icon-bonus-mid"></use></svg>
+							<h4><span>Elige el regalo</span></h4>
+							<p>Una vez que recibas tu nuevo Galaxy S20 FE debes registrar la promoción en la app de Samsung Members y seleccionar uno de los regalos</p>
+						</li>
+					</ul>
+				</div>
+			</section>
+		</main><button aria-hidden="false"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px">
+							<title>Close</title>
+							<use xlink:href="#icon3-close"></use>
+						</svg></button><p></p><p>¡Solo te queda un paso!</p><p>Déjanos tus datos y nos pondremos en contacto
+							contigo para finalizar la compra.</p><input type="hidden" name="preventa" value="Samsung S20 FE"><input style="display:none;" value="NO" name="verifyLeadId"><input name="wg-return" value="gracias" type="hidden"><input type="radio" name="esCliente" data-wg-validation="required" value="si"><label for="clienteWatch">Soy cliente</label><input type="radio" name="esCliente" data-wg-validation="required" value="no"><label for="noClienteWatch">No soy
+												cliente</label><input type="hidden"><input type="hidden" style="display:none;" name="phone-model" placeholder="Modelo Teléfono"><input type="text" name="nombre" data-wg-validation="required" placeholder="Nombre"><input type="hidden"><input type="phone" name="phone" inputmode="numeric" pattern="[0-9]*" maxlength="9" data-wg-validation="required,phone" placeholder="Nº teléfono" oninput="javascript: if (this.value.length > this.maxLength) this.value = this.value.slice(0, this.maxLength);"><input type="hidden"><input data-wg-validation="required" type="checkbox" value="on" name="check"><label for="privacy">Acepto la 
+									<a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/movil/catalogo-clientes/politica-privacidad/" target="_blank" rel="nofollow" data-analytics-id="1500089957853-2836119993979"> Política de
+										Privacidad</a></label><input type="hidden"><input type="checkbox" name="gdpr" value="on"><label for="comunication">Acepto recibir comunicaciones
+									comerciales de Vodafone </label><input type="hidden"><input type="submit" value="Enviar">

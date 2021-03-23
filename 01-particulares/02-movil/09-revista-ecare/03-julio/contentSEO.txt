@@ -1,0 +1,14 @@
+<h4>Nueva revista de Vodafone</h4><p><span> Descubre las novedades que tenemos para ti en la Península y Canarias</span></p><ul>
+						<li>
+							<button data-option="1" role="tab" aria-controls="grouptab1" title="Península" aria-label="península" aria-selected="true">Península</button>
+						</li>
+						<li>
+							<button data-option="2" role="tab" aria-controls="grouptab2" title="Canarias" aria-label="canarias" aria-selected="false">Canarias</button>
+						</li>
+					</ul><a href="https://www.vodafone.es/c/statics/revista-vf-peninsula-julio-2020.pdf" target="_new">
+							   
+							
+						</a><a href="https://www.vodafone.es/c/statics/revista-vf-canarias-julio-2020.pdf" target="_new">
+							
+							
+						</a>

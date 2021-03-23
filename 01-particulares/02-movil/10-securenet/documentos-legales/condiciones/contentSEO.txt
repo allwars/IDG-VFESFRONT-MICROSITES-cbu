@@ -1,0 +1,513 @@
+<h3>Términos y condiciones de Vodafone Secure Net</h3><p>Los términos y condiciones del servicio Secure Net de Vodafone depende de cual sea la conexión en la que se ha dado de alta el servicio.</p><p>Si solo tiene o ha tenido el servicio de Secure Net en sus conexiones móviles puede consultar los términos y condiciones <a href="https://www.vodafone.es/c/particulares/es/mas-con-vodafone/servicios-para-tu-movil/secure-net/terminos-y-condiciones/" target="_self"> aquí.</a></p><p>Si tiene el servicio o ha tenido alguna vez el servicio de Secure Net en su conexión fija de banda ancha puedes consultar los términos y condiciones <a href="https://www.vodafone.es/c/particulares/es/mas-con-vodafone/servicios-para-tu-movil/secure-net/terminos-y-condiciones/?tc=f" target="_self">aquí.</a></p><p>Si no está seguro que los términos y condiciones aplican en su caso, entre en el servicio (en la app si la tiene instalada o en securenet.vodafone.es) y puede encontrarlo en la sección de “Acerca de”.</p><ul>
+                        <li>
+                        <button data-option="1" role="tab" aria-controls="simpletab1" title="Móvil" aria-label="móvil" aria-selected="true">Móvil</button>
+                        </li>
+                        <li>
+                            <button data-option="2" role="tab" aria-controls="simpletab2" title="Fibra + Móvil" aria-label="fibra + movil" aria-selected="false">Fibra + Móvil</button>
+                        </li>
+                    </ul><p>Este es un contrato de licencia de uso entre usted y Vodafone España, S.A.U. (en lo sucesivo "Vodafone"), empresa española con número de identificación fiscal A-808907397 y razón social en Avenida de América, 115, 28042 Madrid, relativa al uso que va a hacer del servicio Secure Net de Vodafone (en lo sucesivo, "Servicio"). Dicho Servicio sólo estará disponible si se conecta a la red de móvil de Vodafone, no funcionará con otras redes que no sean de Vodafone, como WiFi. Para más información consulte “Casos en los que no contará con la protección de Secure Net" que se detallan más abajo, o visite el  Portal de gestión de Secure Net: <a href="https://securenet.vodafone.es/" target="_new"> https://securenet.vodafone.es/.</a></p><p>El presente contrato se suma a las condiciones de uso del tiempo de conexión. En el momento en que se registra, acepta que ha leído y está de acuerdo con dichos términos. Si no está de acuerdo, pulse aquí para darse de baja del Servicio.</p><ol>
+                            <li>
+                                <h3>Resumen</h3>
+                                <p>El Servicio le protegerá contra virus y páginas web peligrosas. Algunas funcionalidades del Servicio requerirán pasos adicionales a la hora de vincular a otros individuos (con una cuenta activa en la red de Vodafone) a una cuenta de grupo (que incluye al titular de la cuenta "Titular de la cuenta" y a aquellos individuos que quieren vincular sus cuentas).</p>
+                                <p>Si intenta descargar un archivo potencialmente dañino o peligroso, el Servicio bloqueará la descarga, le enviará una alerta y avisará al Titular principal de la cuenta, si está conectado a través del Servicio, a través de SMS. Si intenta acceder a una página web que no es segura, el Servicio le avisará del posible peligro antes de que pueda seguir adelante.</p>
+                                <p>Le concedemos una licencia intransferible de no exclusividad con la que el Servicio funcionará mediante conexión a la red de Vodafone.</p>
+                                <p>El Servicio no es para uso comercial sino personal, de acuerdo al tipo de conexión que tenga. Sólo podrá utilizar el Servicio para una única conexión; cualesquiera otras conexiones requerirán una configuración o registro adicional.</p>
+                                <p>En el caso de que usted sea el titular de la cuenta y desee añadir a otro individuo a las medidas de protección bajo la configuración de una cuenta de grupo, el proceso será el siguiente:</p>
+                                <ol>
+                                    <li>
+                                        <p>
+                                            El titular de la cuenta, a través del portal de Secure Net pinchará sobre el botón “Añadir dispositivo” siguiendo las instrucciones.
+                                        </p>
+                                    </li>
+                                    <li>
+                                        <p>
+                                            El titular deberá confirmar el número de teléfono de la persona, asignar un nombre al dispositivo, y seleccionar el perfil para esta cuenta (ej: un hijo sin ningún tipo de control o una pareja que puede modificar sus ajustes de perfil).
+                                        </p>
+                                    </li>
+                                    <li>
+                                        <p>
+                                           El proceso de Vodafone comprobará la tarifa del individuo y confirmará al titular si este tuviera que pagar por el servicio.
+                                        </p>
+                                    </li>
+                                    <li>
+                                        <p>
+                                           El individuo recibirá un SMS con una dirección URL a la que acceder donde se explica el Servicio y que el titular de la cuenta asumirá el control, que le ofrece el Servicio, sobre la cuenta.
+                                        </p>
+                                    </li>
+                                    <li>
+                                        <p>
+                                           El individuo pulsará la dirección URL y seguirá las indicaciones informándole si hubiera algún coste asociado al servicio. Si está de acuerdo con el coste, se le pedirá que acepte términos y condiciones y, una vez que las haya aceptado, se le agregará a la cuenta de grupo controlada por el titular.
+                                        </p>
+                                    </li>
+                                    <li>
+                                        <p>
+                                           A continuación, el titular principal de la cuenta recibirá notificación vía SMS de que el individuo se ha agregado a la cuenta. A partir de ese momento, podrá establecer los controles que corresponda, según lo dispuesto por el Servicio, sobre la cuenta del Individuo.
+                                        </p>
+                                    </li>
+                                    <li>
+                                        <p>
+                                           El individuo recibirá notificación vía SMS o e-mail la confirmación de que su cuenta ha sido agregada a la cuenta del titular.
+                                        </p>
+                                    </li>
+                                </ol>
+                                <p><span>Uso de la aplicación Secure Net:</span> Además de las opciones de Secure Net disponibles a través de navegador, también podrá descargar y utilizar la aplicación Secure Net (“Secure Net Aplicación”) compatible con iOS y Android. Mediante esta aplicación podrá gestionar las opciones y tener acceso a funcionalidades que no se encuentran en el portal web de Secure Net, como por ejemplo “Cleaning Tool”. La aplicación de Secure Net puede descargarse desde la aplicación store de su dispositivo (al precio estándar de datos que corresponda).</p>
+                                <p>Cleaning tool de Vodafone, la herramienta de limpieza de infecciones para su teléfono; es una funcionalidad solo disponible en la app de Secure Net. Esta herramienta elimina amenazas a la seguridad como virus, troyanos, programas espía, programas de publicidad intrusiva y ficheros no deseados de su dispositivo. Si una amenaza de seguridad es detectada por el servicio de Secure net recibirá una notificación invitándole a escanear su dispositivo (si no tiene la app de Secure Net instalada en su dispositivo, se le instará a que la instale). Después del escaneo recibirá un reporte en su dispositivo listando cualquier programa, aplicaciones o ficheros maliciosos detectados por la herramienta para poder eliminarlas del dispositivo. Si se detecta como malicioso algo que quiera conservar, deberá desmarcarlos del reporte antes de proceder a la eliminación. Nuevas funcionalidades pueden ser añadidas con el tiempo, le informaremos si hay términos y condiciones adicionales relacionadas con el uso de estas funcionalidades.</p>
+                                <p>Internet Seguro es una funcionalidad de Secure Net que le permite acceder a contenido digital sobre temas como ciberseguridad y control parental. El uso de Internet Seguro está sujeto a sus <a href="https://www.internetseguro.vodafone.es/platinum/#!/terms/terms" target="_new">Terminos de Uso</a></p>
+                            </li>
+                            <li>
+                                <h3>Gestión del servicio</h3>
+                                <p>Podrá gestionar su cuenta en la página online del Servicio Portal de gestión de Secure Net:  <a href="https://securenet.vodafone.es/" target="_new">https://securenet.vodafone.es/</a> utilizando su usuario (teléfono) y contraseña de Mi Vodafone o a través de la aplicación de Secure Net. Lo que haga usted en su cuenta es responsabilidad suya, Vodafone no se hace responsable del uso que haga del Servicio. Guarde su contraseña de Mi Vodafone en un lugar seguro e infórmenos de inmediato ante cualquier infracción de seguridad o uso no autorizado que se haga de su cuenta.</p>
+                            </li>
+                            <li>
+                                <h3>Coste del servicio</h3>
+                                <p>A no ser que su tarifa incluya explícitamente el uso de este Servicio, se le cobrará una cuota mensual de 1€ (IVA incluido), tal como se especifica en Vodafone.es. La promoción, dirigida a nuevos clientes y clientes de cartera, tiene una duración limitada de 3 meses sin coste. Los clientes con planes Vodafone One L, Red XL y L, y + líneas L tienen una promoción asociada, cuya duración limitada es de 24 meses sin coste. Se podrá disfrutar una única vez de la promoción de 3 o 24 meses sin coste. Finalizada la promoción, continuará disfrutando del servicio Secure Net con un coste de 1€/mes. Podrá solicitar la baja del servicio en cualquier momento anterior a la emisión de su siguiente factura a través del Portal de gestión de Secure Net: <a href="https://securenet.vodafone.es/" target="_new">https://securenet.vodafone.es/.</a> Para poder funcionar, el servicio consumirá una cantidad muy pequeña de datos que se descontará de su tarifa.</p>
+                            </li>
+                            <li>
+                                <h3>Restricciones del servicio</h3>
+                                <p>Usted asume el coste del dispositivo. Vodafone podrá modificar los requisitos del sistema o la aplicación en cualquier momento.</p>
+                                <p>No garantizamos ni aceptamos responsabilidad alguna sobre el funcionamiento que se haga del dispositivo para acceder al Servicio. Para que el Servicio funcione, el dispositivo debe estar encendido, la tarjeta SIM insertada y debe estar conectado a la red de Vodafone.</p>
+                            </li>
+                            <li>
+                                <h3>Fin del uso del servicio</h3>
+                                <p>Pulse <a href="https://securenet.vodafone.es/" target="_new">aquí</a> para darse de baja del Servicio. Si no se da de baja en el enlace anterior, seguirá estando inscrito al Servicio. También, podrá darse de baja en cualquier momento desde la página de ajustes del servicio o a través de la aplicación de Secure Net.</p>
+                                <p>Si se le ha agregado a una cuenta de grupo por error o no ha dado su consentimiento para ello, póngase en contacto con Vodafone. Una vez que Vodafone haya llevado a cabo las pertinentes comprobaciones, dejará de pertenecer a dicho grupo.</p>
+                            </li>
+                            <li>
+                                <h3>Garantía</h3>
+                                <p>El uso del Servicio está sujeto al uso y disponibilidad de conexiones de red apropiadas. El Servicio y la aplicación de Secure Net se proporcionan "tal cual" y en la medida que permite la ley vigente. Quedan excluidas las representaciones, garantías, condiciones y otros términos que no se reflejan expresamente en este contrato, entre las que se incluyen, las garantías o condiciones implícitas relativas a la no violación de los derechos de terceros o a la idoneidad para un fin en particular en relación con el uso que haga del Servicio y de su correspondiente software. No garantizamos que el uso del Servicio o de la aplicación de Secure Net esté libre de errores, que sea ininterrumpido, que esté disponible en todo momento o que proteja contra todas las amenazas posibles u otros fallos.</p>
+                            </li>
+                            <li>
+                                <h3>Casos en los que no contará con la protección de Secure Net</h3>
+                                <ul>
+                                    <li>
+                                        <p>Si cambia su APN</p>
+                                    </li>
+                                    <li>
+                                        <p>Si utiliza un servicio VPN</p>
+                                    </li>
+                                    <li>
+                                        <p>Si no está conectado a la red de Vodafone (por ejemplo, WiFi)</p>
+                                    </li>
+                                    <li>
+                                        <p>Si elige otro proveedor de roaming</p>
+                                    </li>
+                                    <li>
+                                        <p>En las conexiones https (aunque sí bloquea páginas https maliciosas).</p>
+                                    </li>
+                                    <li>
+                                        <p>En los servicios de compresión de datos para smartphones</p>
+                                    </li>
+                                    <li>
+                                        <p>En navegadores que pueden comprimir y/o encriptar el tráfico a excepción de la versión de Vodafone de Opera Mini, Nokia Xpress, Microsoft BOS y Google Chrome</p>
+                                    </li>
+                                    <li>
+                                        <p>Si se utiliza un servicio proxy</p>
+                                    </li>
+                                    <li>
+                                        <p>Con algunos protocolos de correo electrónico (excepto HTTP, POP3 y SMTP)</p>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li>
+                                <h3>Responsabilidades que asumimos ante usted</h3>
+                                <p>Estamos legalmente obligados a responder ante usted si, por negligencia nuestra, se produjese un fallecimiento o lesión personal o si actuamos de forma fraudulenta. No tenemos ninguna obligación legal ante usted o ante cualquier daño por:</p>
+                                    <ul>
+                                        <li>
+                                            <p>pérdida de ingresos o beneficios,</p>
+                                        </li>
+                                        <li>
+                                            <p>pérdida del uso del Servicio,</p>
+                                        </li>
+                                        <li>
+                                            <p>pérdida de datos; pérdida de una negociación o desaprovechamiento de oportunidades,</p>
+                                        </li>
+                                        <li>
+                                            <p>o cualquier pérdida o daño que no hayamos causado directamente nosotros o con la que no contábamos en el momento en que convino aceptar el presente acuerdo.</p>
+                                        </li>
+                                    </ul>
+                                <p>No responderemos legalmente ante usted en caso de que no podamos proporcionar el Servicio ni la aplicación Secure Net por cualquier circunstancia que se escapa razonablemente a nuestro control.</p>
+                                <p>Los términos del presente acuerdo no afectarán los derechos que pueda tener en virtud de ninguna ley y que no podemos excluir del acuerdo al que llegamos con usted.</p>
+                            </li>
+                            <li>
+                                <h3>Restricciones</h3>
+                                <p>Nos reservamos el derecho a suspender o invalidar el presente acuerdo y el uso del Servicio si usted ha incurrido o a va a incurrir en lo siguiente:</p>
+                                <ul>
+                                    <li>
+                                        <p>No ha abonado la tarifa correspondiente (anteriormente mencionada) relativa a este Servicio.</p>
+                                    </li>
+                                    <li>
+                                        <p>Utiliza el Servicio como un medio para controlar las actividades de cualquier individuo sin su autorización y consentimiento expreso o utiliza el Servicio para recopilar información personal de otros usuarios por cualquier motivo.</p>
+                                    </li>
+                                    <li>
+                                        <p>Los contenidos que intercambia son ilícitos, invaden la privacidad de los demás o son inapropiados.</p>
+                                    </li>
+                                    <li>
+                                        <p>Ocasiona algún daño, acosa, degrada o intimida a un individuo o grupo de individuos por cualquier motivo.</p>
+                                    </li>
+                                    <li>
+                                        <p>Alienta conductas que pudieran constituir un delito o puedan dar lugar a cualquier tipo de acción judicial.</p>
+                                    </li>
+                                    <li>
+                                        <p>Participa en cualquier actividad, ajena a lo que permite el Servicio, que puede interferir de algún modo en el uso y disfrute que otras personas puedan tener del Servicio o,</p>
+                                    </li>
+                                    <li>
+                                        <p>Daña nuestra reputación o la de un tercero.</p>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li>
+                                <h3>El servicio no puede transferirse</h3>
+                                <p>No podrá arrendar, alquilar, prestar o ceder sus derechos sobre el Servicio ni la aplicación de Secure Net a ninguna otra persona. Si utiliza el Servicio en un dispositivo y transfiere la propiedad del mismo a otra persona, anule su inscripción al mismo antes de entregarle el dispositivo.</p>
+                            </li>
+                            <li>
+                                <h3>Información de carácter personal</h3>
+                                <p>Para el registro del producto, se le insta a introducir su número de teléfono cuando instala la aplicación.</p>
+                                <p>Asegúrese de elegir una contraseña de Mi Vodafone difícil de adivinar y no lo comparta con nadie, esto es fundamental para conservar su privacidad. Si alguien conoce su número de teléfono y puede adivinar su contraseña, podrá acceder, bloquear y borrar los datos de su teléfono.</p>
+                                <p>Vodafone recoge y utiliza sus datos para:</p>
+                                <ul>
+                                    <li>
+                                        <p>Mejorar el servicio</p>
+                                    </li>
+                                    <li>
+                                        <p>Mejorar la seguridad de la red de Vodafone; y</p>
+                                    </li>
+                                    <li>
+                                        <p>Proporcionarle mayores niveles de seguridad y protección durante su conexión a la red de Vodafone.</p>
+                                    </li>
+                                </ul>
+                                <p>A continuación se detallan, a modo de ejemplo, algunos de los datos que recogemos y el tiempo que los conservaremos.</p>
+                                <table>
+                                    <tbody><tr>
+                                        <th><p><span>Ejemplo</span></p></th>
+                                        <th><p><span>Tipos de datos utilizados</span></p></th>
+                                        <th><p><span>¿Cuánto tiempo los conservamos?</span></p></th>
+                                    </tr>
+                                    <tr>
+                                        <td><p>Nº páginas web visitadas</p></td>
+                                        <td><p>Totales, recuento del número</p></td>
+                                        <td><p>6 (seis) meses</p></td>
+                                    </tr>
+                                    <tr>
+                                        <td><p>Nº páginas web bloqueadas</p></td>
+                                        <td><p>Totales, recuento del número</p></td>
+                                        <td><p>6 (seis) meses</p></td>
+                                    </tr>
+                                    <tr>
+                                        <td><p>Nº archivos descargados</p></td>
+                                        <td><p>Totales, recuento del número</p></td>
+                                        <td><p>6 (seis) meses</p></td>
+                                    </tr>
+                                    <tr>
+                                        <td><p>Nº archivos bloqueados</p></td>
+                                        <td><p>Totales, recuento del número</p></td>
+                                        <td><p>6 (seis) meses</p></td>
+                                    </tr>
+                                    <tr>
+                                        <td><p>Nº de páginas web bloqueadas por el control parental (que ha aplicado el Titular principal de la cuenta)</p></td>
+                                        <td><p>Totales, recuento del número</p></td>
+                                        <td><p>6 (seis) meses</p></td>
+                                    </tr>
+                                    <tr>
+                                        <td><p>Principales categorías bloqueadas</p></td>
+                                        <td><p>Totales, recuento del número</p></td>
+                                        <td><p>6 (seis) meses</p></td>
+                                    </tr>
+                                    <tr>
+                                        <td><p>Archivos concretos que se ha descargado un Individuo (si la función Notificar acerca de las nuevas aplicaciones está activada)</p></td>
+                                        <td><p>Nombre del archivo</p></td>
+                                        <td><p>Sólo notificación instantánea, sin detalles ni información alguna sobre el contenido del archivo.</p></td>
+                                    </tr>
+                                    <tr>
+                                        <td><p>Principales archivos peligrosos que intentó descargar</p></td>
+                                        <td><p>Totales, recuento del número</p></td>
+                                        <td><p>6 (seis) meses</p></td>
+                                    </tr>
+                                    <tr>
+                                        <td><p>Direcciones URL concretas a las que ha accedido un Individuo</p></td>
+                                        <td><p>Direcciones exactas y nombres de los archivos</p></td>
+                                        <td><p>1 (un) mes</p></td>
+                                    </tr>
+                                    <tr>
+                                        <td><p>Archivos concretos que ha descargado un Individuo</p></td>
+                                        <td><p>Direcciones exactas y nombres de los archivos</p></td>
+                                        <td><p>1 (un) mes</p></td>
+                                    </tr>
+                                </tbody></table>
+                            </li>
+                            <li>
+                                <h3>Modificación de los términos del presente acuerdo o del servicio</h3>
+                                <p>Nos reservamos el derecho a modificar los términos, el Servicio y la aplicación Secure Net cuando creamos conveniente. Si dichos cambios pueden afectarle negativamente, le avisaremos con un mínimo de 30 días. Recuerde que podrá darse de baja en cualquier momento.</p>
+                            </li>
+                            <li>
+                                <h3>Atención al cliente</h3>
+                                <p>Si tiene alguna duda respecto a estos términos o desea contactar con nosotros por cualquier otro motivo, diríjase al Portal de gestión de Secure Net: <a href="https://securenet.vodafone.es/" target="_new">https://securenet.vodafone.es/.</a></p>
+                            </li>
+                            <li>
+                                <h3>General</h3>
+                                <p>Este constituye el acuerdo y entendimiento completo entre usted y nosotros relativo al Servicio. El presente acuerdo no cubre la compra ni el mantenimiento de su dispositivo ni el uso de una tarjeta SIM. El presente contrato está sujeto a las leyes españolas.</p>
+                            </li>
+                        </ol><p><span>Ver Política de privacidad <a href="https://www.vodafone.es/c/particulares/es/mas-con-vodafone/servicios-para-tu-movil/securenet/politica-privacidad/" target="_new">aquí.</a></span></p><p>Este es un contrato de licencia de uso entre usted y Vodafone España, S.A.U. (en lo sucesivo "Vodafone"), empresa española con número de identificación fiscal A-80907397 y razón social en Avenida de América, 115, 28042 Madrid, relativa al uso que va a hacer del servicio Secure Net Convergente de Vodafone (en lo sucesivo, "Servicio"). Para el uso del Servicio no será necesario descargar o instalar ninguna aplicación. Para más información consulte “Casos en los que no contará con la protección de Secure Net" que se detallan más abajo, o visite <a href="https://securenet.vodafone.es/" target="_new"> https://securenet.vodafone.es/.</a></p><p>El presente contrato se suma a las condiciones de uso de los servicios convergentes que tenga contratados. En el momento en que se registra y comienza a hacer uso del Servicio, acepta que ha leído y está de acuerdo con dichos términos.</p><ol>
+                            <li>
+                                <h3>Resumen</h3>
+                                <p>El Servicio le protegerá contra amenazas a la seguridad como virus, troyanos, spyware, adware, malware y programas indeseados. También le protegerá de páginas web peligrosas como páginas de phishing o que dispongan de contenido dañino.</p>
+                                <p>Dicho Servicio sólo estará disponible:</p>
+                                <ul>
+                                    <li>
+                                        <p>
+                                            En su dispositivo inteligente en el que tenga instalado su SIM de Vodafone, bien conectándose a la red móvil de Vodafone o al Vodafone Home Broadband (téngase en cuenta que para el uso de determinadas herramientas adicionales como el “Cleaning Tool” será necesario descargarse la aplicación de Secure Net)
+                                        </p>
+                                    </li>
+                                    <li>
+                                        <p>
+                                            En cualquier dispositivo inteligente conectado a su Vodafone Home Broadband y que tenga acceso a Internet (por ejemplo, páginas web u otros servidores).
+                                        </p>
+                                    </li>
+                                </ul>
+                                <p>Si intenta acceder a páginas para la descarga de archivos potencialmente peligrosos, el servicio la bloqueará, le enviará una alerta y avisará al titular principal de la cuenta (en adelante, el “Titular”), si está conectado a través del Servicio, a través de SMS. Si intenta acceder a una página web que no es segura, el Servicio le avisará del posible peligro antes de que pueda seguir adelante.</p>
+                                <p>En el caso de que usted sea el Titular y desee añadir a otro individuo a las medidas de protección bajo la configuración de una cuenta de grupo, deberá ser una línea de postpago en la misma cuenta que el titular.</p>
+                                <p>Asimismo, el Servicio presenta las siguientes funcionalidades:</p>
+                                <ul>
+                                    <li><p><span>Uso de la aplicación Secure Net:</span> además de las opciones de Secure Net disponibles a través de navegador, también podrá descargar y utilizar la aplicación Secure Net (“Secure Net App”) compatible con IOS y Android. Mediante esta aplicación podrá gestionar las opciones y tener acceso a funcionalidades que no se encuentran en el portal web de Secure Net, como por ejemplo “Cleaning Tool”. Secure Net App puede descargarse desde la appstore de su dispositivo (al precio estándar de datos que corresponda).</p></li>
+                                    <li><p><span>Cleaning Tool: </span>es una función opcional sólo accesible desde Secure Net App que permite eliminar las amenazas a la seguridad incluido virus, troyanos, malware, spyware, adware y archivos indeseados de su dispositivo. Si una amenaza a la seguridad es detectada en su dispositivo por el Servicio, recibirá una notificación indicándole que escanee el mismo mediante Cleaning Tool. (si no tiene instalada la aplicación de Secure Net en su dispositivo, se le comunicará para hacerlo). Una vez realizado el escaneo, recibirá un informe en su dispositivo listando cualquier software malicioso, aplicaciones o archivos detectados por Cleaning Tool, de manera que podrá eliminarlos de su dispositivo. Si Cleaning Tool detectase como malicioso algún archivo que deseara mantener, necesitará deseleccionarlos de la lista del informe antes de proceder a su eliminación. La funcionalidad de Cleaning Tool avisará de la necesidad de realizar una limpieza, aunque no se tenga descargada la App, pero la limpieza tan sólo podrá llevarse a cabo por medio de la App.</p></li>
+                                    <li><p><span>Secure Net Family:</span> el Servicio también dispone de herramientas de control parental por medio de las cuales el progenitor podrá restringir los tipos de páginas web y aplicaciones que podrá visitar el menor y establecer limitaciones de tiempo en las navegaciones que lo permitan. Secure Net Family no podrá ser aplicado a aplicaciones offline o juegos que funcionan sin conectividad.</p></li>
+                                </ul>
+                                <p>Como Titular, usted podrá crear un perfil para el menor (o para cada uno de los menores) y asignar dispositivos móviles a dichos perfiles en la Secure Net App o en el portal web de Secure Net. Cualquier control parental que usted active para algún perfil, aplicará a todos los dispositivos inteligentes asignados a dicho perfil cuando:</p>
+                                <ul>
+                                    <li>
+                                        <p>El dispositivo esté conectado a su Vodafone Home Broadband, y</p>
+                                    </li>
+                                    <li>
+                                        <p>Si el número móvil de su descendiente está también protegido por Secure Net, cuando el dispositivo de su descendiente (en el que se encuentre instalada la SIM de Vodafone) esté conectada a la red de Vodafone.</p>
+                                    </li>
+                                </ul>
+                                <p>Ninguna herramienta del Secure Net Family restringirá el acceso a ningún contenido que ya estuviera almacenado en el dispositivo.</p>
+                                <p>Algunos routers de Vodafone Home Broadband no dan soporte para Secure Net Family. Si experimenta cualquier tipo de incidencia para este uso específico, por favor contacte con Atención al Cliente.</p>
+                                <p><span>“Internet Seguro”</span>es una herramienta disponible en el portal de Secure Net y en la App para clientes Secure Net que permite el acceso a contenido digital sobre temas como ciberseguridad y control parental (sujeto a las limitaciones indicadas más abajo). Para hacer uso de “Internet Seguro”, deberá aceptar los Términos de uso del mismo, que se encuentran en <a href="https://www.internetseguro.vodafone.es/platinum/#!/terms/terms">https://www.internetseguro.vodafone.es/platinum/#!/terms/terms</a></p>
+                                <p>Aparte de estas funcionalidades, nuevas opciones podrán ser añadidas al presente Servicio posteriormente a su contratación y, si se producen novedades en cuanto a los Términos y Condiciones del Servicio o de estas nuevas opciones, se lo haremos saber lo antes posible.</p>
+                            </li>
+                            <li>
+                                <h3>Licencia</h3>
+                                <p>Le concedemos una licencia intransferible de no exclusividad con la que el Servicio funcionará mediante conexión a la red móvil de Vodafone y a su Vodafone Home Broadband. Vodafone y sus licenciatarios poseen todos los derechos de propiedad intelectual en el Servicio, en relación al software y a la Secure Net App (si decidió hacer uso de la misma) y usted no tendrá derecho, título o interés en dichos derechos, salvo la posibilidad de utilizarlos de acuerdo a los presentes términos.</p>
+                                <p>El Servicio no es para uso comercial sino personal, de acuerdo al tipo de conexión que tenga. Sólo podrá utilizar el Servicio para una única conexión; cualesquiera otras conexiones requerirán una configuración o registro adicional.</p>
+                                <p>En el momento de la activación, en aquellos routers que dispongan de la funcionalidad EDNS0, se habilitará esta funcionalidad que permite a la red discernir entre los dispositivos conectados al router para dar un mejor servicio de seguridad y es imprescindible para las funcionalidades de control parental. Además, se limitará la opción de cambiar manualmente el DNS para evitar perder el servicio de Secure net. </p>
+                            </li>
+                            <li>
+                                <h3>Gestión del servicio</h3>
+                                <p>Podrá gestionar su cuenta en la página online del Servicio en <a href="https://securenet.vodafone.es/" target="_new">https://securenet.vodafone.es/.</a> utilizando su usuario (teléfono) y contraseña de Mi Vodafone o a través de Secure Net App. Lo que haga usted en su cuenta es responsabilidad suya, Vodafone no se hace responsable del uso que haga del Servicio. Guarde su contraseña de Mi Vodafone en un lugar seguro e infórmenos de inmediato ante cualquier infracción de seguridad o uso no autorizado que se haga de su cuenta.</p>
+                            </li>
+                            <li>
+                                <h3>Coste del servicio</h3>
+                                <p>A no ser que su tarifa incluya explícitamente el uso de este Servicio, como es el caso de las tarifas de Hogar Ilimitable, se le cobrará la cuota mensual vigente en cada momento, tal como se especifica en  <a href="https://www.vodafone.es/c/particulares/es/" target="_new">Vodafone.es</a>. Podrá disponer del Servicio inicialmente por un periodo promocional, si así se diera el caso. </p>
+                                <p>El coste del servicio se cargará mensualmente en su factura mensual y será prorrateable al momento de contratación dentro del ciclo de facturación de los servicios que ya tuviera contratados con Vodafone.</p>
+                                <p>Podrá solicitar la baja del servicio en cualquier momento anterior a la emisión de su siguiente factura a través de la web <a href="https://securenet.vodafone.es/" target="_new">https://securenet.vodafone.es/</a>, así como a través de Secure Net App. Para poder funcionar el servicio consumirá una cantidad muy pequeña de datos que se descontará de su tarifa.</p>
+                                <p>El Servicio está incluido en todas las tarifas con datos, es decir, se provisiona automáticamente con la tarifa. Sin embargo, aquellos clientes que no tengan contratado el Servicio y deseen contratarlo, pueden hacerlo por medio del portal de Secure Net sin necesidad de contratar una nueva tarifa.</p>
+                            </li>
+                            <li>
+                                <h3>Restricciones del servicio</h3>
+                                <p>Usted asume el coste del dispositivo y de la conexión. Vodafone podrá modificar los requisitos del sistema o la aplicación en cualquier momento.</p>
+                                <p>No garantizamos ni aceptamos responsabilidad alguna sobre el funcionamiento que se haga del dispositivo para acceder al Servicio. Para que el Servicio funcione sobre Vodafone Home Broadband, el dispositivo debe estar encendido y conectado a su Vodafone Home Broadband.</p>
+                                <p>Para que el Servicio funcione sobre la red móvil de Vodafone, el dispositivo debe estar encendido, la tarjeta SIM insertada y debe estar conectado a la red móvil de Vodafone.</p>
+                                <p>El Servicio funciona en roaming independientemente del operador extranjero con el que opere en ese momento. No funcionará si el dispositivo se conecta a una red wifi que no sea la de casa del Titular.</p>
+                                <p>El Servicio está diseñado y concebido para su uso por dispositivos inteligentes.</p>
+                                <p>El Servicio no hace copia de sus datos, por ejemplo, fotos o contactos. El Servicio sólo está disponible cuando usted esté conectado vía Vodafone Home Broadband o vía red de Vodafone. No funcionará en ningún otro caso, por ejemplo, si está conectado a una red no Vodafone o a otras redes Wifi. Asimismo, el Servicio tampoco pretende proteger contra amenazas a la seguridad introducidas por hardware, como tarjetas SD.</p>
+                                <p>Debido a dichas limitaciones y restricciones, el Servicio no está pensado para ser utilizado como la única medida de seguridad en su dispositivo, sino que es posible su uso de manera conjunta con otras aplicaciones de seguridad y software.</p>
+                                <p>Para más detalles, véase el apartado de “8. Casos en los que no contará con la protección de Secure Net” más abajo.</p>
+                            </li>
+                            <li>
+                                <h3>Fin del uso del servicio</h3>
+                                <p>Si lo desea, podrá darse de baja del Servicio en cualquier momento a través de la siguiente dirección: <a href="https://securenet.vodafone.es/">aquí</a>. Si no se da de baja en el enlace anterior, seguirá estando inscrito al Servicio. También podrá darse de baja en cualquier momento desde la página de ajustes del servicio o a través de Secure Net App. Desde el mismo momento en que opte por darse de baja, dejará de prestarse el Servicio.</p>
+                                <p>En cualquier caso, el Cliente podrá ejercer su derecho de desistimiento en el plazo de catorce días (14) tras la aceptación de estos Términos y Condiciones. El ejercicio del citado derecho se puede realizar a través del portal de Secure Net o a través de la Secure Net App en la que se especifica cómo llevar a cabo el mismo y sus condiciones.</p>
+                                <p>El Cliente conoce y acepta que la prestación del Servicio comienza durante el periodo en el que el Cliente puede ejercer su derecho de desistimiento, por lo que, en caso de baja del mismo en el citado periodo Vodafone podrá realizar el cobro del importe correspondiente al Servicio prestado.</p>
+                            </li>
+                            <li>
+                                <h3>Garantía</h3>
+                                <p>El uso del Servicio está sujeto al uso y disponibilidad de conexiones de red apropiadas y/o de Vodafone Home Broadband. El Servicio (incluido Cleaning Tool y Secure Net Family) y Secure Net App se proporcionan de manera íntegra conforme a lo estipulado en las presentes condiciones y en la medida que lo permita la ley vigente. Quedan excluidas las representaciones, garantías, condiciones y otros términos que no se reflejan expresamente en este contrato, entre las que se incluyen las garantías o condiciones implícitas relativas a la no violación de los derechos de terceros o a la idoneidad para un fin en particular en relación con el uso que haga del Servicio y de su correspondiente software. No garantizamos que el uso del Servicio o de Secure Net App esté libre de errores, que sea ininterrumpido, que esté disponible en todo momento o que proteja contra todas las amenazas posibles u otros fallos.</p>
+                            </li>
+                            <li>
+                                <h3>Casos en los que no contará con la protección de Secure Net</h3>
+                                <p>Aparte de las situaciones que se describen a continuación, el Servicio le protegerá cuando utilice sus aplicaciones con conexión a Internet y se le enviará una alerta por SMS o por notificación (a través de la Secure Net App) si se le bloquea el contenido.</p>
+                                <p>En los siguientes casos no contará con la protección de Secure Net:</p>
+                                <ul>
+                                    <li>
+                                        <p>Si utiliza aplicaciones con algún tipo de encriptación. Ej. Whatsapp.</p>
+                                    </li>
+                                    <li>
+                                        <p>Si utiliza aplicaciones o buscadores que dispongan de algún certificado integrado o páginas intencionadamente excluidas de la inspección (“lista blanca”), ejemplo Vodafone.com.</p>
+                                    </li>
+                                    <li>
+                                        <p>Si cambia su APN.</p>
+                                    </li>
+                                    <li>
+                                        <p>Si utiliza un servicio VPN.</p>
+                                    </li>
+                                    <li>
+                                        <p>Si no está conectado a la red de Vodafone o al Vodafone Home Broadband. Ej. Redes no Vodafone u otras redes Wifi)</p>
+                                    </li>
+                                    <li>
+                                        <p>Si está conectado a una red Wifi como conexión de anclaje. Ej. Si usa una conexión hotspot de una persona cuya red no disponga de Secure Net, sus políticas de protección no aplicarán, incluso aunque la red sea de Vodafone);</p>
+                                    </li>
+                                    <li>
+                                        <p>Si comparte su conexión con otros usuarios de su casa, como sus hijos, aplicarán sus propias políticas de protección, pero no las del otro usuario. Ej. Si su hijo utiliza su hotspot, el primero estará protegido ante las amenazas, sin embargo, no aplicarán las demás restricciones de acceso a contenidos que pudiera tener activas su hijo en su propio perfil;</p>
+                                    </li>
+                                    <li>
+                                        <p>Si se utiliza un servicio proxy.</p>
+                                    </li>
+                                    <li>
+                                        <p>Con ningún protocolo de correo electrónico.</p>
+                                    </li>
+                                    <li>
+                                        <p>Cuando utilice un administrador de descargas o cuando su descarga esté en pausa durante un período de tiempo prolongado.</p>
+                                    </li>
+                                    <li>
+                                        <p>Cuando se cambie el DNS del dispositivo o del router por una que no sea el oficial de Vodafone; cuando se use DoT o DoH; usando servicios de “anonymizer” como Tor o servicios que llaman directamente a nivel IP no a nivel de dominio.</p>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li>
+                                <h3>Responsabilidades que asumimos ante usted</h3>
+                                <p>Estamos legalmente obligados a responder ante usted si, por negligencia nuestra, se produjese un fallecimiento o lesión personal o si actuamos de forma fraudulenta. No tenemos ninguna obligación legal ante usted o ante cualquier daño por:</p>
+                                    <ul>
+                                        <li>
+                                            <p>Cualquier pérdida o daño que usted pudiera haber evitado o reducido mediante una actuación prudente o llevando a cabo los pasos razonables</p>
+                                        </li>
+                                        <li>
+                                            <p>Pérdida de ingresos o beneficios,</p>
+                                        </li>
+                                        <li>
+                                            <p>Pérdida del uso del Servicio,</p>
+                                        </li>
+                                        <li>
+                                            <p>Pérdida de datos; pérdida de una negociación o desaprovechamiento de oportunidades,</p>
+                                        </li>
+                                        <li>
+                                            <p>O cualquier pérdida o daño que no hayamos causado directamente nosotros o con la que no contábamos en el momento en que convino aceptar el presente acuerdo.</p>
+                                        </li>
+                                    </ul>
+                                <p>No responderemos legalmente ante usted en caso de que no podamos proporcionar el Servicio ni la aplicación Secure Net App por cualquier circunstancia que se escapa razonablemente a nuestro control.</p>
+                                <p>Los términos del presente acuerdo no afectarán los derechos que pueda tener en virtud de ninguna ley y que no podemos excluir del acuerdo al que llegamos con usted.</p>
+                            </li>
+                            <li>
+                                <h3>Restricciones</h3>
+                                <p>Nos reservamos el derecho a suspender o invalidar el presente acuerdo y el uso del Servicio si usted ha incurrido o a va a incurrir en lo siguiente:</p>
+                                <ul>
+                                    <li>
+                                        <p>No ha abonado la tarifa correspondiente (anteriormente mencionada) relativa a este Servicio.</p>
+                                    </li>
+                                    <li>
+                                        <p>Utiliza el Servicio como un medio para controlar las actividades de cualquier individuo sin su autorización y consentimiento expreso o utiliza el Servicio para recopilar información personal de otros usuarios por cualquier motivo.</p>
+                                    </li>
+                                    <li>
+                                        <p>Los contenidos que intercambia son ilícitos, invaden la privacidad de los demás o son inapropiados.</p>
+                                    </li>
+                                    <li>
+                                        <p>Ocasiona algún daño, acosa, degrada o intimida a un individuo o grupo de individuos por cualquier motivo.</p>
+                                    </li>
+                                    <li>
+                                        <p>Alienta conductas que pudieran constituir un delito o puedan dar lugar a cualquier tipo de acción judicial.</p>
+                                    </li>
+                                    <li>
+                                        <p>Utiliza el Servicio de forma que evite o inhabilite sus funcionalidades o tecnologías, salvo que se le hubiera autorizado expresamente a ello por Vodafone;  </p>
+                                    </li>
+                                    <li>
+                                        <p>Descompila, desensambla, realiza ingeniería inversa o cualquier otro intento de modificar el código fuente de cualquier parte del Servicio</p>
+                                    </li>
+                                    <li>
+                                        <p>Participa en cualquier actividad, ajena a lo que permite el Servicio, que puede interferir de algún modo en el uso y disfrute que otras personas puedan tener del Servicio o,</p>
+                                    </li>
+                                    <li>
+                                        <p>Daña nuestra reputación o la de un tercero.</p>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li>
+                                <h3>Intransferibilidad del Servicio</h3>
+                                <p>No podrá arrendar, alquilar, prestar o ceder sus derechos sobre el Servicio ni la aplicación Secure Net App a ninguna otra persona. Si utiliza el Servicio en un dispositivo y transfiere la propiedad del mismo a otra persona, anule su inscripción al mismo antes de entregarle el dispositivo.</p>
+                            </li>
+                            <li>
+                                <h3>Información de carácter personal</h3>
+                                <p>Para el registro del producto, se le insta a introducir su número de teléfono cuando instala la aplicación.</p>
+                                <p>Asegúrese de elegir una contraseña de Mi Vodafone difícil de adivinar y no lo comparta con nadie, esto es fundamental para conservar su privacidad. Si alguien conoce su número de teléfono y puede adivinar su contraseña, podrá acceder, bloquear y borrar los datos de su teléfono.</p>
+                                <p>Vodafone recoge y utiliza sus datos para:</p>
+                                <ul>
+                                    <li>
+                                        <p>Mejorar el servicio</p>
+                                    </li>
+                                    <li>
+                                        <p>Mejorar la seguridad de la red de Vodafone; y</p>
+                                    </li>
+                                    <li>
+                                        <p>Proporcionarle mayores niveles de seguridad y protección durante su conexión a la red de Vodafone.</p>
+                                    </li>
+                                </ul>
+                                <p>A continuación se detallan, a modo de ejemplo, algunos de los datos que recogemos y el tiempo que los conservaremos.</p>
+                                <table>
+                                    <tbody><tr>
+                                        <th><p><span>Ejemplo</span></p></th>
+                                        <th><p><span>Tipos de datos utilizados</span></p></th>
+                                        <th><p><span>¿Cuánto tiempo los conservamos?</span></p></th>
+                                    </tr>
+                                    <tr>
+                                        <td><p>Nº páginas web visitadas</p></td>
+                                        <td><p>Totales, recuento del número</p></td>
+                                        <td><p>6 (seis) meses</p></td>
+                                    </tr>
+                                    <tr>
+                                        <td><p>Nº páginas web bloqueadas</p></td>
+                                        <td><p>Totales, recuento del número</p></td>
+                                        <td><p>6 (seis) meses</p></td>
+                                    </tr>
+                                    <tr>
+                                        <td><p>Nº archivos descargados</p></td>
+                                        <td><p>Totales, recuento del número</p></td>
+                                        <td><p>6 (seis) meses</p></td>
+                                    </tr>
+                                    <tr>
+                                        <td><p>Nº archivos bloqueados</p></td>
+                                        <td><p>Totales, recuento del número</p></td>
+                                        <td><p>6 (seis) meses</p></td>
+                                    </tr>
+                                    <tr>
+                                        <td><p>Nº de páginas web bloqueadas por el control parental (que ha aplicado el Titular principal de la cuenta)</p></td>
+                                        <td><p>Totales, recuento del número</p></td>
+                                        <td><p>6 (seis) meses</p></td>
+                                    </tr>
+                                    <tr>
+                                        <td><p>Principales categorías bloqueadas</p></td>
+                                        <td><p>Totales, recuento del número</p></td>
+                                        <td><p>6 (seis) meses</p></td>
+                                    </tr>
+                                    <tr>
+                                        <td><p>Archivos concretos que se ha descargado un Individuo (si la función Notificar acerca de las nuevas aplicaciones está activada)</p></td>
+                                        <td><p>Nombre del archivo</p></td>
+                                        <td><p>Sólo notificación instantánea, sin detalles ni información alguna sobre el contenido del archivo.</p></td>
+                                    </tr>
+                                    <tr>
+                                        <td><p>Principales archivos peligrosos que intentó descargar</p></td>
+                                        <td><p>Totales, recuento del número</p></td>
+                                        <td><p>6 (seis) meses</p></td>
+                                    </tr>
+                                    <tr>
+                                        <td><p>Direcciones URL concretas a las que ha accedido un Individuo</p></td>
+                                        <td><p>Direcciones exactas y nombres de los archivos</p></td>
+                                        <td><p>1 (un) mes</p></td>
+                                    </tr>
+                                    <tr>
+                                        <td><p>Archivos concretos que ha descargado un Individuo</p></td>
+                                        <td><p>Direcciones exactas y nombres de los archivos</p></td>
+                                        <td><p>1 (un) mes</p></td>
+                                    </tr>
+                                </tbody></table>
+                            </li>
+                            <li>
+                                <h3>Modificación de los términos del presente acuerdo o del servicio</h3>
+                                <p>Nos reservamos el derecho a modificar los términos, así como a modificar, suspender o interrumpir el Servicio y la aplicación Secure Net App cuando creamos conveniente. Asimismo, nos reservamos el derecho a modificar, actualizar o mejorar el Servicio y la Secure Net App para asegurar que cumplimos con los nuevos desarrollos legales o tecnológicos, y proteger contra nuevas o emergentes amenazas de seguridad. Si dichos cambios pueden afectarle negativamente, le avisaremos con un mínimo de 30 días. Recuerde que podrá darse de baja en cualquier momento.</p>
+                            </li>
+                            <li>
+                                <h3>Atención al cliente</h3>
+                                <p>Si tiene alguna duda respecto a estos términos o desea contactar con nosotros por cualquier otro motivo, diríjase a <a href="https://securenet.vodafone.es/" target="_new">https://securenet.vodafone.es/</a> o póngase en contacto con Vodafone.</p>
+                            </li>
+                            <li>
+                                <h3>General</h3>
+                                <p>Los presentes Términos y Condiciones se regirán por la legislación española, de forma que cualquier disputa relacionada con los mismos será conocida por los Juzgados y Tribunales que en su caso correspondan conforme a lo establecido en la legislación aplicable. Lo dispuesto anteriormente no afecta a cualesquiera derechos legales que pudieran corresponder al Cliente como consecuencia de la normativa aplicable en materia de defensa de los Consumidores y Usuarios.</p>
+                            </li>
+                        </ol><p><span>Ver Política de privacidad <a href="https://www.vodafone.es/c/particulares/es/mas-con-vodafone/servicios-para-tu-movil/securenet/politica-privacidad/?pp=f" target="_new">aquí.</a></span></p>

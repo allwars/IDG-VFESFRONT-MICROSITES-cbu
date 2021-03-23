@@ -1,0 +1,230 @@
+<span data-test="isp-orange-control">Tarifa Móvil ilimitada 
+                            </span><p data-test="isp-orange-control">
+                        Disfruta <strong>sin límites</strong> <span>de todas tus redes</span></p><span>
+                        
+                        <span>Mejor Precio Vodafone</span>
+                    </span><h1>Tarifa Móvil ilimitada Maxi</h1><ul data-vfes-seo-empathy-promoperiod="Sin permanencia" data-vfes-seo-empathy-promoprice="" data-vfes-seo-empathy-price="36,99">
+                                        <li>
+                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                                <use xlink:href="#icon-mobile"></use>
+                                            </svg>  
+                                            <div>
+                                                <p>
+                                                    Datos y minutos ilimitados
+                                                </p>
+                                                <p>
+                                                    Velocidad alta
+                                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                                        <use xlink:href="#icon-thunder-2grey"></use>
+                                                    </svg>
+                                                </p>
+                                            </div>
+                                        </li>
+
+                                        <li>
+                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                                <use xlink:href="#icon-5g_esp"></use>
+                                            </svg>
+                                            <div>
+                                                <p>
+                                                    Red 5G Vodafone
+                                                </p>
+                                                <p>
+                                                    Música y vídeos 4K en streaming
+                                                </p>
+                                            </div>
+                                        </li>
+
+                                    </ul><legend>
+                                                ¿Cómo quieres la línea móvil?
+                                            </legend><input type="radio" name="rate-1-card-rate" checked=""><label for="rate-1-card-rate-option-1" data-js-vf="_buttonTypeLine">
+                                                        Portabilidad
+                                                    </label><input type="radio" name="rate-1-card-rate"><label for="rate-1-card-rate-option-2" data-js-vf="_buttonTypeLine" data-js-vf-value="newNumber">
+                                                        Nuevo Número
+                                                    </label><p>
+                                                    Datos y minutos ilimitados
+                                                </p><p>
+                                                    línea adicional | <span data-js-vf="_ratesWithLineNewNumber2">Número
+                                                        nuevo</span> <span data-js-vf="_ratesWithLinePortability2">Portabilidad</span>
+                                                </p><p>
+                                                            Sin permanencia
+                                                        </p><p>36,99€/mes
+                                                        </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1251712&amp;tcli=0&amp;tta=2" type="submit" name="cta" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart)" data-analytics-id="-3509444400258">
+                                                    Lo quiero
+                                                </a><p>
+                                                            Sin permanencia
+                                                        </p><p>36,99€/mes
+                                                        </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1251710&amp;tcli=0&amp;tta=2" type="submit" name="cta" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart)" data-analytics-id="-3393807120132">
+                                                    Lo quiero
+                                                </a><p>
+                                                            Sin permanencia
+                                                        </p><p>
+                                                            36,99€<sub>/mes</sub>
+                                                        </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1307735&amp;tcli=0&amp;tta=2" type="submit" name="cta" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart)" data-analytics-id="-8520789277207">
+                                                    Lo quiero
+                                                </a><p>
+                                                            Sin permanencia
+                                                        </p><p>36,99€/mes
+                                                        </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1308325&amp;tcli=0&amp;tta=2" type="submit" name="cta" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart)" data-analytics-id="-0940544308042">
+                                                    Lo quiero
+                                                </a><p>
+                                                            Sin permanencia
+                                                        </p><p>36,99€/mes
+                                                        </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1307732&amp;tcli=0&amp;tta=2" type="submit" name="cta" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart)" data-analytics-id="-5278348491733">
+                                                    Lo quiero
+                                                </a><p>
+                                                            Sin permanencia
+                                                        </p><p>36,99€/mes
+                                                        </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1308322&amp;tcli=0&amp;tta=2" type="submit" name="cta" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart)" data-analytics-id="-3443178406903">
+                                                    Lo quiero
+                                                </a><h3>Móvil</h3><h3><strong>Datos ilimitados para lo que quieras</strong></h3><div>
+                        </div><picture>
+                            <source srcset="img/section-mobile/mobile-apps-v2.png" type="image/webp">
+                            <source srcset="img/section-mobile/mobile-apps-v2.png" type="image/png">
+                            
+                        </picture><p>Datos ilimitados <strong>a alta velocidad (10Mbps de
+                                    bajada y de subida).</strong></p><p>Disfruta de música sin límites con una calidad
+                                extrema y sin cortes.</p><p>Consume vídeo en streaming en calidad 4K sin cortes
+                                ni interrupciones.</p><p>Disfruta de streaming sin necesidad de conectarte al
+                                WiFi, tú y tus datos.</p><p><strong>Llamadas y SMS ilimitados</strong> con
+                                cualquier operador nacional las 24 horas, establecimiento incluido.</p><p> <strong>Roaming incluido en Europa, Reino Unido y
+                                    EEUU.</strong> Disfruta con las mismas condiciones de tu tarifa, sin preocupaciones
+                                también en EEUU.</p><h3><strong>La Mejor Red Móvil y velocidad 5G, la experiencia al completo</strong></h3><picture>  
+                        <source srcset="img/section-5g/5g-bit.png" type="image/webp">
+                        <source srcset="img/section-5g/5g-bit.png" type="image/png">
+                        
+                    </picture><p>El principal estudio internacional de telecomunicaciones umlaut connect Mobile Benchmark 2019 que realiza la consultora acredita, por sexto año consecutivo, que <strong>Vodafone es la operadora con Mejor Red Móvil en España</strong> gracias a su liderazgo tanto en la categoría de Voz como en Datos. Además, su infraestructura para la conectividad 5G demuestra que Vodafone está bien posicionada de cara al futuro.</p><p>El 5G ofrece conexiones con más velocidad y menor latencia. Esta tecnología ofrece una red más estable y de mayor alcance que las actuales redes 4G con la que podrás conectar más dispositivos a la vez y cada vez más diversos.</p><p>#ElFuturoEsApasionante.</p><h3>Líneas adicionales</h3><h3><strong>Añade una línea más al 50% dto. para siempre</strong></h3><button data-js-vf="_portabilityAdditional" data-price="18,50" data-analytics-id="-9933798947400">Portabilidad</button><button data-js-vf="_newNumberAdditional" data-price="18,50" data-analytics-id="-4660475624076">Número Nuevo</button><picture>
+                                        <source srcset="img/test-addons/icon-maslineas.png" type="image/webp">
+                                        <source srcset="img/test-addons/icon-maslineas.png" type="image/png">
+                                        
+                                    </picture><p>
+                                        Datos y minutos ilimitados
+                                    </p><p>
+                                        Velocidad alta
+                                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                            <use xlink:href="#icon-thunder-2grey"></use>
+                                        </svg>
+                                    </p><p>36,99€/mes
+                                    </p><button type="button" name="cta" title="CTA" data-js-vf="_addLine" data-analytics-id="-3553213571959">
+                                        Añadir
+                                    </button><button type="button" name="cta" title="CTA" data-js-vf="_deleteLine" data-analytics-id="-6205950043611">
+                                        Quitar
+                                    </button><h3><strong>También incluido en la Tarifa Móvil ilimitada Maxi</strong>
+                    </h3><ul aria-labelledby="idList">
+                            <li>
+                                <div>
+                                    <div>
+                                        <div>
+                                            
+                                            <h3><strong>Secure Net</strong></h3>
+                                        </div>
+                                        <p>Para que <strong>navegues sin riesgos en Internet por la red móvil de Vodafone</strong>, protegiéndote de virus (malware) y páginas fraudulentas (phishing).</p>
+                                        <p><strong>GRATIS</strong> durante 3
+                                            meses, después 1€/mes por línea.</p>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div>
+                                    <div>
+                                        <div>
+                                            
+                                            <h3><strong>TIDAL</strong></h3>
+                                        </div>
+                                        <p>Plataforma de música en
+                                            streaming para que disfrutes de tu música con la mejor calidad de audio.</p>
+                                        <p><strong>GRATIS</strong>
+                                            durante 3 meses, después 7,99€/mes.</p>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div>
+                                    <div>
+                                        <div>
+                                            
+                                            <h3><strong>OneNumber</strong></h3>
+                                        </div>
+                                        <p><strong>Mismo número de
+                                                teléfono y misma tarifa de voz y datos en todos tus
+                                                dispositivos</strong> sin necesidad de tener el móvil cerca y sin
+                                            cambiar la SIM
+                                        </p><p><strong>GRATIS 1 mes,</strong> después
+                                            5€/mes para smartwatch, Tablet o teléfono secundario y 1€/mes para Smart
+                                            speaker con Alexa.</p>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul><span>(*)Todos los servicios podrás gestionarlos
+                            en la App Mi Vodafone</span><h3>
+                        <span><strong>Sin sorpresas.</strong></span>
+                        <span><strong>No escondemos nada</strong></span>
+                    </h3><p>Impuestos y cuota de línea incluidos. Envío de SIM gratuito.</p><p data-test="isp-orange-control">Sin permanencia</p><a target="_blank" href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/movil/contrato/tarifas-contrato/legales/" title="Ver condiciones legales" data-analytics-id="1500089059280-0542767590225" data-test="isp-orange-control">Ver condiciones
+                        legales</a><h3><strong>¿Cómo contrato la Tarifa Móvil ilimitada Maxi?</strong></h3><ul>
+                        <li>
+                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
+                                <title>Icono carrito</title>
+                                <use xlink:href="#icon-shopping-trolley-mid"></use>
+                            </svg>
+                            <p>Compra online</p>
+                            <p>Recibirás un email de confirmación con el detalle de
+                                tu pedido y próximos pasos.</p>
+                        </li>
+                        <li>
+                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
+                                <title>Icono portabilidad</title>
+                                <use xlink:href="#icon-business-mid"></use>
+                            </svg>
+                            <p>Portabilidad</p>
+                            <p>Eliges la fecha y lugar de entrega de tu nueva SIM y
+                                sabrás el día exacto del cambio. Nos aseguraremos que no te quedas sin línea.</p>
+                        </li>
+                        <li>
+                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
+                                <title>Icono envío</title>
+                                <use xlink:href="#icon-bundles-mid"></use>
+                            </svg>
+                            <p>Recibe la SIM</p>
+                            <p>El envío puede tardar entre 2-3 días laborables (en
+                                la penisula) y 5-7 (a Baleares y Canarias, Ceuta o Melilla).</p>
+                        </li>
+                        <li>
+                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
+                                <title>Business</title>
+                                <use xlink:href="#icon-unified-communication-mid"></use>
+                            </svg>
+                            <p>Mi Vodafone</p>
+                            <p>Podrás registrarte y hacer el seguimiento de tu
+                                pedido y gestionar tus servicios desde la app de Vodafone.</p>
+                        </li>
+                    </ul><span>
+                            <span>36,99€</span>
+                            <span>/mes</span>
+                        </span><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1251712&amp;tcli=0&amp;tta=2" type="submit" name="cta" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart)" data-analytics-id="-7531367615497">
+                        Lo quiero
+                    </a><del>36,99€/mes</del><span>
+                            <span>36,99€</span>
+                            <span>/mes</span>
+                        </span><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1251710&amp;tcli=0&amp;tta=2" type="submit" name="cta" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[1])" data-analytics-id="-0083322952387">
+                        Lo quiero
+                    </a><del>36,99€/mes</del><span>
+                            <span>36,99€</span>
+                            <span>/mes</span>
+                        </span><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1307735&amp;tcli=0&amp;tta=2" type="submit" name="cta" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart)" data-analytics-id="-9491332755799">
+                        Lo quiero
+                    </a><del>36,99€/mes</del><span>
+                            <span>36,99€</span>
+                            <span>/mes</span>
+                        </span><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1308325&amp;tcli=0&amp;tta=2" type="submit" name="cta" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart)" data-analytics-id="-6955836733953">
+                        Lo quiero
+                    </a><span>
+                            <span>36,99€</span>
+                            <span>/mes</span>
+                        </span><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1307732&amp;tcli=0&amp;tta=2" type="submit" name="cta" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart)" data-analytics-id="-2103394570783">
+                        Lo quiero
+                    </a><span>
+                            <span>36,99€</span>
+                            <span>/mes</span>
+                        </span><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1308322&amp;tcli=0&amp;tta=2" type="submit" name="cta" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart)" data-analytics-id="-5389906802895">
+                        Lo quiero
+                    </a>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="30px" viewBox="0 0 33 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons+Indicators / System-Icons / shopping_checkout / #333333</title>
+    <g id="Version-Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Layout-WS10-/-Grid-/-Desktop--Copy-3" transform="translate(-986.000000, -21.000000)">
+            <g id="Icons+Indicators-/-System-Icons-/-shopping_trolley-/-#333333" transform="translate(982.000000, 16.000000)">
+                <g id="shopping_trolley">
+                    <polygon id="bg" fill-opacity="0" fill="#D8D8D8" points="0 0 40 0 40 40 0 40"></polygon>
+                    <path d="M20.1011042,29.8988104 C21.0774146,30.8751208 21.0774146,32.4580396 20.1011042,33.4343521 C19.1247938,34.4106625 17.541875,34.4106625 16.5655625,33.4343521 C15.5892521,32.4580417 15.5892521,30.8751229 16.5655625,29.8988104 C17.5418729,28.9225 19.1247917,28.9225 20.1011042,29.8988104" id="path_1" stroke="#333333" stroke-linecap="round"></path>
+                    <path d="M30.1010208,29.8988104 C31.0773313,30.8751208 31.0773313,32.4580396 30.1010208,33.4343521 C29.1247104,34.4106625 27.5417917,34.4106625 26.5654792,33.4343521 C25.5891688,32.4580417 25.5891688,30.8751229 26.5654792,29.8988104 C27.5417896,28.9225 29.1247083,28.9225 30.1010208,29.8988104" id="path_1" stroke="#333333" stroke-linecap="round"></path>
+                    <polyline id="Shape" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" points="4.16666667 5.83333333 9.58333333 5.83333333 15.625 24.1666667 31.0416667 24.1666667 35.8333333 9.16666667 10.68125 9.16666667"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

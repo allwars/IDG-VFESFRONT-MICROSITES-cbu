@@ -1,0 +1,150 @@
+// CSS del microsite
+.vfes-ms-content{
+    .vfms-hero{
+        @media screen and (min-width: 970px) {
+            padding: 30px;
+        }
+        &__title {
+            font-size: 28px;
+            max-width: 200px;
+            margin: 0 auto;  
+            @media screen and (min-width: 640px) {
+                font-size: 36px;
+                max-width: none;
+            }  
+            @media screen and (min-width: 970px) {
+                font-size: 44px;
+            }      
+        }
+        &__subtitle {
+            font-size: 20px;
+            @media screen and (min-width: 640px) {
+                font-size: 24px;
+            }   
+        }
+    } 
+    .vfms-modal {
+        overflow-y: unset;
+    }
+    .vfms-large {
+        width: 100%;
+    }
+    .vfms-title {
+        font-size: 20px;
+        @media screen and (min-width: 640px) {
+            font-size: 30px;
+        }
+    }
+    .vfms-icon {
+        width: 48px;
+        height: 48px;
+        @media screen and (min-width: 970px) {
+            width: 64px;
+            height: 64px;
+        }
+    }
+    .vfms-subtitle {
+        @media screen and (min-width: 970px) {
+            font-size: 20px;
+        }
+    }
+    .vfms-nopaddingtop {
+        padding-top: 0;
+    }
+    .vfms-nopadding {
+        padding: 0;
+    }
+    .vfms-device__button {
+        @media screen and (min-width: 970px) {
+            width: 300px;
+        }
+    }
+    .vfes-tabs__tab {
+        max-width: 160px;
+    }
+    .vfes-tabs__tab-button {
+        padding: 15px 0;
+    }
+    .vfms-price {
+        &__size {
+            font-size: 30px;
+        }
+        &__flex-direction {
+            @media screen and (min-width: 640px) {
+                flex-direction: column;
+            }
+        }
+        &__container {
+            @media screen and (min-width: 640px) {
+                align-items: center;
+            }
+        }
+    }
+       
+    .vfms-tabs{
+        &__title {
+            @media screen and (min-width: 970px) {
+                font-size: 30px;
+            } 
+        }
+    } 
+    .vfms-mobile{
+        &-img{
+            position: relative;
+            display: block;
+            margin: 0 auto;
+            height: 150px;
+            max-width: 100px;
+            @media screen and (min-width: 640px) {
+                height: auto;
+                max-width: none;
+            }
+            @media screen and (min-width: 970px) {
+                min-width: 87px;
+            }
+        }
+    }
+    .vfms-form {
+        &--container {
+            max-width: 550px;
+            margin: 0 auto;
+        }
+    }
+    .vfes-flex__direction--row-column-reverse-sm {
+        @media screen and (min-width: 640px) {
+            flex-direction: row;
+        }
+    }
+    .vfes-flex__direction--row-column-sm {
+        @media screen and (min-width: 640px) {
+            flex-direction: row;
+        }
+    } 
+    .vfms-align__items {
+        align-items: flex-end;
+        @media screen and (min-width: 640px) {
+            align-items: flex-start;
+        }
+    }
+    .vfms-features{
+        @media screen and (min-width: 640px) {
+            text-align: center;
+        }
+        &__icon {
+            min-width: 36px;
+            @media screen and (min-width: 640px) {
+                min-width: 48px;
+            }
+        }
+        &__flex {
+            @media screen and (min-width: 640px) {
+                flex-direction: column;
+                align-items: center;
+            }
+        }
+    } 
+}
+
+
+
+    

@@ -1,0 +1,125 @@
+{
+    "tarifas": {
+        "particulares": {
+            "convergente": 
+                [
+                    {
+                        "ID": "01",
+                        "tipo": "particulares",
+                        "nombre": "Vodafone One Mini",
+                        "movil": {
+                            "datos": {
+                                "velocidad": null,                            
+                                "cap": "4GB"
+                            },
+                            "llamadas": {
+                                "cantidad": "200 minutos"
+                            }                
+                        },
+                        "fibra": {
+                            "velocidad": "100Mbps"
+                        },
+                        "ofertas":"",
+                        "permanencia": null,
+                        "precioAnterior": "84,99",
+                        "precioConIva": "47,99",              
+                        "URLcompra": null
+                    },
+                    {
+                        "ID": "02",
+                        "tipo": "particulares",
+                        "nombre": "Vodafone One Extra",
+                        "movil": {
+                            "datos": {
+                                "velocidad": null,                            
+                                "cap": "8GB"
+                            },
+                            "llamadas": {
+                                "cantidad": "minutos ilimitados"
+                            }                
+                        },
+                        "fibra": {
+                            "velocidad": "100Mbps"
+                        },
+                        "ofertas":"50% dto. 3meses.",
+                        "permanencia": "Permanencia 12 meses",
+                        "precioAnterior": "57,99",
+                        "precioConIva": "28,99",              
+                        "URLcompra": null
+                    },
+                    {
+                        "ID": "03",
+                        "tipo": "particulares",
+                        "nombre": "Vodafone One Ilimitada",
+                        "movil": {
+                            "datos": {
+                                "velocidad": null,                            
+                                "cap": "GB"
+                            },
+                            "llamadas": {
+                                "cantidad": "minutos ilimitados"
+                            }                
+                        },
+                        "fibra": {
+                            "velocidad": "100Mbps"
+                        },
+                        "ofertas":"50% dto. 3meses.",
+                        "permanencia": "Permanencia 12 meses",
+                        "precioAnterior": "64,99",
+                        "precioConIva": "31,99",              
+                        "URLcompra": null
+                    },
+                    {
+                        "ID": "04",
+                        "tipo": "particulares",
+                        "nombre": "Vodafone One Ilimitada Súper",
+                        "movil": {
+                            "datos": {
+                                "velocidad": null,                            
+                                "cap": "GB"
+                            },
+                            "llamadas": {
+                                "cantidad": "minutos ilimitados"
+                            }                
+                        },
+                        "fibra": {
+                            "velocidad": "600Mbps"
+                        },
+                        "ofertas":"50% dto. 3meses.",
+                        "permanencia": "Permanencia 12 meses",
+                        "precioAnterior": "84,99",
+                        "precioConIva": "41,99",              
+                        "URLcompra": null
+                    },
+                    {
+                        "ID": "05",
+                        "tipo": "particulares",
+                        "nombre": "Vodafone One Ilimitada Total",
+                        "movil": {
+                            "datos": {
+                                "velocidad": null,                            
+                                "cap": "GB"
+                            },
+                            "llamadas": {
+                                "cantidad": "minutos ilimitados"
+                            }                
+                        },
+                        "fibra": {
+                            "velocidad": "1Gbps"
+                        },
+                        "ofertas":"50% dto. 3meses.",
+                        "permanencia": "Permanencia 12 meses",
+                        "precioAnterior": "109,99",
+                        "precioConIva": "54,99",              
+                        "URLcompra": null
+                    }
+                       
+                ]
+
+        }
+
+  
+
+
+    }
+}

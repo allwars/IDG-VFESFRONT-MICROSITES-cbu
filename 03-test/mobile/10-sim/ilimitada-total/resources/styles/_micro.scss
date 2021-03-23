@@ -1,0 +1,75 @@
+// CSS del microsite
+.vfes-ms-content-ilimitada-total{
+    .vfms-title{
+        &__center {
+            text-align: center;
+        }
+    }
+    .vfms-nomargin__bottom {
+        margin-bottom: 0;
+    }
+    .vfms-nopadding__bottom {
+        padding-bottom: 0;
+    }
+    .vfes-flex__direction--colum {
+        flex-direction: column;
+    }
+    .vfms-link {
+        text-decoration: underline;
+    }
+    .vfms-img__size {
+        height: 80px;
+        width: 80px;
+    }
+    .vfms-button__width {
+        min-width: 300px;
+    }
+    .vfms-popup {
+        position: fixed;
+        height: 100vh;
+        width: 100%;
+        top: 0;
+        background: rgba(0,0,0,.5);
+        z-index: 4;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .vfms-container {
+        background: #fff;
+        padding: 5%;
+        position: relative;
+        &__legales {
+            margin: 5%;
+            background: white;
+            padding: 5%;
+            position: relative;
+        }
+    }
+    .vfms-popup__legales {
+        position: absolute;
+        top: 100px;
+        background: rgba(0,0,0,.5);
+        z-index: 1;
+    }
+    // .vfms-list {
+    //     &__item {
+    //         @media screen and (min-width: 980px) {
+    //             display: inline-block;
+    //         }
+    //     }
+    // }
+    .vfms-ml {
+        @media screen and (min-width: 980px) {
+           margin-left: 12px;
+        }
+    }
+    .vfms-icon {
+        position: absolute;
+        right: 10px;
+        top: 10px;
+    }
+    .vfes-paragraph--right {
+        text-align: right;
+    }
+}

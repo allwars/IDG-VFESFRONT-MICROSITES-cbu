@@ -1,0 +1,141 @@
+// CSS del microsite
+.vfes-ms-content-packs5g{
+    scroll-behavior: smooth;
+    .vfms-main {
+        .vfms-nomarginbottom {
+            margin-bottom: 0;
+        }
+        &__link {
+            text-decoration: underline;
+        }
+        .vfes-carousel {
+            padding: 0;
+        } 
+        &__vr {
+            max-width: 100px;
+        }
+        &__fullwidth {
+            @media screen and (min-width: 640px) {
+                width: 100%;
+            }
+        }
+        &__card{
+            &--height {
+                @media screen and (min-width: 640px) {
+                    min-height: 200px;
+                }
+            }
+        } 
+    }
+    .vfms-specs {
+        &__device {
+            max-width: 50%;
+        }
+        &__line {
+            border-bottom: 1px solid #333;
+        }
+        &__device-container1 {
+            @media screen and (min-width: 640px) {
+                width: 90%;
+            }
+            @media screen and (min-width: 970px) {
+                width: 80%;
+            }
+        }
+        &__device-container2 {
+            @media screen and (min-width: 640px) {
+                width: 10%;
+            }
+        }
+    }
+    .vfms-flexrow__md {
+        @media screen and (min-width: 640px) {
+            flex-direction: row;
+        }         
+    }
+    .vfms-flex__justify--evenly  {
+        @media screen and (min-width: 640px) {
+           justify-content: space-evenly;
+        }
+    }
+    .vfes-paragraph {
+        @media screen and (min-width: 640px) {
+            font-size: 18px;
+        }
+    }
+    .vfes-title--2 {
+        @media screen and (min-width: 640px) {
+            font-size: 40px;
+        }
+    }
+    .vfms-ticket {
+        position: fixed;
+        bottom: 0;
+        right: 0;
+        @media screen and (min-width: 970px) {
+            top: 150px;
+            right: 100px;
+        }
+    }
+    .vfms-ticket {
+        &__body.hide + .vfes-card__list-footer {
+            border-top: 0;
+        }
+
+        &__dropdown-button {
+            position: absolute;
+            top: 3px;
+            right: 10px;
+            color: #e60000;
+        }
+
+        &__content {
+            max-height: 300px;
+            overflow-y: auto;
+        }
+
+        &__element {
+            margin-bottom: 12px;
+
+            &:last-child {
+                margin-bottom: 0;
+            }
+        }
+
+        &__wrapper.fixed {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            z-index: 7;
+        }
+
+        .vfes-card__list-header .vfes-card__list-paragraphs .vfes-paragraph {
+            width: auto;
+        }
+    }
+    .vfes-card__list {
+        margin-bottom: 0;
+        &-content {
+
+            .vfes-paragraph {
+                margin-left: 50px;
+            }
+
+            .vfes-card__list-list {
+                margin-left: 50px;
+            }
+        }
+
+        &-container.hide {
+            display: none;
+        }
+
+        &-footer {
+            border-top: 1px solid #e60000;
+    
+            .vfes-button {
+                width: 100%;
+            }
+        }
+    }
+}

@@ -1,0 +1,270 @@
+<p>La declaración de privacidad del servicio Secure Net de Vodafone depende de cual sea la conexión en la que se ha dado de alta el servicio.</p><p>Si solo tiene o ha tenido el servicio de Secure Net en sus conexiones móviles puede consultar la política de privacidad <a href="https://www.vodafone.es/c/particulares/es/mas-con-vodafone/servicios-para-tu-movil/securenet/politica-privacidad/" target="_self"> aquí.</a></p><p>Si tiene el servicio o ha tenido alguna vez el servicio de Secure Net en su conexión fija de banda ancha puede consultar la política de privacidad <a href="https://www.vodafone.es/c/particulares/es/mas-con-vodafone/servicios-para-tu-movil/securenet/politica-privacidad/?pp=f" target="_self"> aquí.</a></p><p>Si no está seguro que los términos y condiciones aplican en su caso, entre en el servicio (en la app si la tiene instalada o en securenet.vodafone.es) y puede encontrarlo en la sección de “Acerca de”.</p><h3>Secure Net – Política de Privacidad</h3><ul>
+                        <li>
+                        <button data-option="1" role="tab" aria-controls="simpletab1" title="Móvil" aria-label="móvil" aria-selected="true">Móvil</button>
+                        </li>
+                        <li>
+                            <button data-option="2" role="tab" aria-controls="simpletab2" title="Fibra + Móvil" aria-label="fibra + movil" aria-selected="false">Fibra + Móvil</button>
+                        </li>
+                    </ul><p>Este anexo de privacidad ofrece alguna información adicional específica de Secure Net y la App. Secure Net es un producto de seguridad que proporciona protección adicional al navegar en nuestra red móvil. Para obtener información general sobre cómo procesamos sus datos como parte de la provisión de conectividad móvil, vea nuestra principal <a href="https://www.vodafone.es/c/conocenos/es/vodafone-espana/quienes-somos/legal-y-regulatorio/politica-de-privacidad-y-cookies/" target="_new"> política de privacidad.</a></p><p>¿Quiénes somos?</p><p>Somos Vodafone España, S.A.U, con CIF A-80907397 (Vodafone), empresa que pertenece al Grupo Vodafone. Si accede a <a href="http://www.vodafone.com/content/index/about/where.html" target="_new">http://www.vodafone.com/content/index/about/where.html</a> podrá encontrar el enlace a la empresa del Grupo Vodafone que opera en su país.</p><p>Tenga en cuenta que en esta Política de Privacidad:</p><ul>
+                            <li><p>"nosotros/nuestro" significa Vodafone; </p></li>
+                            <li><p>"tercero" significa una tercera persona o entidad distinta de usted y de Vodafone; y</p></li>
+                            <li><p>"Vodafone Grupo" significa Vodafone Group Plc y cualquier empresa u otra organización en la que Vodafone Group Plc posea más del 15% del capital social. </p></li>
+                        </ul><p>Nuestro domicilio social se encuentra Avenida de América, 115, 28042, Madrid. Nuestra centralita principal para atención al cliente es 607123000. Asimismo, a través de nuestra página web, se recogen distintos canales de contacto que ponemos a su disposición.</p><p>¿Cómo contactar con nosotros?</p><p>Su opinión es muy importante para nosotros así que si tiene alguna pregunta sobre nuestra Política de Privacidad, puede contactarnos en las direcciones recogidas en el apartado anterior o hacerlo a través de nuestro Delegado de Protección de Datos en la dirección de correo electrónico: <a href="mailto:dpo-spain@vodafone.com" target="_new">dpo-spain@vodafone.com.</a></p><button aria-expanded="false" aria-controls="accordion-content-0">La información personal que recogemos sobre usted</button><p>La información que recogemos sobre usted</p><p>
+                                                Los tipos de información que procesamos sobre usted y los dispositivos que registra en el servicio cuando utiliza Secure Net y en la aplicación que lo acompaña son:
+                                            </p><ul>
+                                                <li><p>El contenido de sus comunicaciones; Secure Net es un servicio que utiliza un proceso llamado Inspección Profunda de Paquetes en la información que estamos transmitiendo para detectar cualquier amenaza de seguridad y filtrarla. No utilizamos esta información para otros fines;</p></li>
+                                                <li><p>Su número de teléfono, información de tarifas y plan de precios;</p></li>
+                                                <li><p>La información de sus credenciales, como contraseñas, pistas e información de seguridad similar utilizada para la autenticación y el acceso a cuentas y servicios. Estas podrían ser sus credenciales de identificación de Vodafone si configura su acceso a través de este método;</p></li>
+                                                <li><p>Información sobre su dispositivo móvil cada vez que utilice la App. Por ejemplo, podemos recopilar información sobre el tipo de dispositivo móvil que utiliza y su identificador único de dispositivo (por ejemplo, el número IMEI, el número de teléfono móvil del dispositivo o la dirección MAC de la interfaz de red inalámbrica del dispositivo);</p></li>
+                                                <li><p>Si activa Secure Net Cleaning tool, la herramienta de limpieza de infecciones para tu teléfono, accederemos a los datos de su dispositivo para ayudar a eliminar las amenazas de seguridad de su dispositivo;</p></li>
+                                                <li><p>Los nombres o apodos que añade al crear los perfiles familiares;</p>
+                                                <p>Si añade perfiles de niños, le pediremos su rango de edad, para poder restringir el contenido inapropiado para la edad.</p></li>
+                                            </ul><p>También obtendremos información sobre cómo utiliza nuestros productos y servicios como, por ejemplo:</p><ul>
+                                                <li><p>Detalles sobre el uso que hace de nuestros servicios: por ejemplo, podemos ver si un sitio ha sido bloqueado o no y mantener un registro limitado de esta información para el servicio y la atención al cliente (consulte cuánto tiempo conservamos su información personal), o con qué frecuencia interactúa con nuestro portal para ver resúmenes de su protección contra amenazas o controles parentales, o los tipos de controles parentales que estás estableciendo; y</p></li>
+                                                <li><p>También recopilamos información analítica anónima sobre cómo nuestros clientes utilizan la aplicación Secure Net para mejorar su experiencia y solucionar problemas (por ejemplo, podemos ver si ciertas funcionalidades no funcionan como se pretende y arreglarlas o cuánto usan nuestros clientes las funciones de control parental);.</p></li>
+                                            </ul><p>Cuándo se recopila su información personal</p><p>Recogemos su información personal cuando:</p><ul>
+                                                <li><p>Navega por Internet con una conexión móvil o fija con cualquiera de sus dispositivos cuando tiene una suscripción activa a Secure Net;</p></li>
+                                                <li><p>Interactúa con la App o el portal en línea (donde puede ver lo que ha sido bloqueado o establecer el control parental); </p></li>
+                                                <li><p>Activa y se utiliza la herramienta de limpieza de la App, Secure Net Cleaning tool; y </p></li>
+                                                <li><p>Cuando el contenido se bloquea como resultado de las protecciones de seguridad o cuando un control parental limita el acceso a ciertos contenidos.</p></li>
+                                            </ul><p>Vodafone procesará sus datos personales basándose en:</p><ol>
+                                                <li>
+                                                    <p>
+                                                        <span>Los intereses comerciales legítimos de Vodafone</span>, por ejemplo, la prevención del fraude, el mantenimiento de la seguridad de nuestra red y servicios, y la mejora de nuestros servicios. Siempre que nos basamos en esta base legal para procesar sus datos, evaluamos nuestros intereses comerciales para asegurarnos de que no anulan sus derechos. Además, en algunos casos, tiene el derecho de oponerse a este procesamiento. Para obtener más información, visite la sección Sus derechos de esta política.
+                                                    </p>
+                                                </li>
+                                                <li>
+                                                    <p>
+                                                        <span>Cumplimiento de una obligación legal imperativa</span>, incluyendo por ejemplo los requisitos contables y fiscales, que están sujetos a estrictas políticas internas (como los períodos de retención), procedimientos y su derecho a restringir el uso de sus datos, que controlan el alcance de la asistencia legal que se debe proporcionar; o
+                                                    </p>
+                                                </li>
+                                                <li>
+                                                    <p>
+                                                        <span>El consentimiento</span> que usted proporciona cuando Vodafone no se basa en otra base legal. Dicho consentimiento siempre se presenta por separado y puede retirarlo en cualquier momento. Por ejemplo, necesitamos su consentimiento para procesar el contenido de sus comunicaciones con el fin de detectar y bloquear cualquier amenaza a la seguridad.
+                                                    </p>
+                                                </li>
+                                            </ol><p>Secure Net es un servicio opcional, que puede desactivar en cualquier momento. Para ello, puede navegar al portal de Secure Net en <a href="https://securenet.vodafone.es/">este enlace</a> o a través del enlace que se le ha enviado en su SMS de bienvenida o, si lo prefiere, puede ponerse en contacto con el equipo de Atención al Cliente llamando al teléfono 607123000.</p><button aria-expanded="false" aria-controls="accordion-content-1">Cómo utilizamos su información personal</button><p>Para proporcionarle su servicio</p><p>
+                                               Para que podamos protegerle de las amenazas a la seguridad, vemos el contenido de sus comunicaciones para hacerlo. No utilizamos esta información para la comercialización o la creación de perfiles personalizados y se conserva durante un período de tiempo limitado.
+                                            </p><p>Creación de perfiles y toma de decisiones de forma automática</p><p>
+                                               Nuestra vigilancia de las amenazas se basa en perfiles y decisiones automatizadas; por ejemplo, los sitios web que bloqueamos en base a la información que hemos reunido. Sin embargo, puedes entrar en tu portal o aplicación y ver por qué se ha bloqueado algo (por ejemplo, si era malicioso o contenía malware).
+                                            </p><p>Para mejorar nuestro servicio</p><p>
+                                               Recopilamos información anónima, no identificada o agregada para mejorar el servicio que ofrecemos a todos.  Ninguno de estos análisis está vinculado a usted de ninguna manera.
+                                            </p><p>Mensajes de servicio</p><p>
+                                               De vez en cuando le enviaremos resúmenes mensuales de las amenazas que han sido bloqueadas. Puede desactivarlos en la configuración de su cuenta si no desea seguir recibiéndolos a través de la configuración de notificación de la aplicación o poniéndose en contacto con el servicio de atención al cliente de Vodafone.
+                                            </p><button aria-expanded="false" aria-controls="accordion-content-2">Cómo compartimos su información personal</button><p>
+                                               Cuando corresponda, compartimos información sobre usted con:
+                                            </p><ul>
+                                                <li><p>Empresas del Grupo Vodafone;</p></li>
+                                                <li><p>Socios, proveedores o agentes involucrados en la entrega de los productos y servicios que usted ha pedido o utilizado;</p></li>
+                                                <li><p>Compañías que están contratadas para realizar servicios para, o en nombre de, Vodafone Limited, o Vodafone Group;</p></li>
+                                                <li><p>Agencias de referencia crediticia, de prevención de fraudes o de puntuación empresarial, u otras agencias de puntuación crediticia;</p></li>
+                                                <li><p>Agencias de cobro de deudas u otras organizaciones de recuperación de deudas;</p></li>
+                                                <li><p>Agencias de ejecución de la ley, organismos gubernamentales, organizaciones reguladoras, tribunales u otras autoridades públicas si tenemos que hacerlo o estamos autorizados por la ley; o</p></li>
+                                                <li><p>Un tercero o un organismo en el que se requiera que dicha divulgación para que cumpla con cualquier ley aplicable, u otro requisito legal o reglamentario.</p></li>
+                                            </ul><button aria-expanded="false" aria-controls="accordion-content-3">Transferencias internacionales de datos</button><p>
+                                               No transferimos datos fuera del EEE sin las garantías adecuadas; los datos se almacenan en nuestros centros de datos en Alemania.
+                                            </p><button aria-expanded="false" aria-controls="accordion-content-4">Durante cuánto tiempo conservamos sus datos</button><p>Guardaremos su información durante el tiempo que sea necesario por ley. Si no hay ningún requisito legal, sólo la almacenaremos durante el tiempo que necesitemos (12 meses).</p><p>Historial de navegación</p><p>
+                                               Mantenemos un registro limitado de su historial de navegación con fines de servicio y atención al cliente solamente. Vodafone no reutiliza su navegación con fines de marketing o de creación de perfiles personalizados.
+                                            </p><ul>
+                                                <li><p>Por ejemplo, si cree que no deberíamos haber bloqueado un sitio, podemos comprobarlo por usted; o</p></li>
+                                                <li><p>Para que pueda ver un historial de la protección proporcionada (como sitios o malware bloqueados o donde los controles parentales tienen un acceso limitado a ciertos contenidos) con la App o el portal Secure Net.</p></li>
+                                            </ul><button aria-expanded="false" aria-controls="accordion-content-5">Manteniendo su información personal segura</button><p>
+                                               Tenemos equipos de seguridad especializados que se encargan de revisar y mejorar constantemente nuestras medidas, para proteger su información personal del acceso no autorizado, la pérdida accidental, la divulgación o la destrucción. 
+                                            </p><p>
+                                               Las comunicaciones a través de Internet (como los correos electrónicos) no son seguras a menos que hayan sido encriptadas. Sus comunicaciones pueden pasar por varios países antes de ser entregadas, ya que esta es la naturaleza de Internet.  
+                                            </p><p>
+                                               No podemos aceptar la responsabilidad de cualquier acceso no autorizado o pérdida de información personal que esté fuera de nuestro control. 
+                                            </p><p>
+                                               Nunca le pediremos su información personal o de cuenta segura por un medio de comunicación no solicitado. Usted es responsable de mantener su información personal y de cuenta segura y de no compartirla con otros.
+                                            </p><p>
+                                               Nuestro sitio web puede proporcionar enlaces a sitios web de terceros. No podemos ser responsables de la seguridad y el contenido de dichos sitios web de terceros. Por lo tanto, asegúrese de leer las políticas de privacidad y de cookies de esa compañía antes de usar o poner su información personal en su sitio. 
+                                            </p><p>
+                                               Lo mismo se aplica a cualquier sitio web de terceros o al contenido al que se conecte al utilizar nuestros productos y servicios. 
+                                            </p><p>Puede optar por revelar su información de ciertas maneras, como por ejemplo mediante programas sociales complementarios (incluidos los ofrecidos por Google, Facebook, Twitter y Pinterest) o mediante servicios de terceros que le permiten publicar reseñas u otra información públicamente, y un tercero podría utilizar esa información.</p><p>Los programas sociales complementarios y las aplicaciones sociales son operados por la propia red social y están sujetos a sus propios términos de uso y políticas de privacidad y de cookies. Debe asegurarse de que está familiarizado con ellas.</p><button aria-expanded="false" aria-controls="accordion-content-6">Sus derechos</button><p>
+                                               A continuación, se exponen los detalles de cómo puede ejercer sus derechos.
+                                            </p><p>Derecho a rectificar los datos personales</p><p>
+                                               Tiene derecho a rectificar información guardada sobre usted si ésta no es precisa. Si la información que almacenamos necesita actualizarse, o piensa que puede ser errónea, puede conectarte a ‘Mi Vodafone’ para actualizarla.
+                                            </p><p>Derecho de acceso a los datos personales</p><p>
+                                               Tiene derecho a solicitar una copia de los datos personales que Vodafone guarda de usted.
+                                            </p><p>Derecho a la portabilidad de los datos</p><p>
+                                               Tiene derecho a transportar los datos que nos ha proporcionado en ciertas circunstancias. Por ejemplo, Vodafone le asegura que podrá llevarse sus datos permitiéndole la descarga de sus facturas mensuales, de manera tan simple como pinchando en un botón, y en formato electrónico. Para hacer esto, conéctese a Mi Vodafone en la parte de Permisos y Preferencias y vaya a su área de facturación.
+                                            </p><p>Derecho a oponerse al uso de datos personales</p><p>
+                                               Tiene el derecho, en algunas circunstancias, a oponerse al procesamiento de su información personal por parte de Vodafone.
+                                            </p><p>Cómo presentar una denuncia</p><p>
+                                               Si quiere contactar con nosotros en relación con sus derechos o si quiere cursar una queja sobre como usamos su información personal, contacte con nosotros llamando al 607123000 o a través de la dirección de correo electrónico derechosprotecciondatos@vodafone.es. Haremos todo lo posible para ayudar, pero si todavía no está satisfecho, puede ponerse en contacto con la Agencia Española de Protección de Datos en <a href="https://www.aepd.es/es" target="_new">https://www.aepd.es/es</a>
+                                            </p><p>Derecho de limitación</p><p>Tiene el derecho a solicitar la limitación del tratamiento de sus datos de manera que Vodafone pueda almacenar sus datos, pero no usarlos. Este derecho solo puede ejercerse en determinadas circunstancias como:</p><ul>
+                                                <li><p>que nos informe de la inexactitud sus datos personales, durante el plazo que necesitemos para verificar la exactitud de los mismos;</p></li>
+                                                <li><p>que el tratamiento sea ilícito y no quiera que borremos sus datos personales;</p></li>
+                                                <li><p>que se haya opuesto a algún tratamiento que Vodafone realiza basándose en interés legítimo, durante el plazo que necesitamos para verificar que su derecho prevalece sobre dicho interés;</p></li>
+                                                <li><p>que Vodafone ya no necesite los datos personales para los fines del tratamiento, pero usted los necesite para la formulación, el ejercicio o la defensa de reclamaciones;</p></li>
+                                            </ul><p>Derecho de supresión</p><p>Vodafone se esfuerza en procesar y retener sus datos solo el tiempo que necesitemos. En algunas circunstancias, tiene el derecho a solicitar la supresión de sus datos personales que tenemos guardados. Estos datos se conservarán bloqueados y accesibles únicamente por determinadas personas para el caso de que los necesitemos para atender alguna reclamación o responder de nuestras obligaciones.</p><button aria-expanded="false" aria-controls="accordion-content-7">Nuestra política de cookies</button><p>
+                                               Las cookies son pequeños archivos de texto que se almacenan en el ordenador, la tableta o el teléfono móvil cuando se visita un sitio web. Las cookies significan que el sitio web le recordará a usted y cómo ha usado el sitio cada vez que vuelva.
+                                            </p><p>Las cookies no contienen información personal como su nombre o datos bancarios. Y en muchos casos, no podremos vincular la información que recopilamos mediante el uso de una cookie con usted. Sin embargo, pueden ayudarnos a encontrar información una vez que haya iniciado sesión o ayudarnos a vincular su información de navegación con usted y su información personal, por ejemplo, cuando decida registrarse en un servicio, un libro blanco o un boletín informativo.</p><p>Cookies propias</p><p>Las cookies propias se originan en el mismo dominio que el sitio web que estás visitando actualmente.</p><table>
+                                                <tbody><tr>
+                                                    <th><p><span>Cookie</span></p></th>
+                                                    <th><p><span>Significado de la cookie</span></p></th>
+                                                    <th><p><span>Dominio</span></p></th>
+                                                    <th><p><span>Duración</span></p></th>
+                                                </tr>
+                                                <tr>
+                                                    <td><p>SESSION</p></td>
+                                                    <td><p>Se utiliza para rastrear una identificación de usuario para permitir que el mismo permanezca conectado.</p></td>
+                                                    <td><p>vodafone.com</p></td>
+                                                    <td><p>Sesión</p></td>
+                                                </tr>
+                                                <tr>
+                                                    <td><p>L</p></td>
+                                                    <td><p>El idioma preferido del usuario se almacena en esta cookie.</p></td>
+                                                    <td><p>.vodafone.com</p></td>
+                                                    <td><p>Sesión</p></td>
+                                                </tr>
+                                                <tr>
+                                                    <td><p>backButtonURL</p></td>
+                                                    <td><p>Se utiliza para gestionar la funcionalidad del botón de retorno almacenando el enlace adecuado al último sitio visitado en el portal de Secure Net.</p></td>
+                                                    <td><p>.vodafone.com</p></td>
+                                                    <td><p>Sesión</p></td>
+                                                </tr>
+                                                <tr>
+                                                    <td><p>VF-UUID</p></td>
+                                                    <td><p>Se utiliza para rastrear interacciones entre el usuario y  el portal de Secure Net.</p></td>
+                                                    <td><p>.vodafone.com</p></td>
+                                                    <td><p>Sesión</p></td>
+                                                </tr>
+                                                <tr>
+                                                    <td><p>recall</p></td>
+                                                    <td><p>Se utiliza para recordar el último usuario conectado al portal de Secure Net.</p></td>
+                                                    <td><p>.vodafone.com</p></td>
+                                                    <td><p>30 Días</p></td>
+                                                </tr>
+                                                <tr>
+                                                    <td><p>IDP</p></td>
+                                                    <td><p>Se utiliza para almacenar una ID de sesión para mantener al usuario conectado al portal de Secure Net.</p></td>
+                                                    <td><p>.vodafone.com</p></td>
+                                                    <td><p>Sesión</p></td>
+                                                </tr>
+                                                <tr>
+                                                    <td><p>JSESSIONID</p></td>
+                                                    <td><p>Se utiliza para identificar la sesión del cliente después de que el usuario sea autentificado e identificado.</p></td>
+                                                    <td><p>.vodafone.co.uk</p></td>
+                                                    <td><p>Hasta que el usuario empieza una nueva sesión</p></td>
+                                                </tr>
+                                                <tr>
+                                                    <td><p>vdf_openid_uk</p></td>
+                                                    <td><p>Mientras Vodafone autentificando a un usuario de su servicio, se establece esta cookie. Se utiliza para identificar al usuario durante el proceso de autentificación.</p></td>
+                                                    <td><p>.vodafone.co.uk</p></td>
+                                                    <td><p>Hasta que el usuario empieza una nueva sesión</p></td>
+                                                </tr>
+                                                <tr>
+                                                    <td><p>vdf_ulff_ula_uk</p></td>
+                                                    <td><p>Se almacena un ID que soporta Vodafone para identificar a los usuarios en caso de que sea necesario solucionar problemas..</p></td>
+                                                    <td><p>.vodafone.co.uk</p></td>
+                                                    <td><p>Hasta que el usuario empieza una nueva sesión</p></td>
+                                                </tr>
+                                            </tbody></table><p>Controlar sus cookies</p><p>Puede controlar la forma en que utiliza las cookies en su navegador. Si desea restringir o bloquear las cookies que se establecen en cualquier sitio web - incluyendo un sitio web de Vodafone, debe hacerlo a través de la configuración del navegador web para cada navegador web que utilice, en cada dispositivo que utilice para acceder a Internet.</p><p>La información sobre el control y la eliminación de cookies, incluso en una amplia variedad de navegadores, también está disponible en allaboutcookies.org.</p><p>Este documento de privacidad ofrece información adicional específica sobre Secure Net y la app que lo acompaña.</p><p>Secure Net es un producto de seguridad que proporciona una protección adicional a la hora de navegar por la red móvil o fija de Vodafone con cualquiera de sus dispositivos que se pueden conectar a internet a través de estas redes. También, le permite gestionar los accesos de sus hijos a internet a través de distintos tipos de controles parentales.</p><p>Para obtener información general sobre cómo procesamos sus datos como parte de la provisión de conectividad móvil, visite nuestra política de privacidad principal <a href="https://www.vodafone.es/c/conocenos/es/vodafone-espana/quienes-somos/legal-y-regulatorio/politica-de-privacidad-y-cookies/" target="_new">aquí</a> </p><p>¿Quiénes somos?</p><p>Somos Vodafone España, S.A.U, con CIF A-80907397 (Vodafone), empresa que pertenece al Grupo Vodafone. Si accede a <a href="http://www.vodafone.com/content/index/about/where.html" target="_new">http://www.vodafone.com/content/index/about/where.html</a> podrá encontrar el enlace a la empresa del Grupo Vodafone que opera en su país.</p><p>Tenga en cuenta que en esta Política de Privacidad:</p><ul>
+                            <li><p>"nosotros/nuestro" significa Vodafone; </p></li>
+                            <li><p>"tercero" significa una tercera persona o entidad distinta de usted y de Vodafone; y</p></li>
+                            <li><p>"Vodafone Grupo" significa Vodafone Group Plc y cualquier empresa u otra organización en la que Vodafone Group Plc posea más del 15% del capital social. </p>
+                        </li></ul><p>Nuestro domicilio social se encuentra Avenida de América, 115, 28042, Madrid. Nuestra centralita principal para atención al cliente es 607123000. Asimismo, a través de nuestra página web, se recogen distintos canales de contacto que ponemos a tu disposición.</p><p>¿Cómo contactar con nosotros?</p><p>Su opinión es muy importante para nosotros así que si tiene alguna pregunta sobre nuestra Política de Privacidad, puede contactarnos en las direcciones recogidas en el apartado anterior o hacerlo a través de nuestro Delegado de Protección de Datos en la dirección de correo electrónico: <a href="mailto:dpo-spain@vodafone.com" target="_new">dpo-spain@vodafone.com.</a></p><button aria-expanded="false" aria-controls="accordion-content-8">Información personal que recopilamos sobre usted</button><p>Información personal que recopilamos sobre usted</p><p>
+                                                Los tipos de información que procesamos sobre usted y cualquier dispositivo que registre en el servicio cuando utiliza Secure Net y la aplicación que lo acompaña son:
+                                            </p><ul>
+                                                <li><p>Su actividad de navegación que realice por la red. Secure Net es un servicio que utiliza un proceso de Domain Name System (DNS) Filtering en sitios web por los que navega para protegerle de sitios maliciosos y malware. Esto significa, por ejemplo, que si nosotros sabemos con certeza que el tráfico de un sitio web o una app ha sido añadido en una blacklist porque contenía contenido nocivo, le indicaremos que no debe acceder al sitio web antes de llegar a él. No usamos esta información para otros fines;</p></li>
+                                                <li><p>Su número de teléfono, información de su tarifa y de su plan de precios;</p></li>
+                                                <li><p>Información sobre los dispositivos que están configurados para estar protegidos por Secure Net o sujetos a protección parental. Por ejemplo, podemos recopilar información sobre el tipo de dispositivo móvil que está utilizando (un dispositivo móvil, un ordenador portátil, una videoconsola o un dispositivo doméstico inteligente, así como sus fabricantes) y su identificador único de dispositivo (por ejemplo, el número IMEI, el número de teléfono móvil del dispositivo o la dirección MAC de la interfaz de red inalámbrica del dispositivo);</p></li>
+                                                <li><p>Si activa SecureNet Cleaning tool la herramienta de limpieza de infecciones para su teléfono, accederemos a los datos de su dispositivo para ayudar a eliminar las amenazas de seguridad de su dispositivo</p></li>
+                                                <li><p>Los nombres de usuario que añada cuando crea perfiles familiares;</p></li>
+                                                <li><p>Si añade perfiles de niños, le preguntaremos por su edad con el fin de poder establecer restricciones por edad y limitar el acceso a contenido inapropiado; y</p></li>
+                                                <li><p>La información sobre sus credenciales como tu contraseña, huellas o información de seguridad similar que utilice para autenticarse y acceder a sus cuentas y servicios. Podrán ser sus credenciales de Vodafone ID si genera su nombre de usuario as través de este medio.</p></li>
+                                            </ul><p>También obtendremos información sobre cómo utiliza nuestros productos o servicios, tales como:</p><ul>
+                                                <li><p>Detalles de uso de nuestros servicios; por ejemplo, podemos ver si un sitio ha sido bloqueado y mantener un registro limitado de esta información para el servicio con fines de atención al cliente (ver el apartado “Cuanto tiempo guardamos tu información personal”) o la frecuencia con la que interactúa con nuestro portal online o nuestra app para ver resúmenes de su protección contra amenazas o control parental y:</p></li>
+                                                <li><p>También recogemos información analítica anónima acerca de cómo usan nuestros clientes la app de Secure Net o el portal online con el fin de mejorar tu experiencia y poder resolver incidencias que pudieran producirse (por ejemplo, podremos ver las funcionalidades que no están funcionando correctamente y arreglarlas o ver si nuestros clientes están usando la funcionalidad de control parental).</p></li>
+                                            </ul><p>Cuando se recopila su información personal:</p><p>Recopilamos su información personal cuando:</p><ul>
+                                                <li><p>Navega por internet en una conexión móvil o fija con cualquiera de sus dispositivos cuando tiene activado Secure Net;</p></li>
+                                                <li><p>Si activa y utiliza SecureNet Cleaning tool la herramienta de la aplicación de limpieza de infecciones para su teléfono.</p></li>
+                                                <li><p>Interactúa con la aplicación o el portal online (donde puede ver que amenazas se han bloqueado o establecer controles parentales); y</p></li>
+                                                <li><p>Cuando el contenido está bloqueado como resultado de las protecciones de seguridad o cuando el control parental ha limitado el acceso a cierto contenido.</p></li>
+                                            </ul><p>Vodafone tratará sus datos personales basándose en:</p><ol>
+                                                <li>
+                                                    <p><span>Satisfacer los intereses legítimos de Vodafone</span>, por ejemplo, para la prevención del fraude, mantener la seguridad de nuestra red y de nuestros servicios y mejorar nuestros servicios. Siempre que el tratamiento de sus datos personales se base en esta causa revisaremos que nuestro interés no vulnera nunca sus derechos. Adicionalmente, en algunos casos, tendrá el derecho a retirar tu consentimiento para estos tratamientos. Para más información, visita el apartado “sus derechos” de esta política.</p>
+                                                </li>
+                                                <li>
+                                                    <p><span>Cumplir con nuestras obligaciones legales</span>, como, por ejemplo, nuestras obligaciones fiscales y contables, o retener sus datos de tráfico para cumplir con la legislación vigente en materia de conservación de datos. Estamos sometidos a políticas muy restrictivas de obligado cumplimiento;</p>
+                                                </li>
+                                                <li>
+                                                    <p><span>Consentimiento que proporciona </span>cuando Vodafone no dispone de otra base legal. El consentimiento siempre se presenta por separado y podrá retirarlo en cualquier momento. Por ejemplo, necesitamos su consentimiento para procesar el contenido de sus comunicaciones para poder detectar y bloquear cualquier amenaza de seguridad.</p>
+                                                </li>
+                                            </ol><p>Secure Net es un servicio opcional que puedes desactivar en cualquier momento. Para ello, puede acceder al portal de Secure Net a través de <a href="https://securenet.vodafone.es/" target="_new">este enlace</a> o a través del enlace que se envía en los SMS del producto. Alternativamente, puede ponerse en contacto con el equipo de Atención al Cliente llamando al teléfono <a href="tel:607123000">607123000</a>. </p><button aria-expanded="false" aria-controls="accordion-content-9">Cómo utilizamos su información personal</button><p>Para ofrecerle su servicio</p><p>
+                                                Con el fin de protegerle de las amenazas de seguridad y de aplicar las normas de control parental que ha establecido, tenemos que revisar su navegación. No utilizamos esta información para campañas de marketing o para realizar perfiles personalizados y se conservarán durante un periodo de tiempo limitado.
+                                            </p><p>Perfiles y toma de decisiones automatizada</p><p>
+                                                Nuestra monitorización de amenazas se basa en perfiles y decisiones automatizadas. Por ejemplo, los sitios web que bloqueamos se basan en la información que hemos recopilado. En cualquier momento puede entrar en su portal o aplicación y ver por qué se ha bloqueado algo (por ejemplo, si era malicioso o contenía malware). Asimismo, puede determinar en qué páginas web quiere limitar el acceso, por ejemplo, aunque, dicha página/s web, se encuentre/n fuera de una lista predeterminada.
+                                            </p><p>Para mejorar nuestro servicio</p><p>
+                                                Recopilamos información anónima, no identificada o agregada con el fin de mejorar el servicio que ofrecemos. Ninguno de estos análisis está vinculado a usted de ninguna manera.
+                                            </p><p>Servicio de mensajes</p><p>
+                                                Le enviaremos resúmenes mensuales de las amenazas que han sido bloqueadas durante ese periodo de tiempo. Si no desea recibir estas notificaciones, puede desactivarlas en su cuenta a través de la configuración de notificaciones de la app o del portal de Secure Net.
+                                            </p><button aria-expanded="false" aria-controls="accordion-content-10">Cómo compartimos su información personal </button><p>
+                                                Donde sea aplicable, compartimos información sobre usted con:
+                                            </p><ul>
+                                                <li><p>Compañías del Grupo Vodafone;</p></li>
+                                                <li><p>Terceros que participan en la entrega de los productos y servicios que has solicitado o utilizado;</p></li>
+                                                <li><p>Compañías contratadas para realizar servicios para o en nombre de Vodafone;</p></li>
+                                                <li><p>Agencias de referencias crediticias, prevención de fraude o de scoring;</p></li>
+                                                <li><p>Agencias de recobro de deuda o cualquier otro tipo de agencias de recuperación de deudas;</p></li>
+                                                <li><p>Jueces y tribunales, organismos gubernamentales u otro tipo de autoridades públicas en caso de obligación o autorización legal; o</p></li>
+                                                <li><p>Terceros donde una divulgación de este tipo es necesaria para cumplir con la ley aplicable u otros requisitos legales o judiciales;</p></li>
+                                            </ul><button aria-expanded="false" aria-controls="accordion-content-11">Transferencias internacionales de datos </button><p>
+                                                No transferimos sus datos fuera del EEE, los datos se almacenan en Alemania y en cualquier mercado local del que seas cliente.
+                                            </p><button aria-expanded="false" aria-controls="accordion-content-12">Cuánto tiempo guardamos tu información personal </button><p>
+                                                Almacenaremos su información durante el tiempo marcado por ley. Si no está determinado el plazo por la ley, solo la almacenaremos el tiempo necesario, generalmente 12 meses. 
+                                            </p><p>Historial de navegación</p><p>Mantenemos un registro limitado de su historial de navegación sólo con el fin de poder prestar el servicio y atención al cliente. Vodafone no utiliza su navegación con fines de marketing o de creación de perfiles personalizados.</p><ul>
+                                                <li><p>Por ejemplo, si cree que no deberíamos haber bloqueado un sitio web, podemos comprobarlo por usted, o</p></li>
+                                                <li><p>Para que pueda ver el historial de la protección proporcionada (como sitios o malware bloqueado o en los que los controles parentales tienen acceso limitado a determinado contenido) con la app o el portal Secure Net.</p></li>
+                                            </ul><button aria-expanded="false" aria-controls="accordion-content-13">Mantenemos su información personal segura</button><p>
+                                                Contamos con equipos de seguridad especializados que revisan y mejoran constantemente nuestras medidas para proteger su información personal contra el acceso no autorizado, la pérdida accidental, la divulgación o la destrucción.  
+                                            </p><p>Las comunicaciones a través de Internet (como los correos electrónicos) no son seguras a menos que hayan sido encriptadas. Sus comunicaciones pueden pasar por varios países antes de ser entregadas, ya que esa es la naturaleza de Internet.</p><p>No podemos aceptar la responsabilidad por cualquier acceso no autorizado o pérdida de información personal que esté fuera de nuestro alcance.</p><p>Nunca le preguntaremos por la información personal de seguridad de su cuenta a través de un medio de comunicación no solicitado. Usted es el responsable de mantener segura su información personal de seguridad de su cuenta y de no compartirla con otros.</p><p>Nuestro sitio web puede proporcionar enlaces web de terceros. No podemos ser responsables de la seguridad y el contenido de estas páginas de terceros. Por lo tanto, asegúrese de leer las políticas de privacidad y de cookies del sitio antes de usar o incluir su información personal en dichas webs.</p><p>Lo mismo se aplica a cualquier sitio web de terceros o contenido al que se conecte usando nuestros productos y servicios.</p><button aria-expanded="false" aria-controls="accordion-content-14">Sus derechos </button><p>A continuación, le explicamos los derechos en materia de protección de datos que le asisten y cómo puede ejercerlos. Si tiene alguna pregunta o no encuentra respuesta, contacta con nuestro Servicio de Atención al Cliente.</p><p>Derecho a la rectificación de datos personales</p><p>Tiene derecho a rectificar información guardada sobre usted si ésta no es precisa. Si la información que almacenamos necesita actualizarse o piensa que puede ser errónea, puede acceder a la app ‘Mi Vodafone’ para actualizarla.</p><p>Derecho de acceso a los datos personales</p><p>Tiene derecho a solicitar una copia de los datos personales que Vodafone guarda de usted.</p><p>Derecho a la portabilidad de los datos</p><p>Tiene derecho a recibir los datos que nos has proporcionado en ciertas circunstancias. Por ejemplo, Vodafone le asegura que podrá llevarse tus datos permitiéndole la descarga de sus facturas mensuales de manera tan simple como pinchando en un botón y en formato electrónico. Para hacer esto, conéctese a la app ‘Mi Vodafone’, en la parte de Permisos y Preferencias y ve a su área de facturación.</p><p>Derecho de oposición al uso de datos personales</p><p>Tiene el derecho, en algunas circunstancias, a oponerse al procesamiento de su información personal por parte de Vodafone.</p><p>Derecho a la limitación del tratamiento de sus datos</p><p>Tiene el derecho a solicitar la limitación del tratamiento de sus datos de manera que Vodafone pueda almacenar sus datos pero no usarlos. Este derecho solo puede ejercerse en determinadas circunstancias como:</p><ul>
+                                                <li><p>que nos informe de la inexactitud de sus datos personales durante el plazo que necesitemos para verificar la exactitud de los mismos;</p></li>
+                                                <li><p>que el tratamiento sea ilícito y no quiera que borremos sus datos personales;</p></li>
+                                                <li><p>que se haya opuesto a algún tratamiento que Vodafone realiza basándose en interés legítimo durante el plazo que necesitamos para verificar que su derecho prevalece sobre dicho interés;</p></li>
+                                                <li><p>que Vodafone ya no necesite los datos personales para los fines de tratamiento pero usted, los necesite para la formulación, el ejercicio o la defensa de reclamaciones;</p></li>
+                                            </ul><p>Derecho de cancelación</p><p>Vodafone se esfuerza en procesar y retener sus datos solo el tiempo que necesitemos. En algunas circunstancias, tiene el derecho a solicitar la cancelación de sus datos personales que tenemos guardados. Estos datos se conservarán bloqueados y accesibles únicamente por determinadas personas para el caso de que los necesitemos para atender alguna reclamación o responder de nuestras obligaciones.</p><p>Como formular una reclamación</p><p>Si quiere contactar con nosotros en relación con sus derechos o si quiere cursar una queja sobre como usamos su información personal, contacta con nosotros llamando al <a href="tel:607123000">607123000</a>  o a través de la dirección de correo electrónico <a href="mailto:derechosprotecciondatos@vodafone.es" target="_new">derechosprotecciondatos@vodafone.es</a>o enviando su solicitud por escrito, junto con su DNI a Avenida de América 115, 28042, Madrid, con la referencia “protección de datos”. </p><p>Vodafone se encuentra adherido al Protocolo de Mediación de Autocontrol, entidad ante la que podrá formular cualquier reclamación en materia de protección de datos con el fin de llegar a la resolución amistosa de la misma. Consulte www.vodafone.es para más información. Asimismo, podrá remitir cualquier reclamación a la Agencia Española de Protección de Datos. Para más información consulte <a href="www.agpd.es" target="_new">www.agpd.es</a></p><p>Haremos todo lo que esté en nuestra mano para resolver su reclamación en el menor periodo de tiempo posible.</p><button aria-expanded="false" aria-controls="accordion-content-15">Nuestra política de cookies</button><p>Las cookies son pequeños ficheros de texto que se almacenan en su ordenador, tablet o dispositivo móvil cuando visita un sitio web. Las cookies implican que el sitio web le recordará a usted y cómo usa dicho sitio web cada vez que lo visite. </p><p>Las cookies por sí mismas no mantienen información personal como su nombre o sus datos bancarios y, en la mayoría de los casos, no nos permiten vincular la información que recopilamos con usted mediante el uso de la cookie. Sin embargo, a través de las cookies podemos encontrar información suya una vez que se ha logado o ayudarnos a vincular su información de navegación con usted y con su información personal, por ejemplo, cuando solicita registrarse en un servicio o en una newsletter.</p><p>Cookies propias</p><p>Las cookies propias se crean por el dueño del sitio web que estás visitando.</p><table>
+                                                <tbody><tr>
+                                                    <th><p><span>Cookie</span></p></th>
+                                                    <th><p><span>Explicación de la cookie</span></p></th>
+                                                    <th><p><span>Dominio</span></p></th>
+                                                    <th><p><span>Duración</span></p></th>
+                                                </tr>
+                                                <tr>
+                                                    <td><p>SESSION</p></td>
+                                                    <td><p>Usada para hacer seguimiento de un ID de sesión para permitir al usuario mantenerse logado.</p></td>
+                                                    <td><p>vodafone.com</p></td>
+                                                    <td><p>Durante la sesión</p></td>
+                                                </tr>
+                                                <tr>
+                                                    <td><p>L</p></td>
+                                                    <td><p>Usada para mantener la elección de idioma del usuario.</p></td>
+                                                    <td><p>.vodafone.com</p></td>
+                                                    <td><p>Durante la sesión</p></td>
+                                                </tr>
+                                                <tr>
+                                                    <td><p>backButtonURL</p></td>
+                                                    <td><p>Usada para mantener la funcionalidad del botón de “volver atrás” para acceder a la parte del portal de Secure Net visitada anteriormente.</p></td>
+                                                    <td><p>.vodafone.com</p></td>
+                                                    <td><p>Durante la sesión</p></td>
+                                                </tr>
+                                                <tr>
+                                                    <td><p>VF-UUID</p></td>
+                                                    <td><p>Usada para hacer seguimiento de las interacciones entre el usuario y el portal Secure Net.</p></td>
+                                                    <td><p>.vodafone.com</p></td>
+                                                    <td><p>Durante la sesión</p></td>
+                                                </tr>
+                                                <tr>
+                                                    <td><p>recall</p></td>
+                                                    <td><p>Usada para recordar el último usuario que ha accedido mediante logado al portal Secure Net.</p></td>
+                                                    <td><p>.vodafone.com</p></td>
+                                                    <td><p>30 Días</p></td>
+                                                </tr>
+                                                <tr>
+                                                    <td><p>IDP</p></td>
+                                                    <td><p>Usada para mantener el ID de sesión de un usuario para mantenerle logado en el portal  Secure Net.</p></td>
+                                                    <td><p>.vodafone.com</p></td>
+                                                    <td><p>Durante la sesión</p></td>
+                                                </tr>
+                                            </tbody></table><p>Control de nuestras cookies</p><p>Puede controlar las cookies usadas a través de su navegador. Si quiere restringir o bloquear las cookies establecidas desde cualquier sitio web incluyendo el sitio web de Vodafone, puede hacerlo a través de los ajustes de su navegador, en cada dispositivo que use para acceder a internet.</p><p>También, puede encontrar una amplia información acerca de cómo controlar o borrar cookies para los distintos tipos de navegadores en allaboutcookies.org.</p>

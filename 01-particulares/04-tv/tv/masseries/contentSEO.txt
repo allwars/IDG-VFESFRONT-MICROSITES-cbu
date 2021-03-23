@@ -1,0 +1,333 @@
+<div></div><h1>Pack Más Series
+                </h1><span>Pack Más Series</span><p><span>Pack Más Series por 5€/mes con cualquier tarifa ilimitada</span></p><p>Este pack incluye</p><div>
+                                
+                                
+                            </div><a href="#elige-tu-tarifa" data-analytics-id="1500071776099-0009058516751">
+                            Elige tu tarifa ilimitada ahora<span>Elige tu tarifa ilimitada ahora<span></span></span>
+                        </a><div>
+                
+            </div><div></div><ul>
+            <li><a title="Home" target="_self" href="https://www.vodafone.es/c/particulares/es/"> Home</a></li>
+            <li><a title="Televisión" target="_self" href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/television/">Televisión</a></li>
+            <li><p>Pack Más Series</p></li>
+        </ul><h3>¿Qué incluye el Pack Más Series?</h3><p>Más Series incluye series originales, temporadas completas y exitosos dramas de <span>STARZPLAY</span> para verlas bajo demanda cuando tú quieras, además de las series de <span> Movistar Series.</span></p><ul>
+                            <li>
+                                
+                            </li>
+                            <li>
+                                
+                            </li>
+                        </ul><a></a><a></a><a></a><a></a><a></a><a></a><a></a><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/television/condiciones-legales/" title="Ver condiciones legales" target="_blank" tabindex="0">Ver condiciones legales</a><h3>Llévate <span>el Pack Más Series por 5€/mes</span> con las <span>tarifas de Móvil o Móvil + Fibra</span></h3><p>Podrás añadir todos los packs de TV que quieras durante el proceso de compra</p><div>
+                        
+                        
+                    </div><p>Llévate el Pack de TV con una tarifa de Móvil + Fibra</p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/" data-analytics-id="1500071776099-0946088219730">Elige tu tarifa</a><div>
+                        
+                        
+                    </div><p>Llévate el Pack de TV con una tarifa de Móvil</p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/movil/contrato/tarifas-contrato/" data-analytics-id="1500071776099-7908880329863">Elige tu tarifa</a><h2>Elige una de estas dos formas de ver Vodafone TV:</h2><h2>Con decodificador HD y 4K</h2><p>Vodafone TV en el decodificador y en tus dispositivos para disfrutar de una experiencia completa e integrada.</p><p>Funcionalidades destacadas:</p><ul>
+                        <li>
+                            
+                            <p>Los contenidos siempre disponibles con Últimos 7 días, Grabación, Ver Ahora y Descarga</p>
+                        </li>
+                        <li>
+                            
+                            <p>Ver desde el principio y Control del Directo</p>
+                        </li>
+                        <li>
+                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50px" height="50px"><title>Chromecast</title><use xlink:href="#icon3-chromecast"></use></svg>
+                            <p>Envía los contenidos desde tu móvil y Tablet al televisor</p>
+                        </li>
+                        <li>
+                            
+                            <p>3 reproducciones simultánteas (2 dispositivos + decodificador)</p>
+                        </li>
+                        <li>
+                            
+                            <p>HBO España, Amazon Prime Video, Filmin, Netflix, Youtube, National Geographic+, Tidal, Modo niños y más apps desde el menú y búsquedas desde tu decodificador.</p>
+                        </li>
+                    </ul><p>Precio de cuota: <span>3€/mes</span></p><button data-common-accordion="button" aria-controls="id-element0" data-analytics-id="1500038915840-0002980795869">
+                                        <span>Descubre los dispositivos compatibles
+                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" height="16px">
+                                                <title>Tick</title>
+                                                <use xlink:href="#icon3-chevron-down"></use>
+                                            </svg>
+                                        </span>
+                    <span>Descubre los dispositivos compatibles
+                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" height="16px">
+                                                <title>Tick</title>
+                                                <use xlink:href="#icon3-chevron-up"></use>
+                                            </svg>
+                                        </span>
+                </button><ul data-eq-height=".vfes-tabs__tab-text">
+                                        <li>
+                                            <button data-option="1" role="tab" aria-controls="circletab1" title="Texto título" aria-label="Texto título" aria-selected="true">
+                                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px"><title></title>
+                                                    <use xlink:href="#icon3-connected-devices"></use>
+                                                </svg>
+                                                <p>Decodificador Vodafone TV</p>
+                                            </button>
+                                        </li>
+                                        <li>
+                                            <button data-option="2" role="tab" aria-controls="circletab2" title="Texto título tab texto" aria-label="Texto título tab texto" aria-selected="false">
+                                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px"><title>Televisión</title>
+                                                    <use xlink:href="#icon3-tv"></use>
+                                                </svg>
+                                                <p>Smart TV</p>
+                                            </button>
+                                        </li>
+                                        <li>
+                                            <button data-option="3" role="tab" aria-controls="circletab4" title="Text título" aria-label="Text título" aria-selected="false">
+                                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px"><title>App and Mobile icon</title>
+                                                    <use xlink:href="#icon3-app-mobile-entertainment"></use>
+                                                </svg>
+                                                <p>Móvil y Tablet</p>
+                                            </button>
+                                        </li>
+                                        <li>
+                                            <button data-option="4" role="tab" aria-controls="circletab4" title="Text título" aria-label="Text título" aria-selected="false">
+                                                <svg><title>
+                                                    icon3-usb_modem_esp</title>
+                                                    <use xlink:href="#icon3-usb_modem_esp"></use>
+                                                </svg>
+                                                <p>Fire TV Stick</p>
+                                            </button>
+                                        </li>
+                                        <li>
+                                            <button data-option="5" role="tab" aria-controls="circletab5" title="Text título" aria-label="Text título" aria-selected="false">
+                                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px"><title>Chromecast</title>
+                                                    <use xlink:href="#icon3-chromecast"></use>
+                                                </svg>
+                                                <p>Chromecast</p>
+                                            </button>
+                                        </li>
+                                        <li>
+                                            <button data-option="6" role="tab" aria-controls="circletab3" title="Texto título tab texto" aria-label="Texto título tab texto" aria-selected="false">
+                                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px"><title>Desktop Laptop</title>
+                                                    <use xlink:href="#icon3-desktop"></use>
+                                                </svg>
+                                                <p>Ordenador</p>
+                                            </button>
+                                        </li>
+                                    </ul><p>Si
+                                            tienes contratada Vodafone TV, un técnico habrá
+                                            instalado/instalará el decodificador en tu casa. Una vez
+                                            realizada esta instalación, podrás disfrutar de Vodafone TV con
+                                            la experiencia más completa a través de tu mando. Desde un único
+                                            menú podrás acceder a todo el catálogo de contenidos y
+                                            aplicaciones, así como buscar cualquier programa o serie que
+                                            quieras ver.</p><p>Si
+                                            ya tienes contratada Vodafone TV y activado el servicio
+                                            multidispositivo de Vodafone TV:</p><ul>
+                                            <li>Revisa que la aplicación de
+                                                Vodafone TV está disponible en tu Smart TV.<a href="https://ayudacliente.vodafone.es/particulares/television/vodafone-tv-sin-decodificador/dispositivos-compatibles-con-vodafone-tv-sin-decodificador/" target="_parent">Consulta los modelos compatibles
+                                                    aquí</a></li>
+                                            <li>Descarga la aplicación de
+                                                Vodafone TV desde la tienda de aplicaciones de tu Smart TV
+                                            </li>
+                                            <li>Accede a la aplicación de
+                                                Vodafone TV desde tu Smart TV
+                                            </li>
+                                        </ul><p>El servicio multidispositivo de Vodafone TV te
+                                            permite ver los contenidos cuando y donde quieras desde
+                                            cualquier dispositivo. Si aun no lo tienes activado, recuerda
+                                            activarlo antes a través de Mi Vodafone para poder ver Vodafone
+                                            TV en tu Smart TV</p><p>El
+                                            servicio multidispositivo de Vodafone TV te permite ver los
+                                            contenidos cuando y donde quieras desde cualquier dispositivo
+                                            móvil. Si tienes contratada Vodafone TV y quieres ver la TV
+                                            desde tu móvil o Tablet, recuerda activar el servicio
+                                            multidispositivo de Vodafone TV antes a través de Mi
+                                            Vodafone.</p><p>Si ya lo tienes activado puedes acceder a
+                                            Vodafone TV a través de la aplicación que podrás instalar a
+                                            través de Apple Store o Google Play e inicia sesión con tus
+                                            credenciales de Vodafone TV.</p><p>
+                                            Para disponer de Vodafone TV en el Fire TV Stick HD y 4K solo
+                                            necesitas:</p><ul>
+                                            <li>1. Buscar la
+                                                aplicación "Vodafone TV" en la tienda de aplicaciones de
+                                                Amazon y seleccionar "Obtener" para descargarla.
+                                            </li>
+                                            <li>2. Una vez
+                                                descargada, la aplicación aparecerá dentro del Fire TV
+                                                Stick, en el apartado de Apps descargadas del menú
+                                                principal.
+                                            </li>
+                                            <li>3. Y abrir
+                                                la aplicación e iniciar sesión con el usuario y la
+                                                constraseña de Vodafone TV para acceder a los contenidos.
+                                            </li>
+                                            <li>La
+                                                disponibilidad de la App HBO España en el Fire TV Stick está
+                                                sujeta al acuerdo de éste con Amazon.
+                                            </li>
+                                        </ul><p></p><p>
+                                            Puedes enviar el contenido de Vodafone TV directamente a tu
+                                            televisión a través de Chromecast utilizando la app de Vodafone
+                                            TV en tu ordenador (Mac o PC), Smartphone ( Android o iOS):&nbsp;</p><ul>
+                                            <li>1. Conecta
+                                                tu dispositivo Chromecast a tu televisión y configura el
+                                                dispositivo <a href="https://support.google.com/chromecast/answer/2998456" target="_blank">(Instrucciones para la configuración
+                                                    de Chromecast)</a></li>
+                                            <li>2. Abre la
+                                                app Vodafone TV en tu dispositivo móvil y comprueba que tu
+                                                dispositivo Chromecast y el dispositivo donde has abierto la
+                                                app Vodafone TV están en la misma red WiFi.
+                                            </li>
+                                            <li>3. Busca el
+                                                icono de Chromecast en la app Vodafone TV.
+                                            </li>
+                                            <li>4. Pulsa
+                                                sobre el icono para comenzar a enviar contenido a tu
+                                                televisión.
+                                            </li>
+                                        </ul><p></p><p>Si
+                                            eres un cliente de Vodafone TV y ya has activado el servicio
+                                            multidispositivo:</p><ul>
+                                            <li>1. Accede a
+                                                Vodafone TV a través de <a href="https://www.vodafonetvonline.es/" target="_parent">www.vodafonetvonline.es</a></li>
+                                            <li>2. Inicia
+                                                sesión con tus credenciales de Vodafone TV
+                                            </li>
+                                        </ul><p>
+                                            Si aún no has activado Vodafone TV para verlo en cualquier
+                                            dispositivo, actívalo en Mi Vodafone</p><p></p><h2>Sin decodificador</h2><p>Vodafone TV con calidad HD en tu Smart TV (a través de una app) y en tus dispositivos para disfrutar de una experiencia online.</p><p>Funcionalidades destacadas:</p><ul>
+                        <li>
+                            
+                            <p>Los contenidos siempre disponibles con Últimos 7 días, Grabación, Ver Ahora y Descarga</p>
+                        </li>
+                        <li>
+                            
+                            <p>Ver desde el principio y Control del Directo</p>
+                        </li>
+                        <li>
+                            
+                            <p>2 reproducciones simultáneamente</p>
+                        </li>
+                        <li>
+                            
+                            <p>HBO España, Amazon Prime Video, Filmin, Netflix, y Tidal disponibles a través de sus apps y no de la App de Vodafone TV.</p>
+                        </li>
+
+                    </ul><p>Precio de cuota: <span>GRATIS</span></p><button data-common-accordion="button" aria-controls="id-element1">
+                                    <span>Descubre los dispositivos compatibles
+                                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" height="16px">
+                                            <title>Tick</title>
+                                            <use xlink:href="#icon3-chevron-down"></use>
+                                        </svg>
+                                    </span>
+                    <span>Descubre los dispositivos compatibles
+                                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" height="16px">
+                                            <title>Tick</title>
+                                            <use xlink:href="#icon3-chevron-up"></use>
+                                        </svg>
+                                    </span>
+                </button><ul>
+
+                                        <li>
+                                            <button data-option="1" role="tab" aria-controls="circletab1" title="Texto título tab texto" aria-label="Texto título tab texto" aria-selected="false">
+                                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px"><title>Televisión</title>
+                                                    <use xlink:href="#icon3-tv"></use>
+                                                </svg>
+                                                <p>Smart TV</p>
+                                            </button>
+                                        </li>
+                                        <li>
+                                            <button data-option="2" role="tab" aria-controls="circletab2" title="Text título" aria-label="Text título" aria-selected="false">
+                                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px"><title>App and Mobile icon</title>
+                                                    <use xlink:href="#icon3-app-mobile-entertainment"></use>
+                                                </svg>
+                                                <p>Móvil y Tablet</p>
+                                            </button>
+                                        </li>
+                                        <li>
+                                            <button data-option="3" role="tab" aria-controls="circletab3" title="Text título" aria-label="Text título" aria-selected="false">
+                                                <svg><title>
+                                                    icon3-usb_modem_esp</title>
+                                                    <use xlink:href="#icon3-usb_modem_esp"></use>
+                                                </svg>
+                                                <p>Fire TV Stick</p>
+                                            </button>
+                                        </li>
+
+                                        <li>
+                                            <button data-option="4" role="tab" aria-controls="circletab4" title="Text título" aria-label="Text título" aria-selected="false">
+                                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px"><title>Chromecast</title>
+                                                    <use xlink:href="#icon3-chromecast"></use>
+                                                </svg>
+                                                <p>Chromecast</p>
+                                            </button>
+                                        </li>
+                                        <li>
+                                            <button data-option="5" role="tab" aria-controls="circletab5" title="Texto título tab texto" aria-label="Texto título tab texto" aria-selected="false">
+                                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px"><title>Desktop Laptop</title>
+                                                    <use xlink:href="#icon3-desktop"></use>
+                                                </svg>
+                                                <p>Ordenador</p>
+                                            </button>
+                                        </li>
+                                    </ul><ul>
+                                            <li>Revisa que la aplicación de
+                                                Vodafone TV esté disponible en tu Smart TV. <a href="https://ayudacliente.vodafone.es/particulares/television/vodafone-tv-sin-decodificador/dispositivos-compatibles-con-vodafone-tv-sin-decodificador/" target="_parent">Consulta los modelos compatibles
+                                                    aquí </a></li>
+                                            <li>Descarga la aplicación de
+                                                Vodafone TV desde a tienda de aplicaciones de tu Smart TV
+                                            </li>
+                                            <li>Accede a la aplicación de
+                                                Vodafone TV desde tu Smart TV
+                                            </li>
+                                        </ul><p>
+                                                Para ver Vodafone TV desde tu móvil o Tablet:</p><ul>
+                                                <li>Descarga e instala la
+                                                    aplicación de Vodafone Tv a través de Apple Store o
+                                                    Google Play
+                                                </li>
+                                                <li>Accede a la aplicación
+                                                    usando tu usuario y contraseña de Vodafone TV
+                                                </li>
+                                            </ul><p>
+                                            Para disponer de Vodafone TV en el Fire TV Stick HD y 4K solo
+                                            necesitas:</p><ul>
+                                            <li>1. Buscar la
+                                                aplicación "Vodafone TV" en la tienda de aplicaciones de
+                                                Amazon y seleccionar "Obtener" para descargarla.
+                                            </li>
+                                            <li>2. Una vez
+                                                descargada, la aplicación aparecerá dentro del Fire TV
+                                                Stick, en el apartado de Apps descargadas del menú
+                                                principal.
+                                            </li>
+                                            <li>3. Y abrir
+                                                la aplicación e iniciar sesión con el usuario y la
+                                                constraseña de Vodafone TV para acceder a los contenidos.
+                                            </li>
+                                            <li>La
+                                                disponibilidad de la App HBO España en el Fire TV Stick está
+                                                sujeta al acuerdo de éste con Amazon.
+                                            </li>
+                                        </ul><p></p><p>
+                                                Puedes enviar el contenido de Vodafone TV directamente a tu
+                                                televisión a través de Chromecast utilizando la app de
+                                                Vodafone TV en tu ordenador (Mac o PC), Smartphone ( Android
+                                                o iOS):</p><ul>
+                                                <li>1. Conecta tu dispositivo
+                                                    Chromecast a tu televisión y configura el dispositivo <a href="https://support.google.com/chromecast/answer/2998456" target="_blank">(Instrucciones para la
+                                                        configuración de Chromecast)</a></li>
+                                                <li>2. Abre la app Vodafone TV
+                                                    en tu dispositivo móvil y comprueba que tu dispositivo
+                                                    Chromecast y el dispositivo donde has abierto la app
+                                                    Vodafone TV están en la misma red WiFi.
+                                                </li>
+                                                <li>3. Busca el icono de
+                                                    Chromecast en la app Vodafone TV.
+                                                </li>
+                                                <li>4. Pulsa sobre el icono
+                                                    para comenzar a enviar contenido a tu televisión.
+                                                </li>
+                                            </ul><p>
+                                                Para ver Vodafone TV desde tu PC o Mac:</p><ul>
+                                                <li>1.
+                                                    Accede a Vodafone TV a través de <a href="https://www.vodafonetvonline.es/" target="_parent">www.vodafonetvonline.es</a>
+                                                </li>
+                                                <li>2.
+                                                    Inicia sesión con tus credenciales de Vodafone TV
+                                                </li>
+                                            </ul>

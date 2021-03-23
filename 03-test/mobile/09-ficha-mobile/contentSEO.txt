@@ -1,0 +1,688 @@
+<div data-spritesheet="svg/sprite.mid.svg"></div><a href="https://www.vodafone.es/c/tienda-online/particulares/catalogo-moviles/oppo-a9-verde-128gb-313814/?FY1920_T046=true" target="_new"></a><h3>Huawei P30 Pro Negro 256GB</h3><div>
+                            
+                        </div><p>El pack incluye:</p><p>Datos ilimitados,</p><p>Llamadas ilimitadas, SecureNet,</p><p>Hatch Premium</p><p>Gafas de RV.</p><a href="#caracteristicas-container">Ver todas las
+                                    características</a><h3>Color</h3><h3>Almacenamiento</h3><h3>¿Necesitas un número nuevo?</h3><input type="radio" name="safety-starter" value="portabilidad" checked=""><label for="portabilidad">Portabilidad</label><input type="radio" name="safety-starter" value="número nuevo"><label for="num-nuevo">Número nuevo</label><input type="radio" name="safety-starter" value="Soy cliente" disabled=""><label for="cliente">Soy cliente</label><h3>¿Cómo quieres pagarlo?</h3><input type="radio" name="safety-starter2" value="Pago a plazos" checked=""><label for="plazos">Pago a plazos</label><p>¿En cuántos meses?</p><div>
+                                    
+                                    
+
+                                </div><div>
+                                    
+                                    
+                                </div><input type="radio" name="safety-starter2" value="Pago único"><label for="unico">Pago único</label><h3>¿Qué tarifa te interesa?</h3><ul>
+                            <li>
+                                <button data-option="1" role="tab" aria-controls="grouptab1" title="Tarifa móvil" aria-label="Tarifa móvil" aria-selected="true">Tarifa Móvil</button>
+                            </li>
+                            <li>
+                                <button data-option="2" role="tab" aria-controls="grouptab2" title="Tarifa móvil + fibra" aria-label="Tarifa móvil + fibra" aria-selected="false">Móvil +
+                                    Fibra</button>
+                            </li>
+                        </ul><ul>
+                        <li>
+
+                            <div>
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-tick-or-solved"></use>
+                                </svg>
+
+                                <div></div>
+                                <div>
+                                    
+                                </div>
+                                <div>
+                                    <button title="Pulse para añadir al ticket" data-tarifa="vodafone-ilimitada" data-tarifa-nombre="Vodafone ilimitada" data-precio-tarifa="40,99" data-precio-plazos="18,98" data-precio-unico="683,64">
+                                        Añadir
+                                    </button>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-tick-or-solved"></use>
+                                </svg>
+
+                                <div></div>
+                                <div>
+                                    
+                                </div>
+                                <div>
+                                    <button title="Pulse para añadir al ticket" data-tarifa="vodafone-super" data-tarifa-nombre="Vodafone Súper" data-precio-tarifa="45,99" data-precio-plazos="18,98" data-precio-unico="683,64">
+                                        Añadir
+                                    </button>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-tick-or-solved"></use>
+                                </svg>
+
+                                <div></div>
+                                <div>
+                                    
+                                </div>
+                                <div>
+                                    <button title="Pulse para añadir al ticket" data-tarifa="vodafone-total" data-tarifa-nombre="Vodafone Total" data-precio-tarifa="49,99" data-precio-plazos="18,98" data-precio-unico="683,64">
+                                        Añadir
+                                    </button>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-tick-or-solved"></use>
+                                </svg>
+
+                                <div></div>
+                                <div>
+                                    
+                                </div>
+                                <div>
+                                    <button title="Pulse para añadir al ticket" data-tarifa="vodafone-mini" data-tarifa-nombre="Vodafone Mini" data-precio-tarifa="19,99" data-precio-plazos="23" data-precio-unico="828,00">
+                                        Añadir
+                                    </button>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-tick-or-solved"></use>
+                                </svg>
+
+                                <div></div>
+                                <div>
+                                    
+                                </div>
+                                <div>
+                                    <button title="Pulse para añadir al ticket" data-tarifa="vodafone-extra" data-tarifa-nombre="Vodafone Extra" data-precio-tarifa="29,99" data-precio-plazos="23" data-precio-unico="828,00">
+                                        Añadir
+                                    </button>
+                                </div>
+                            </div>
+                        </li>
+                    </ul><ul>
+                        <li>
+                            <div>
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-tick-or-solved"></use>
+                                </svg>
+
+                                <div></div>
+                                <div>
+                                    
+                                </div>
+                                <div>
+                                    <button title="Pulse para añadir al ticket" data-tarifa="vodafone-one-ilimitada" data-tarifa-nombre="Vodafone One ilimitada" data-precio-tarifa="31,99" data-precio-plazos="18,98" data-precio-unico="683,64">
+                                        Añadir
+                                    </button>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-tick-or-solved"></use>
+                                </svg>
+
+                                <div></div>
+                                <div>
+                                    
+                                </div>
+                                <div>
+                                    <button title="Pulse para añadir al ticket" data-tarifa="vodafone-one-super" data-tarifa-nombre="Vodafone One Súper" data-precio-tarifa="41,99" data-precio-plazos="18,98" data-precio-unico="683,64">
+                                        Añadir
+                                    </button>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-tick-or-solved"></use>
+                                </svg>
+
+                                <div></div>
+                                <div>
+                                    
+                                </div>
+                                <div>
+                                    <button title="Pulse para añadir al ticket" data-tarifa="vodafone-one-total" data-tarifa-nombre="Vodafone One Total" data-precio-tarifa="54,99" data-precio-plazos="18,98" data-precio-unico="683,64">
+                                        Añadir
+                                    </button>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li>
+                            <div>
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-tick-or-solved"></use>
+                                </svg>
+
+                                <div></div>
+                                <div>
+                                    
+                                </div>
+                                <div>
+                                    <button title="Pulse para añadir al ticket" data-tarifa="vodafone-one-mini" data-tarifa-nombre="Vodafone One Mini" data-precio-tarifa="47,99" data-precio-plazos="18,98" data-precio-unico="828,00">
+                                        Añadir
+                                    </button>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-tick-or-solved"></use>
+                                </svg>
+
+                                <div></div>
+                                <div>
+                                    
+                                </div>
+                                <div>
+                                    <button title="Pulse para añadir al ticket" data-tarifa="vodafone-one-extra" data-tarifa-nombre="Vodafone One Extra" data-precio-tarifa="47,99" data-precio-plazos="18,98" data-precio-unico="828,00">
+                                        Añadir
+                                    </button>
+                                </div>
+                            </div>
+                        </li>
+                    </ul><h3>Servicios Adicionales</h3><ul>
+
+                            <li>
+                                <div>
+                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25">
+                                        <title>Tick</title>
+                                        <use xlink:href="#icon3-tick-or-solved"></use>
+                                    </svg>
+
+                                    <div></div>
+                                    <div>
+                                        
+                                    </div>
+
+                                </div>
+                            </li>
+                            <li>
+                                <div>
+                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25">
+                                        <title>Tick</title>
+                                        <use xlink:href="#icon3-tick-or-solved"></use>
+                                    </svg>
+
+                                    <div></div>
+                                    <div>
+                                        
+                                    </div>
+
+                                </div>
+                            </li>
+                            <li>
+                                <div>
+                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25">
+                                        <title>Tick</title>
+                                        <use xlink:href="#icon3-tick-or-solved"></use>
+                                    </svg>
+
+                                    <div></div>
+                                    <div>
+                                        
+                                    </div>
+
+                                </div>
+                            </li>
+
+                        </ul><ul>
+
+                            <li>
+                                <div>
+                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25">
+                                        <title>Tick</title>
+                                        <use xlink:href="#icon3-tick-or-solved"></use>
+                                    </svg>
+
+                                    <div></div>
+                                    <div>
+                                        
+                                    </div>
+
+                                </div>
+                            </li>
+
+                            <li>
+                                <div>
+                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25">
+                                        <title>Tick</title>
+                                        <use xlink:href="#icon3-tick-or-solved"></use>
+                                    </svg>
+
+                                    <div></div>
+                                    <div>
+                                        
+                                    </div>
+
+                                </div>
+                            </li>
+
+                        </ul><ul>
+
+                            <li>
+                                <div>
+                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25">
+                                        <title>Tick</title>
+                                        <use xlink:href="#icon3-tick-or-solved"></use>
+                                    </svg>
+
+                                    <div></div>
+                                    <div>
+                                        
+                                    </div>
+                                </div>
+                            </li>
+                        </ul><ul>
+
+                            <li>
+                                <div>
+                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25">
+                                        <title>Tick</title>
+                                        <use xlink:href="#icon3-tick-or-solved"></use>
+                                    </svg>
+
+                                    <div></div>
+                                    <div>
+                                        
+                                    </div>
+
+                                </div>
+                            </li>
+                            <li>
+                                <div>
+                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25">
+                                        <title>Tick</title>
+                                        <use xlink:href="#icon3-tick-or-solved"></use>
+                                    </svg>
+
+                                    <div></div>
+                                    <div>
+                                        
+                                    </div>
+
+                                </div>
+                            </li>
+                        </ul><h3>¿Quieres añadir algún accesorio?</h3><ul>
+
+                            <li>
+
+                                <div>
+                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25">
+                                        <title>Tick</title>
+                                        <use xlink:href="#icon3-tick-or-solved"></use>
+                                    </svg>
+
+                                    <div></div>
+                                    <div>
+                                        
+                                    </div>
+
+                                    <button title="Pulse para añadir al ticket" data-accesorio="gafas" data-precio-accesorio="29,99">
+                                        Añadir
+                                    </button>
+                                    <button title="Pulse para añadir al ticket" data-accesorio="gafas" data-precio-accesorio="29,99">
+                                        Eliminar
+                                    </button>
+
+                                </div>
+                            </li>
+                            <li>
+
+                                <div>
+                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25">
+                                        <title>Tick</title>
+                                        <use xlink:href="#icon3-tick-or-solved"></use>
+                                    </svg>
+
+                                    <div></div>
+                                    <div>
+                                        
+                                    </div>
+
+
+                                    <button title="Pulse para añadir al ticket" data-accesorio="airpods" data-precio-accesorio="39,99">
+                                        Añadir
+                                    </button>
+                                    <button title="Pulse para añadir al ticket" data-accesorio="airpods" data-precio-accesorio="39,99">
+                                        Eliminar
+                                    </button>
+
+                                </div>
+                            </li>
+
+                        </ul><h3>¿Cómo es el Huawei P30 Pro Negro 256GB?</h3><div>
+                                
+                            </div><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Oz8oaIeEhkyts6Uijxi4kyOVBj5sQFNDhIeaq8QDKwZUMzVaNFpLRTVJMU1IMllEOFpUMDg0MTFXVC4u" target="_new"></a><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Oz8oaIeEhkyts6Uijxi4kyOVBj5sQFNDhIeaq8QDKwZURDkxTVZHTzRHM0xPWjVMRVdHUk9HSjFKVC4u
+" target="_new"> </a><button></button><p></p><p></p><article data-common-function="accordion">
+                            <button data-common-function="dropdown" aria-controls="ticket-dropdown" aria-expanded="true"><span><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28px" height="28px">
+                                        <title>Tick</title>
+                                        <use xlink:href="#icon3-chevron-down"></use>
+                                    </svg></span><span><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28px" height="28px">
+                                        <title>Tick</title>
+                                        <use xlink:href="#icon3-chevron-up"></use>
+                                    </svg></span></button>
+                            <div aria-hidden="false">
+                                <div>
+                                    <div>
+                                        <p>Resumen de pedido</p>
+                                    </div>
+                                </div>
+                                <!--<div class="vfms-ticket__content js-ticket-content-box"></div>-->
+                                <div>
+
+                                    <!--Cuota mensual-->
+                                    <div>
+
+                                        <div>
+                                            <p><span></span>Cuota
+                                                mensual</p>
+                                        </div>
+                                        <p><strong><span>?</span>€/mes</strong></p>
+                                    </div>
+
+
+                                    <!--Telefono Movil-->
+
+                                    <div>
+                                        <!--<svg class="icon" xmlns="http://www.w3.org/2000/svg"
+                                            xmlns:xlink="http://www.w3.org/1999/xlink" width="40px" height="40px">
+                                            <title>Mobile</title>
+                                            <use class="icon-v3" xlink:href="#icon-converged-proposition-mid"></use>
+                                        </svg>-->
+
+                                        <div>
+                                            
+                                        </div>
+
+
+                                        <div>
+                                            <p><span></span> Teléfono
+                                                móvil</p>
+                                            <button data-common-accordion="button" aria-expanded="true" aria-controls="accordion-tarifa-one" data-initialized="true">
+                                                <span>Más info <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" º="" height="16px">
+                                                        <title>Tick</title>
+                                                        <use xlink:href="#icon3-chevron-down"></use>
+                                                    </svg></span>
+                                                <span>Menos info <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" height="16px">
+                                                        <title>Tick</title>
+                                                        <use xlink:href="#icon3-chevron-up"></use>
+                                                    </svg></span></button>
+                                        </div>
+                                        <p><span>31,99</span>€/mes</p>
+                                    </div>
+                                    <div aria-hidden="false">
+                                        <div>
+                                            <div>
+                                                <button>
+                                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                                                        <title>Close</title>
+                                                        <use xlink:href="#icon3-close"></use>
+                                                    </svg>
+                                                </button>
+                                                <p>Huawei P30
+                                                    Pro Negro 256GB <br> x 36 meses</p>
+                                                <p>
+                                                    31,99/mes</p>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+
+                                    <!--Tarifa Móvil-->
+                                    <div>
+                                        <!--<svg class="icon" xmlns="http://www.w3.org/2000/svg"
+                                            xmlns:xlink="http://www.w3.org/1999/xlink" width="40px" height="40px">
+                                            <title>Mobile</title>
+                                            <use class="icon-v3" xlink:href="#icon-converged-proposition-mid"></use>
+                                        </svg>-->
+                                        <div>
+                                            
+                                        </div>
+                                        <div>
+                                            <p><span></span>Tarifa
+                                                móvil</p>
+                                            <button data-common-accordion="button" aria-expanded="true" aria-controls="accordion-tarifa-one" data-initialized="true"><span>Más info <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" height="16px">
+                                                        <title>Tick</title>
+                                                        <use xlink:href="#icon3-chevron-down"></use>
+                                                    </svg></span><span>Menos info <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" height="16px">
+                                                        <title>Tick</title>
+                                                        <use xlink:href="#icon3-chevron-up"></use>
+                                                    </svg></span></button>
+                                        </div>
+                                        <p><span>45</span>€/mes
+                                        </p>
+                                    </div>
+                                    <div aria-hidden="false">
+                                        <div>
+                                            <div>
+                                                <p>Vodafone One
+                                                    Ilimitada</p>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+                                    <!--Accesorio-->
+                                    <div>
+                                        <!--<svg class="icon" xmlns="http://www.w3.org/2000/svg"
+                                            xmlns:xlink="http://www.w3.org/1999/xlink" width="40px" height="40px">
+                                            <title>Mobile</title>
+                                            <use class="icon-v3" xlink:href="#icon-converged-proposition-mid"></use>
+                                        </svg>-->
+                                        <div>
+                                            
+                                        </div>
+                                        <div>
+                                            <p><span></span> Accesorio
+                                            </p>
+                                            <button data-common-accordion="button" aria-expanded="true" aria-controls="accordion-tarifa-one" data-initialized="true"><span>Más info <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" height="16px">
+                                                        <title>Tick</title>
+                                                        <use xlink:href="#icon3-chevron-down"></use>
+                                                    </svg></span><span>Menos info <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" height="16px">
+                                                        <title>Tick</title>
+                                                        <use xlink:href="#icon3-chevron-up"></use>
+                                                    </svg></span></button>
+                                        </div>
+                                        <p><span>0</span>€/mes</p>
+                                    </div>
+                                    <div aria-hidden="false">
+                                        <div>
+                                            <div>
+                                                <button>
+                                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                                                        <title>Close</title>
+                                                        <use xlink:href="#icon3-close"></use>
+                                                    </svg>
+                                                </button>
+                                                <p>Gafas VR</p>
+                                                <p>
+                                                    29,99/mes</p>
+                                            </div>
+
+                                        </div>
+
+
+                                        <div>
+                                            <div>
+                                                <button>
+                                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                                                        <title>Close</title>
+                                                        <use xlink:href="#icon3-close"></use>
+                                                    </svg>
+                                                </button>
+                                                <p>Apple Airpods
+                                                    2</p>
+                                                <p>
+                                                    39,99/mes</p>
+                                            </div>
+
+                                        </div>
+                                    </div>
+
+
+                                    <!--Servicio Adicional-->
+                                    <div>
+                                        <!--<svg class="icon" xmlns="http://www.w3.org/2000/svg"
+                                            xmlns:xlink="http://www.w3.org/1999/xlink" width="40px" height="40px">
+                                            <title>Mobile</title>
+                                            <use class="icon-v3" xlink:href="#icon-converged-proposition-mid"></use>
+                                        </svg>-->
+                                        <div>
+                                            
+                                        </div>
+                                        <div>
+                                            <p><span></span> Servicio
+                                                adicional</p>
+                                            <button data-common-accordion="button" aria-expanded="true" aria-controls="accordion-tarifa-one" data-initialized="true"><span>Más info <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" height="16px">
+                                                        <title>Tick</title>
+                                                        <use xlink:href="#icon3-chevron-down"></use>
+                                                    </svg></span><span>Menos info <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" height="16px">
+                                                        <title>Tick</title>
+                                                        <use xlink:href="#icon3-chevron-up"></use>
+                                                    </svg></span></button>
+                                        </div>
+                                        <p>Gratis</p>
+                                    </div>
+                                    <div aria-hidden="false">
+                                        <div>
+                                            <div>
+                                                <button>
+                                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                                                        <title>Close</title>
+                                                        <use xlink:href="#icon3-close"></use>
+                                                    </svg>
+                                                </button>
+                                                <p>Secure Net
+                                                </p>
+                                                <p>
+                                                    Gratis</p>
+                                            </div>
+                                        </div>
+                                        <div>
+                                            <div>
+                                                <button>
+                                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                                                        <title>Close</title>
+                                                        <use xlink:href="#icon3-close"></use>
+                                                    </svg>
+                                                </button>
+                                                <p>Hatch Premium
+                                                </p>
+                                                <p>
+                                                    Gratis</p>
+                                            </div>
+                                        </div>
+                                        <div>
+                                            <div>
+                                                <button>
+                                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                                                        <title>Close</title>
+                                                        <use xlink:href="#icon3-close"></use>
+                                                    </svg>
+                                                </button>
+                                                <p>One Number
+                                                </p>
+                                                <p>
+                                                    Gratis</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!--Pago Único-->
+                                    <div>
+
+                                        <div>
+                                            <p><span></span>Pago único
+                                                inicial</p>
+                                        </div>
+                                        <p>1,33€</p>
+                                    </div>
+
+                                    <!--Canon Digital-->
+
+                                    <div>
+                                        <div>
+                                            <div></div>
+                                            
+                                        </div>
+                                        <div>
+                                            <div>
+                                                
+                                            </div>
+                                            <div>
+                                                <p><span></span>Canon
+                                                    digital</p>
+                                            </div>
+
+                                            <a> </a>
+                                        </div>
+                                        <p>1,33€/mes</p>
+                                    </div>
+
+                                    <!--Impuestos-->
+
+                                    <div>
+                                        <div>
+                                            <div>
+                                                <p><span></span>IVA
+                                                    incluido en todos los precios</p>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40px" height="40px">
+                                            <title>Mobile</title>
+                                            <use xlink:href="#icon-sim-mid"></use>
+                                        </svg>
+                                        <div>
+                                            <p><span>1</span> Líneas
+                                                móviles adicionales</p>
+                                            <button data-common-accordion="button" aria-expanded="false" aria-controls="accordion-counter" data-initialized="true"><span>Más info <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" height="16px">
+                                                        <title>Tick</title>
+                                                        <use xlink:href="#icon3-chevron-down"></use>
+                                                    </svg></span><span>Menos info <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" height="16px">
+                                                        <title>Tick</title>
+                                                        <use xlink:href="#icon3-chevron-up"></use>
+                                                    </svg></span></button>
+                                        </div>
+                                        <p><strong></strong></p>
+                                    </div>
+                                    <div aria-hidden="true"></div>
+
+
+                                </div>
+                            </div>
+                            <div>
+                                <p>Precio inicial: <span>€/mes</span></p>
+                                <p>Cuota mensual: <span><strong><span></span>€/mes</strong></span></p>
+
+                                <a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?tti=7&amp;tta=1&amp;tcli=0&amp;tcon=0&amp;ec=0&amp;tal=2&amp;sap=11111&amp;m=0&amp;tar=168444492" title="quiero esta tarifa">Lo quiero</a>
+                                <button onclick="window.parent.document.ws_popup.open3('Tu mejor tarifa Vodafone One', ' contratar online');">Quiero
+                                    esta tarifa</button>
+                            </div>
+                        </article><a target="_blank" href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/legales/" title="Condiciones legales">Ver condiciones legales</a><button aria-hidden="false"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px">
+                        <title>Close</title>
+                        <use xlink:href="#icon3-close"></use>
+                    </svg></button><div></div>

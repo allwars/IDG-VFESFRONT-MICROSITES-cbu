@@ -1,0 +1,352 @@
+// CSS del microsite
+.vfes-ms-content {
+
+  .vfms-typeclient {
+    text-decoration: underline;
+
+    &.active {
+      font-family: "VodafoneRegularBold", Arial, sans-serif;
+      text-decoration: none;
+    }
+  }
+
+  // GENERAL
+  .vfes-carousel__bullets {
+    text-align: left;
+  }
+
+  .vfes-carousel--active {
+    padding-bottom: 30px;
+  }
+
+  .vfes-carousel__arrow {
+    height: 32px;
+    width: 32px;
+  }
+
+  .vfes-carousel__arrow:after {
+    width: 14px;
+    height: 14px;
+  }
+
+  .vfms-ticket {
+    z-index: 10;
+  }
+
+  .vfes-waves {
+    position: absolute;
+    bottom: 0;
+    margin-bottom: -10px;
+    width: 100%;
+  }
+
+  .vfms-circle-icon {
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+    background: #fff;
+    position: relative;
+    display: flex;
+    padding: 10px;
+    margin-right: 10px;
+  }
+
+  // BANNER AND CARD RATE
+  .vfms-banner {
+    background-image: url("../img/bg-banner-mv.jpg");
+    position: relative;
+    display: block;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  }
+
+  // ILIMITATED GB
+  .vfms-all {
+    display: flex;
+    align-items: center;
+  }
+
+  // SUPER WIFI
+  .vfms-superwifi{
+    background-image: url("../img/superwifi-mv.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 637px;
+  }
+
+  // TV
+  .vfms-tv {
+    .vfms-tv-title {
+      background-color: #9C2AA0;
+    }
+  }
+
+  // ALSO
+  .vfms-also-height {
+    min-height: 280px;
+  }
+
+  // BUTTON STICKY
+  .vfms-sticky-down {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    z-index: 4;
+    transition: 0.3s;
+    visibility: visible;
+    opacity: 1;
+  }
+
+  .vfms-hide {
+    visibility: hidden;
+    opacity: 0;
+    transition: visibility 0s, opacity 0.5s linear;
+  }
+
+  .vfms-fiber__items{
+    flex-direction: column;
+  }
+
+  //ORDER ELEMNTS DOM
+
+  .vfms-content {
+    order: 3;
+    z-index: 3;
+    overflow: hidden;
+  }
+
+  .vfms-ticket {
+    order: 2;
+    z-index: 2;
+  }
+
+  .vfms-banner {
+    order: 1;
+    z-index: 1;
+  }
+
+  .vfms-steps {
+    .vfms-paragraph--small {
+      font-size: 16px;
+    }
+  }
+
+  .vfms-fiber-sonar{
+    position: relative;
+    display: block;
+
+    &__img{
+      width: 300px;
+      position: relative;
+      margin-left:auto;
+      margin-right:auto;
+      left:0;
+      right:0;
+    }
+  }
+
+  //CSS ANIMATION
+
+  .sonar-emitter {
+    position: absolute;
+    margin: 0 auto;
+    bottom: 200px;
+    left: 170px;
+    width: 100px;
+    height: 100px;
+    border-radius: 9999px;
+  }
+  .sonar-wave {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 80%;
+    height: 80%;
+    border-radius: 9999px;
+    background-color: #E60000;
+    opacity: 0;
+    z-index: -1;
+    pointer-events: none;
+  }
+  .sonar-wave1 {
+    animation: sonarWave 6s linear infinite;
+  }
+  .sonar-wave2 {
+    animation: sonarWave 6s 0.5s linear infinite;
+  }
+  .sonar-wave3 {
+    animation: sonarWave 6s 1s linear infinite;
+  }
+  .sonar-wave4 {
+    animation: sonarWave 6s 1.5s linear infinite;
+  }
+  .sonar-wave5 {
+    animation: sonarWave 6s 2s linear infinite;
+  }
+  .sonar-wave6 {
+    animation: sonarWave 6s 2.5s linear infinite;
+  }
+  .sonar-wave7 {
+    animation: sonarWave 6s 3s linear infinite;
+  }
+  .sonar-wave8 {
+    animation: sonarWave 6s 3.5s linear infinite;
+  }
+  .sonar-wave9 {
+    animation: sonarWave 6s 4s linear infinite;
+  }
+  .sonar-wave10 {
+    animation: sonarWave 6s 4.5s linear infinite;
+  }
+
+  @keyframes sonarWave {
+    from {
+      opacity: 0.1;
+    }
+    to {
+      transform: scale(10);
+      opacity: 0;
+    }
+  }
+
+  .vfes-timeline--steps .vfes-timeline__item{
+    width: 100%;
+  }
+
+  // ONLY FOR HORIZONTAL TABLET
+  @media only screen and (max-width: 1200px) and (min-width: 970px) {
+    .vfms-banner {
+      background-size: cover;
+    }
+    &.vfms-one {
+      .vfes-2\/3 {
+        width: 59.66667% !important;
+      }
+
+      .vfes-1\/3 {
+        width: 40% !important;
+      }
+    }
+  }
+
+  @media screen and (min-width: 640px){
+    .vfes-timeline--steps .vfes-timeline__item{
+      width: 25%;
+    }
+
+
+    .vfms-superwifi{
+      background-image: url("../img/bg-superwifi.jpg");
+      background-size: contain;
+      height: initial;
+
+
+      .vfms-button--green{
+        margin-left: 70px;
+      }
+    }
+
+    .vfms-content {
+      overflow: initial;
+    }
+    .vfms-fiber-sonar{
+      position: relative;
+      display: block;
+
+      &__img{
+        width: 300px;
+        position: relative;
+        margin-left:auto;
+        margin-right:auto;
+        left:0;
+        right:0;
+      }
+    }
+
+    .sonar-wave {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 50%;
+      height: 50%;
+      border-radius: 9999px;
+      background-color: #E60000;
+      opacity: 0;
+      z-index: -1;
+      pointer-events: none;
+    }
+
+
+    .vfms-fiber__items{
+      flex-direction: row;
+    }
+
+  }
+
+  @media screen and (min-width: 970px) {
+
+    //GENERAL
+    .vfes-waves {
+      bottom: -50px;
+      display: block;
+    }
+
+    .vfms-ticket {
+      &-content {
+        max-width: 23.75rem;
+        width: 100%;
+        float: right;
+      }
+    }
+
+    .vfms-sticky-down {
+      opacity: 0;
+    }
+
+    // BANNER AND CARD RATE
+    .vfms-banner {
+      background-image: url("../img/bg-banner-desktop.jpg");
+      background-size: cover;
+      min-height: 400px;
+      background-position: top;
+
+      .fixed {
+        position: fixed;
+        width: 100% !important;
+        max-width: 75rem;
+        left: 50%;
+        -webkit-transform: translateX(-50%);
+        transform: translateX(-50%);
+        top: 4rem;
+        padding-top: 20px;
+      }
+
+      .vfms-hide-desktop {
+        display: none;
+      }
+
+    }
+
+    .sonar-wave {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 70%;
+      height: 70%;
+      border-radius: 9999px;
+      background-color: #E60000;
+      opacity: 0;
+      z-index: -1;
+      pointer-events: none;
+    }
+
+    .vfms-fiber__items{
+      flex-direction: column;
+    }
+
+  }
+
+}

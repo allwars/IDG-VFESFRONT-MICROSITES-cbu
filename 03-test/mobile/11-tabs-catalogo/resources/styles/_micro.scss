@@ -1,0 +1,39 @@
+// CSS del microsite
+.vfes-ms-content-tabs{
+    width: 100%;
+    .vfms-tabs {
+        padding: 10px;
+        background-color: #EBEBEB;
+        @media screen and (min-width: 460px) {
+            padding: 12px 28px 10px;
+        }
+    }
+    .vfms-container {
+        max-width: 100%;
+        @media screen and (min-width: 460px) {
+            max-width: 60%;
+        }
+    }
+    .vfms-tabs:first-child {
+        border-top-left-radius: 10px;
+        border-bottom-left-radius: 10px;
+        margin-right: 2px;
+    }
+    .vfms-tabs:last-child {
+        border-top-right-radius: 10px;
+        border-bottom-right-radius: 10px;
+        margin-left: 2px;
+    }
+    .active {
+        background-color: #E60000;
+        color: #fff;
+    }
+    .vfms-tabs:hover {
+        background-color: #333;
+        color: #fff;
+    }
+    .vfms-tabs-catalogo {
+        max-width: 700px;
+        margin: 0 auto;
+    }
+}

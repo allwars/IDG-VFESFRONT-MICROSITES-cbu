@@ -1,0 +1,185 @@
+<h2>Samsung Galaxy A90 5G Negro 128GB</h2><div>
+							
+						</div><p><span>El pack incluye:</span></p><p><span>Datos ilimitados,</span></p><p><span>Llamadas ilimitadas,</span></p><p><span>SecureNet,</span></p><p><span>Hatch Premium,</span></p><p><span>Gafas de RV.</span></p><a href="#info">Ver todas las características</a><p>*Oferta disponible únicamente para Portabilidades*</p><p>Tarifa incluida en el Pack:</p><ul>
+						<li>
+							<button data-selector="add">
+								<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15px" height="15px">
+									<title>Tick</title>
+									<use xlink:href="#icon3-add-or-plus"></use>
+								</svg>
+								<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15px" height="15px">
+									<title>Tick</title>
+									<use xlink:href="#icon3-tick-or-solved"></use>
+								</svg>
+								<div></div>
+								<div>
+									<div>
+										<div>
+											
+										</div>
+										<div>
+											<p>Tarifa Móvil ilimitada Total</p>
+											<p>Datos ilimitados
+												<svg height="16" width="25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><title>Velocidad</title><use xlink:href="#icon3-thunder-3"></use></svg>
+											</p>
+											<p>Minutos ilimitados</p>
+										</div>
+									</div>
+									<div>
+										<p><strong>40,99€€</strong>/mes</p>
+										<p>24 meses de permanencia</p>
+									</div>
+								</div>
+							</button>
+						</li>
+					</ul><p>Accesorio incluido en el Pack:</p><ul>
+						<li>
+							<button data-selector="add">
+								<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15px" height="15px">
+									<title>Tick</title>
+									<use xlink:href="#icon3-add-or-plus"></use>
+								</svg>
+								<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15px" height="15px">
+									<title>Tick</title>
+									<use xlink:href="#icon3-tick-or-solved"></use>
+								</svg>
+								<div></div>
+								<div>
+									<div>
+										<div>
+											
+										</div>
+										<div>
+											<p>Homido</p>
+											<div>
+												<p>Gafas VR</p>
+												<p>GRATIS</p>
+											</div>
+											<p>0€ con Tarifa Móvil ilimitada Total</p>
+										</div>
+									</div>
+								</div>
+							</button>
+						</li>
+					</ul><p>Servicios incluidos en el Pack:</p><ul>
+						<li>
+							<button data-selector="add">
+								<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15px" height="15px">
+									<title>Tick</title>
+									<use xlink:href="#icon3-add-or-plus"></use>
+								</svg>
+								<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15px" height="15px">
+									<title>Tick</title>
+									<use xlink:href="#icon3-tick-or-solved"></use>
+								</svg>
+								<div></div>
+								<div>
+									<div>
+										
+										<p>Hatch Premium</p>
+									</div>
+									<p>Plataforma para disfrutar de más de 160 videojuegos premium en tu móvil.</p>
+									<p><span>GRATIS</span>  durante 1 año.</p>
+								</div>
+							</button>
+						</li>
+						<li>
+							<button data-selector="add">
+								<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15px" height="15px">
+									<title>Tick</title>
+									<use xlink:href="#icon3-add-or-plus"></use>
+								</svg>
+								<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15px" height="15px">
+									<title>Tick</title>
+									<use xlink:href="#icon3-tick-or-solved"></use>
+								</svg>
+								<div></div>
+								<div>
+									<div>
+										<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="49" height="40" viewBox="0 0 192 192"><defs><symbol data-name="Security_ic_mid" viewBox="0 0 192 192"><path d="M58,74V54c0-19.88,17-36,38-36h0c21,0,38,16.12,38,36V74" fill="none" stroke="#e60000" stroke-linejoin="round" stroke-width="4"></path><g data-name="<Gruppe>"><line data-name="<Pfad>" x1="96" y1="114" x2="96" y2="142" fill="none" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"></line></g><rect width="192" height="192" fill="none"></rect><g data-name="Payment_ic"><rect x="34" y="74" width="124" height="100" rx="12" ry="12" fill="none" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"></rect></g><circle cx="96" cy="108" r="6" fill="none" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"></circle></symbol></defs><title>security-mid</title><g data-name="ICON"><use data-name="Security_ic_mid" width="192" height="192" transform="translate(0 0)" xlink:href="#38e3dab0-2abf-4a47-86d2-44d984411342"></use></g></svg>
+										<p>SecureNet</p>
+									</div>
+									<p>Mantén seguro tu smartphone ante amenazas externas con el<span> antivirus integrado</span> en el servicio Secure Net. </p>
+									<p><span>GRATIS</span> durante 3 meses, después 1€/mes.</p>
+								</div>
+							</button>
+						</li>
+					</ul><p>¿Cómo es el Samsung Galaxy A90 5G Negro 128GB?</p><div>
+						
+						
+					</div><div>
+						
+					</div><p>Descubre el <span>Samsung Galaxy A90</span></p><p>Encuentra todo lo que buscas y mucho más, en este móvil de diseño atractivo, que satisface tus necesidades del día a día, con el mejor rendimiento y durabilidad.</p><p>Captura los mejores momentos haciendo fotos con su <span>cámara 45 megapíxeles</span>, y guárdalas sin problemas en sus <span>128GB de memoria interna</span>. Y por si fuera poco, con una pantalla de 6,5 pulgadas en resolución 1080x2400 y un tamaño de 76,4 x 164,8 x 6,5 mm.</p><p>Características técnicas</p><p><span>Sistema</span></p><ul>
+								<li> <p>Sistema Operativo ANDROID</p></li>
+								<li> <p>Procesador Ocho núcleos (Dual 2.0GHz+ Hexa 1.7GHz)</p></li>
+								<li> <p>Seguridad Huella dactilar en pantalla</p></li>
+							</ul><p><span>Conectividad</span></p><ul>
+								<li><p>Red Móvil 5G</p></li>
+								<li><p>WIFI 802.11 a/b/g/n/ac2.4G+5GHz, VHT80</p></li>
+								<li><p>Bluetooth Sí</p></li>
+								<li><p>GPS Sí</p></li>
+								<li><p>NFC Sí</p></li>
+							</ul><p><span>Pantalla</span></p><ul>
+								<li><p>Tamaño 6.5"</p></li>
+								<li><p>Resolución 1080x2400 FHD+</p></li>
+							</ul><p><span>Cámara</span></p><ul>
+								<li><p>Frontal 32 Mp</p></li>
+								<li><p>Trasera 45 Mp</p></li>
+								<li><p>Extras Triple cámara trasera 45 MP + 5 MP + 8 MP</p></li>
+							</ul><p><span>Memoria</span></p><ul>
+								<li><p>Interna 128 GB</p></li>
+								<li><p>Máxima memoria ampliable 512 GB</p></li>
+								<li><p>RAM 6 GB</p></li>
+							</ul><p><span>Batería</span></p><ul>
+								<li><p>Capacidad 4500 mAh</p></li>
+							</ul><p><span>Medidas</span></p><ul>
+								<li><p>Peso 206 gr</p></li>
+								<li><p>Alto 164.8 mm</p></li>
+								<li><p>Ancho 76.4 mm</p></li>
+								<li><p>Grosor 6.5 mm</p></li>
+							</ul><article data-common-function="accordion">
+                        <button data-common-function="dropdown" aria-controls="ticket-dropdown" aria-expanded="true"><span><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28px" height="28px"><title>Tick</title><use xlink:href="#icon3-chevron-down"></use></svg></span><span><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28px" height="28px"><title>Tick</title><use xlink:href="#icon3-chevron-up"></use></svg></span></button>
+                        <div aria-hidden="false">
+                             <div>
+                                <div>
+                                    <p>Resumen de compra</p>
+                                </div>
+                            </div>
+                            <div>
+						<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 192 192"><defs><symbol data-name="Mobile_ic_mid" viewBox="0 0 192 192"><line x1="84" y1="158" x2="108" y2="158" fill="none" stroke="#e60000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"></line><rect width="192" height="192" fill="none"></rect><rect x="50" y="18" width="92" height="156" rx="14" ry="14" fill="none" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"></rect></symbol></defs><title>mobile-mid</title><g data-name="ICON"><use data-name="Mobile_ic_mid" width="192" height="192" transform="translate(0 0)" xlink:href="#b72c2309-f081-4476-80d3-91b0b45ddd67"></use></g></svg>
+						<div>
+							<p>Teléfono móvil</p>
+							<button data-common-function="dropdown" aria-controls="card-content0">
+								<span>Más info 
+									<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" height="16px">
+										<title>Tick</title>
+										<use xlink:href="#icon3-chevron-down"></use>
+									</svg>
+								</span>
+								<span>Menos info 
+									<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" height="16px">
+										<title>Tick</title>
+										<use xlink:href="#icon3-chevron-up"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<p><strong>0€/mes</strong></p>
+							</div>
+							<div aria-hidden="false">
+								<div>
+									<p>Samsung</p>
+								</div>
+								<ul>
+									<li>- Samsung Galaxy A90 5G Negro128GB</li>
+									<li>- 24 meses + 0€ pago inicial</li>
+								</ul>
+							</div>
+
+                        </div>
+                        <div>
+                            <p>Precio inicial: <span>€/mes</span></p>
+                            <p>Total: <span><strong>€/mes</strong></span></p>
+                            <a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?tti=7&amp;tta=1&amp;tcli=0&amp;tcon=0&amp;ec=0&amp;tal=2&amp;sap=11111&amp;m=0&amp;tar=168444492" title="quiero esta tarifa">Quiero esta tarifa</a>
+                        </div>
+                    </article>

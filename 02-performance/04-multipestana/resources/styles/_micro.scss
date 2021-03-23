@@ -1,0 +1,483 @@
+// CSS del microsite
+.vfes-ms-content {
+    a {
+        text-decoration: none;
+    }
+    // Walmeric form styles
+    .vfes-layout.vfms-banner {
+        .vfms-banner-form {
+            padding: 0;
+            .vfms-banner-form-container {
+                border-radius: 6px;
+                @media screen and (min-width: 768px) {
+                    width: 95%;
+                    margin-left: 16px;
+                }
+                form {
+                    padding: 16px;
+                    .vfes-box--form {
+                        margin: 16px 0;
+                        .vfes-form__input {
+                            margin: 5px 0;
+                        }
+                        .vfms-form__checks-space {
+                            margin-bottom: 15px;
+                            label {
+                                font-size: 14px;
+                                #condiciones {
+                                    margin-left: 2px;
+                                    text-decoration: underline;
+                                }
+                            }
+                        }
+                        input[type="submit"] {
+                            font-size: 16px;
+                            @media screen and (min-width: 768px) {
+                                width: 100%;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+    /*Banner Ilimitada Súper*/
+    .vfes-layout.vfms-banner.ilimitada.super {
+        background-image: url(../img/imgs-background/movil/mobile.png);
+        background-size: cover;
+        min-height: 550px;
+        @media screen and (min-width: 1024px) {
+            background-image: url(../img/imgs-background/movil/ilimitada.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: 25%;
+            // padding: 20px 0;
+        }
+        .vfms-banner-info {
+            .vfms-banner-info-container {
+                background: #fff;
+                border-radius: 6px;
+                margin-bottom: 25px;
+                padding: 8px;
+                @media screen and (min-width: 1024px) {
+                    padding: 18px 30px;
+                    margin-left: auto;
+                    width: 60%;
+                }
+                .vfms-banner-copy {
+                    text-align: center;
+                }
+                .vfms-rate-features {
+                    list-style: disc;
+                    padding: 0 16px;
+                    @media screen and (min-width: 1280px) {
+                        font-size: 20px;
+                    }
+                    li {
+                        margin-bottom: 14px;
+                    }
+                }
+                .vfms-banner-rate-info {
+                    display: flex;
+                    align-items: flex-end;
+                    justify-content: space-between;
+                    .vfms-banner-rate-price {
+                        display: flex;
+                        flex-direction: column;
+                        @media screen and (min-width: 1280px) {
+                            flex-direction: row;
+                            flex-wrap: wrap;
+                            align-items: baseline;
+                        }
+                        .vfms-banner-rate-text {
+                            font-size: 14px;
+                            @media screen and (min-width: 1280px) {
+                                width: 100%;
+                            }
+                        }
+                        .vfms-banner-rate-price-big-num {
+                            font-size: 32px;
+                            @media screen and (min-width: 1280px) {
+                                font-size: 43px;
+                            }
+                        }
+                        .vfms-banner-rate-small-num {
+                            font-size: 24px;
+                        }
+                        .vfms-iva {
+                            margin-left: 8px;
+                            font-size: 14px;
+                        }
+                    }
+                    .vfms-offer-datails {
+                        text-align: right;
+                    }
+                }
+                .vfms-banner-mobile-offer-container {
+                    display: flex;
+                    align-items: flex-end;
+                    .vfms-banner-mobile-offer-info {
+                        margin-left: 12px;
+                        width: 100%;
+                        p {
+                            display: flex;
+                            flex-direction: column;
+                        }
+                        .vfms-banner-mobile-offer-model {
+                            font-size: 20px;
+                        }
+                        .vfms-banner-mobile-offer-price {
+                            font-size: 18px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    /*Banner One Ilimitada*/
+    .vfes-layout.vfms-banner.one.ilimitada {
+        background-image: url(../img/imgs-background/fibra-movil/mobile.png);
+        background-size: cover;
+        min-height: 600px;
+        @media screen and (min-width: 1024px) {
+            background-image: url(../img/imgs-background/fibra-movil/one-ilimitada-desktop.jpg);
+            background-position-x: -35px;
+            padding: 20px 0;
+        }
+        .vfms-banner-info {
+            .vfms-banner-info-container {
+                background: #fff;
+                border-radius: 6px;
+                margin-bottom: 25px;
+                padding: 16px;
+                @media screen and (min-width: 1024px) {
+                    margin-left: auto;
+                    width: 60%;
+                }
+                .vfms-banner-copy {
+                    text-align: center;
+                }
+                .vfms-rate-features {
+                    .vfms-rate-features-item {
+                        display: flex;
+                        margin-bottom: 14px;
+                        .vfms-features-icon {
+                            svg {
+                                use {
+                                    color: #e60000;
+                                }
+                            }
+                        }
+                        .vfms-rate-feature-description {
+                            padding-left: 8px;
+                            .vfms-feature-description-title {
+                                margin-bottom: 0;
+                                font-size: 20px;
+                            }
+                        }
+                    }
+                }
+                .vfms-offer-price-container {
+                    .vfms-offer-price-old {
+                        display: inline-flex;
+                        flex-direction: column;
+                        margin-top: 16px;
+                        .vfms-offer-price-old-text {
+                            font-size: 14px;
+                        }
+                        .vfms-offer-price-old-number {
+                            font-size: 20px;
+                            .vfms-month {
+                                font-size: 18px;
+                            }
+                        }
+                    }
+                    .vfms-offer-price-new {
+                        display: flex;
+                        flex-direction: column;
+                        margin: 16px 0;
+                        .vfms-offer-price-new-text {
+                            font-size: 14px;
+                        }
+                        .vfms-offer-price-new-number {
+                            font-size: 52px;
+                            .vfms-month {
+                                font-size: 20px;
+                            }
+                        }
+                        .vfms-offer-price-new-features {
+                            font-size: 14px;
+                            .vfms-iva {
+                                margin-right: 8px;
+                            }
+                        }
+                    }
+                    .vfms-offer-datails {
+                        text-align: right;
+                        a {}
+                    }
+                }
+            }
+        }
+    }
+    /*Banner Fibra 100Mbps*/
+    .vfes-layout.vfms-banner.fibra100mb {
+        background-image: linear-gradient(to bottom, #a10108, #4f0102);
+        .vfms-banner-info {
+            .vfms-banner-info-container {
+                background: #fff;
+                border-radius: 6px;
+                margin-bottom: 25px;
+                padding: 16px;
+                @media screen and (min-width: 1024px) {
+                    margin-left: auto;
+                    width: 60%;
+                }
+                .vfms-banner-copy {
+                    text-align: center;
+                }
+                .vfms-rate-features {
+                    .vfms-rate-features-item {
+                        display: flex;
+                        margin-bottom: 14px;
+                        .vfms-features-icon {
+                            svg {
+                                use {
+                                    color: #e60000;
+                                }
+                            }
+                        }
+                        .vfms-rate-feature-description {
+                            padding-left: 8px;
+                            .vfms-feature-description-title {
+                                margin-bottom: 0;
+                                font-size: 20px;
+                            }
+                        }
+                    }
+                }
+                .vfms-offer-price-container {
+                    position: relative;
+                    .vfms-offer-price {
+                        display: flex;
+                        flex-direction: column;
+                        margin: 16px 0;
+                        .vfms-offer-price-text {
+                            font-size: 14px;
+                            margin-top: 25px;
+                        }
+                        .vfms-offer-price-number {
+                            font-size: 52px;
+                            .vfms-month {
+                                font-size: 20px;
+                            }
+                        }
+                        .vfms-offer-price-features {
+                            font-size: 14px;
+                            display: flex;
+                            flex-wrap: wrap;
+                            .vfms-cuota {
+                                width: 100%;
+                            }
+                        }
+                    }
+                    .vfms-offer-datails {
+                        text-align: right;
+                        a {}
+                    }
+                    .vfms-offer-price-clain {
+                        color: #fff;
+                        position: absolute;
+                        top: -16px;
+                        right: -8px;
+                        display: flex;
+                        flex-direction: column;
+                        font-size: 18px;
+                        @media screen and (min-width: 1280px) {
+                            right: 16px;
+                        }
+                        span {
+                            padding: 6px 15px;
+                            &:first-child {
+                                margin-right: 16px;
+                            }
+                            &:last-child {
+                                margin-right: 8px;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+    /*Banner Fibra 600Mbps*/
+    .vfes-layout.vfms-banner.fibra600mb {
+        background-image: url(../img/imgs-background/fibra/yuser/desktop.png);
+        background-size: cover;
+        min-height: 600px;
+        @media screen and (min-width: 1024px) {
+            background-image: url(../img/imgs-background/fibra/yuser/desktop.png);
+        }
+        .vfms-banner-info {
+            .vfms-banner-info-container {
+                background: #fff;
+                border-radius: 6px;
+                margin-bottom: 25px;
+                padding: 16px;
+                @media screen and (min-width: 1024px) {
+                    margin-left: auto;
+                    width: 60%;
+                    padding: 25px 36px;
+                }
+                .vfms-banner-info-copy {
+                    display: flex;
+                    justify-content: space-between;
+                    margin-bottom: 16px;
+                    p {
+                        font-size: 18px;
+                        @media screen and (min-width: 20px) {
+                            font-size: 25px;
+                        }
+                    }
+                    img {
+                        width: 100px;
+                        @media screen and (min-width: 1280px) {
+                            width: 150px;
+                        }
+                    }
+                }
+                .vfms-banner-info-clain {
+                    margin-bottom: 0;
+                }
+                .vfms-rate-features {
+                    border: solid 4px #e60000;
+                    display: flex;
+                    justify-content: space-around;
+                    padding: 12px 0;
+                    margin: 20px 0;
+                    .vfms-rate-features-item {
+                        display: flex;
+                        flex-direction: column;
+                        padding: 0 16px;
+                        .vfms-rate-features-item-big {
+                            font-size: 24px;
+                            @media screen and (min-width: 1280px) {
+                                font-size: 40px;
+                            }
+                            .vfms-month {
+                                font-size: 20px;
+                            }
+                        }
+                        .vfms-rate-features-item-small {}
+                        &:first-child {
+                            border-right: solid 2px #333333;
+                        }
+                    }
+                }
+                .vfms-offer-datails {
+                    display: flex;
+                    justify-content: space-between;
+                }
+            }
+        }
+    }
+    // Estilos para los modales
+    .vfms-modal-title {
+        padding-bottom: 10px;
+        border-bottom: solid #333 1px;
+    }
+    .vfms-fibraMovil {
+        .vfms-offer-details-features-container {
+            display: flex;
+            flex-wrap: wrap;
+            .vfms-offer-details-features-item {
+                @media screen and (min-width: 768px) {
+                    width: 50%;
+                }
+                .vfms-feature-header {
+                    display: flex;
+                    align-items: center;
+                    .vfms-feature-title {
+                        margin-bottom: 0;
+                        // align-self: flex-end;
+                        margin-left: 16px;
+                        &:last-child {
+                            padding-left: 20px;
+                        }
+                    }
+                }
+                .vfms-feature-content {
+                    list-style: disc;
+                    padding: 20px 50px;
+                }
+            }
+        }
+        .vfms-offer-details-conditions {
+            .vfms-feature-title {
+                margin-bottom: 0;
+                border-top: #333 solid 1px;
+                padding-top: 10px;
+            }
+            .vfms-offer-details-conditions-container {
+                list-style: disc;
+                padding: 20px 50px;
+            }
+        }
+    }
+    .vfms-tarifaMovil {
+        .vfms-modal-title {
+            margin-bottom: 20px;
+        }
+        .vfms-offer-details-features-container {
+            list-style: disc;
+            padding-left: 20px;
+            line-height: 1.5;
+            .vfms-offer-details-features-item {
+                .vfms-rate-features-container {
+                    list-style: disc;
+                    padding-left: 50px;
+                }
+            }
+        }
+    }
+}
+
+
+/*----------------------------------------------------------------- Clases añadidas por js -----------------------------------------------------------------*/
+
+.vfms-opacity {
+    visibility: visible;
+}
+
+.vfms-changeCopy {
+    color: #e60000;
+}
+
+.vfms-main-item.vfms-changeSvg {
+    g {
+        g {
+            stroke: #e60000;
+        }
+    }
+    svg {
+        g {
+            path {
+                &:not(:first-child) {
+                    stroke: #e60000;
+                }
+            }
+        }
+    }
+}
+
+.vfms-borderColor {
+    border-left: #e60000 solid 1px;
+}
+
+.vfms-changeItemBg {
+    background: #ebebeb;
+}
+
+.vfms-main-nav-item.vfms-main-item:hover+ul>li {
+    background: #fff;
+}

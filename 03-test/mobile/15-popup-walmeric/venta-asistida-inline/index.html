@@ -1,0 +1,57 @@
+<style data-microcss>.vfes-ms-content-buttons .vfms-modal{max-width:26.5rem}.vfes-ms-content-buttons .vfms-modal .vfes-colours-bg-dark-grey{background-color:#333}.vfes-ms-content-buttons .vfms-modal__icon{color:#fff}.vfes-ms-content-buttons .vfms-modal__button{width:100%}.vfes-ms-content-buttons .vfms-modal__content{padding-left:2.6875rem;padding-right:2.6875rem}.vfes-ms-content-buttons .vfms-button__call{background:0 0;border:.0625rem solid #fff;width:100%;color:#fff}.vfes-ms-content-buttons .vfms-line{border-top:.0625rem solid #fff}.vfes-ms-content-buttons button#btnS20{padding:.5625rem .1875rem .6875rem}.vfes-ms-content-buttons #btnS202,.vfes-ms-content-buttons #popup-walmeric a{padding:.5625rem .875rem .6875rem}</style>
+<div class="vfes-ms-content-buttons" id="popup-walmeric">
+    <div class="vfms-button__list vfes-flex vfes-flex__direction--column">
+		<h5 class="actions__title vfes-title--5 vfes-title--regular">¿Te interesa?</h5>
+		<button id="btnS20" type="button" name="cta" title="Te llamamos gratis" class="vfes-button vfes-button--green vfes-mb-" data-overlay="form" data-overlay-close aria-haspopup="dialog" data-analytics-element="Te llamamos gratis" data-analytics-category="cta" data-analytics-context="ficha samsung s20 ultra 5g">
+        	Te llamamos gratis
+    	</button>
+		<a href="tel:900920155" title="Llama gratis" class="vfes-button vfes-button--tertiary" data-analytics-element="Llama gratis" data-analytics-category="cta" data-analytics-context="ficha samsung s20 ultra 5g">Llama gratis al
+			<span class="drp-phone">900 920 155</span>
+		</a>
+	</div>
+	<div class="vfes-overlay vfes-overlay--dark js-overlay" data-vfes-js="_overlay" aria-hidden="true">
+		<section id="form" class="vfes-overlay__item vfes-overlay__item--dark js-overlay-item vfms-modal" aria-hidden="true" role="dialog" aria-modal="true">
+			<div class="vfes-overlay__head vfes-colours-bg-dark-grey">
+				<button class="vfes-overlay__close js-overlay-close" aria-hidden="false"><svg class="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px"><title>Close</title><use class="icon-v3" xlink:href="#icon3-close"></use></svg></button>
+				<div class="vfes-flex vfes-flex__align-items--center vfes-flex__justify--center vfes-mt+ vfes-mt-mov">
+					<svg class="vfms-icon vfes-mr-" width="24" height="24">
+						<title>Phone</title>
+						<use xlink:href="#icon3-landline-or-call" class="icon-v3"/>
+					</svg>	
+					<h3 class="vfes-title vfes-title--3 vfes-title--light vfes-mb0">¿Tienes dudas?</h3>
+				</div>
+			</div>
+			<div class="vfes-overlay__content js-overlay-content vfes-colours-bg-dark-grey vfms-modal__content">
+				<h5 class="vfes-title vfes-title--5 vfes-mb">Déjanos tus datos y descubre nuestras ofertas de hoy</h5>
+				<div class="vfes-form__box wg-form dcl-form">
+					<input class="vfes-box-input wg-input" style="display:none;" value="NO" name="verifyLeadId">
+                	<input name="wg-return" class="wg-return wg-input" value="gracias" type="hidden">
+					<input type="hidden" class="wg-return wg-input" value="DCL_gracias">
+					<div>
+						<input class="vfes-form__input vfes-form__input vfes-mb- wg-input" aria-labelledby="label" type="phone"name="phone" inputmode="numeric" pattern="[0-9]*" maxlength="9" data-wg-validation="required,phone" oninput="javascript: if (this.value.length > this.maxLength) this.value = this.value.slice(0, this.maxLength);" placeholder="¿Cuál es tu número de móvil?"/>
+						<input type="hidden" class="wg-error" />
+					</div>
+					<input type="submit" name="cta" title="Te llamamos gratis" class="vfes-button vfes-button--green vfms-modal__button vfes-mb- wg-submit tellamamos-ltc" data-analytics-element="Te llamamos gratis" data-analytics-context="formulario walmeric" data-analytics-category="cta" value="Te llamamos gratis"/>
+					<div class="vfms-privacy__container">
+						<input class="vfes-form__checkbox wg-input" data-wg-validation="required"  type="checkbox" id="privacy" value="on" type="checkbox" name="check" />
+						<label class="vfes-form__label vfes-paragraph--small" for="privacy">Acepto la <a
+						href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/movil/catalogo-clientes/politica-privacidad/"
+						id="condiciones" class="button-privacy vfes-paragraph--small vfes-link--dark vfes-mb0" title="política de privacidad" target="_blank"
+						data-modal="legales" rel="nofollow">&nbsp;Política de Privacidad</a></label>
+						<input type="hidden" class="wg-error" />
+					</div>
+					<div class="vfes-mt-- vfms-comercial__container">
+						<input class="vfes-form__checkbox wg-input" type="checkbox" id="comunication" name="gdpr" value="on" />
+						<label class="vfes-form__label vfes-paragraph--small" for="comunication">Acepto recibir comunicaciones comerciales de Vodafone </label>
+					</div>
+				</div>
+				<div class="vfms-line" id="container">
+					<a href="tel:900 920 052" title="Llama gratis" class="vfes-button vfms-button__call vfes-mt" data-analytics-element="Llama gratis" data-analytics-category="cta" data-analytics-context="ficha samsung s20 ultra 5g">Llama gratis al <span class="vfes-title--bold drp-phone">900 920 052</span>
+					</a>
+				</div>
+			</div>
+			<div class="vfes-overlay__footer vfes-colours-bg-dark-grey">
+			</div>
+		</section>
+	</div>
+</div>

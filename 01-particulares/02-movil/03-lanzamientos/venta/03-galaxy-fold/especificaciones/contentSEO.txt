@@ -1,0 +1,26 @@
+<p>Sistema opertivo</p><p>Android 9 Pie</p><p>Conectividad</p><ul>
+							<li><p>Red Móvil 4G</p></li>
+							<li><p>USB Type-C</p></li>
+							<li><p>Bluetooth 5.0 + AptX HD</p></li>
+							<li><p>NFC</p></li>
+						</ul><p>Pantalla</p><ul>
+							<li><p>Tamaño 7.3" interna / 4.6" frontal</p></li>
+							<li><p>Resolución 2152x1536px interna / 720x1680px frontal</p></li>
+						</ul><p>Cámara</p><ul>
+							<li><p>Frontal Selfies 10 MP</p></li>
+							<li><p>Frontal Profundidad RGB 8MP</p></li>
+							<li><p>Trasera Ultra gran angular 16MP</p></li>
+							<li><p>Trasera Gran angular 12 MP</p></li>
+							<li><p>Trasera Teleobjetivo 12 MP</p></li>
+						</ul><p>Memoria</p><ul>
+							<li><p>Interna 512GB</p></li>
+							<li><p>RAM 12GB</p></li>
+						</ul><p>Batería</p><ul>
+							<li><p>Dual Li-Ion 4380 mAh</p></li>
+						</ul><p>Medidas</p><ul>
+							<li><p>Alto 160.9mm</p></li>
+							<li><p>Ancho 117.9mm abierto / 62.9mm cerrado</p></li>
+							<li><p>Grosor 6.9mm abierto / 17mm cerrado</p></li>
+						</ul><div>
+					
+				</div>

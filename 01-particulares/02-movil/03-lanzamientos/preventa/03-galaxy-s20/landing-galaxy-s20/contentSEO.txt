@@ -1,0 +1,362 @@
+<h3>Nuevo Samsung Galaxy S20 | S20+ | S20 Ultra 5G</h3><h5>Resérvalo ya y llévate los nuevos Galaxy Buds+, de regalo</h5><ul>
+			<li><a title="Home" target="_self" href="https://www.vodafone.es/c/particulares/es/"> Home</a></li>
+			<li><a title="Item 2" target="_self" href="#"> Samsung Galaxy S20</a></li>
+		</ul><h4>Llévate uno de estos Samsung con tu Tarifa Móvil + Fibra o tu Tarifa Móvil</h4><ul>
+						<li>
+							<button data-option="1" role="tab" aria-controls="simpletab1" title="tarifa movil + fibra" aria-label="tarifa movil + fibra" aria-selected="true">Tarifa Móvil + Fibra</button>
+						</li>
+						<li>
+							<button data-option="2" role="tab" aria-controls="simpletab2" title="tarifa movil" aria-label="tarifa movil" aria-selected="false">Tarifa Móvil</button>
+						</li>
+					</ul><ul>
+											<li>
+												<div>
+													<p>Samsung Galaxy S20 Ultra 5G
+													</p>
+													
+													<div>
+														<div>
+															<div>
+																<div>
+																	
+																</div>
+																<p>
+																	Pantalla</p>
+															</div>
+															<div>
+																<p>Tamaño 6.9”</p>
+															</div>
+														</div>
+														<div>
+															<div>
+																<div>
+																	
+																</div>
+																<p>
+																	Cámara</p>
+															</div>
+															<div>
+																<p>Frontal 40Mp</p>
+																<p>Trasera 12+48+108Mp</p>
+															</div>
+														</div>
+														<div>
+															<div>
+																<div>
+																	
+																</div>
+																<p>
+																	Memoria</p>
+															</div>
+															<div>
+																<p>Interna 128/512GB</p>
+																<p>RAM 12/16GB</p>
+															</div>
+														</div>
+													</div>
+													<div>
+														<p><span><strong>33,50€/mes</strong></span> en 36
+															meses</p>
+														<p><span><strong>+0€</strong></span> de pago inicial
+														</p>
+
+														<a href="https://www.vodafone.es/c/tienda-online/particulares/catalogo-moviles/samsung-galaxy-s20-ultra-5g-gris-128gb-313811/" data-device-name="Samsung Galaxy S20 Ultra 5G" target="_new">Reservar</a>
+														<span>: Samsung Galaxy S20 Ultra 5G</span>
+													</div>
+												</div>
+											</li>
+											<li>
+												<div>
+													<p>Samsung Galaxy S20+ 5G</p>
+													
+													<div>
+														<div>
+															<div>
+																<div>
+																	
+																</div>
+																<p>
+																	Pantalla</p>
+															</div>
+															<div>
+																<p>Tamaño 6.7"</p>
+															</div>
+														</div>
+														<div>
+															<div>
+																<div>
+																	
+																</div>
+																<p>
+																	Cámara</p>
+															</div>
+															<div>
+																<p>Frontal 10Mp</p>
+																<p>Trasera 12+64+12Mp</p>
+															</div>
+														</div>
+														<div>
+															<div>
+																<div>
+																	
+																</div>
+																<p>
+																	Memoria</p>
+															</div>
+															<div>
+																<p>Interna 128/512GB</p>
+																<p>RAM 8/12GB</p>
+															</div>
+														</div>
+													</div>
+													<div>
+														<p><span><strong>25,50€/mes</strong></span> en 36 meses
+														</p>
+														<p><span><strong>+0€</strong></span> de pago inicial
+														</p>
+														<a data-device-name="Samsung Galaxy S20+ 5G" href="https://www.vodafone.es/c/tienda-online/particulares/catalogo-moviles/samsung-galaxy-s20-plus-5g-gris-128gb-313810/" target="_new">Reservar</a><span>:Samsung Galaxy S20+ 5G</span>
+														
+													</div>
+												</div>
+											</li>
+											<li>
+												<div>
+													<p>Samsung Galaxy S20 5G</p>
+													
+													<div>
+														<div>
+															<div>
+																<div>
+																	
+																</div>
+																<p>
+																	Pantalla</p>
+															</div>
+															<div>
+																<p>Tamaño 6.2”</p>
+															</div>
+														</div>
+														<div>
+															<div>
+																<div>
+																	
+																</div>
+																<p>
+																	Cámara</p>
+															</div>
+															<div>
+																<p>Frontal 10Mp</p>
+																<p>Trasera 12+64+12Mp</p>
+															</div>
+														</div>
+														<div>
+															<div>
+																<div>
+																	
+																</div>
+																<p>
+																	Memoria</p>
+															</div>
+															<div>
+																<p>Interna 128GB</p>
+																<p>RAM 8/12GB</p>
+															</div>
+														</div>
+													</div>
+													<div>
+														<p><span><strong>23,50€/mes</strong></span> en 36
+															meses</p>
+														<p><span><strong>+0€</strong></span> de pago inicial
+														</p>
+														<a href="https://www.vodafone.es/c/tienda-online/particulares/catalogo-moviles/samsung-galaxy-s20-5g-gris-128gb-313808/" target="_new" data-device-name="Samsung Galaxy S20 5G">Reservar</a>
+														<span>: Samsung Galaxy S20 5G</span>
+													</div>
+												</div>
+											</li>
+										</ul><ul>
+											<li>
+												<div>
+													<p>Samsung Galaxy S20 Ultra 5G
+													</p>
+													
+													<div>
+														<div>
+															<div>
+																<div>
+																	
+																</div>
+																<p>
+																	Pantalla</p>
+															</div>
+															<div>
+																<p>Tamaño 6.9”</p>
+															</div>
+														</div>
+														<div>
+															<div>
+																<div>
+																	
+																</div>
+																<p>
+																	Cámara</p>
+															</div>
+															<div>
+																<p>Frontal 40Mp</p>
+																<p>Trasera 12+48+108Mp</p>
+															</div>
+														</div>
+														<div>
+															<div>
+																<div>
+																	
+																</div>
+																<p>
+																	Memoria</p>
+															</div>
+															<div>
+																<p>Interna 128/512GB</p>
+																<p>RAM 12/16GB</p>
+															</div>
+														</div>
+													</div>
+													<div>
+														<p><span><strong>35€/mes</strong></span> en 36
+															meses</p>
+														<p><span><strong>+0€</strong></span> de pago inicial
+														</p>
+
+														<a data-device-name="Samsung Galaxy S20 Ultra 5G" href="https://www.vodafone.es/c/tienda-online/particulares/catalogo-moviles/samsung-galaxy-s20-ultra-5g-gris-128gb-313811/" target="_new">Reservar</a>
+														<span>: Samsung Galaxy S20 Ultra 5G</span>
+													</div>
+												</div>
+											</li>
+											<li>
+												<div>
+													<p>Samsung Galaxy S20+ 5G</p>
+													
+													<div>
+														<div>
+															<div>
+																<div>
+																	
+																</div>
+																<p>
+																	Pantalla</p>
+															</div>
+															<div>
+																<p>Tamaño 6.7"</p>
+															</div>
+														</div>
+														<div>
+															<div>
+																<div>
+																	
+																</div>
+																<p>
+																	Cámara</p>
+															</div>
+															<div>
+																<p>Frontal 10Mp</p>
+																<p>Trasera 12+64+12Mp</p>
+															</div>
+														</div>
+														<div>
+															<div>
+																<div>
+																	
+																</div>
+																<p>
+																	Memoria</p>
+															</div>
+															<div>
+																<p>Interna 128/512GB</p>
+																<p>RAM 8/12GB</p>
+															</div>
+														</div>
+													</div>
+													<div>
+														<p><span><strong>27€/mes</strong></span> en 36 meses
+														</p>
+														<p><span><strong>+0€</strong></span> de pago inicial
+														</p>
+														<a href="https://www.vodafone.es/c/tienda-online/particulares/catalogo-moviles/samsung-galaxy-s20-plus-5g-gris-128gb-313810/" target="_new" data-device-name="Samsung Galaxy S20+ 5G">Reservar</a><span>:Samsung Galaxy S20+ 5G</span>
+														
+													</div>
+												</div>
+											</li>
+											<li>
+												<div>
+													<p>Samsung Galaxy S20 5G</p>
+													
+													<div>
+														<div>
+															<div>
+																<div>
+																	
+																</div>
+																<p>
+																	Pantalla</p>
+															</div>
+															<div>
+																<p>Tamaño 6.2”</p>
+															</div>
+														</div>
+														<div>
+															<div>
+																<div>
+																	
+																</div>
+																<p>
+																	Cámara</p>
+															</div>
+															<div>
+																<p>Frontal 10Mp</p>
+																<p>Trasera 12+64+12Mp</p>
+															</div>
+														</div>
+														<div>
+															<div>
+																<div>
+																	
+																</div>
+																<p>
+																	Memoria</p>
+															</div>
+															<div>
+																<p>Interna 128GB</p>
+																<p>RAM 8/12GB</p>
+															</div>
+														</div>
+													</div>
+													<div>
+														<p><span><strong>25€/mes</strong></span> en 36
+															meses</p>
+														<p><span><strong>+0€</strong></span> de pago inicial
+														</p>
+														<a href="https://www.vodafone.es/c/tienda-online/particulares/catalogo-moviles/samsung-galaxy-s20-5g-gris-128gb-313808/" target="_new" data-device-name="Samsung Galaxy S20 5G">Reservar</a>
+														<span>: Samsung Galaxy S20 5G</span>
+													</div>
+												</div>
+											</li>
+										</ul><p>¿Cómo consigo los auriculares inalámbricos Galaxy Buds?</p><ul>
+						<li>
+							<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 192 192"><defs><symbol data-name="Mobile_ic_mid" viewBox="0 0 192 192"><line x1="84" y1="158" x2="108" y2="158" fill="none" stroke="#e60000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"></line><rect width="192" height="192" fill="none"></rect><rect x="50" y="18" width="92" height="156" rx="14" ry="14" fill="none" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"></rect></symbol></defs><title>mobile-mid</title><g data-name="ICON"><use data-name="Mobile_ic_mid" width="192" height="192" transform="translate(0 0)" xlink:href="#b72c2309-f081-4476-80d3-91b0b45ddd67"></use></g></svg>
+							<p><span>Reserva tu Samsung</span></p>
+							<p>Rerserva el Samsung Galaxy S20 que más se adapte a tus necesidades.</p>
+						</li>
+						<li>
+							<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 192 192"><defs><symbol data-name="Text_ic_mid" viewBox="0 0 192 192"><rect width="192" height="192" fill="none"></rect><path d="M49.5,109.75" fill="none" stroke="#fecb00" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"></path><path d="M74,110H60.24L37.88,134V110H32A14,14,0,0,1,18,96V56A14,14,0,0,1,32,42h72a14,14,0,0,1,14,14V78" fill="none" stroke="#666" stroke-linejoin="round" stroke-width="4"></path><path d="M130,150l24.12,24V150H160a14,14,0,0,0,14-14V92a14,14,0,0,0-14-14H88A14,14,0,0,0,74,92v44a14,14,0,0,0,14,14Z" fill="none" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"></path><line data-name="<Pfad>" x1="150" y1="102" x2="98" y2="102" fill="none" stroke="#e60000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="4"></line><line data-name="<Pfad>" x1="150" y1="126" x2="98" y2="126" fill="none" stroke="#e60000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="4"></line></symbol></defs><title>sms-mid</title><g data-name="ICON"><use data-name="Text_ic_mid" width="192" height="192" transform="translate(0 0)" xlink:href="#06b9cabd-d8cd-4a86-b9f5-8f43e957c23f"></use></g></svg>
+							<p><span>Nos ponemos en contacto contigo</span></p>
+							<p>Cuando tengamos tu móvil te enviaremos un sms para cerrar la compra.</p>
+						</li>
+						<li>
+							<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 192 192"><defs><symbol data-name="Accessories_ic_mid" viewBox="0 0 192 192"><rect width="192" height="192" fill="none"></rect><g data-name="Layer 2"><rect x="26" y="90" width="32" height="68" rx="16" ry="16" fill="none" stroke="#e60000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"></rect><rect x="134" y="90" width="32" height="68" rx="16" ry="16" fill="none" stroke="#e60000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"></rect></g><path d="M18,126V94c0-40,32.73-76,78-76s78,36.12,78,76v32" fill="none" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"></path></symbol></defs><title>accessories-mid</title><g data-name="ICON"><use data-name="Accessories_ic_mid" width="192" height="192" transform="translate(0 0)" xlink:href="#ca6cfe79-0a5d-4233-952d-afdffc047415"></use></g></svg>
+							<p><span>Consigue tus Galaxy Buds</span></p>
+							<p>Activa tu nuevo Samsung, accede a la App <span> Samsung Members</span> y en la sección Ventajas completa el formulario de registro.</p>
+						</li>
+						<li>
+							<svg data-name="connectivity_ic_hi" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 192 192"><title>completed-mid</title><rect width="192" height="192" fill="none"></rect><polyline points="169.95 33.95 88 120 50 82" fill="none" stroke="#e60000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"></polyline><path d="M166,66.1v87.55A12.35,12.35,0,0,1,153.65,166H38.35A12.35,12.35,0,0,1,26,153.65V38.35A12.35,12.35,0,0,1,38.35,26H149.87" transform="translate(0 0)" fill="none" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"></path></svg>
+							<p><span>Disfruta de tu móvil</span></p>
+							<p>Disfruta del tu nuevo Samsung y de los auriculares Galaxy Buds</p>
+						</li>
+					</ul>

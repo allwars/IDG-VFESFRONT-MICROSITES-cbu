@@ -1,0 +1,20 @@
+// CSS del microsite
+
+.vf-banner{
+  background-image: url("../img/vf-cabecera.jpg");
+  background-size: cover;
+
+  .vf-fiber__imgdesktop {
+    display: none;
+    @media screen and (min-width: 760px) {
+      display: block;
+      max-width: 100%;
+    }
+  }
+  .vf-fiber__imgmobile{
+    max-width: 100%;
+    @media screen and (min-width: 760px){
+      display: none;
+    }
+  }
+}

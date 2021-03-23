@@ -1,0 +1,396 @@
+<h3>Compra un <span>Samsung Galaxy S20 Series</span></h3><h5>y llévate 3 meses <span>GRATIS</span> de Vodafone Care</h5><ul>
+			<li><a title="Home" target="_self" href="https://www.vodafone.es/c/particulares/es/"> Home</a></li>
+			<li><a title="Item 2" target="_self" href="#"> Samsung Galaxy S20</a></li>
+		</ul><h4>Llévate uno de estos Samsung con tu Tarifa Móvil + Fibra o tu Tarifa Móvil</h4><ul>
+						<li>
+							<button data-option="1" role="tab" aria-controls="simpletab1" title="tarifa movil + fibra" aria-label="tarifa movil + fibra" aria-selected="true">Tarifa Móvil + Fibra</button>
+						</li>
+						<li>
+							<button data-option="2" role="tab" aria-controls="simpletab2" title="tarifa movil" aria-label="tarifa movil" aria-selected="false">Tarifa Móvil</button>
+						</li>
+					</ul><ul>
+											<li>
+												<div>
+													<p>Samsung Galaxy S20 Ultra 5G
+													</p>
+													
+													<div>
+														<div>
+															<div>
+																<div>
+																	
+																</div>
+																<p>
+																	Pantalla</p>
+															</div>
+															<div>
+																<p>Tamaño 6.9”</p>
+															</div>
+														</div>
+														<div>
+															<div>
+																<div>
+																	
+																</div>
+																<p>
+																	Cámara</p>
+															</div>
+															<div>
+																<p>Frontal 40Mp</p>
+																<p>Trasera 12+48+108Mp</p>
+															</div>
+														</div>
+														<div>
+															<div>
+																<div>
+																	
+																</div>
+																<p>
+																	Memoria</p>
+															</div>
+															<div>
+																<p>Interna 128/512GB</p>
+																<p>RAM 12/16GB</p>
+															</div>
+														</div>
+													</div>
+													<div>
+														<p><span><strong>50€/mes</strong></span> en 24
+															meses</p>
+														<p><span><strong>+0€</strong></span> de pago inicial
+														</p>
+														<a title="Lo quiero" style="cursor: pointer;" onclick="window.parent.document.ws_popup.open('Samsung Galaxy S20 Ultra 5G', '50€/mes en 24 meses');" target="_parent" data-analytics-id="-2476484259655">Lo quiero</a>
+														<span>: comprar Samsung Galaxy S20 Ultra 5G</span>
+													</div>
+												</div>
+											</li>
+											<li>
+												<div>
+													<p>Samsung Galaxy S20+ 5G</p>
+													
+													<div>
+														<ul>
+															<li>
+																<div> 
+																	<span>Samsung Galaxy S20+ 5G color rosa</span>
+																</div>
+															</li>
+															<li>
+																<div> 
+																	<span>Samsung Galaxy S20+ 5G color gris</span>
+																</div>
+															</li>
+														</ul>
+													</div>
+													<div>
+														<div>
+															<div>
+																<div>
+																	
+																</div>
+																<p>
+																	Pantalla</p>
+															</div>
+															<div>
+																<p>Tamaño 6.7"</p>
+															</div>
+														</div>
+														<div>
+															<div>
+																<div>
+																	
+																</div>
+																<p>
+																	Cámara</p>
+															</div>
+															<div>
+																<p>Frontal 10Mp</p>
+																<p>Trasera 12+64+12Mp</p>
+															</div>
+														</div>
+														<div>
+															<div>
+																<div>
+																	
+																</div>
+																<p>
+																	Memoria</p>
+															</div>
+															<div>
+																<p>Interna 128/512GB</p>
+																<p>RAM 8/12GB</p>
+															</div>
+														</div>
+													</div>
+													<div>
+														<p><span><strong>38€/mes</strong></span> en 24 meses
+														</p>
+														<p><span><strong>+0€</strong></span> de pago inicial
+														</p>
+														<a title="Lo quiero" style="cursor: pointer;" onclick="window.parent.document.ws_popup.open('Samsung Galaxy S20+ 5G', '38€/mes en 24 meses');" target="_parent" data-analytics-id="-2859747404788">Lo quiero</a>
+														<span>: comprar Samsung Galaxy S20+ 5G</span>
+													</div>
+												</div>
+											</li>
+											<li>
+												<div>
+													<p>Samsung Galaxy S20 5G</p>
+													
+													<div>
+														<ul>
+															<li>
+																<div> 
+																	<span>Samsung Galaxy S20 5G color azul</span>
+																</div>
+															</li>
+															<li>
+																<div> 
+																	<span>Samsung Galaxy S20 5G color gris</span>
+																</div>
+															</li>
+														</ul>
+													</div>
+													
+													<div>
+														<div>
+															<div>
+																<div>
+																	
+																</div>
+																<p>
+																	Pantalla</p>
+															</div>
+															<div>
+																<p>Tamaño 6.2”</p>
+															</div>
+														</div>
+														<div>
+															<div>
+																<div>
+																	
+																</div>
+																<p>
+																	Cámara</p>
+															</div>
+															<div>
+																<p>Frontal 10Mp</p>
+																<p>Trasera 12+64+12Mp</p>
+															</div>
+														</div>
+														<div>
+															<div>
+																<div>
+																	
+																</div>
+																<p>
+																	Memoria</p>
+															</div>
+															<div>
+																<p>Interna 128GB</p>
+																<p>RAM 8/12GB</p>
+															</div>
+														</div>
+													</div>
+													<div>
+														<p><span><strong>35€/mes</strong></span> en 24
+															meses</p>
+														<p><span><strong>+0€</strong></span> de pago inicial
+														</p>
+														<a title="Lo quiero" style="cursor: pointer;" onclick="window.parent.document.ws_popup.open('Samsung Galaxy S20 5G', '35€/mes en 24 meses');" target="_parent" data-analytics-id="-3077581670247">Lo quiero</a>
+														<span>: comprar Samsung Galaxy S20 5G</span>
+													</div>
+												</div>
+											</li>
+										</ul><ul>
+											<li>
+												<div>
+													<p>Samsung Galaxy S20 Ultra 5G
+													</p>
+													
+													<div>
+														<div>
+															<div>
+																<div>
+																	
+																</div>
+																<p>
+																	Pantalla</p>
+															</div>
+															<div>
+																<p>Tamaño 6.9”</p>
+															</div>
+														</div>
+														<div>
+															<div>
+																<div>
+																	
+																</div>
+																<p>
+																	Cámara</p>
+															</div>
+															<div>
+																<p>Frontal 40Mp</p>
+																<p>Trasera 12+48+108Mp</p>
+															</div>
+														</div>
+														<div>
+															<div>
+																<div>
+																	
+																</div>
+																<p>
+																	Memoria</p>
+															</div>
+															<div>
+																<p>Interna 128/512GB</p>
+																<p>RAM 12/16GB</p>
+															</div>
+														</div>
+													</div>
+													<div>
+														<p><span><strong>34,50€/mes</strong></span> en 36 meses</p>
+														<p><span><strong>+0€</strong></span> de pago inicial
+														</p>
+
+														<a data-device-name="Samsung Galaxy S20 Ultra 5G" href="https://www.vodafone.es/c/tienda-online/particulares/catalogo-moviles/samsung-galaxy-s20-ultra-5g-negro-128gb-313886/" target="_self" data-analytics-id="-1790569818985">Lo quiero</a>
+														<span>: comprar Samsung Galaxy S20 Ultra 5G</span>
+													</div>
+												</div>
+											</li>
+											<li>
+												<div>
+													<p>Samsung Galaxy S20+ 5G</p>
+													
+													<div>
+														<ul>
+															<li>
+																<div> 
+																	<span>Samsung Galaxy S20+ 5G color azul</span>
+																</div>
+															</li>
+															<li>
+																<div> 
+																	<span>Samsung Galaxy S20+ 5G color gris</span>
+																</div>
+															</li>
+														</ul>
+													</div>
+													<div>
+														<div>
+															<div>
+																<div>
+																	
+																</div>
+																<p>
+																	Pantalla</p>
+															</div>
+															<div>
+																<p>Tamaño 6.7"</p>
+															</div>
+														</div>
+														<div>
+															<div>
+																<div>
+																	
+																</div>
+																<p>
+																	Cámara</p>
+															</div>
+															<div>
+																<p>Frontal 10Mp</p>
+																<p>Trasera 12+64+12Mp</p>
+															</div>
+														</div>
+														<div>
+															<div>
+																<div>
+																	
+																</div>
+																<p>
+																	Memoria</p>
+															</div>
+															<div>
+																<p>Interna 128/512GB</p>
+																<p>RAM 8/12GB</p>
+															</div>
+														</div>
+													</div>
+													<div>
+														<p><span><strong>27€/mes</strong></span> en 36 meses
+														</p>
+														<p><span><strong>+0€</strong></span> de pago inicial
+														</p>
+														<a href="https://www.vodafone.es/c/tienda-online/particulares/catalogo-moviles/samsung-galaxy-s20-plus-5g-gris-128gb-313810/" target="_self" data-device-name="Samsung Galaxy S20+ 5G" data-analytics-id="-0411986807301">Lo quiero</a><span>: comprar Samsung Galaxy S20+ 5G</span>
+														
+													</div>
+												</div>
+											</li>
+											<li>
+												<div>
+													<p>Samsung Galaxy S20 5G</p>
+													
+													<div>
+														<ul>
+															<li>
+																<div> 
+																	<span>Samsung Galaxy S20 5G color rosa</span>
+																</div>
+															</li>
+															<li>
+																<div> 
+																	<span>Samsung Galaxy S20 5G color gris</span>
+																</div>
+															</li>
+														</ul>
+													</div>
+													<div>
+														<div>
+															<div>
+																<div>
+																	
+																</div>
+																<p>
+																	Pantalla</p>
+															</div>
+															<div>
+																<p>Tamaño 6.2”</p>
+															</div>
+														</div>
+														<div>
+															<div>
+																<div>
+																	
+																</div>
+																<p>
+																	Cámara</p>
+															</div>
+															<div>
+																<p>Frontal 10Mp</p>
+																<p>Trasera 12+64+12Mp</p>
+															</div>
+														</div>
+														<div>
+															<div>
+																<div>
+																	
+																</div>
+																<p>
+																	Memoria</p>
+															</div>
+															<div>
+																<p>Interna 128GB</p>
+																<p>RAM 8/12GB</p>
+															</div>
+														</div>
+													</div>
+													<div>
+														<p><span><strong>21,99€/mes</strong></span> en 36
+															meses</p>
+														<p><span><strong>+0€</strong></span> de pago inicial
+														</p>
+														<a href="https://www.vodafone.es/c/tienda-online/particulares/catalogo-moviles/samsung-galaxy-s20-5g-gris-128gb-313808/" target="_self" data-device-name="Samsung Galaxy S20 5G" data-analytics-id="-0734046244664">Lo quiero</a>
+														<span>: comprar Samsung Galaxy S20 5G</span>
+													</div>
+												</div>
+											</li>
+										</ul>

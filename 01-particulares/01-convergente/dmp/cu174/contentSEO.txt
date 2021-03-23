@@ -1,0 +1,15 @@
+<picture>
+        <source media="(min-width:1024px)" srcset="https://www.vodafone.es/c/statics/imagen/CU57_380_bg_CU57_Desktop.jpg">
+        <source media="(min-width:768px)" srcset="https://www.vodafone.es/c/statics/imagen/CU57_380_bg_CU57_Mobile.jpg">
+        
+      </picture><p>
+                    Llévate <strong>Fibra óptica 300Mbps,</strong> y <strong>llamadas ilimitadas</strong> por <strong>30,99€</strong>/mes
+                </p><p>
+                  <a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/_t_/fibra-optica-adsl/tarifa-1/?dmp=12626262:cp-acciondmp:cn-dmp:md-CU57-revamp&amp;c_var_11=dmp-cu57-revamp" data-analytics-dmp-click="particulares:cu57-revamp:2p">
+                    Más información
+                    <span>:Más información Fibra óptica 12,48€/mes</span>
+                  </a>
+                  <a href="tel:900920525" type="button" name="cta" title="Llama gratis" data-analytics-dmp-click="particulares:cu57-revamp:2p">
+                    Llama gratis al 900 920 525
+                  </a>
+                </p>

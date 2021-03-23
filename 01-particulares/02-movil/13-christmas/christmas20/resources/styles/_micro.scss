@@ -1,0 +1,122 @@
+// CSS del microsite
+.vfes-ms-content{
+
+    background-color: #f4f4f4;
+    .vfms-title{
+        margin-bottom: .5rem
+    }
+    .device{
+        background-color: transparent;
+        border: none;
+        text-decoration: underline;
+    }
+    .vfms-badge{
+        width:87px;
+    }
+    .vfms-badge2{
+        width:65px;
+    }
+    .vfms-badge3{
+        width:110px;
+    }
+    .device:hover{
+        color:#222222;
+    }
+    .vf-block {
+        display: block;
+    }
+    .vf-field {
+        max-width: 450px;
+    }
+    .vf-esCliente {
+        margin: 0 auto;
+    }
+    .vf-device{
+        &--img {
+            width: auto;
+        }
+        &--icon {
+            width: auto;
+        }
+        &--item {
+            border-bottom: 2px solid #f4f4f4;
+        }
+    } 
+    .vf-input__shadow {
+        box-shadow: none;
+    }
+    .vf-input__shadow:focus {
+        box-shadow: none;
+    }
+    .vfms-minicard2{
+        min-height: 400px;
+        @media screen and (min-width: 640px) {
+            min-height: 650px;
+        }
+    }
+    .vfms-minicard{
+        min-height: 400px;
+        @media screen and (min-width: 640px) {
+            min-height: 484px;
+        }
+    }
+    .vfms-img-minicard{
+        margin-top:20px;
+    }
+    .ws10-c-card-discovery-product__image {
+        width: 100%;
+        height: auto;
+        -o-object-fit: cover;
+        object-fit: cover;
+    }
+    .ws10-c-card-discovery-standard-full-width__content-inner {
+        padding-right: 0;
+        padding-left: 0;
+    }
+    .vfms-sticky-app{
+        position: sticky;
+        bottom: 0;
+    }
+    .vf-banner{
+        background: rgb(255,255,255);
+        background: -moz-linear-gradient(180deg, rgba(255,255,255,1) 1%, rgba(244,244,244,1) 100%);
+        background: -webkit-linear-gradient(180deg, rgba(255,255,255,1) 1%, rgba(244,244,244,1) 100%);
+        background: linear-gradient(180deg, rgba(255,255,255,1) 1%, rgba(244,244,244,1) 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffffff",endColorstr="#f4f4f4",GradientType=1);   
+        background-size: cover;
+        position: relative;
+        color:#333333;
+
+        @media screen and (min-width: 640px) {
+            background: rgb(255,255,255);
+            background: -moz-linear-gradient(180deg, rgba(255,255,255,1) 1%, rgba(244,244,244,1) 100%);
+            background: -webkit-linear-gradient(180deg, rgba(255,255,255,1) 1%, rgba(244,244,244,1) 100%);
+            background: linear-gradient(180deg, rgba(255,255,255,1) 1%, rgba(244,244,244,1) 100%);
+            filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffffff",endColorstr="#f4f4f4",GradientType=1);     
+          }
+
+      &__title{
+        max-width: 800px;
+      }
+     
+    }
+    .ws10-c-link-chevron__icon {
+        width: 3rem;
+        height: 1.5rem;
+        margin-left: 0.25rem;
+        color: #e60000;
+        flex-shrink: 0;
+    }
+    .ws10-c-filter--active .ws10-c-filter__label svg .path{
+        fill: #fff;
+    }
+    .ws10-c-filter--active .vfms-svg {
+        fill: #fff;
+    }
+
+
+   
+
+
+
+}

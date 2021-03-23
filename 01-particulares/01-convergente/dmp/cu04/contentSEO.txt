@@ -1,0 +1,16 @@
+<picture>
+            <source media="(min-width:1024px)" srcset="https://www.vodafone.es/c/statics/imagen/430_CU4_bg_cu4_desktop.jpg">
+            <source media="(min-width:768px)" srcset="https://www.vodafone.es/c/statics/imagen/430_CU4_bg_cu4_tablet.jpg">
+            
+        </picture><p>
+                        Llévate <strong>datos ilimitados y fibra 300Mbps</strong> por solo <strong>26,99€</strong>/mes
+                    </p><p>
+                        <a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/paquete-one-3/?dmp=12626262:cp-acciondmp:cn-dmp:md-CU4&amp;c_var_11=dmp-cu4" data-analytics-dmp-click="particulares:cu4:fibra-pot">
+                            Más información
+                            <span>:Más información móvil + fibra</span>
+                        </a>
+                        <a href="tel:900878196" type="button" name="cta" title="Llama gratis" data-analytics-dmp-click="particulares:cu4:fibra-pot">
+                            Llama gratis al 900 878 196
+                        </a>
+
+                    </p>

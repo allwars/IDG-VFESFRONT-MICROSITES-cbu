@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="46" height="44" viewBox="0 0 46 44">
+    <g fill="none" fill-rule="evenodd" transform="translate(-10 -10)">
+        <ellipse cx="33" cy="32" fill="#FFF" rx="33" ry="32"/>
+        <g transform="translate(10.313 10)">
+            <path d="M0 0H45.375V44H0z"/>
+            <path d="M0 0H45.375V44H0z"/>
+            <rect width="33.322" height="32.313" x="6.031" y="5.844" stroke="#6E6A69" stroke-linecap="round" stroke-linejoin="round" rx="3.982"/>
+            <path stroke="#6E6A69" stroke-linecap="round" stroke-linejoin="round" d="M22.688 18.333L22.688 11M22.688 33L22.688 23.948"/>
+            <rect width="6.617" height="4.583" x="19.379" y="18.792" stroke="#E60000" stroke-linecap="round" stroke-linejoin="round" rx=".86"/>
+            <path stroke="#6E6A69" stroke-linecap="round" stroke-linejoin="round" d="M13.234 23.833L13.234 11M13.234 33L13.234 29.448"/>
+            <rect width="6.617" height="4.583" x="9.926" y="24.292" stroke="#E60000" stroke-linecap="round" stroke-linejoin="round" rx=".86"/>
+            <path stroke="#6E6A69" stroke-linecap="round" stroke-linejoin="round" d="M32.141 13.75L32.141 11M32.141 33L32.141 19.365"/>
+            <rect width="6.617" height="4.583" x="28.832" y="14.208" stroke="#E60000" stroke-linecap="round" stroke-linejoin="round" rx=".86"/>
+        </g>
+    </g>
+</svg>

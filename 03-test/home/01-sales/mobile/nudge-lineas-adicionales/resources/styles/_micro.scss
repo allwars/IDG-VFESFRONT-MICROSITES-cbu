@@ -1,0 +1,115 @@
+// CSS del microsite
+.vfes-ms-content-adicionales{
+    background-image: url('https://www.vodafone.es/c/statics/imagen/bg-resp-nudge-lineas-adicionales.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top: 0;
+    @media screen and (min-width: 640px) {
+        background-image: url('https://www.vodafone.es/c/statics/imagen/bg-tablet-nudge-lineas-adicionales.png');
+        padding-top: 3.5rem;
+    }
+    @media screen and (min-width: 970px) {
+        background-image: url('https://www.vodafone.es/c/statics/imagen/bg-desktop-nudge-lineas-adicionales.png');
+        padding-top: 3.75rem;
+    }
+    .vfes-colours--dark-grey {
+        color: #333;
+    }
+    .vfms-title {
+        font-size: 28px;
+        text-align: center;
+        margin-top: 70px;
+        @media screen and (min-width: 640px) {
+            font-size: 37px;
+            text-align: left;
+            margin-top: 0;
+        }
+        @media screen and (min-width: 970px) {
+            font-size: 51px;
+        }
+        &__max {
+            font-size: 32px;
+            text-align: center;
+            @media screen and (min-width: 640px) {
+                font-size: 46px;
+                text-align: left;
+            }
+            @media screen and (min-width: 970px) {
+                font-size: 59px;
+            }
+        }
+    }
+    .vfes-align--center {
+        text-align: center;
+    }
+    .vfes-button {
+        text-align: center;
+        border: 0;
+        text-decoration: none;
+        cursor: pointer;
+        display: inline-block;
+        box-sizing: border-box;
+        border-radius: .375rem;
+        line-height: 1.25;
+        width: 100%;
+        margin-right: 0;
+        margin-left: 0;
+        padding: .5625rem .875rem .6875rem;
+    }
+    .vfes-button:visited {
+        color: #fff;
+    }
+    .vfes-button--primary {
+        font-size: 1.25rem;
+        background-color: #e60000;
+        color: #fff;
+        @media screen and (min-width: 640px) {
+            min-width: 228px;
+        }
+    }
+    .vfes-button--secondary {
+        font-size: 1.25rem;
+        background-color: #666;
+        color: #fff;
+        @media screen and (min-width: 970px) {
+            background-color: transparent;
+            color: #333;
+            padding-left: 0;
+            text-align: left;
+        }
+    }
+    .vfes-flex__direction--row-column-sm {
+        @media screen and (min-width: 640px) {
+            flex-direction: row;
+        }
+    }
+    .vfms-tel__text {
+        @media screen and (min-width: 640px) {
+            min-width: 120px;
+        }
+    }
+    .vfms-button__align {
+        @media screen and (min-width: 640px) {
+            align-items: center;
+        }
+    }
+    .vfms-item__tablet {
+        @media screen and (min-width: 640px) {
+           min-height: 250px;
+        }
+    }
+    .vfms-bold__desktop {
+        @media screen and (min-width: 970px) {
+            font-family: VodafoneRegularBold,Helvetica,Arial,sans-serif;
+        }
+    }
+    .vfms-hide__tabletonly {
+        @media screen and (min-width: 640px) {
+            display: none;
+        }
+        @media screen and (min-width: 970px) {
+            display: block;
+        }
+    }
+}

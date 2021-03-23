@@ -1,0 +1,60 @@
+// CSS del microsite
+.vfes-ms-content{
+    // GENERAL
+    .vf-img {
+      max-width: 100%;
+    }
+    .vf-block {
+      display: block;
+    }
+    // HEADER
+    .vf-header {
+        background-image: url("../img/header/cabecera-mobile.jpg");
+        background-size: cover;
+        @media screen and (min-width: 764px) {
+          background-image: url("../img/header/cabecera-tablet.jpg");
+        }
+        @media screen and (min-width: 970px) {
+          background-image: url("../img/header/cabecera-desktop.jpg");
+        }
+      }
+    // SECTION SMARTNET
+    .vf-flex {
+      @media screen and (min-width: 640px) {
+        display: flex;
+        flex-direction: row
+      }
+    }
+    .vf-flex--item:nth-of-type(1) { 
+      @media screen and (min-width: 640px) {
+        order: 2;
+      }
+    }
+    .vf-flex--item:nth-of-type(2) { 
+      @media screen and (min-width: 640px){
+        order: 1; 
+      }
+    }
+    // RATES
+    .vf-rate--item {
+      max-width: none;
+      padding: 0;
+    }  
+    .vf-rate--item[aria-selected=true]::after {
+      background-color: transparent;
+    }
+    .vf-rate--item[aria-selected=true] {
+      border: 2px solid #00b0c4;
+      border-radius: 8px;
+    }
+    // TICKET
+    .vf-container-lane{
+      position: relative;
+    }
+    .vf-ticket{
+      &--tabs {
+        max-width: none;
+        width: 100%;
+      }
+    }
+}

@@ -1,0 +1,19 @@
+// CSS del microsite
+.vfes-ms-content-detalle-portabilidad{
+    .vfms-price {
+        text-align: center;
+        font-size: 32px;
+        @media screen and (min-width: 640px) {
+            text-align: left;
+        }
+        @media screen and (min-width: 970px) {
+            font-size: 40px;
+        }
+        &__small {
+            font-size: 32px;
+        }
+        &__container {
+            max-width: 195px;
+        }
+    }
+}

@@ -1,0 +1,10 @@
+<div>
+					
+				</div><h4>Parece que hubo un problema</h4><p>En este momento no podemos continuar con el proceso en la web. Para completar tu compra</p><a href="tel:900920052" title="llama gratis">
+							Llama gratis al <span>900 920 052</span> 
+						</a><button title="te llamamos gratis" data-overlay="simpledark" data-overlay-close="" aria-haspopup="dialog" data-analytics-id="1500081067693-0007521322581">
+							Te llamamos gratis
+						</button><button aria-hidden="false"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px"><title>Close</title><use xlink:href="#icon3-close"></use></svg></button><div>
+					
+				</div><p>¿Quieres esta oferta?</p><p>¡Descubre tu oferta exclusiva online!</p><input style="display:none;" value="NO" name="verifyLeadId"><input name="wg-return" value="gracias" type="hidden"><input type="phone" name="phone" inputmode="numeric" pattern="[0-9]*" maxlength="9" data-wg-validation="required,phone" placeholder="Nº teléfono" oninput="javascript: if (this.value.length > this.maxLength) this.value = this.value.slice(0, this.maxLength);"><input type="hidden"><input type="submit" value="Te llamamos gratis"><input data-wg-validation="required" type="checkbox" value="on" name="check"><label for="privacy">Acepto la <a href="https://www.vodafone.es/static/microsites/politica-privacidad-c2c/index.html" target="_blank" data-modal="legales" rel="nofollow">&nbsp;Política de Privacidad</a></label><input type="hidden"><input type="checkbox" name="gdpr" value="on"><label for="comunication">Acepto recibir comunicaciones comerciales de Vodafone </label><div>
+		</div>

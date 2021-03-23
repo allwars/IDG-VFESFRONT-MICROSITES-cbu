@@ -1,0 +1,15 @@
+<input type="checkbox" hidden=""><label for="filter-switch">
+				<div>
+					<span>
+						Quiero esta tarifa
+					</span>
+					<ul>
+						<li>
+							Portabilidad
+						</li>
+						<li>
+							Nuevo número
+						</li>
+					</ul>
+				</div>			
+			</label>

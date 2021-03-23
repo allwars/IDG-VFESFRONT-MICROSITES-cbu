@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <filter id="ghqrtsv9xa">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.200000 0 0 0 0 0.200000 0 0 0 0 0.200000 0 0 0 1.000000 0"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g filter="url(#ghqrtsv9xa)" transform="translate(-30 -364) translate(0 112)">
+                <g>
+                    <path fill="#D8D8D8" fill-opacity="0" d="M0 0L24 0 24 24 0 24z" transform="translate(30 252)"/>
+                    <path stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" d="M18.042 4.669h0c4.05 3.337 4.627 9.324 1.29 13.373-3.337 4.049-9.324 4.626-13.373 1.29-4.049-3.338-4.626-9.325-1.29-13.374C6.474 3.768 9.163 2.5 12 2.5h0c2.205-.002 4.342.765 6.042 2.169" transform="translate(30 252)"/>
+                    <path stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" d="M15.162 7.875h0c.571.518 1.094 1.087 1.562 1.7h0c1.838 2.422 2.763 5.414 2.613 8.45M6.197 4.478h0c2.47.005 4.892.677 7.012 1.943M10.734 18.18h0c.2 1.148.552 2.264 1.044 3.32M13.39 8.012h0c-1.785 2.19-2.786 4.914-2.842 7.738M17.8 4.476h0c-.968.492-1.876 1.096-2.705 1.798M15.431 7.06h0c1.784 0 3.553.336 5.211.993M6.884 10.3h0c1.735-1.534 3.85-2.573 6.125-3.008M3.236 15.673h0c.476-1.292 1.145-2.504 1.984-3.594M11.595 17.651h0c1.884 1.114 4.008 1.757 6.193 1.875M6.515 12.25h0c.777 1.508 1.832 2.855 3.11 3.97M4.91 5.678h0c.013 1.466.242 2.922.679 4.322" transform="translate(30 252)"/>
+                    <path stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" d="M6.87 10.287c.476.476.476 1.248 0 1.724-.476.475-1.248.475-1.724 0-.476-.476-.476-1.248 0-1.724s1.248-.476 1.724 0" transform="translate(30 252) rotate(-78.06 6.008 11.149)"/>
+                    <path stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" d="M11.444 16.11c.476.477.476 1.248 0 1.724s-1.248.476-1.724 0-.476-1.247 0-1.723 1.248-.476 1.724 0" transform="translate(30 252) rotate(-78.06 10.582 16.973)"/>
+                    <path stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" d="M15.076 6.252c.476.476.476 1.248 0 1.724s-1.248.476-1.724 0-.476-1.248 0-1.724 1.248-.476 1.724 0" transform="translate(30 252) rotate(-78.06 14.214 7.114)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

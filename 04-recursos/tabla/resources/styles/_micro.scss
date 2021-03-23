@@ -1,0 +1,127 @@
+// CSS del microsite
+$desktop:1024px;
+$border-radius: 6px;
+.vfes-ms-content{
+  // Table
+  .vf-table{
+    &__container {
+      position: relative;
+      overflow-x: auto;
+      border: 1px solid #ccc;
+      border-radius: $border-radius;
+      background-color: #f4f4f4;
+      color: #222222;
+      text-align: center;
+      font-size: 14px;
+      z-index: 0;
+
+      @media screen and (min-width: $desktop) {
+        overflow: initial;
+        font-size: 20px;
+      }
+    }
+    &__datalist{
+      width: 100%;
+      //margin: 0;
+      //border:none;
+    }
+
+    &__th{
+
+      background-color: #f4f4f4;
+      box-shadow: inset 0 -1px 1px #ccc;
+      padding: 8px 16px;
+      position: relative;
+      width: 50%;
+
+      &:first-child{
+        border-top-left-radius: 6px;
+      }
+      &:last-child{
+        border-top-right-radius: 6px;
+      }
+
+      @media screen and (min-width:$desktop){
+        padding: 24px;
+        position: sticky;
+        top: 70px;
+        z-index: 1;
+      }
+      &:not(:last-child):after{
+        content: '';
+        position: absolute;
+        top: 0;right: 0;bottom: 0;
+        width: 1px;
+        background-color: #ccc;
+      }
+    }
+
+    &__td{
+      padding: 5px;
+      position: relative;
+      @media screen and (min-width:$desktop){
+        padding: 20px 10px;
+      }
+
+      &:not(:last-child):after{
+        content: '';
+        position: absolute;
+        top: 0;right: 0;bottom: 0;
+        width: 1px;
+        background-color: #ccc;
+      }
+
+      &--subheader{
+        background-color: #fff;
+        padding: 5px;
+        @media screen and (min-width:$desktop){
+          padding: 10px;
+        }
+      }
+    }
+
+
+    &__title{
+      font-size: 14px;
+      white-space: nowrap;
+      @media screen and (min-width:$desktop){
+        font-size: 20px;
+      }
+      &--big{
+        font-size: 16px;
+        @media screen and (min-width:$desktop){
+          font-size: 40px;
+        }
+      }
+      &--small{
+        font-size: 16px;
+        @media screen and (min-width:$desktop){
+          font-size: 28px;
+        }
+      }
+    }
+
+    &__icon{
+      vertical-align: middle;
+      /*  &::before{
+           content:'';
+           font-size: 20px;
+       } */
+
+      &--tick{
+        &::before{
+          content:url("data:image/svg+xml; utf8, <svg xmlns='http://www.w3.org/2000/svg' width='24' height='18' viewBox='0 0 24 18'> <g fill='none' fill-rule='evenodd'> <path stroke='%23090' stroke-linecap='round' stroke-linejoin='round' d='M21.5 5.375L8.432 18.442 2.625 12.635'/> </g> </svg> ");
+        }
+      }
+
+      &--fault{
+        &::before{
+          content:url("data:image/svg+xml; utf8, <svg width='24' height='18' viewBox='0 0 24 18' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'> <g stroke='none' stroke-width='1' fill='none' fill-rule='evenodd'> <path d='M11.2928932,12 L5.64644661,6.35355339 C5.45118446,6.15829124 5.45118446,5.84170876 5.64644661,5.64644661 C5.84170876,5.45118446 6.15829124,5.45118446 6.35355339,5.64644661 L12,11.2928932 L17.6464466,5.64644661 C17.8417088,5.45118446 18.1582912,5.45118446 18.3535534,5.64644661 C18.5488155,5.84170876 18.5488155,6.15829124 18.3535534,6.35355339 L12.7071068,12 L18.3535534,17.6464466 C18.5488155,17.8417088 18.5488155,18.1582912 18.3535534,18.3535534 C18.1582912,18.5488155 17.8417088,18.5488155 17.6464466,18.3535534 L12,12.7071068 L6.35355339,18.3535534 C6.15829124,18.5488155 5.84170876,18.5488155 5.64644661,18.3535534 C5.45118446,18.1582912 5.45118446,17.8417088 5.64644661,17.6464466 L11.2928932,12 Z' fill='%23E60000'></path> </g> </svg>");
+        }
+      }
+
+    }
+
+  }
+
+}

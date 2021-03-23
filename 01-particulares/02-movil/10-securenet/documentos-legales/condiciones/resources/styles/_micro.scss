@@ -1,0 +1,28 @@
+// CSS del microsite
+.vfes-ms-content{
+    .vfms-list {
+        &__numeric {
+            list-style: decimal;
+        }
+    }
+    table {
+        border-collapse: collapse;
+        width: 100%;
+        @media screen and (max-width: 640px) {
+            // scroll lateral mobile
+            display: block;
+            overflow-x: auto;
+            white-space: nowrap;
+        }
+    }
+
+    td, th {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+    }
+
+    tr:nth-child(even) {
+        background-color: #EBEBEB;
+    }
+}

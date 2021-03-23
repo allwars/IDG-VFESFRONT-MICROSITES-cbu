@@ -1,0 +1,264 @@
+<ul>
+            <li>
+                <a title="Inicio" target="_self" href="https://www.vodafone.es/c/particulares/es/" data-analytics-id="">Inicio
+                </a>
+            </li>
+            <li>
+                <a title="Objetos conectados" target="_self" href="https://www.vodafone.es/c/particulares/es/mas-con-vodafone/objetos-conectados/" data-analytics-id="">V by Vodafone - Objetos Conectados
+                </a>
+            </li>
+            <li>
+                <a title="V-Home" target="_self" href="https://www.vodafone.es/c/particulares/es/mas-con-vodafone/objetos-conectados/v-home/" data-analytics-id="">V-Home
+                </a>
+            </li>
+            <li>Atika</li>
+        </ul><h2>Átika, altavoz inteligente de Vodafone</h2><h3>Con <strong>Átika</strong> controla <strong>Vodafone TV</strong> con la voz</h3><a data-backdrop="videoYoutube1" data-backdrop-close="" aria-haspopup="dialog" data-js="openVideo">
+                                        Ver Video
+                                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                                            <title>Flecha derecha</title>
+                                            <use xlink:href="#icon-chevron-right"></use>
+                                        </svg>
+                                    </a><h2>Átika</h2><b role="tabpanel">
+                                                    Ahorro de 183€ en Átika
+                                                </b><b role="tabpanel" hidden="">
+                                                    Ahorro de 183€ en Átika
+                                                </b><ul>
+                                                        <li>
+                                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                                                <use xlink:href="#icon-tv-everywhere-home"></use>
+                                                            </svg>
+                                                            <div>
+                                                                <p>
+                                                                    Dispositivo Vodafone TV
+                                                                </p>
+                                                                <p>
+                                                                    Altavoz inteligente
+                                                                </p>
+                                                            </div>
+                                                        </li>
+                                                        <li>
+                                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                                                <use xlink:href="#icon-convergente-system"></use>
+                                                            </svg>
+                                                            <div>
+                                                                <p>
+                                                                    Fibra 600Mbps + Datos ilimitados
+                                                                </p>
+                                                                <p>
+                                                                    con HBO España, Amazon Prime y 60 canales más
+                                                                </p>
+                                                            </div>
+                                                        </li>
+                                                    </ul><legend>
+                                                                ¿Cómo quieres pagar el dispositivo?
+                                                            </legend><input aria-controls="panel-a ahorro-plazos nosurprises-plazos sticky-plazos" role="tab" type="radio" name="rate-1-card-rate" data-analytics-id="1500098797574-0009086839607" checked=""><label for="rate-1-card-rate-option-1">A plazos
+                                                                    </label><input type="radio" aria-controls="panel-b ahorro-contado nosurprises-contado sticky-contado" role="tab" name="rate-1-card-rate" data-analytics-id="1500098797574-0005643026490"><label for="rate-1-card-rate-option-2">Al contado
+                                                                    </label><span>
+                                                                        <strong>Átika 6€/mes 36 meses + Tarifa 36,99€/mes</strong>
+                                                                    </span><p>
+                                                                            <span>Permanencia tarifa 24 meses
+                                                                            </span>
+                                                                            <del>
+                                                                                <span>80,99</span>
+                                                                                <span>€</span>
+                                                                                <sub>/mes</sub>
+                                                                            </del>
+                                                                            <span>
+                                                                                <span>42,99</span>
+                                                                                <span>€</span>
+                                                                                <sub>/mes</sub>
+                                                                            </span>
+                                                                        </p><a title="CTA" data-analytics-id="1500098797574-0001142734910" onclick="window.parent.document.ws_popup.open('Atika', '6€/mes + Tarifa 36,99€/mes 50% 3 meses')">Lo quiero</a><span>
+                                                                        <strong>Átika 216€ + Tarifa 36,99€/mes</strong>
+                                                                    </span><p>
+                                                                            <span>Permanencia tarifa 24 meses</span>
+                                                                            <del>
+                                                                                <span>80,99</span>
+                                                                                <span>€</span>
+                                                                                <sub>/mes</sub>
+                                                                            </del>
+                                                                            <span>
+                                                                                <span>36,99</span>
+                                                                                <span>€</span>
+                                                                                <sub>/mes</sub>
+                                                                            </span>
+                                                                        </p><a title="CTA" data-analytics-id="1500098797574-0009211782164" onclick="window.parent.document.ws_popup.open('Atika', '216€ + Tarifa 36,99€/mes 50% 3 meses')">Lo quiero</a><h2><strong>Descubre las ventajas de Átika</strong></h2><article>
+                                        <span>
+                                           
+                                        </span>
+                                <h4>
+                                    <span>Controlar por Voz</span>
+                                    <span>Vodafone TV</span>
+                                </h4>
+                                <p>
+                                    Pídele a Vodafone TV lo que quieres que haga por ti.
+                                </p>
+                                <!--VIDEO 2-->
+                                <a data-backdrop="videoYoutube2" data-backdrop-close="" aria-haspopup="dialog" data-js="openVideo">
+                                    Ver Video
+                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                                        <title>Flecha derecha</title>
+                                        <use xlink:href="#icon-chevron-right"></use>
+                                    </svg>
+                                </a>
+                            </article><article>
+                                <span>
+                                    
+                                </span>
+                                <h4>
+                                    <span>Vivir una Inmersión</span>
+                                    <span>Sonora</span>
+                                </h4>
+                                <p>
+                                    Disfruta del mejor sonido envolvente 5.1 Dolby Audio con la tecnología de DEVIALET, sin altavoces adicionales.
+                                </p>
+                                <!--VIDEO 3-->
+                                <a data-backdrop="videoYoutube3" data-backdrop-close="" aria-haspopup="dialog" data-js="openVideo">
+                                    Ver Video
+                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                                        <title>Flecha derecha</title>
+                                        <use xlink:href="#icon-chevron-right"></use>
+                                    </svg>
+                                </a>
+                            </article><article>
+                                <span>
+                                    
+                                </span>
+                                <h4>
+                                    <span>Hablar</span>
+                                    <span>con Alexa</span>
+                                </h4>
+                                <p>
+                                    Hazle preguntas, disfruta de tu música, pregúntale el pronóstico ¡y mucho más!
+                                </p>
+                    
+                                <!--VIDEO 4 -->
+                                <a data-backdrop="videoYoutube4" data-backdrop-close="" aria-haspopup="dialog" data-js="openVideo">
+                                    Ver Video
+                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                                        <title>Flecha derecha</title>
+                                        <use xlink:href="#icon-chevron-right"></use>
+                                    </svg>
+                                </a>
+                    
+                            </article><h2>Dispositivo Vodafone TV</h2><h3>Disfruta del <strong>mejor sonido</strong> en casa con el <strong>altavoz inteligente Átika</strong></h3><div>
+                                
+                            </div><div>
+                                        
+                                    </div><p>6 micrófonos con tecnología de <strong>cancelación de ruido</strong> para entender tu orden a la primera.</p><p><strong>La mejor calidad envolvente 5.1 Dolby Audio</strong> con algunas tecnologías de Devialet.
+                                    </p><p>Potentes bajos y gran rango dinámico con tecnología Devialet SAM®. <strong>Incorpora 2 subwoofers y 3 altavoces.</strong>
+                                    </p><div>
+                                        
+                                    </div><p> Tecnología Devialet SPACE™ para una <strong>experiencia sonora</strong> inmersiva y ajuste automático del volumen con tecnología AVL™.</p><h3>Conoce todo lo que Átika puede ofrecerte</h3><p>Con el altavoz inteligente Átika, no solo podrás controlar por voz Vodafone TV. Podrás disfrutar de la mejor calidad de sonido en un solo dispositivo y sin altavoces adicionales gracias a algunas de las tecnologías de audio de Devialet. Además, al tener Alexa integrada, podrás disfrutar de tu música favorita en Amazon Music o Spotify, conocer el pronóstico del tiempo en tu televisión y las noticias del día, controlar tus dispositivos de Hogar Digital y mucho más.</p><p>Fibra + Móvil + TV</p><p><strong>Todo lo que necesitas</strong> para estar <strong>conectado siempre</strong></p><p>Línea móvil con <strong>datos ilimitados a alta velocidad</strong> (10 Mbps de bajada y de subida).</p><p><strong>Llamadas y SMS ilimitados</strong> con cualquier operador nacional las 24 horas, establecimiento incluido.</p><p><strong>600Mbps de fibra</strong> óptica simétrica para tu hogar, podrás conectar más de 25 dispositivos a la vez.</p><p>Fijo con <strong>llamadas ilimitadas a fijos y móviles.</strong></p><p>Pack de TV Serielovers <strong>1 año GRATIS</strong>
+                                    incluye <strong>HBO España, Amazon Prime y 60 canales más.</strong></p><p>Llévate una <strong>2ª línea GRATIS</strong>, con <strong>4GB y 200 minutos </strong>en llamadas a fijos y móviles.</p><p>
+                                <span><strong>Sin sorpresas.</strong></span>
+                                <span><strong>No escondemos nada</strong></span>
+                            </p><p>Impuestos y cuota de línea incluidos.</p><p>Permanencia en la tarifa de 24 meses.</p><p>¿Cuánto voy a pagar?</p><p role="tabpanel"><strong>Átika:</strong> 6€/mes durante 36 meses.</p><p role="tabpanel"><strong>Átika:</strong> 216€.</p><p><strong>Paquete Móvil + Fibra + TV:</strong> 36,99€/mes durante 3 meses. Del mes 4 al mes 12, 74,99€/mes. A partir del año 98,99€/mes.</p><p>La instalación del servicio de fibra, salvo que sea autoinstalable, tiene un coste para el cliente de 150 euros. Vodafone renuncia al cobro de este coste si el cliente se mantiene activo en el servicio durante, al menos, 12 meses desde la fecha de instalación.</p><p>Los pedidos no tienen coste adicional por envío.</p><p>Plazo de devolución gratuita de 14 días.</p><div>
+                            
+                            
+                            
+                            
+                        </div><p>Amazon, Alexa y todos los logotipos relacionados son marcas comerciales registradas de Amazon.com, Inc o sus filiales.</p><p>Dolby, Dolby Audio y el símbolo de la doble D son marcas comerciales de Dolby Laboratories. Todas las demás marcas y logotipos son marcas comerciales o marcas comerciales registradas de sus respectivos propietarios.</p><a target="_blank" href="https://www.vodafone.es/c/particulares/es/mas-con-vodafone/objetos-conectados/v-home/atika/legales/" title="Ver condiciones legales" data-analytics-id="1500098797574-0008668393415">Ver condiciones legales</a><h3><strong>¿Cómo comprar Átika?</strong></h3><ul>
+                            <li>
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
+                                    <title>Business</title>
+                                    <use xlink:href="#icon-shopping-trolley-mid"></use>
+                                </svg>
+                                <h4>Compra online</h4>
+                                <p>Recibirás un email de confirmación con el detalle de
+                                    tu pedido y próximos pasos.</p>
+                            </li>
+                            <li>
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
+                                    <title>Business</title>
+                                    <use xlink:href="#icon-engineer-mid"></use>
+                                </svg>
+                                <h4>Cita de instalación</h4>
+                                <p>Una vez contratado, un experto se pondrá en contacto contigo para concretar la fecha de instalación que más te convenga. ¡Tú eliges!</p>
+                            </li>
+                            <li>
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
+                                    <title>Business</title>
+                                    <use xlink:href="#icon-bundles-mid"></use>
+                                </svg>
+                                <h4>Recibe Átika</h4>
+                                <p>El envío puede tardar entre 2-3 días laborables (en la península) y 5-7 (a Baleares y Canarias, Ceuta o Melilla).</p>
+                            </li>
+                            <li>
+                                
+                                <h4>Colócalo</h4>
+                                <p>Elige la mejor ubicación en tu casa, y sigue las instrucciones que están incluidas en la caja.</p>
+                            </li>
+                            <li>
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
+                                    <title>Disfruta</title>
+                                    <use xlink:href="#icon-tv-hi-mid"></use>
+                                </svg>
+                                <p>Disfruta</p>
+                                <p>Utiliza tu dispositivo Átika como asistente de voz, y controla Vodafone TV con tu voz.</p>
+                            </li>
+                        </ul><h3><strong>Otros dispositivos de Vodafone TV</strong></h3><picture>
+                <source media="(min-width:970px)" srcset="img/remote-tv-desktop.jpg">
+                <source media="(min-width:768px)" srcset="img/remote-tv-tablet.jpg">
+                
+            </picture><h4>
+                        Mando para Control por Voz de Vodafone TV
+                    </h4><p>
+                        Con el mando control por voz de Vodafone TV olvídate de tener que pasar por diferentes menús. No perderás el tiempo buscanddo contenido. Y tendrás el control total de lo que estás viendo.            </p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/television/voztv/" data-analytics-id="1500098797574-0005532304185">
+                        Más info <span> color #333333</span>
+                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                            <title>Flecha derecha</title>
+                            <use xlink:href="#icon-chevron-right"></use>
+                        </svg>
+                    </a><button aria-hidden="false" data-js="closeVideo">
+                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <title>Close</title>
+                        <use xlink:href="#icon-close"></use>
+                    </svg>
+                </button><div data-js="videoYoutube"></div><button aria-hidden="false" data-js="closeVideo">
+                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <title>Close</title>
+                        <use xlink:href="#icon-close"></use>
+                    </svg>
+                </button><div data-js="videoYoutube"></div><button aria-hidden="false" data-js="closeVideo">
+                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <title>Close</title>
+                        <use xlink:href="#icon-close"></use>
+                    </svg>
+                </button><div data-js="videoYoutube"></div><button aria-hidden="false" data-js="closeVideo">
+                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <title>Close</title>
+                        <use xlink:href="#icon-close"></use>
+                    </svg>
+                </button><div data-js="videoYoutube"></div><span><strong>Átika 6€/mes + Tarifa 36,99€/mes 50% 3 meses</strong></span><p>
+                        <span>Permanencia tarifa 18 meses
+                        </span>
+                        <del>
+                            <span>80,99€/mes</span>
+                            <span>€</span>
+                            <sub>/mes</sub>
+                        </del>
+                        <span>
+                            <span>42,99</span>
+                            <span>€</span>
+                            <sub>/mes</sub>
+                        </span>
+                    </p><a title="CTA" data-analytics-id="1500098797574-0008668399415" onclick="window.parent.document.ws_popup.open('Atika', '6€/mes + Tarifa 36,99€/mes 50% 3 meses')">
+                        Lo quiero
+                    </a><span>
+                    <strong>Átika 216€ + Tarifa 36,99€/mes 50% 3 meses</strong>
+                </span><p>
+                        <span>Permanencia tarifa 18 meses</span>
+                        <del>
+                            <span>74,99€/mes</span>
+                            <span>€</span>
+                            <sub>/mes</sub>
+                        </del>
+                        <span>
+                            <span>36,99</span>
+                            <span>€</span>
+                            <sub>/mes</sub>
+                        </span>
+                    </p><a title="CTA" data-analytics-id="1500098797574-0001136431455" onclick="window.parent.document.ws_popup.open('Atika', '216€ + Tarifa 36,99€/mes 50% 3 meses')">
+                        Lo quiero
+                    </a>

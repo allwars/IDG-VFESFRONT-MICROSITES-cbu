@@ -1,0 +1,384 @@
+// CSS del microsite
+.vfes-ms-content {
+    a {
+        text-decoration: none;
+    }
+    // Walmeric form styles
+    .vfes-layout.vfms-banner {
+        padding-top: 20px;
+        padding-bottom: 0;
+        .vfms-banner-form {
+            @media screen and (min-width: 768px) {
+                padding-right: 20px;
+            }
+            @media screen and (min-width: 1280px) {
+                padding-right: 0px;
+            }
+            .vfms-banner-form-container {
+                border: 1px solid #111;
+                border-radius: 6px;
+                @media screen and (min-width: 1280px) {
+                    width: 231px;
+                    margin-left: auto;
+                }
+                form {
+                    padding: 16px;
+                    border-radius: 6px;
+                    border: solid 1px #ffffff;
+                    .vfms-title-form {
+                        font-size: 17px;
+                    }
+                    .vfes-box--form {
+                        margin: 16px 0;
+                        .vfes-form__input {
+                            margin: 5px 0;
+                        }
+                        .vfms-form__checks-space {
+                            margin-bottom: 15px;
+                            label {
+                                font-size: 14px;
+                                @media screen and (min-width: 768px) {
+                                    font-size: 13px;
+                                }
+                                #condiciones {
+                                    margin-left: 2px;
+                                    text-decoration: underline;
+                                }
+                            }
+                        }
+                        input[type="submit"] {
+                            font-size: 16px;
+                            box-shadow: none;
+                            @media screen and (min-width: 768px) {
+                                width: 100%;
+                            }
+                        }
+                    }
+                }
+            }
+            // countdown
+            .vfms-countdown-text {
+                margin-bottom: 0;
+                margin-top: 24px;
+                @media screen and (min-width: 768px) {
+                    width: 231px;
+                    margin-left: auto;
+                }
+            }
+        }
+    }
+    /*Banner Fibra 100Mbps*/
+    .vfes-layout.vfms-banner.fibra600mb {
+        background-image: linear-gradient(to bottom, #a10108, #4f0102);
+        .vfms-banner-img {
+            display: none;
+            @media screen and (min-width: 770px) {
+                display: block;
+                position: absolute;
+                top: 100px;
+                left: 100px;
+                width: 200px;
+            }
+        }
+        .vfms-banner-info {
+            .vfms-banner-info-container {
+                background: #fff;
+                border-radius: 6px;
+                margin-bottom: 25px;
+                padding: 16px;
+                @media screen and (min-width: 1024px) {
+                    margin-left: auto;
+                    width: 60%;
+                }
+                .vfms-banner-copy {
+                    text-align: center;
+                    margin-bottom: 16px;
+                    font-size: 24px;
+                    @media screen and (min-width: 768px) {
+                        text-align: left;
+                    }
+                    @media screen and (min-width: 1024px) {
+                        font-size: 30px;
+                    }
+                }
+                .vfms-rate-features {
+                    .vfms-rate-features-item {
+                        display: flex;
+                        margin-bottom: 14px;
+                        .vfms-features-icon {
+                            svg {
+                                use {
+                                    color: #e60000;
+                                }
+                            }
+                        }
+                        .vfms-rate-feature-description {
+                            padding-left: 8px;
+                            .vfms-feature-description-title {
+                                margin-bottom: 0;
+                                font-size: 20px;
+                            }
+                            .vfms-feature-description-text {
+                                font-size: 16px;
+                            }
+                        }
+                    }
+                }
+                .vfms-offer-details {
+                    text-align: right;
+                    .vfms-offer-details-link {
+                        text-decoration: underline;
+                    }
+                }
+                .vfms-offer-price-container {
+                    position: relative;
+                    .vfms-offer-price {
+                        display: flex;
+                        flex-direction: column;
+                        margin: 0 0 16px;
+                        .vfms-offer-price-text {
+                            font-size: 14px;
+                        }
+                        .vfms-offer-price-number {
+                            font-size: 40px;
+                            @media screen and (min-width: 1280px) {
+                                font-size: 52px;
+                            }
+                            .vfms-month {
+                                font-size: 20px;
+                            }
+                        }
+                        .vfms-offer-price-features {
+                            font-size: 14px;
+                            display: flex;
+                            flex-wrap: wrap;
+                            line-height: 1.3;
+                            .vfms-cuota {
+                                width: 100%;
+                            }
+                            .vfms-offer-deadline {
+                                margin-left: 6px;
+                            }
+                        }
+                    }
+                    .vfms-offer-price-clain {
+                        color: #fff;
+                        position: absolute;
+                        top: -16px;
+                        right: -8px;
+                        display: flex;
+                        flex-direction: column;
+                        font-size: 18px;
+                        @media screen and (min-width: 1280px) {
+                            right: 16px;
+                        }
+                        span {
+                            padding: 6px 15px;
+                            &:first-child {
+                                margin-right: 16px;
+                            }
+                            &:last-child {
+                                margin-right: 8px;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+    // .vfms-coverage {
+    //     padding: 0;
+    //     background-image: url(../img/coverage/section-check-coverage.png);
+    //     background-repeat: no-repeat;
+    //     background-size: cover;
+    //     .vfms-coverage-wrapper {
+    //         .vfms-coverage-item {
+    //             display: flex;
+    //             padding: 16px 8px;
+    //             align-items: center;
+    //             @media screen and (min-width: 1280px) {
+    //                 width: 80%;
+    //                 margin: 0 auto;
+    //             }
+    //             .vfms-coverage-text {
+    //                 display: flex;
+    //                 flex-direction: column;
+    //                 width: 60%;
+    //                 margin: 0 auto;
+    //                 @media screen and (min-width: 768px) {
+    //                     width: 100%;
+    //                     flex-direction: row;
+    //                     justify-content: space-around;
+    //                     align-items: center;
+    //                 }
+    //                 .vfms-check-coverage__text {
+    //                     font-size: 16px;
+    //                     @media screen and (min-width: 1024px) {
+    //                         font-size: 24px;
+    //                         margin-bottom: 0;
+    //                     }
+    //                 }
+    //             }
+    //         }
+    //     }
+    // }
+    // Estilos para los modales
+    .vfms-modal-title {
+        padding-bottom: 16px;
+        border-bottom: solid #333 1px;
+        margin-bottom: 20px;
+    }
+    .vfms-fibraMovil {
+        .vfms-offer-details-features-container {
+            display: flex;
+            flex-wrap: wrap;
+            .vfms-offer-details-features-item {
+                @media screen and (min-width: 768px) {
+                    width: 50%;
+                }
+                .vfms-feature-header {
+                    display: flex;
+                    align-items: center;
+                    .vfms-feature-title {
+                        margin-bottom: 0;
+                        // align-self: flex-end;
+                        margin-left: 16px;
+                    }
+                }
+                .vfms-feature-content {
+                    list-style: disc;
+                    padding: 0 50px 16px 50px;
+                    .vfms-feature-content-item {
+                        margin: 6px 0;
+                    }
+                }
+            }
+        }
+        .vfms-offer-details-conditions {
+            .vfms-feature-title {
+                margin-bottom: 0;
+                border-bottom: #333 solid 1px;
+                padding-top: 20px;
+            }
+            .vfms-offer-details-conditions-container {
+                list-style: disc;
+                padding: 20px 50px;
+                .vfms-offer-details-conditions-container-item {
+                    margin: 6px 0;
+                }
+            }
+        }
+    }
+    .vfms-tarifaMovil {
+        .vfms-modal-title {
+            margin-bottom: 10px;
+        }
+        .vfms-offer-details-features-container {
+            list-style: disc;
+            padding-left: 20px;
+            line-height: 1.5;
+            .vfms-offer-details-features-item {
+                .vfms-rate-features-container {
+                    list-style: disc;
+                    padding-left: 50px;
+                }
+            }
+        }
+    }
+    // Coverage Modal
+    // .vfms-check-coverage {
+    //     display: flex;
+    //     flex-direction: column;
+    //     padding: 0;
+    //     overflow: hidden;
+    //     padding: 32px;
+    //     @media screen and (min-width: 768px) {
+    //         flex-direction: row;
+    //     }
+    //     .vfms-text--container {
+    //         background: url(../img/coverage/check-coverage-layer.jpg);
+    //         background-repeat: no-repeat;
+    //         background-size: cover;
+    //         border-radius: 6px;
+    //         box-shadow: 0rem 0rem 8px rgba(0, 0, 0, 0.6);
+    //         display: flex;
+    //         align-items: center;
+    //         padding: 0 20px;
+    //         min-height: 250px;
+    //         .vfms-icon-container {
+    //             width: 80px;
+    //         }
+    //     }
+    //     .vfms-form--container {
+    //         padding: 20px;
+    //         border: 1px solid #111;
+    //         border-radius: 6px;
+    //         box-shadow: 0rem 0rem 8px rgba(0, 0, 0, 0.6);
+    //         .vfms-check-box-container {
+    //             margin-top: 20px;
+    //             .vfes-form__label {
+    //                 font-size: 14px;
+    //                 #condiciones {
+    //                     margin-left: 2px;
+    //                     text-decoration: underline;
+    //                     color: #fff;
+    //                 }
+    //             }
+    //         }
+    //         .vfms-large {
+    //             width: 100%;
+    //         }
+    //         input[type="submit"] {
+    //             box-shadow: none;
+    //         }
+    //     }
+    // }
+    // Countdown
+    .vfms-countdown {
+        width: 95%;
+        margin: 20px auto;
+        text-align: center;
+        border-top: 1px solid #fff;
+        padding: 6px 0;
+        position: relative;
+        @media screen and (min-width: 1280px) {
+            // margin-left: 16px;
+            // margin-top: 16px;
+            width: 227px;
+            margin-left: auto;
+            margin-right: 0;
+        }
+        .vfms-tiles {
+            display: flex;
+            span {
+                width: 92px;
+                max-width: 92px;
+                font: bold 35px 'Droid Sans', Arial, sans-serif;
+                text-align: center;
+                color: #fff;
+                padding: 8px 0;
+                display: inline-block;
+                position: relative;
+                margin-bottom: 0;
+                &:not(:nth-child(4)) {
+                    border-right: 1px solid #fff;
+                }
+            }
+        }
+        .vfms-labels {
+            width: 100%;
+            height: 25px;
+            text-align: center;
+            display: flex;
+            justify-content: space-around;
+            .vfms-labels-item {
+                text-align: center;
+                flex: 1;
+                text-shadow: 1px 1px 0px #000;
+                @media screen and (min-width: 768px) {
+                    font-size: 13px;
+                }
+            }
+        }
+    }
+}

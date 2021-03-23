@@ -1,0 +1,110 @@
+/**
+ * Vodafone Reboot Framework: Version 13.0.2. Generation Date: 2019-09-11T14:30:36.126Z
+ */
+
+.vfes-ms-content {
+  background: #000;
+}
+
+@media screen and (min-width: 80rem) {
+  .vfes-ms-content {
+    min-height: 26.25rem;
+    background-image: url('../img/iPhone_desktop.jpg?v=9542899c3eb005da9623cfd75c78467d');
+    background-size: cover;
+  }
+}
+
+.vfes-ms-content .vfes-layout__wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1.5625rem 0 2.125rem 0;
+}
+
+@media screen and (min-width: 48rem) {
+  .vfes-ms-content .vfes-layout__wrapper {
+    padding: 1.5625rem 0 2.375rem 0;
+  }
+}
+
+@media (min-width: 80rem) and (max-width: 90.25rem) {
+  .vfes-ms-content .vfes-layout__wrapper {
+    align-items: flex-end;
+    justify-content: center;
+    min-height: 23.75rem;
+    padding: 6.25rem 3.125rem 2.375rem 0;
+    box-sizing: border-box;
+  }
+}
+
+@media screen and (min-width: 80rem) {
+  .vfes-ms-content .vfes-layout__wrapper {
+    align-items: flex-end;
+    justify-content: center;
+    min-height: 26.25rem;
+    padding: 6.25rem 15.625rem 2.375rem 0;
+    box-sizing: border-box;
+  }
+}
+
+@media screen and (min-width: 80rem) {
+  .vfes-ms-content .vfes-layout__wrapper .vfms-device {
+    display: none;
+  }
+}
+
+.vfes-ms-content .vfes-layout__wrapper .vfms-logo--iphone {
+  width: 13.1875rem;
+}
+
+@media screen and (min-width: 48rem) {
+  .vfes-ms-content .vfes-layout__wrapper .vfms-logo--iphone {
+    width: 11.75rem;
+  }
+}
+
+@media screen and (min-width: 80rem) {
+  .vfes-ms-content .vfes-layout__wrapper .vfms-logo--iphone {
+    display: block;
+    width: 12.1875rem;
+  }
+}
+
+.vfes-ms-content .vfes-layout__wrapper .vfms-lsize {
+  font-size: 1.375rem;
+  margin: 0.8125rem;
+}
+
+@media screen and (min-width: 48rem) {
+  .vfes-ms-content .vfes-layout__wrapper .vfms-lsize {
+    font-size: 1.1875rem;
+  }
+}
+
+@media screen and (min-width: 80rem) {
+  .vfes-ms-content .vfes-layout__wrapper .vfms-lsize {
+    font-size: 1.0625rem;
+    padding-bottom: 6.1875rem;
+  }
+}
+
+.vfes-ms-content .vfes-layout__wrapper .vfms-text--color {
+  color: #7e7d81;
+  font-size: 1.0625rem;
+}
+
+@media screen and (min-width: 80rem) {
+  .vfes-ms-content .vfes-layout__wrapper .vfms-text--color {
+    font-size: 0.8125rem;
+  }
+}
+
+.vfes-ms-content .vfes-layout__wrapper .vfms-text--size {
+  max-width: 15.625rem;
+}
+
+@media screen and (min-width: 80rem) {
+  .vfes-ms-content .vfes-layout__wrapper .vfms-text--size {
+    max-width: 12.5rem;
+  }
+}

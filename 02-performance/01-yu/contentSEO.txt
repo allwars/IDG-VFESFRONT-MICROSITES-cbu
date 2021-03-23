@@ -1,0 +1,79 @@
+<a href="http://www.vodafone.es" target="_new"></a><div>
+				
+			</div><ul role="list">
+				<li>
+					
+				</li>
+				<li>
+					
+					
+
+				</li>
+				<li>
+					<div>
+						<form>
+							<div>    
+								<!--<button class="vfes-modal__close js-modal-close" aria-hidden="false"><svg class="icon vfes-color--vodafone-white" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px"><title>Close</title><use class="icon-v3" xlink:href="#icon3-close"></use></svg></button>-->
+								<p>
+									¿Quieres hacerte Yuser?</p>
+								<p>¡Te llamamos!</p>
+							</div>
+							<div>
+								<input style="display:none;" value="NO" name="verifyLeadId">
+								<input name="wg-return" value="gracias" type="hidden">
+								<input type="text" name="nombre" data-wg-validation="required" placeholder="Nombre">
+								<input type="text" name="dni" data-wg-validation="required" placeholder="DNI">
+								<input type="phone" name="phone" inputmode="numeric" pattern="[0-9]*" maxlength="9" data-wg-validation="required,phone" placeholder="Nº teléfono" oninput="javascript: if (this.value.length > this.maxLength) this.value = this.value.slice(0, this.maxLength);">
+								<input type="submit" value="ENVIAR">
+							</div>
+							<div>
+								<p><strong>Y si ya eres de
+										Vodafone yu renueva tus beneficios y llévate Social Pass gratis.</strong></p>
+								<div>
+									<input data-wg-validation="required" type="checkbox" value="on" name="check">
+									<label for="privacy">Acepto la <a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/movil/catalogo-clientes/politica-privacidad/" title="Vodafone One" target="_blank" data-modal="legales" rel="nofollow">Política de Privacidad</a></label>
+								</div>
+								<div>
+									<input type="checkbox" name="gdpr" value="on">
+									<label for="comunication">Acepto recibir comunicaciones
+										<span>comerciales de Vodafone</span> </label>
+									<hr>
+								</div>
+							</div>
+						</form>
+					</div>
+
+					<div>
+
+						<button aria-hidden="false"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px">
+								<title>Close</title>
+								<use xlink:href="#icon3-close"></use>
+							</svg></button>
+						<p>Gracias, nos
+							pondremos en contacto contigo en menos de 24h. </p>
+
+					</div>
+
+
+
+
+				</li>
+				<li>
+					
+				</li>
+
+			</ul><button data-modal="legal-conditions" data-modal-close="" aria-haspopup="dialog">
+				<span>Ver más información sobre la tarifa One <span></span>.
+					Abre ventana modal.</span>
+				Condiciones legales
+			</button><p>©2019 Vodafone España S.A.U.</p><p>Avda. América 115, 28042 Madrid</p><button aria-hidden="false"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px">
+						<title>Close</title>
+						<use xlink:href="#icon3-close"></use>
+					</svg></button><h3>
+					Condiciones legales</h3><p>Tarifa Yuser: Fuera de benef: 25 cént./min + 30 cént/establ. y la velocidad
+					se reduce a 16Kbps. Renovación automatica cada 28 días. Promo Social Pass: válida para las
+					renovaciones del
+					17 de Jun al 30 de noviembre, para altas nuevas y clientes. Social Pass incluido en cada renovación
+					durante el período promoción. Vodafone Pass no incluye VoIP. Las renovaciones de beneficio
+					a partir del 30 de noviembre, no incluirán Social Pass, podrás activarlo en Mi Vodafone por 3€ por ciclo
+					de tarifa.+ info en <a href="http://www.vodafone.es" target="_new">vodafone.es</a> </p>

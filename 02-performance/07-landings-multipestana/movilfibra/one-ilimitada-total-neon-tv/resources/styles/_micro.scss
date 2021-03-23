@@ -1,0 +1,294 @@
+// CSS del microsite
+.vfes-ms-content {
+    a {
+        text-decoration: none;
+    }
+    a:hover,
+    a:visited,
+    a:focus {
+        color: white;
+    }
+    .vfms-banner-info-img {
+        display: none;
+        @media screen and (min-width: 770px) {
+            display: block;
+            position: absolute;
+            left: -4rem;
+        }
+    }
+    // Walmeric form styles
+    .vfes-layout.vfms-banner {
+        padding: 30px 0;
+        .vfms-banner-form {
+            @media screen and (min-width: 768px) {
+                padding-right: 20px;
+            }
+            @media screen and (min-width: 1280px) {
+                padding-right: 0px;
+            }
+            .vfms-banner-form-container {
+                border-radius: 6px;
+                @media screen and (min-width: 1280px) {
+                    width: 231px;
+                    margin-left: auto;
+                }
+                form {
+                    padding: 16px;
+                    border-radius: 6px;
+                    border: 1px solid #fff;
+                    .vfes-modal__head-form {
+                        .vfms-modal__head-form-clain {
+                            font-size: 16px;
+                        }
+                    }
+                    .vfes-box--form {
+                        margin: 16px 0;
+                        .vfes-form__input {
+                            margin: 5px 0;
+                            font-size: 14px;
+                        }
+                        .vfms-form__checks-space {
+                            margin-bottom: 15px;
+                            label {
+                                font-size: 12px;
+                                #condiciones {
+                                    margin-left: 2px;
+                                    text-decoration: underline;
+                                }
+                            }
+                        }
+                        input[type="submit"] {
+                            font-size: 16px;
+                            box-shadow: none;
+                            @media screen and (min-width: 768px) {
+                                width: 100%;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+    /*Banner One Ilimitada*/
+    .vfes-layout.vfms-banner {
+        background-image: linear-gradient(to bottom, #851106, #760d04);
+        // background-image: linear-gradient(to bottom, #910900, #c41005);
+        .vfms-banner-info {
+            .vfms-banner-copy {
+                text-align: center;
+                margin-bottom: 15px;
+                font-size: 22px;
+                padding: 0;
+                @media screen and (min-width: 768px) {
+                    text-align: left;
+                    font-size: 32px;
+                    margin-bottom: 50px;
+                }
+            }
+            .vfms-offer-price-container {
+                width: 60%;
+                margin: 0 auto 15px;
+                padding: 16px;
+                color: #fff;
+                @media screen and (min-width: 1024px) {
+                    position: absolute;
+                    top: 25%;
+                    width: 35%;
+                    margin: 0 auto 52px;
+                }
+                .vfms-offer-price {
+                    position: relative;
+                    padding: 16px 0;
+                    .vfms-offer-price-new-container {
+                        position: absolute;
+                        top: 0;
+                        width: 100%;
+                        height: 100%;
+                        border: 1px solid #fff;
+                        // box-shadow: 0 0 .5rem #fff, inset 0 0 .5rem #fff, 0 0 2rem #CA3F63, inset 0 0 2rem #CA3F63, 0 0 4rem #CA3F63, inset 0 0 4rem #CA3F63;
+                        box-shadow: 1px 0 16px #C61745, inset 0 0 16px #C61745, 0 0 16px #C61745, inset 0 0 16px #C61745;
+                        transform: perspective(400px) translateX(-20px) rotateY(45deg);
+                    }
+                    .vfms-offer-price-text {
+                        font-size: 16px;
+                        margin-bottom: 0;
+                        transform: translateX(20px);
+                        position: relative;
+                        z-index: 2;
+                        @media screen and (min-width: 1024px) {
+                            font-size: 32px;
+                        }
+                    }
+                    .vfms-offer-price-number {
+                        display: flex;
+                        align-items: center;
+                        transform: translateX(20px);
+                        &--big {
+                            font-size: 50px;
+                            @media screen and (min-width: 1024px) {
+                                font-size: 100px;
+                            }
+                        }
+                        &--small {
+                            display: flex;
+                            flex-direction: column;
+                            .vfms-number-small-item:nth-child(1) {
+                                font-size: 20px;
+                                @media screen and (min-width: 1024px) {
+                                    font-size: 40px;
+                                }
+                            }
+                            .vfms-number-small-item:nth-child(2) {
+                                font-size: 6px;
+                                margin-left: 5px;
+                                @media screen and (min-width: 1024px) {
+                                    font-size: 12px;
+                                    margin-left: 10px;
+                                }
+                            }
+                            .vfms-number-small-item:nth-child(3) {
+                                font-size: 6px;
+                                margin-left: 5px;
+                                @media screen and (min-width: 1024px) {
+                                    font-size: 12px;
+                                    margin-left: 10px;
+                                }
+                            }
+                        }
+                    }
+                    .vfms-offer-price-new-features {
+                        font-size: 14px;
+                        display: flex;
+                        flex-direction: column;
+                    }
+                }
+            }
+            .vfms-banner-info-container {
+                margin: 0 0 20px;
+                @media screen and (min-width: 1024px) {
+                    margin-left: auto;
+                    width: 60%;
+                }
+                .vfms-rate-features {
+                    position: relative;
+                    .vfms-rate-features-item {
+                        margin-bottom: 14px;
+                        .vfms-rate-feature-description {
+                            padding-left: 8px;
+                            .vfms-features-list {
+                                list-style: disc;
+                                margin-left: 20px;
+                            }
+                            .vfms-feature-description-title {
+                                margin-bottom: 0;
+                                font-size: 20px;
+                            }
+                            .vfms-feature-description-text {
+                                font-size: 14px;
+                                margin-bottom: 0;
+                                @media screen and (min-width: 768px) {
+                                    font-size: 16px;
+                                }
+                            }
+                        }
+                        &--align {
+                            margin-top: 5px;
+                            @media screen and (min-width: 1024px) {
+                                margin-top: 10px;
+                            }
+                        }
+                    }
+                    .vfms-features-icon {
+                        svg {
+                            width: 32px;
+                            height: 32px;
+                            @media screen and (min-width: 1024px) {
+                                width: 72px;
+                                height: 72px;
+                            }
+                        }
+                        use {
+                            color: #fff;
+                        }
+                        &--desktop {
+                            display: none;
+                            @media screen and (min-width: 1024px) {
+                                display: block;
+                            }
+                        }
+                        &--mobile {
+                            @media screen and (min-width: 1024px) {
+                                display: none;
+                            }
+                        }
+                    }
+                }
+                .vfms-offer-details {
+                    .vfms-offer-details-link {
+                        text-decoration: underline;
+                    }
+                }
+            }
+        }
+    }
+    // Estilos para los modales
+    .vfms-modal-title {
+        padding-bottom: 10px;
+        border-bottom: solid #333 1px;
+        margin-bottom: 16px;
+    }
+    .vfms-fibraMovil {
+        .vfms-offer-details-features-container {
+            display: flex;
+            flex-wrap: wrap;
+            .vfms-offer-details-features-item {
+                @media screen and (min-width: 768px) {
+                    width: 50%;
+                }
+                .vfms-feature-header {
+                    display: flex;
+                    align-items: center;
+                    .vfms-feature-icon {
+                        display: none;
+                        @media screen and (min-width: 768px) {
+                            display: block;
+                        }
+                    }
+                    .vfms-feature-title {
+                        margin-bottom: 0;
+                        // align-self: flex-end;
+                        margin-left: 16px;
+                    }
+                }
+                .vfms-feature-content {
+                    list-style: disc;
+                    padding: 14px 50px;
+                    font-size: 14px;
+                    line-height: 1.3;
+                }
+            }
+        }
+        .vfms-offer-details-conditions {
+            display: flex;
+            flex-direction: column;
+            .vfms-feature-title {
+                margin-bottom: 0;
+                border-top: #333 solid 1px;
+                padding-top: 10px;
+            }
+            .vfms-offer-details-conditions-container {
+                list-style: none;
+                font-size: 14px;
+                margin-top: 10px;
+                margin-left: 10px;
+                &__item {
+                    margin-bottom: 8px;
+                }
+                &__item-features {
+                    list-style: disc;
+                    padding: 10px 30px;
+                }
+            }
+        }
+    }
+}

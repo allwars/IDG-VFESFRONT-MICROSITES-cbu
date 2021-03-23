@@ -1,0 +1,87 @@
+.vfms-banner{
+  background-image: url("https://www.vodafone.es/c/statics/imagen/bg-mobile640.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: black;
+  height: 450px;
+  background-position: center;
+}
+.vfms-title3{
+  padding-top: 0;
+  padding-bottom: 0;
+  color: #ffffff!important;
+}
+
+.vfms-img--offer{
+  height: 100%;
+  width: 50%;
+}
+.vfms-img-open{
+  margin-top: 15px;
+  filter: drop-shadow(5px 5px 30px red);
+  animation: float 5s ease-in-out infinite;
+}
+.vfms-img-logos{
+  padding-right: 5px;
+  padding-left:5px;
+
+}
+
+.vfms-banner-content-text{
+  text-align: center;
+  margin-left: 0;
+  margin-top: 30px;
+}
+
+@media screen and (min-width: 640px) {
+  .vfms-banner {
+    background-image: url("https://www.vodafone.es/c/statics/imagen/bg-tablet.jpg");
+    text-align: left;
+    background-position: center;
+    background-color: black;
+    background-size: cover;
+  }
+  .vfms-banner-content-text{
+    margin-left: 10%;
+    text-align: left;
+    margin-top: 0;
+  }  
+}
+@media screen and (min-width: 970px) {
+  .vfms-banner {
+    background-image: url("https://www.vodafone.es/c/statics/imagen/bg-desktop2.jpg");
+    background-color: black;
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+  }
+
+  .vfms-img-open{
+    max-width: 600px;
+  }
+  .vfms-banner-content-text{
+    margin-left: 10%;
+    text-align: center;
+  }  
+}
+
+@keyframes float {
+  0% {
+    -webkit-filter: drop-shadow(5px 5px 30px red);
+    filter: drop-shadow(5px 5px 30px red);
+  
+  }
+  50% {
+
+    -webkit-filter: drop-shadow(5px 5px 30px red);
+    filter: drop-shadow(5px 5px 15px red);
+  
+  }
+  100% {
+    -webkit-filter: drop-shadow(5px 5px 30px red);
+    filter: drop-shadow(5px 5px 30px red);
+ 
+  }
+}
+
+

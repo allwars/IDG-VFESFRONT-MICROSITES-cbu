@@ -1,0 +1,46 @@
+// fibra-movil
+
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <g stroke="#333" stroke-linecap="round" stroke-linejoin="round" transform="translate(2.5 3.5)">
+            <path d="M17.324 12.292c.926 0 1.676.75 1.676 1.677v1.117c0 .926-.75 1.676-1.676 1.676"/>
+            <path d="M7.824 12.292H1.676C.75 12.292 0 13.042 0 13.97v1.117c0 .926.75 1.676 1.676 1.676h15.648c.926 0 1.676-.75 1.676-1.676v-1.117M8.954 1.854a6.329 6.329 0 0 0-8.95 0M7.185 3.337a3.844 3.844 0 0 0-5.436 0"/>
+            <circle cx="4.461" cy="5.004" r="1"/>
+            <path d="M4.47 5.027v7.265M11.735 12.292h1.676M10.339 14.527a.818.818 0 0 1-.839-.793V5.262a.816.816 0 0 1 .839-.793h4.47a.817.817 0 0 1 .839.793v8.472a.819.819 0 0 1-.84.793h-4.47z"/>
+        </g>
+    </g>
+</svg>
+
+//tv
+
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path stroke="#333" stroke-linecap="round" stroke-linejoin="round" d="M7 19.5h10"/>
+        <path stroke="#333" stroke-linejoin="round" d="M12 19.5v-2"/>
+        <path stroke="#333" stroke-linecap="round" stroke-linejoin="round" d="M4 4.5h16A1.5 1.5 0 0 1 21.5 6v10a1.5 1.5 0 0 1-1.5 1.5H4A1.5 1.5 0 0 1 2.5 16V6A1.5 1.5 0 0 1 4 4.5z"/>
+    </g>
+</svg>
+
+//fibra
+
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#D8D8D8" fill-opacity="0" d="M0 0h24v24H0z"/>
+        <path stroke="#333" stroke-linecap="round" stroke-linejoin="round" d="M2.5 9.438c5.242-5.247 13.744-5.251 18.991-.01l.009.01M5.25 12.314a9.595 9.595 0 0 1 13.575 0M8.075 15.135a5.577 5.577 0 0 1 7.89 0M12.354 18.146a.5.5 0 1 1-.708.707.5.5 0 0 1 .708-.707"/>
+        <path stroke="#333" stroke-linecap="round" stroke-linejoin="round" d="M12.221 18.279a.312.312 0 1 1-.442.442.312.312 0 0 1 .442-.442"/>
+        <path stroke="#333" stroke-linecap="round" stroke-linejoin="round" d="M12.088 18.412a.125.125 0 1 1-.176.176.125.125 0 0 1 .176-.176"/>
+    </g>
+</svg>
+
+//movil
+
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path stroke="#333" stroke-linecap="round" stroke-linejoin="round" d="M10.5 19.5h3M8 21.5A1.5 1.5 0 0 1 6.5 20V4A1.5 1.5 0 0 1 8 2.5h8A1.5 1.5 0 0 1 17.5 4v16a1.5 1.5 0 0 1-1.5 1.5H8z"/>
+    </g>
+</svg>
+
+

@@ -1,0 +1,82 @@
+<span>Tarifa Móvil ilimitada <strong>50% dto. 3 meses</strong></span><p>Disfruta <strong>sin límites</strong> <span>de todas tus redes</span></p><span><span>Mejor Precio Vodafone</span></span><div data-ws10-module-replace="1500091234930"></div><h3>Móvil</h3><h3><strong>Datos sin límites para lo que quieras</strong></h3><div>
+                        </div><p>Datos ilimitados <strong>a alta velocidad (10Mbps de bajada y de subida).</strong></p><p>Disfruta de música sin límites con una calidad extrema y sin cortes.</p><p>Consume vídeo en streaming en calidad 4K sin cortes ni interrupciones.</p><p>Disfruta de streaming sin necesidad de conectarte al WiFi, tú y tus datos.</p><p>Todo con la nueva <strong>conexión 5G.</strong></p><p><strong>Llamadas y SMS ilimitados</strong> con cualquier operador nacional las 24 horas, establecimiento incluido.</p><p> <strong>Roaming incluido en Europa, Reino Unido y EEUU.</strong> Disfruta con las mismas condiciones de tu tarifa, sin preocupaciones también en EEUU.</p><h3><strong>También incluido en la Tarifa Móvil ilimitada Maxi</strong></h3><ul aria-labelledby="idList">
+                            <li>
+                                <div>
+                                    <div>
+                                        <div>
+                                            
+                                            <h3><strong>SecureNet</strong></h3>
+                                        </div>
+                                        <p>Mantén seguro
+                                            completamente tu smartphone ante amenazas externas con el <strong>antivirus integrado</strong> en el servicio Secure Net. Navega sin preocupaciones en todos tus
+                                            dispositivos.</p>
+                                        <p><strong>GRATIS</strong> durante 3
+                                            meses, después 1€/mes.</p>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div>
+                                    <div>
+                                        <div>
+                                            
+                                            <h3><strong>Tidal</strong></h3>
+                                        </div>
+                                        <p>Plataforma de música en
+                                            streaming para que disfrutes de tu música con la mejor calidad de audio.</p>
+                                        <p><strong>GRATIS</strong>
+                                            durante 3 meses, después 7,99€/mes.</p>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div>
+                                    <div>
+                                        <div>
+                                            
+                                            <h3><strong>OneNumber</strong></h3>
+                                        </div>
+                                        <p><strong>Mismo número y misma tarifa de voz y datos en todos tus dispositivos</strong> sin tener que cambiar la SIM con OneNumber.
+                                        </p><p><strong>GRATIS</strong> 1 mes, después 5€/mes.</p>
+                                    </div>
+                                </div>
+                            </li>
+
+                        </ul><span style="left: 0">(*)Todos los
+                            servicios podrás gestionarlos en la App Mi Vodafone</span><h3>
+                        <span><strong>Sin sorpresas.</strong></span>
+                        <span><strong>No escondemos nada</strong></span>
+                    </h3><p>Impuestos y cuota de línea incluidos. Envío de SIM gratuito.</p><p>Después de 3 meses 36,99€/mes.</p><p>Permanencia 3 meses.</p><a target="_blank" href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/movil/contrato/tarifas-contrato/legales/" title="Ver condiciones legales" data-analytics-id="1500089059280-0542767590225">Ver condiciones legales</a><h3><strong>¿Cómo contrato la Tarifa Móvil ilimitada Maxi?</strong></h3><ul>
+                        <li>
+                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
+                                <title>Icono carrito</title>
+                                <use xlink:href="#icon-shopping-trolley-mid"></use>
+                            </svg>
+                            <p>Compra online</p>
+                            <p>Recibirás un email de confirmación con el detalle de tu pedido y próximos pasos.</p>
+                        </li>
+                        <li>
+                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
+                                <title>Icono portabilidad</title>
+                                <use xlink:href="#icon-business-mid"></use>
+                            </svg>
+                            <p>Portabilidad</p>
+                            <p>Eliges la fecha y lugar de entrega de tu nueva SIM y sabrás el día exacto del cambio. Nos aseguraremos que no te quedas sin línea.</p>
+                        </li>
+                        <li>
+                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
+                                <title>Icono envío</title>
+                                <use xlink:href="#icon-bundles-mid"></use>
+                            </svg>
+                            <p>Recibe la SIM</p>
+                            <p>El envío puede tardar entre 2-3 días laborables (en la penisula) y 5-7 (a Baleares y Canarias, Ceuta o Melilla).</p>
+                        </li>
+                        <li>
+                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
+                                <title>Business</title>
+                                <use xlink:href="#icon-unified-communication-mid"></use>
+                            </svg>
+                            <p>Mi Vodafone</p>
+                            <p>Podrás registrarte y hacer el seguimiento de tu pedido y gestionar tus servicios desde la app de Vodafone.</p>
+                        </li>
+                    </ul>

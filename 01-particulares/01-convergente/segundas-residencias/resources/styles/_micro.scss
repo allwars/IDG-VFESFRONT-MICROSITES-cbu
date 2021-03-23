@@ -1,0 +1,195 @@
+// CSS del microsite
+.vfes-ms-content {
+    // GENERAL
+    .vfes-carousel__bullets {
+      text-align: left;
+    }
+    .vfes-carousel--active{
+      padding-bottom: 30px;
+    }
+    .vfes-carousel__arrow {
+      height: 32px;
+      width: 32px;
+    }
+    .vfes-carousel__arrow:after {
+      width: 14px;
+      height: 14px;
+    }
+    .vfms-ticket{
+      z-index: 10;
+    }
+    .vfms-circle-icon {
+      width: 64px;
+      border-radius: 50%;
+      background: #fff;
+      position: relative;
+      display: flex;
+      padding: 10px;
+      margin-right: 10px;
+    }
+  
+    // BANNER AND CARD RATE
+    .vfms-banner {
+      background-image: url("../img/imagen-cabecera-mobile.jpg");
+      position: relative;
+      display: block;
+      background-position: right;
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+
+    // BUTTON STICKY
+    .vfms-sticky-down{
+      position: fixed;
+      width: 100%;
+      bottom: 0;
+      z-index: 4;
+      transition: 0.3s;
+      visibility: visible;
+      opacity: 1;
+    }
+  
+    .vfms-hide{
+      visibility: hidden;
+      opacity: 0;
+      transition: visibility 0s, opacity 0.5s linear;
+    }
+  
+    //ORDER ELEMNTS DOM
+  
+    .vfms-content{
+      margin-top: 50px;
+
+    }
+    .vfms-ticket{
+      order: 5;
+      z-index: 5;
+    }
+    .vfms-banner{
+      order: 1;
+      z-index: 1;
+    }
+
+    // SEO
+    .vfms-seo {
+        &__text {
+            order: 2;
+        }
+        &__img {
+            order: 1;
+        }
+    }
+  
+    .vfms-steps{
+      &__timeline {
+        @media screen and (min-width: 970px) {
+          justify-content: flex-start;
+          li {
+            width: 25%;
+          }
+        }
+      }
+    } 
+    @media screen and (min-width: 640px) {
+      .vfms-banner {
+        background-size: cover;
+        background-image: url("../img/imagen-cabecera-tablet.jpg");
+        background-position: center;
+        &__text {
+          min-width: 390px;
+        }
+      }
+      .vfms-ticket{
+        &-content{
+          max-width: 23.75rem;
+          width: 100%;
+          float: right;
+        }
+      }
+      // SEO
+    .vfms-seo {
+        flex-direction: row;
+        &__text {
+            order: 1;
+        }
+        &__img {
+            order: 2;
+        }
+    }
+    }
+    @media screen and (min-width: 970px) {
+  
+      //GENERAL
+      .vfms-ticket{
+        &-content{
+          max-width: 23.75rem;
+          width: 100%;
+          float: right;
+        }
+      }
+  
+      .vfms-sticky-down{
+        opacity: 0;
+      }
+  
+      // BANNER AND CARD RATE
+      .vfms-banner {
+        background-image: url("../img/imagen-cabecera-desktop.jpg");
+        background-size: cover;
+        background-position: center;
+        .fixed {
+          position: fixed;
+          width: 100%!important;
+          max-width: 75rem;
+          left: 50%;
+          -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+          top: 4rem;
+          padding-top: 20px;
+        }
+        // .change-color {
+        //   color: #333;
+        // }
+  
+        .vfms-hide-desktop{
+          display: none;
+        }
+  
+      }
+  
+    }
+    // ONLY FOR HORIZONTAL TABLET
+    // @media only screen and (max-width: 1200px) and (min-width: 970px) {
+    //   &.vfms-one{
+    //     .vfes-2\/3{
+    //       width: 59.66667%!important;
+    //     }
+    //     .vfes-1\/3{
+    //       width: 40%!important;
+    //     }
+    //   }
+    //   .vfms-also-height {
+    //     min-height: 350px;
+    //   }
+    // }
+  
+    // ONLY FOR BUTTONS OF SMALL MOBILES
+    @media only screen and (max-width: 360px) and (min-width: 300px){
+      .vfes-button{
+        padding: 10px 15px;
+        font-size: 16px;
+      }
+    }
+    // ONLY MOBILE
+    @media screen and (max-width: 640px) {
+      // BANNER
+      .vfms-banner__wrapper {
+        max-height: 370px;
+      }
+      .vfms-features {
+        margin-top: 100px;
+      }
+    }
+  
+  }
+  

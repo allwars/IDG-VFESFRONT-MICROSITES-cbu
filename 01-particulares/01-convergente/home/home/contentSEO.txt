@@ -1,0 +1,101 @@
+<p data-animation-element="category">Móvil + Fibra
+                </p><h2>
+                    <div data-animation-element="1sentence">Los primeros con</div>
+                    <div data-animation-element="2sentence"><span>datos ilimitados</span> y la</div>
+                    <div data-animation-element="3sentence"> <span>TV</span> con <span>más contenidos</span>
+                    </div>
+                    <!--<p class="vfes-align--left vfms-decreto">En cumplimiento de las medidas decretadas por el Gobierno no es posible, en la fase actual, realizar instalaciones que requieran visita de técnico a domicilio o solicitar la portabilidad de fibra o fijo. Durante el proceso de venta, podrás solicitar cita de instalación a partir del 11 de mayo. </p>
+                    -->
+                </h2><div data-animation-element="sello">
+                    
+                </div><div data-animation-element="imac">
+                    
+                </div><div data-animation-element="ipad">
+                    
+                </div><div data-animation-element="deco">
+                    
+                </div><div data-animation-element="iphone">
+                    
+                </div><div data-animation-element="bolo">
+                    
+                </div><div>
+            
+        </div><path fill="#f4f4f4" d="M 0 85.2514 C 315.313 86.2845 443.806 157.51 881.113 50.7109 C 1317.15 -55.9125 1318.42 33.4285 1536.31 69.3087 C 1818.67 115.154 2156.92 186.209 2560 85.2515 V 231.253 L 0 231.252 V 85.2514 Z">
+                        <animate repeatCount="indefinite" fill="freeze" attributeName="d" dur="30s" values="M0 25.9086C277 84.5821 433 65.736 720 25.9086C934.818 -3.9019 1214.06 -5.23669 1442 8.06597C2079 45.2421 2208 63.5007 2560 25.9088V171.91L0 171.91V25.9086Z; M0 86.3149C316 86.315 444 159.155 884 51.1554C1324 -56.8446 1320.29 34.1214 1538 70.4063C1814 116.407 2156 188.408 2560 86.315V232.317L0 232.316V86.3149Z; M0 53.6584C158 11.0001 213 0 363 0C513 0 855.555 115.001 1154 115.001C1440 115.001 1626 -38.0004 2560 53.6585V199.66L0 199.66V53.6584Z; M0 25.9086C277 84.5821 433 65.736 720 25.9086C934.818 -3.9019 1214.06 -5.23669 1442 8.06597C2079 45.2421 2208 63.5007 2560 25.9088V171.91L0 171.91V25.9086Z">
+                        </animate>
+                    </path><div></div><div data-vfes-inject-module="vfes-offer-ticket"></div><div data-vfes-inject-module="vfes-offer-ticket"></div><h3>Tráete tus líneas a Vodafone al 50% dto
+                            </h3><p>Añade una o más líneas adicionales a tu contrato y disfruta del descuento</p><h3>Tarifas de fibra y móvil para
+                                    jóvenes Vodafone YU</h3><p>Usa tus redes sociales y mensajería sin límites o vicia al Fornite sin lag con la
+                                    Fibra 600Mb al mejor precio. Hazte yuser.</p><a href="https://yu.vodafone.es/tarifas-fibra-y-movil" target="_new" data-analytics-product="YU convergente">Más info <span>Más info </span></a><h2>Vodafone One: tarifas con Móvil y Fibra</h2><ul>
+                    <li>
+                        
+                        <h3>Red 5G</h3>
+                        <p>Navega a máxima velocidad con 5G. Descarga una serie en segundos,
+                            juega online a tiempo real y disfruta de una calidad mayor de vídeo y voz.</p>
+                    </li>
+                    <li>
+                        
+                        <h3>Vodafone One</h3>
+                        <p>Móvil, fibra y fijo incluido. Y el pack de TV aparte para que
+                            puedas configurar tu televisión eligiendo tu contenido favorito.</p>
+                    </li>
+                    <li>
+                        
+                        <h3>Fibra óptica</h3>
+                        <p>La instalación al igual que el módem, es gratuita y rápida pero no
+                            tanto como la fibra con la que podrán conectarse sin perder velocidad varios dispositivos a
+                            la vez. Además, al ser fibra óptica simétrica tendrás los mismos megas de subida que de
+                            bajada.</p>
+                    </li>
+                    <li>
+                        
+                        <h3>Paquetes Vodafone</h3>
+                        <p>Configura tu paquete para que incluya fibra, móvil y televisión.
+                            Añade las líneas que necesites y elige el pack de televisión que se adapte a tus gustos.</p>
+                    </li>
+                </ul><h2>¡Con Vodafone One tendrás acceso a
+                                las mejores <span>ofertas de tarifas de fibra y móvil!</span>
+                            </h2><p>Habla, navega o disfruta de vídeos
+                                en streaming sin ataduras y a la máxima velocidad con nuestras tarifas de <span>datos ilimitados.</span> Con la instalación de nuestro
+                                modem, gratuita y rápida, podrás conectar varios dispositivos al mismo tiempo.
+                                En Vodafone hemos incluído el <span>5G en todas nuestras
+                                    tarifas</span> para que toda la familia pueda disfrutar del mejor entretenimiento
+                                con la máxima velocidad y estabilidad.
+                                Además, <span>de regalo el Pack Seriefans con HBO España</span>
+                                con nuestras tarifas ilimitadas.</p><h3>Preguntas Frecuentes sobre
+                    nuestras tarifas de datos ilimitados</h3><button aria-expanded="false" aria-controls="accordion-content-0">¿Existe algún protocolo de
+                                    seguridad para la instalación de fibra en casa?</button><p>
+                                            En Vodafone seguimos trabajando día a día para que puedas estar en casa y
+                                            tener la
+                                            mejor fibra siempre con la máxima seguridad. Pero si tienes dudas puedes
+                                            consultar
+                                            <a href="https://www.vodafone.es/c/protocolo-seguridad-instalaciones/" target="_new"> nuestra página<span>Protocolo
+                                                    Seguridad instalaciones
+                                                </span></a>
+                                        </p><button aria-expanded="false" aria-controls="accordion-content-0">Cuando hablan de datos
+                                    ilimitados, ¿existe algún límite? ¿y en Roaming?</button><p>
+                                            No existe un límite siempre que el uso comprenda en primer lugar el uso
+                                            personal para fines del uso particular y para fines razonables. Así mismo,
+                                            el uso responsable y no fraudulento En Roaming; Las tarifas ilimitadas en
+                                            datos disfrutaran de minutos y mensajes ilimitados y Gigas limitados cuando
+                                            viajen por Europa, Reino Unido y EE.UU. sin coste adicional. Los Gigas serán
+                                            diferentes en función del tipo de tarifa. La tarifa Vodafone Ilimitada
+                                            incluirá 16 GB, la tarifa Vodafone Ilimitada Súper incluirá 17 GB y la
+                                            Vodafone Ilimitada Total de 19 GB. Superados los Gigas incluidos en roaming
+                                            el precio del Giga será de 5,4€/GB.
+                                        </p><button aria-expanded="false" aria-controls="accordion-content-0">¿Qué es y cómo puedo
+                                    disfrutar del 5G?</button><p>La red 5G o red de quinta generación, es una
+                                            tecnología de red inalámbrica evolución de la red 4G+ LTE cuyas principales
+                                            ventajas son alcanzar mayor velocidad y cobertura además de una menor
+                                            latencia, que permite realizar usos que hasta ahora no se podían realizar en
+                                            movilidad, como juegos online de alta calidad, aplicaciones de realidad
+                                            virtual o de realidad aumentada, y acceso a la nube en tiempo real. La
+                                            conexión 5G ya es una realidad en España para clientes Vodafone, para ello
+                                            solo necesitarás una tarifa comercializable, un teléfono móvil 5G y estar
+                                            bajo cobertura 5G, actualmente cubriendo el 50% de estas ciudades: Madrid,
+                                            Barcelona, Valencia, Sevilla, Málaga, Pamplona, Bilbao, Zaragoza, Logroño,
+                                            Vitoria, San Sebastián, Santander, Gijón, A Coruña y Vigo. ¡Ahora todas las
+                                            tarifas móviles de Vodafone incluyen el 5G! La tecnología más novedosa para
+                                            garantizar la máxima velocidad para navegar, consultar tus redes sociales,
+                                            ver vídeos en streaming o jugar online.
+                                        </p>

@@ -1,0 +1,62 @@
+// CSS del microsite
+.vfes-ms-content-adicionales{
+    background-image: url('https://www.vodafone.es/c/statics/imagen/bg_mobile_lineasadicionales.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    @media screen and (min-width: 640px) {
+        background-image: url('https://www.vodafone.es/c/statics/imagen/bg_desktop_lineasadicionales.png');
+    }
+    .vfes-title--5-large {
+        font-size: 24px;
+        @media screen and (min-width: 970px) {
+            font-size: 40px;
+        }
+    }
+    .vfes-title--5 {
+        @media screen and (min-width: 970px) {
+            font-size: 24px;
+        }
+    }
+    .vfms-text{
+        &__align {
+            text-align: center;
+            @media screen and (min-width: 640px)  {
+                text-align: left;
+            }
+        }
+    } 
+    .vfms-device {
+        max-height: 150px;
+        @media screen and (min-width: 970px) {
+            max-height: none;
+        }
+    }
+    .vfms-align__items {
+        @media screen and (min-width: 640px) {
+            align-items: flex-end;
+        }
+    }
+    .vfes-flex__direction--row-column-sm {
+        @media screen and (min-width: 640px) {
+            flex-direction: row;
+        }
+    }
+    .vfms-text {
+        @media screen and (min-width: 640px) {
+            max-width: 250px;
+            
+        }
+        @media screen and (min-width: 970px) {
+            max-width: 360px;
+        }
+    }
+    .vfes-colours--dark-grey {
+        color: #333;
+    }
+    .vfms-tel__text {
+        a {
+            color: #333;
+        }
+    }
+}

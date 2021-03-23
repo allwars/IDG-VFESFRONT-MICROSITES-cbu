@@ -1,0 +1,32 @@
+// CSS del microsite
+.vfes-ms-content-portabilidad {
+    .vfms-dropdown{
+        max-width: 220px;
+        &--container {
+            padding: 0;
+        }
+        &--button {
+            width: 100%;
+            span {
+                color: #fff;
+                width: 100%;
+            }
+        }
+    } 
+    .vfms-list{
+        &--content {
+            padding: 0;
+            text-align: center;
+            a {
+                text-decoration: none;
+                &:hover > .vfms-list--item {
+                    background:  #EBEBEB;
+                    color: #333;
+                }
+            }
+        }
+        &--item {
+            margin: 0;
+        }
+    } 
+}

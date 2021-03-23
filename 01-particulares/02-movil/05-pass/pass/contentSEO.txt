@@ -1,0 +1,249 @@
+<div data-spritesheet="svg/sprite.mid.svg"></div><h2>Vodafone  Pass</h2><h3>Datos ilimitados para tus apps de música, vídeos, redes sociales y mapas</h3><div></div><ul>
+			   <li><a title="Home" target="_self" href="https://www.vodafone.es/c/particulares/es/"> Home</a></li>
+			   <li><a title="Móvil" target="_self" href="https://www.vodafone.es/c/tienda-online/particulares/tarifas-moviles/"> Móvil</a></li>
+			   <li><a title="Vodafone Pass" target="_self" href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/movil/vodafone-pass/"> Vodafone Pass</a></li>
+		   </ul><p>¿Qué es Vodafone Pass?</p><p>Un servicio único de Vodafone que puedes añadir a tu tarifa básica para utilizar todo lo que quieras tus redes sociales, música, vídeos o mapas sin consumir tus datos.</p><ul>
+						<li>
+							<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48">
+								<title>File</title>
+								<use xlink:href="#icon-bill-or-report-mid"></use>
+							</svg>
+							<p><strong>Contrata tu tarifa</strong></p>
+							<p>Si no la tienes, contrata una tarifa básica de <a titl="listado de tarifas móviles ilimitadas" href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/movil/contrato/tarifas-contrato/"> móvil</a>,<a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/"> móvil+fibra</a> o <a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/movil/prepago-y-recargas/tarifas-de-prepago/"> prepago</a></p>
+						</li>
+						<li>
+							<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48"><title>Completed</title><use xlink:href="#icon-completed-mid"></use></svg>
+							<p><strong>Añade tus PASS</strong></p>
+							<p>Elige entre vídeo, social, chat, música o mapas y actívalos en Mi Vodafone.</p>
+						</li>
+						<li>
+							<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48"><title>Media</title><use xlink:href="#icon-music-and-movies-mid"></use></svg>
+							<p><strong>Disfruta</strong></p>
+							<p>Disfruta de datos ilimitados en las categorías seleccionadas.</p>
+						</li>
+					</ul><p>Si eres cliente de contrato añade uno de estos Vodafone PASS</p><div>Pruébalo un mes gratis</div><h3>SOCIAL<strong> PASS</strong></h3><ul>
+							<li>
+								
+							</li>
+							<li>
+								
+							</li>
+							<li>
+								
+							</li>
+							<li>
+								
+							</li>
+							<li>
+								
+							</li>
+							<li>
+								<div>
+									<p>+11</p>
+								</div>
+							</li>
+							<li>
+								<div>
+									<p>+10</p>
+								</div>
+							</li>
+						</ul><ul>
+								<li>Facebook</li>
+								<li>Twitter</li>
+								<li>Snapchat</li>
+								<li>Flickr</li>
+								<li>Grindr</li>
+								<li>Meetic</li>
+								<li>Periscope</li>
+								<li>Instagram</li>
+								<li>Linkedin</li>
+							</ul><ul>
+								<li>Tinder</li>
+								<li>Tumbler</li>
+								<li>Badoo</li>
+								<li>Adopta un tío</li>
+								<li>TikTok (Musical.ly)</li>
+								<li>Pinterest</li>
+							</ul><button aria-expanded="false" aria-controls="card-shop-accordion3">Ver las apps incluídas en la tarifa</button><p>Redes sociales para aburrir</p><p><strong>3€</strong>/mes</p><a href="https://www.vodafone.es/c/particulares/es/acceso-area-privada/" target="_self" title="Activar en Mi Vodafone">Activar en Mi Vodafone<span>: Activar en Mi Vodafone</span> </a><h3>VIDEO<strong> PASS</strong></h3><ul>
+							<li>
+								
+							</li>
+							<li>
+								
+							</li>
+							<li>
+								
+							</li>
+							<li>
+								
+							</li>
+							<li>
+								
+							</li>
+							<li>
+								<div>
+									<p>+21</p>
+								</div>
+							</li>
+							<li>
+								<div>
+									<p>+20</p>
+								</div>
+							</li>
+						</ul><ul>
+								<li>HBO</li>
+								<li>Netflix</li>
+								<li>Vimeo</li>
+								<li>Rakuten TV</li>
+								<li>RTVE Móvil</li>
+								<li>Clan RTVE</li>
+								<li>MOVISTAR TV</li>
+								<li>Filmin</li>
+								<li>Bein Connect</li>
+								<li>Vodafone TV Online</li>
+								<li>Fox News</li>
+							</ul><ul>
+								<li>Dailymotion</li>					
+								<li>Twitch</li>
+								<li>Fox News</li>
+								<li>Orange TV</li>
+								<li>Amazon Video</li>
+								<li>OpenSport</li>
+								<li>RedBull TV</li>
+								<li>YouTube</li>
+								<li>YouTube Gaming</li>
+								<li>YouTube Kids</li>
+							</ul><button aria-expanded="false" aria-controls="card-shop-accordion3">Ver las apps incluídas en la tarifa</button><p>Series, películas y vídeos a lo loco</p><p><strong>8€</strong>/mes</p><a href="https://www.vodafone.es/c/particulares/es/acceso-area-privada/" target="_self" title="Activar en Mi Vodafone">Activar en Mi Vodafone<span>: Activar en Mi Vodafone</span> </a><div>Pruébalo un mes gratis</div><h3>MUSIC<strong> PASS</strong></h3><ul>
+								<li>
+									
+								</li>
+								<li>
+									
+								</li>
+								<li>
+									
+								</li>
+								<li>
+									
+								</li>
+								<li>
+									
+								</li>
+								<li>
+									
+								</li>
+								<li>
+									<div>
+										<p>+2</p>
+									</div>
+								</li>
+							</ul><ul>
+									<li>Apple Music</li>
+									<li>Napster</li>
+									<li>Deezer</li>
+								</ul><ul>
+									<li>SoundCloud</li>
+									<li>Spotify</li>
+									<li>TIDAL</li>
+								</ul><button aria-expanded="false" aria-controls="card-shop-accordion3">Ver las apps incluídas en la tarifa</button><p>Música non stop</p><p><strong>3€</strong>/mes</p><a href="https://www.vodafone.es/c/particulares/es/acceso-area-privada/" target="_self" title="Activar en Mi Vodafone">Activar en Mi Vodafone<span>: Activar en Mi Vodafone</span> </a><div>Pruébalo un mes gratis</div><h3>MAPS<strong> PASS</strong></h3><ul>
+								<li>
+									
+								</li>
+								<li>
+									
+								</li>
+								<li>
+									
+								</li>
+								<li>
+									
+								</li>
+								<li>
+									
+								</li>
+								<li>
+									<div>
+										<p>+5</p>
+									</div>
+								</li>
+								<li>
+									<div>
+										<p>+4</p>
+									</div>
+								</li>
+							</ul><ul>
+									<li>Coyote App</li>
+									<li>Google Earth</li>
+									<li>Here</li>
+									<li>Endomondo</li>
+									<li>Google Maps</li>
+								</ul><ul>
+									<li>Waze</li>
+									<li>Tomtom</li>
+									<li>Runtastic</li>
+									<li>Tripadvisor</li>
+
+								</ul><button aria-expanded="false" aria-controls="card-shop-accordion3">Ver las apps incluídas en la tarifa</button><p>Libre para perderte</p><p><strong>3€</strong>/mes</p><a href="https://www.vodafone.es/c/particulares/es/acceso-area-privada/" target="_self" title="Activar en Mi Vodafone">Activar en Mi Vodafone<span>: Activar en Mi Vodafone</span> </a><p>
+					<a data-modal="partner" data-modal-close="" aria-haspopup="dialog">¿Quieres ser partner de Vodafone?</a>
+				</p><p>
+					<a data-modal="legals" data-modal-close="" aria-haspopup="dialog">Condiciones legales</a>
+				</p><p>Utiliza tus aplicaciones y despreocúpate de los datos</p><article>
+					<div>
+						<a href="#" target="_self" data-modal="youtube" data-modal-youtube="VLjxSEhfgEg" data-modal-close="" aria-haspopup="dialog">
+							<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22px" height="22px">
+								<title>Play</title>
+								<use xlink:href="#icon3-play-arrow"></use>
+							</svg>
+						</a>
+						
+					</div>
+					<div>
+						<p>
+							Social
+						</p>
+						<p>Sube stories, no te pierdas ni una foto y entérate de todo lo que está pasando en Facebook, Twitter, Instagram… a todas horas.</p>
+					</div>
+				</article><article>
+					<div>
+						<a href="#" target="_self" data-modal="youtube1" data-modal-youtube="ep14r4kh1U8" data-modal-close="" aria-haspopup="dialog">
+							<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22px" height="22px">
+								<title>Play</title>
+								<use xlink:href="#icon3-play-arrow"></use>
+							</svg>
+						</a>
+						
+					</div>
+					<div>
+						<p>
+							Vídeo
+						</p>
+						<p>Si lo tuyo son las series, películas o cualquier otro de contenido de vídeo, podrás verlo ¡sin gastar los datos de tu tarifa!</p>
+					</div>
+				</article><article>
+					<div>
+						<a href="#" target="_self" data-modal="youtube2" data-modal-youtube="-RRfj0WVg9g" data-modal-close="" aria-haspopup="dialog">
+							<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22px" height="22px">
+								<title>Play</title>
+								<use xlink:href="#icon3-play-arrow"></use>
+							</svg>
+						</a>
+						
+					</div>
+					<div>
+						<p>
+							Música
+						</p>
+						<p>Cuando salgas a correr, vayas en el coche, estés en una fiesta… siempre tendrás a mano la mejor música.</p>
+					</div>
+				</article><button aria-hidden="false"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px"><title>Close</title><use xlink:href="#icon3-close"></use></svg></button><p>¡Conviértete en Partner Vodafone!</p><input style="display:none;" value="NO" name="verifyLeadId"><input type="hidden" name="formulario" value="Vodafone Pass"><input name="wg-return" value="gracias" type="hidden"><span>*Nombre de la empresa</span><input type="text" aria-labelledby="label" name="organization" data-wg-validation="required"><span for="contact">*Persona de contacto</span><input type="text" aria-labelledby="label" name="contact" data-wg-validation="required"><span for="email">*Email</span><input type="text" aria-labelledby="label" name="email" data-wg-validation="required"><span for="phone">*Teléfono</span><input aria-labelledby="label" type="phone" name="phone" inputmode="numeric" pattern="[0-9]*" maxlength="9" data-wg-validation="required,phone" oninput="javascript: if (this.value.length > this.maxLength) this.value = this.value.slice(0, this.maxLength);"><span for="nameService">*App o nombre de servicio y descripción</span><input type="text" aria-labelledby="label" name="nameService" data-wg-validation="required"><span for="categoryService">*App o categoría del servicio</span><option value="0" selected="" disabled="">Selecciona una opción</option><option value="1">Música</option><option value="2">Social</option><option value="3">Vídeo</option><option value="4">Mapas</option><option value="5">Chat/ mensajería</option><span for="traffic">*¿Bajo qué método puede ser identificado el tráfico?</span><input type="text" aria-labelledby="label" name="traffic" data-wg-validation="required"><span for="video">La app, ¿tiene contenido de tipo vídeo y puede ser identificado?</span><input type="text" aria-labelledby="label" name="video"><p>*Campos obligatorios</p><input data-wg-validation="required" type="checkbox" name="privacy" value="on"><label for="privacy"><a href="https://www.vodafone.es/c/particulares/es/politica-privacidad-vodafone-pass/" title="Política de privacidad" rel="nofollow" target="_new">Acepto la política de privacidad</a></label><input type="submit" value="Enviar formulario"><button aria-hidden="false"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px"><title>Close</title><use xlink:href="#icon3-close"></use></svg></button><p>Condiciones Legales Vodafone Pass</p><p>Vodafone Pass incluye la posibilidad de activar hasta cuatro bonos diferentes: Music Pass, Social Pass, Vídeo Pass y Maps Pass.</p><ul>
+				<li><p>Music Pass: por 3 euros al mes. Incluye el tráfico de datos generado por el uso de las aplicaciones de música: Spotify, Soundcloud, Deezer, Apple Music, Napster y Tidal.</p></li>
+				<li><p>Social Pass: por 3 euros al mes. Incluye el tráfico de datos generado por el uso de las aplicaciones de redes sociales: Facebook, Twitter, Instagram, Snapchat, Tik Tok (Musical.ly), Pinterest Tinder, Linkedin, Flickr, Tumblr, Grindr, Badoo, Meetic, AdoptaUnTío, Periscope e eDarling. No incluye VoIP.</p></li>
+				<li><p>Vídeo Pass: por 8 euros al mes. mes. Incluye el tráfico de datos generado por el uso de las aplicaciones de video: Vodafone TV Online, HBO, Netflix, YouTube, Vimeo, Dailymotion, YouTube Kids, Rakuten TV, Twitch, Fox News, RTVE Móvil, Fox Sports, Clan RTVE, YouTube Gaming, Orange TV, Movistar TV, OpenSport, Bein Connect, RedBull TV, Amazon Video y Filmin. No incluye VoIP.</p></li>
+				<li><p>Maps Pass: por 3 euros al mes. Incluye el tráfico de datos generado por el uso de las aplicaciones de mapas: Google Maps, Google Earth, Waze, iCoyote, Here, Tomtom, Endomondo, Tripadvisor y Runtastic. No incluye VoIP.</p></li>
+			</ul><p>Actívalos en cualquier tienda Vodafone, a través de Mi Vodafone o llamando al 22123. Mismos canales para solicitar la desactivación. Renovación mensual. Cuotas no prorrateables ni en alta ni en baja. Roaming incluido en la Unión Europea, Reino Unido, Islandia, Liechtenstein, Noruega, Suiza, Albania, Turquía, Kosovo, Vaticano, Mónaco, Bosnia, Macedonia, Serbia y Montenegro sin coste adicional hasta un máximo de 5GB por bono, después se utilizarán los datos incluidos en la tarifa contratada. Servicio disponible para las tarifas de móvil Mini y Extra. Sujeto a política de uso responsable. Para cualquier aplicación de música no incluida susceptible de ser incluida en el mismo, podrá contactar con Vodafone para gestionar su inclusión a través del formulario que aparece en la web.</p><p>Agotados los GB de la tarifa, la navegación con Vodafone Pass se reduce de 16Kbps.</p><p>Promo “Pruébalo un mes gratis”:</p><p>Promoción válida para los Vodafone Pass: Music, Social y Maps. Los clientes disfrutarán del primer mes gratis del Vodafone Pass activado. Si se activa más de uno, el primer mes gratis aplicará sobre el Vodafone Pass activado en primer lugar. Promoción válida para un solo Vodafone Pass por línea y en las tarifas de móvil Mini y Extra</p><p>Condiciones legales&nbsp;Vodafone Pass en Prepago</p><p>Condiciones Legales Vodafone Pass Prepago incluye la posibilidad de activar hasta cuatro bonos diferentes:</p><ul>
+				<li><p>Chat Pass: 2€ cada 4 semanas. Chatea, envía y recibe notas de audio, fotos y vídeos con las siguientes aplicaciones: WhatsApp, IM Line, Telegram, Message+, Blackberry, KakaoTalk, Viber, WeChat</p></li>
+				<li><p>Social Pass: 3€ cada 4 semanas. Incluye el tráfico de datos generado por el uso de las aplicaciones de redes sociales: Facebook, Twitter, Instagram, Snapchat, TikTok (Musical.ly), Pinterest,Tinder, Linkedin, Flickr, Tumblr, Grindr, Badoo, Meetic, AdoptaUnTío, Periscope e eDarling. No incluye VoIP.</p></li>
+				<li><p>Video Pass: 8€ cada 4 semanas. Incluye el tráfico de datos generado por el uso de las aplicaciones de video: Vodafone TV Online, HBO, Netflix, YouTube,Vimeo, Dailymotion, YouTube Kids, Rakuten TV, Twitch, Fox News, RTVE Móvil, Fox Sports, Clan RTVE, YouTube Gaming, Orange TV, Movistar TV, OpenSport, Bein Connect, RedBull TV,Amazon Video y Filmin. No incluye VoIP.</p></li>
+				<li><p>Music Pass: 3€ cada 4 semanas. Incluye el tráfico de datos generado por el uso de las aplicaciones de música: Spotify, Soundcloud, Deezer, Apple Music,Napster y Tidal.</p></li>
+				<li><p>Map Pass: 3€ cada 4 semanas Incluye el tráfico de datos  generado por el uso de las aplicaciones de mapas: Google Maps, Google Earth, Waze, iCoyote, Here, Tomtom, Endomondo, Tripadvisor y Runtastic. No incluye VoIP.</p></li>
+			</ul><p>Vodafone Pass en prepago es compatible con las tarifas de Vodafone yu: Yuser, Super Yuser y Mega Yuser y con las tarifas Vodafone Prepago S, M, L y XL. Actívalos a través de Mi Vodafone, en cualquier tienda Vodafone o llamando al&nbsp;<a href="tel: 22123">22123</a>. Mismos canales para solicitar la desactivación. Renovación en la sujeta a la renovación de la tarifa. El cliente debe tener la tarifa de prepago activa, habiendo pagado su correspondiente cuota, para disfrutar de Vodafone Pass. Cuotas no prorrateables ni en alta ni en baja. Agotados los GB de la tarifa, la navegación con Vodafone Pass se reduce de 16Kbps</p><p>Roaming en Vodafone Pass: incluido en la UE, Reino Unido, Islandia, Noruega, Liechtenstein, Suiza, Turquía, Vaticano, Kosovo y Mónaco y EE.UU sin coste adicional hasta un máximo de 5GB por Pass, después se utilizarán los datos incluidos en la tarifa nacional contratada.</p><p>Para cualquier aplicación de chat, música, vídeos, mapas o redes sociales no incluida susceptible de ser incluida en los mismos, podrá contactar con Vodafone para gestionar su inclusión a través de la firma del <a href="http://www.vodafone.es/c/statics/nda_vodafone_pass_proposition.pdf" target="_blank">NDA adjunto</a> y su envío a la cuenta <a href="mailto:vodafonepass@vodafone.com"> vodafonepass@vodafone.com</a></p><button aria-hidden="false"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px"><title>Close</title><use xlink:href="#icon3-close"></use></svg></button><div></div><button aria-hidden="false"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px"><title>Close</title><use xlink:href="#icon3-close"></use></svg></button><div></div><button aria-hidden="false"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px"><title>Close</title><use xlink:href="#icon3-close"></use></svg></button><div></div>

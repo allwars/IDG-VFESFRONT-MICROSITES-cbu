@@ -1,0 +1,1 @@
+<h2><strong><span>¡Hola!</span> Queremos darte un servicio más personalizado</strong></h2><p>Para ello necesitamos que nos indiques si eres cliente o no cliente</p><button>Soy cliente Vodafone</button><button>No soy cliente Vodafone</button>

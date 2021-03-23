@@ -1,0 +1,17 @@
+<h3>Nueva revista de Vodafone</h3><p>Descubre las novedades que tenemos para ti en la Península y Canarias</p><button role="tab" aria-controls="panel-peninsula" type="button">
+					Península
+				</button><button role="tab" aria-controls="panel-canarias" type="button">
+					Canarias
+				</button><a href="https://www.vodafone.es/c/statics/revista-vodafone-febrero-peninsula.pdf" data-analytics-id="1500092837020-7194079303391">
+						<picture>
+							<source srcset="img/revista-peninsula.webp" type="image/webp">
+							<source srcset="img/revista-peninsula.png" type="image/png">
+							
+						</picture>
+						</a><a href="http://www.vodafone.es/c/statics/revista-vodafone-febrero-canarias.pdf" data-analytics-id="1500092837020-5769831909089">
+						<picture>
+							<source srcset="img/revista-canarias.webp" type="image/webp">
+							<source srcset="img/revista-canarias.png" type="image/png">
+							
+						</picture>
+						</a>

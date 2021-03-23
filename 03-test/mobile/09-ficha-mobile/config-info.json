@@ -1,0 +1,71 @@
+{
+    "promos": [
+    ],
+    "elements": {
+        "vodafone-one-mini": {
+            "promos": [
+            ],
+            "rels": [
+                { "selector": "pack-serielovers", "newPrice": 20, "defaultAdded": false },
+                { "selector": "pack-seriefans", "newPrice": 10, "defaultAdded": false },
+                { "selector": "xiaomi-red", "defaultAdded": false }
+            ],
+            "href": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?tti=7&tta=1&tcli=0&tcon=0&ec=0&tal=2&sap=11111&m=0&tar=168443635"
+        },
+        "vodafone-one-extra": {
+            "promos": [
+            ],
+            "rels": [
+                { "selector": "pack-serielovers", "newPrice": 20, "defaultAdded": false },
+                { "selector": "pack-seriefans", "newPrice": 10, "defaultAdded": false },
+                { "selector": "lg-k50s", "defaultAdded": false}
+            ],
+            "href": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?tti=7&tta=1&tcli=0&tcon=0&ec=0&tal=2&sap=11111&m=0&tar=168443633"
+        },
+        "vodafone-one-ilimitada": {
+            "promos": [
+                { "id": "promo-one-ilimitada", "description": "Pack Seriefans GRATIS y además 50% dto. durante 3 meses con tu tarifa ilimitada Vodafone One.", "price": null }
+            ],
+            "rels": [
+                { "selector": "pack-serielovers", "newPrice": 10, "defaultAdded": false },
+                { "selector": "pack-seriefans", "newPrice": 0, "defaultAdded": true },
+                { "selector": "samsung-galaxy-s10-plus", "defaultAdded": false }
+            ],
+            "href": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?tti=7&tta=1&tcli=0&tcon=0&ec=0&tal=2&sap=11111&m=0&tar=168444492"
+        },
+        "vodafone-one-ilimitada-super": {
+            "promos": [
+                { "id": "promo-one-ilimitada-super", "description": "Pack Seriefans GRATIS y además 50% dto. durante 3 meses con tu tarifa ilimitada Vodafone One Súper", "price": null }
+            ],
+            "rels": [
+                { "selector": "pack-serielovers", "newPrice": 10, "defaultAdded": false },
+                { "selector": "pack-seriefans", "newPrice": 0, "defaultAdded": true },
+                { "selector": "huawei-p30", "defaultAdded": false }
+            ],
+            "href": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?tti=7&tta=1&tcli=0&tcon=0&ec=0&tal=2&sap=11111&m=0&tar=168444052"
+        },
+        "vodafone-one-ilimitada-total": {
+            "promos": [
+                { "id": "promo-one-ilimitada-total", "description": "Pack Seriefans GRATIS y además 50% dto. durante 3 meses con tu tarifa ilimitada Vodafone One", "price": null }
+            ],
+            "rels": [
+                { "selector": "pack-serielovers", "newPrice": 10, "defaultAdded": false },
+                { "selector": "pack-seriefans", "newPrice": 0, "defaultAdded": true },
+                { "selector": "samsung-galaxy-note10plus", "defaultAdded": false }
+            ],
+            "href": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?tti=7&tta=1&tcli=0&tcon=0&ec=0&tal=2&sap=11111&m=0&tar=168444078"
+        }
+    },
+    
+    "compatibilities": {
+        "pack-serielovers": {
+            "enemies":  ["pack-seriefans"],
+            "text": "<p class=\"vfes-paragraph\">Tiene añadido en el ticket el Pack Seriefans que no es compatible con el Pack Serielovers dado que el Pack Serielovers incluye al Pack Seriefans.</p><p class=\"vfes-paragraph\">¿Está seguro de que desea elegir el Pack Serielovers?</p>"
+        },
+        "pack-seriefans": {
+            "enemies": ["pack-serielovers"],
+            "text": "<p class=\"vfes-paragraph\">Tiene añadido en el ticket el Pack Serielovers que no es compatible con el Pack Seriefans dado que el Pack Serielovers incluye al Pack Seriefans.</p><p class=\"vfes-paragraph\">¿Está seguro de que desea elegir el Pack Seriefans?</p>"
+        }
+    }
+}
+

@@ -1,0 +1,27 @@
+.vfms-banner{
+  background-image: url("https://www.vodafone.es/c/statics/imagen/fondo_basesales_tv_movil.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.vfms-img--offer{
+  max-width: 300px;
+}
+
+@media screen and (min-width: 640px) {
+
+  .vfms-img--offer{
+    max-width: 400px;
+  }
+
+}
+
+@media screen and (min-width: 970px) {
+
+
+  .vfms-img--offer{
+    max-width: 450px;
+  }
+
+}
+

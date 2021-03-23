@@ -1,0 +1,28 @@
+// CSS del microsite
+.vfes-ms-content{
+    .vf-secondary {
+        @media (min-width: 1026px) and (max-width: 1420px) {
+            margin-top: 20px;
+        }
+    }
+    .vf-hero{
+        &--bg {
+            background-image: url('https://www.vodafone.es/c/statics/imagen/bg-desktop-cu109-maxi-sin-oferta.png');
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+        &--img {
+            object-fit: scale-down;
+            max-height: 80%;
+            margin-top: 30px;
+            @media screen and (min-width: 640px) {
+                margin-top: 50px;
+            }
+            @media screen and (min-width: 970px) {
+                object-fit: none;
+                max-height: none;
+                margin-top: auto;
+            }
+        }
+    }
+}

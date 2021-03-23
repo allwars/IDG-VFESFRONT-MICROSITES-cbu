@@ -1,0 +1,124 @@
+<h4>
+            <span>¿Aún tienes dudas? Compara entre tarifas</span>
+        </h4><table summary="Tabla comparativa de la tarifa ilimitada Total en función del número de líneas escogidas (entre 1 y 4)">
+                <caption>Comparativa de tarifas Family Bundles</caption>
+                <thead>
+                <tr>
+                    <th headers="blank" scope="col">
+                        <span>1 línea móvil</span><br>
+                        <span><strong>
+                        41,99€
+                        </strong><span>/mes</span></span>
+                    </th>
+                    <th headers="blank" scope="col">
+                        <span>2 líneas móviles</span><br>
+                        <span><strong>
+                        €
+                        </strong><span>/mes</span></span>
+                    </th>
+                    <th headers="blank" scope="col">
+                        <span>3 líneas móviles</span><br>
+                        <span><strong>
+                        €
+                        </strong><span>/mes</span></span>
+                    </th>
+                    <th headers="blank" scope="col">
+                        <span>4 líneas móviles</span><br>
+                        <span><strong>
+                        €
+                        </strong><span>/mes</span></span>
+                    </th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                    <th headers="blank" scope="rowgroup" colspan="4"><strong>Datos y llamadas</strong> ilimitados
+                    </th>
+                </tr>
+                <tr>
+                    <td headers="total ilimitados"><span>Sí</span></td>
+                    <td headers="moviles2 ilimitados"><span>Sí</span></td>
+                    <td headers="moviles3 ilimitados"><span>Sí</span></td>
+                    <td headers="moviles4 ilimitados"><span>Sí</span></td>
+                </tr>
+                <tr>
+                    <th headers="blank" scope="rowgroup" colspan="4">
+                        <strong>600Mbps</strong> de fibra
+                    </th>
+                </tr>
+                <tr>
+                    <td headers="total fibra"><span>Sí</span></td>
+                    <td headers="moviles2 fibra"><span>Sí</span></td>
+                    <td headers="moviles3 fibra"><span>Sí</span></td>
+                    <td headers="moviles4 fibra"><span>Sí</span></td>
+                </tr>
+                <tr>
+                    <th headers="blank" scope="rowgroup" colspan="4">
+                        <strong>Super WiFi</strong>
+                    </th>
+                </tr>
+                <tr>
+                    <td headers="total wifi"><span>No</span></td>
+                    <td headers="moviles2 wifi"><span>Sí</span></td>
+                    <td headers="moviles3 wifi"><span>Sí</span></td>
+                    <td headers="moviles4 wifi"><span>Sí</span></td>
+                </tr>
+                <tr>
+                    <th headers="blank" scope="rowgroup" colspan="4">
+                        <strong>OneNumber</strong>
+                    </th>
+                </tr>
+                <tr>
+                    <td headers="total onenumber"><span>No</span></td>
+                    <td headers="moviles2 onenumber"><span>No</span></td>
+                    <td headers="moviles3 onenumber"><span>Sí</span></td>
+                    <td headers="moviles4 onenumber"><span>Sí</span></td>
+                </tr>
+                <tr>
+                    <th headers="blank" scope="rowgroup" colspan="4">
+                        <strong>TV con +100 canales + HBO España + Amazon Prime</strong>
+                    </th>
+                </tr>
+                <tr>
+                    <td headers="total tv"><span>No</span></td>
+                    <td headers="moviles2 tv"><span>Sí</span></td>
+                    <td headers="moviles3 tv"><span>Sí</span></td>
+                    <td headers="moviles4 tv"><span>Sí</span></td>
+                </tr>
+                <tr>
+                    <th headers="blank" scope="rowgroup" colspan="4">
+                        <strong>Secure Net</strong> Family
+                    </th>
+                </tr>
+                <tr>
+                    <td headers="total securenet"><span>No</span></td>
+                    <td headers="moviles2 securenet"><span>Sí</span></td>
+                    <td headers="moviles3 securenet"><span>Sí</span></td>
+                    <td headers="moviles4 securenet"><span>Sí</span></td>
+                </tr>
+                <tr>
+                    <th headers="blank" scope="rowgroup" colspan="4"><strong>CarConnect</strong></th>
+                </tr>
+                <tr>
+                    <td headers="total carconnect"><span>No</span></td>
+                    <td headers="moviles2 carconnect">
+                        <span>No</span>
+                    </td>
+                    <td headers="moviles3 carconnect">
+                        <span>No</span>
+                    </td>
+                    <td headers="moviles4 carconnect"><span>Sí</span></td>
+                </tr>
+                <tr>
+                    <th headers="blank" scope="rowgroup" colspan="4">
+                        <strong>V-Home</strong> Mini
+                    </th>
+                </tr>
+                <tr>
+                    <td headers="total vhome"><span>No</span></td>
+                    <td headers="moviles2 vhome"><span>No</span></td>
+                    <td headers="moviles3 vhome"><span>Sí</span></td>
+                    <td headers="moviles4 vhome"><span>Sí</span></td>
+                </tr>
+                </tbody>
+            </table>

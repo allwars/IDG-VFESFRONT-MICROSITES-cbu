@@ -1,0 +1,8 @@
+<button aria-hidden="false"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px">
+								<title>Close</title>
+								<use xlink:href="#icon3-close"></use>
+							</svg></button><p>
+							¡No te vayas! Tenemos un precio especial para ti</p><p>Consigue datos ilimitados con esta
+							oferta</p><p>Déjanos tu teléfono y te llamamos
+						</p><input style="display:none;" value="NO" name="verifyLeadId"><input name="wg-return" value="gracias" type="hidden"><input type="phone" name="phone" inputmode="numeric" pattern="[0-9]*" maxlength="9" data-wg-validation="required,phone" placeholder="Nº teléfono"><input data-wg-validation="required" type="checkbox" value="on" name="check"><label for="privacy">Acepto la <a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/movil/catalogo-clientes/politica-privacidad/" title="Vodafone One" target="_blank" data-modal="legales" rel="nofollow">Política de Privacidad</a></label><input type="checkbox" name="gdpr" value="on"><label for="comunication">Acepto recibir comunicaciones comerciales de Vodafone
+									 </label><input type="submit" value="Te llamamos gratis"><hr><p>Llámanos gratis al <a href="tel:900920509" target="_blank">900920509</a></p>

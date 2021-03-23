@@ -1,0 +1,441 @@
+$hhmobile: 48px;
+$hhtablet: 78px;
+$breakpoint-desktop: 1200px;
+$breakpoint-tablet: 1024px;
+$breakpoint-mov: 775px; //768px; //640px;
+$breakpoint-mov-small: 362px;
+// Generales
+.vfes-colours--turqoise {
+    color: #007C92;
+}
+
+.vfes-colours--anthracite {
+    color: #666;
+}
+
+.vfes-text--strikethrough-turqoise {
+    text-decoration: line-through;
+    color: #007C92;
+}
+
+.vfs-margin-flex-right {
+    margin-right: 6px;
+}
+
+.vfs-margin-flex-left {
+    margin-left: 6px;
+}
+
+@mixin mq-huge {
+    @media only screen and (min-width: $breakpoint-desktop) {
+        @content;
+    }
+}
+
+@mixin mq-desktop {
+    @media only screen and (min-width: $breakpoint-tablet) {
+        @content;
+    }
+}
+
+@mixin mq-tablet-desktop {
+    @media only screen and (min-width: $breakpoint-mov) {
+        @content;
+    }
+}
+
+@mixin mq-tablet {
+    @media only screen and (min-width: $breakpoint-mov) and (max-width: $breakpoint-tablet) {
+        @content;
+    }
+}
+
+@mixin mq-phone {
+    @media only screen and (max-width: $breakpoint-mov) {
+        @content;
+    }
+}
+
+@mixin mq-phone-small {
+    @media only screen and (max-width: $breakpoint-mov-small) {
+        @content;
+    }
+}
+
+.debug .vfes-ms-content {
+    @include mq-desktop {
+        min-height: 2000px;
+    }
+}
+
+// CSS del microsite
+.vfes-ms-content {
+    //min-height: 2000px;
+    background-color: #e5e5e5;
+    padding-top: $hhmobile;
+    @include mq-desktop {
+        padding-top: $hhtablet;
+    }
+    .vf-fl {
+        display: block;
+        width: 50px;
+        float: left;
+        margin-right: 10px;
+        margin-top: -5px;
+    }
+    .vfes-modal {
+        background-color: rgba(0, 0, 0, 0.45);
+    }
+    .vfes-overlay {
+        @media screen and (min-width: 970px) {
+            padding-top: 20px !important;
+            padding-bottom: 20px !important;
+        }
+    }
+    .bf-modal-item {
+        .modal-oferta__icon {
+            float: left;
+            @include mq-tablet-desktop {
+                float: none;
+            }
+        }
+        .vfes-layout__item {
+            margin-top: 20px;
+        }
+    }
+    .vfes-ms-content-filete {
+        display: none;
+        width: 100%;
+        position: sticky;
+        top: 0;
+        z-index: 1;
+        padding: 16px 0;
+        &__notice {
+            font-size: 14px;
+            text-align: center;
+        }
+        .vfes-layout__nopadding {
+            padding: 0;
+        }
+    }
+    .performance-hero {
+        // background-image: linear-gradient(to right, #e60000, #910101 50%);
+        background-image: linear-gradient(201deg, #ebebeb 78%, #d5d0ca 24%);
+        padding: 16px 0;
+        @media screen and (min-width: 768px) {
+            background: url(../img/banner/bts-tablet/background.jpg) no-repeat;
+            background-size: cover;
+        }
+        @media screen and (min-width: 1024px) {
+            background: url(../img/banner/bts/fondo_xsell_fibra.jpg) no-repeat;
+            padding-bottom: 48px;
+            height: 30rem;
+        }
+        &__bolus {
+            display: none;
+            position: absolute;
+            color: #fff;
+            @include mq-tablet-desktop {
+                display: flex;
+                justify-content: center;
+                height: 100%;
+            }
+            &__percentage {
+                font-size: 150px;
+            }
+            &__percentage-simbol {
+                font-size: 95px;
+            }
+            &__extra {
+                font-size: 50px;
+                margin-top: -40px;
+            }
+        }
+        &__title {
+            text-align: center;
+            padding: 0 15px;
+            font-size: 20px;
+            padding: 0 0 12px 0;
+            margin-bottom: 0;
+            @media screen and(min-width: 768px) {
+                display: none;
+            }
+        }
+        &__clain {
+            display: none;
+            @media screen and (min-width: 768px) {
+                position: absolute;
+                bottom: 0;
+                left: 32px;
+                color: #fff;
+                display: flex;
+                flex-direction: column;
+            }
+        }
+        .bonus-mid-reference {
+            display: none;
+        }
+    }
+    .performance-card {
+        color: #333;
+        padding: 14px;
+        text-align: left;
+        margin: 0 auto;
+        max-width: 100%;
+        background-color: #fff;
+        position: relative;
+        border-radius: 0.625rem;
+        box-shadow: 0.125rem 0.125rem 0.5rem 0 rgba(0, 0, 0, 0.16);
+        @media screen and (min-width: 768px) {
+            max-width: 70%;
+        }
+        @media screen and (min-width: 1024px) {
+            max-width: 44%;
+            margin-right: 320px;
+        }
+        &__content {
+            display: flex;
+            flex-flow: column;
+            align-items: center;
+            @media screen and (min-width: 500px) {
+                flex-flow: row;
+                align-items: flex-end;
+                justify-content: space-between;
+            }
+        }
+        &__maincol {
+            width: 100%;
+            @media screen and(min-width: 768px) {
+                width: auto;
+            }
+        }
+        &__list {
+            @media screen and (min-width: 768px) {
+                margin-top: 20px;
+            }
+        }
+        &__list-item {
+            display: flex;
+            margin-bottom: 12px;
+        }
+        &__list-item-description {
+            margin-left: 4px;
+            margin-bottom: 0;
+            .list-item-description__title {
+                font-size: 18px;
+                margin-bottom: 4px;
+                @media screen and (min-width: 768px) {
+                    font-size: 20px;
+                }
+                &--align {
+                    margin-top: 4px;
+                }
+            }
+            .list-item-description__text {
+                font-size: 16px;
+                margin-bottom: 0;
+                @media screen and (min-width: 768px) {
+                    font-size: 18px;
+                }
+            }
+        }
+        &__title {
+            margin-bottom: 15px;
+            font-size: 20px;
+            line-height: 25px;
+            display: flex;
+            flex-direction: column;
+            @media screen and (min-width: 768px) {
+                display: inline;
+                font-size: 24px;
+                line-height: 24px;
+            }
+            @media screen and (min-width:1280px) {
+                font-size: 28px;
+            }
+        }
+        &__details-button {
+            font-size: 14px;
+            margin: 12px 0;
+            text-align: right;
+            @media screen and (min-width: 768px) {
+                margin-bottom: 0;
+                margin-top: 20px;
+                text-align: left;
+            }
+            .vfms-offer-details-link {
+                text-decoration: underline;
+            }
+        }
+        &__details {
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            @media screen and (min-width: 768px) {
+                margin: 0;
+                text-align: left;
+                width: auto;
+            }
+            .performance-card__price-old {
+                display: flex;
+                flex-direction: column;
+                line-height: 1.4;
+                .performance-card__price-old-text {
+                    font-size: 14px;
+                }
+                .performance-card__price-old-number {
+                    font-size: 14px;
+                }
+            }
+            .performance-card__price-new {
+                display: flex;
+                flex-direction: column;
+                .performance-card__price {
+                    font-size: 28px;
+                    line-height: 1;
+                    @media screen and (min-width: 768px) {
+                        font-size: 40px;
+                    }
+                }
+                .performance-card__text-small {
+                    font-size: 20px;
+                }
+            }
+            .performance-card__price-new-features {
+                display: flex;
+                flex-direction: column;
+                font-size: 13px;
+            }
+        }
+        &__detailscol {
+            border-top: 1px solid #cccccc;
+            padding-top: 8px;
+            @media screen and(min-width: 768px) {
+                border-top: none;
+            }
+        }
+        &__deadline {
+            font-size: 14px;
+            display: flex;
+            @media screen and (min-width: 768px) {
+                flex-direction: column;
+            }
+        }
+        &__deadline-item:first-child {
+            margin-right: 2px;
+        }
+        &__text-small {
+            font-size: 28px;
+            @include mq-tablet-desktop {
+                font-size: 20px;
+            }
+        }
+        &__text-smaller {
+            font-size: 14px;
+        }
+    }
+    /* 
+    
+    
+    */
+    .wg-form-trigger {
+        // background-color: #e60000;
+        position: absolute;
+        right: 5px;
+        top: 2px;
+        bottom: 2px;
+        padding-left: 10px;
+        padding-right: 15px;
+        width: auto;
+        svg {
+            display: inline-block;
+            vertical-align: middle;
+        }
+        @include mq-desktop {
+            display: none;
+        }
+        &--circle {
+            display: none;
+            // padding: 0;
+            // position: fixed;
+            // top: auto;
+            // bottom: 5px;
+            // right: 10px;
+            // border-radius: 50%;
+            // width: 50px;
+            // height: 50px;
+            // box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.35);
+            // border: solid 2px #e02020;
+            // background-color: #ffffff;
+            // svg {
+            //     width: 30px;
+            //     height: 30px;
+            //     path {
+            //         fill: #e60000;
+            //     }
+            // }
+        }
+    }
+    // Estilos para los modales
+    .vfms-modal-title {
+        padding-bottom: 10px;
+        border-bottom: solid #333 1px;
+        margin-bottom: 16px;
+    }
+    .vfms-fibraMovil {
+        .vfes-modal__content {
+            padding: 28px;
+        }
+        .vfms-offer-details-features-container {
+            display: flex;
+            flex-wrap: wrap;
+            .vfms-offer-details-features-item {
+                @media screen and (min-width: 768px) {
+                    width: 50%;
+                }
+                .vfms-feature-header {
+                    display: flex;
+                    align-items: center;
+                    // .vfms-feature-icon {
+                    //     display: none;
+                    //     @media screen and (min-width: 768px) {
+                    //         display: block;
+                    //     }
+                    // }
+                    .vfms-feature-title {
+                        margin-bottom: 0;
+                        // align-self: flex-end;
+                        margin-left: 16px;
+                    }
+                }
+                .vfms-feature-content {
+                    list-style: disc;
+                    padding: 0 50px 14px;
+                    font-size: 14px;
+                    line-height: 1.3;
+                }
+            }
+        }
+        .vfms-offer-details-conditions {
+            display: flex;
+            border-top: #333 solid 1px;
+            .vfms-feature-title {
+                margin-bottom: 0;
+                padding-top: 10px;
+            }
+            .vfms-offer-details-conditions-container {
+                list-style: none;
+                font-size: 14px;
+                margin-top: 10px;
+                margin-left: 10px;
+                &__item {
+                    margin-bottom: 8px;
+                }
+                &__item-features {
+                    list-style: disc;
+                    padding: 10px 30px;
+                }
+            }
+        }
+    }
+}

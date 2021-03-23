@@ -1,0 +1,55 @@
+// CSS del microsite
+.vfes-ms-content-nudge-tv{
+    background-image: url('https://www.vodafone.es/c/statics/imagen/bg_mobile_tv.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    @media screen and (min-width: 640px) {
+        background-image: url('https://www.vodafone.es/c/statics/imagen/bg_desktop_tv.png');
+    }
+    .vfes-title--5-large {
+        font-size: 24px;
+        @media screen and (min-width: 640px) {
+            font-size: 34px;
+        }
+        @media screen and (min-width: 970px) {
+            font-size: 40px;
+            max-width: 350px;
+        }
+    }
+    .vfms-img {
+        max-width: 160px;
+        @media screen and (min-width: 970px) {
+            max-width: none;
+        }
+    }
+    .vfms-align {
+        text-align: center;
+        @media screen and (min-width: 640px) {
+            text-align: left;
+            align-items: flex-end;
+        }
+    }
+    .vfes-flex__direction--row-column-sm {
+        @media screen and (min-width: 640px) {
+            flex-direction: row;
+        }
+    } 
+    .vfms-button{
+        &__container {
+            @media screen and (min-width: 640px) {
+                max-width: 258px;
+            }
+            @media screen and (min-width: 970px) {
+                max-width: none;
+            }
+        }
+    }
+    .vfes-text{
+        &__min {
+            @media screen and (min-width: 640px) {
+                font-size: 24px;
+            }
+        }
+    } 
+    } 

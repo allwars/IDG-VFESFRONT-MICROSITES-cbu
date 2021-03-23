@@ -1,0 +1,305 @@
+<span>Tarifas Móvil</span><h2>Llévate los <strong>datos ilimitados 5G</strong> al <strong>50%dto.</strong>
+                         y ahora <strong>con la TV</strong> en todos <strong>tus dispositivos.</strong> 
+                        </h2><div>
+                            
+                            
+                            
+                            
+                            
+                        </div><video src="media/bg.mp4" muted="" autoplay="" loop=""></video><ul>
+                                <li>
+                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                        <use xlink:href="#icon-mobile"></use>
+                                    </svg>
+                                    <div>
+                                        <p>
+                                            Datos y minutos ilimitados
+                                        </p>
+                                        <p>
+                                            Velocidad alta
+                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                                <use xlink:href="#icon-thunder-2grey"></use>
+                                            </svg>
+                                        </p>
+                                    </div>
+                                </li>
+                            </ul><p>
+                                            40% dto. 6 meses
+                                        </p><p>
+                                            Permanencia 6 meses
+                                        </p><p>
+                                            <del>36,99€/mes</del>
+                                        </p><p>
+                                            21,99€<sub>/mes</sub>
+                                        </p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/movil/contrato/tarifas-contrato/tarifa-4/" target="_self" name="Más info" title="Más info" data-analytics-id="1500089056308-7498449761435">
+                                    Más info
+                                </a><ul>
+                                <li>
+                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                        <use xlink:href="#icon-mobile"></use>
+                                    </svg>
+                                    <div>
+                                        <p>
+                                            Datos y minutos ilimitados
+                                        </p>
+                                        <p>
+                                            Velocidad máxima
+                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                                <use xlink:href="#icon-thunder-3"></use>
+                                            </svg>
+                                        </p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                        <use xlink:href="#icon-tv"></use>
+                                    </svg>
+                                    <div>
+                                        <p>
+                                            Pack TV Seriefans GRATIS 1 año
+                                        </p>
+                                        <p>
+                                            Incluye HBO España y 60 canales más
+                                        </p>
+                                    </div>
+                                </li>
+                            </ul><p>
+                                                50% dto. 6 meses
+                                            </p><p>
+                                                Permanencia 1 año
+                                            </p><p>
+                                                <del>47,99€/mes</del>
+                                            </p><p>
+                                                23,99€<sub>/mes</sub>
+                                            </p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/movil/contrato/tarifas-contrato/tarifa-5/" target="_self" name="Más info" title="Más info" data-analytics-id="1500089056308-3827639707871">
+                                       Más info
+                                    </a><ul>
+                                <li>
+                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                        <use xlink:href="#icon-mobile"></use>
+                                    </svg>
+                                    <div>
+                                        <p>
+                                            Datos y minutos ilimitados
+                                        </p>
+                                        <p>
+                                            Velocidad media
+                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                                <use xlink:href="#icon-thunder-2grey"></use>
+                                            </svg>
+                                        </p>
+                                    </div>
+                                </li>
+                            </ul><p>
+                                                Sin permanencia
+                                            </p><p>
+                                                32,99€<sub>/mes</sub>
+                                            </p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/movil/contrato/tarifas-contrato/tarifa-3/" target="_self" name="Más info" title="Más info" data-analytics-id="1500089056308-3827639209871">
+                                       Más info
+                                    </a><p>Si no quieres datos ilimitados</p><p><strong>Descubre nuestra tarifa básica y de prepago</strong></p><ul>
+                                <li>
+                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                        <use xlink:href="#icon-mobile"></use>
+                                    </svg>
+                                    <div>
+                                        <p>
+                                            4GB y 200 minutos
+                                        </p>
+                                        <p>
+                                            + SMS ilimitados
+                                        </p>
+                                    </div>
+                                </li>
+                            </ul><p>
+                                                Sin permanencia
+                                            </p><p>
+                                                19,99€<sub>/mes</sub>
+                                            </p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/movil/contrato/tarifas-contrato/tarifa-1/" target="_self" name="Más info" title="Más info" data-analytics-id="1500089056308-9017639703071">
+                                       Más info
+                                    </a><h3><strong>Tarifas prepago,</strong><span>ahora con más datos y llamadas ilimitadas.</span></h3><p>
+                            <a data-analytics-id="1500089056308-0003203971137" href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/movil/prepago-y-recargas/tarifas-de-prepago/" target="_self">
+                                Más info
+                            </a>
+                        </p><div>
+                        
+                    </div><picture>
+                                <source media="(min-width: 960px)" srcset="img/section-addons/banner-tv-desktop.png">
+                                <source media="(min-width: 768px)" srcset="img/section-addons/banner-tv-tablet.png">
+                                
+                            </picture><b>¡Nuevo!</b><h4>Ya puedes contratar Vodafone TV sin deco.</h4><p>Ahora con la Tarifas Moviles disfruta de la televisión en tu Smart TV (a través de la App Vodafone TV) y en tus dispositivos como chromecast, móvil, tablet y ordenador para vivir una experiencia online.</p><a data-analytics-id=" 1500089056308-0005728358328" href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/movil/contrato/tarifas-contrato/tarifa-5/" target="_self">
+                                Más info
+                            </a><h3><strong>Añade más líneas móviles</strong> a tu plan con un <strong>50% de descuento</strong></h3><p>
+                        <a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/movil/contrato/mas-lineas/" target="_self" data-analytics-id=" 1500089056308-9639652004719">
+                            Más info
+                        </a>
+                    </p><div>
+                    
+                </div><h3>Hazte con <strong>gigas ilimitados en redes sociales y mensajería</strong></h3><p>
+                            <a data-analytics-id=" 1500089056308-0003203971148" href="https://vodafoneyu.es/tarifas-moviles/" target="_self">
+                                Más info
+                            </a>
+                        </p><div>
+                        
+                    </div><h3><strong>Hay una tarifa móvil de contrato pensada para ti</strong></h3><ul>
+                <li>
+                    <article>
+                    <span>
+                        
+                    </span>
+                    <h3>Datos ilimitados</h3>
+                    <p>No hace falta que busques WiFi ni mires el calendario, con tu móvil podrás conectarte desde el primer hasta el último día del mes a la misma velocidad con gigas ilimitados.</p>
+                </article>
+                </li>
+                <li>
+                    <article>
+                    <span>
+                        
+                    </span>
+                    <h3>Vodafone TV sin deco</h3>
+                    <p>Podrás ver todos los mejores contenidos de Cine y Series cómo y cuándo quieras con funcionalidades como Grabación, Últimos 7 días, Control del directo, Ver Ahora, Descarga o Multidispositivo.</p>
+                </article>
+                </li>
+                <li>
+                    <article>
+                    <span>
+                        
+                    </span>
+                    <h3>Minutos y datos ilimitados</h3>
+                    <p>Habla y navega todo lo que quieras. Llama desde el fijo y el móvil a fijos y móviles sin preocuparte por nada, tampoco del consumo de datos.</p>
+                </article>
+                </li>
+                <li>
+                    <article>
+                    <span>
+                        
+                    </span>
+                    <h3>Red 5G</h3>
+                    <p>Navega a máxima velocidad con 5G. Descarga un serie en segundos, juega online a tiempo real y disfruta de una calidad mayor de vídeo y voz.</p>
+                </article>
+                </li>
+            </ul><div>
+                
+            </div><p><strong>Descubre las tarifas móvil de Vodafone</strong></p><p>
+                    Hables mucho o poco, navegues sin parar o solo cinco minutos al día, <strong>tenemos la tarifa móvil perfecta para ti</strong>. No importa si piensas en una tarifa de contrato o de prepago, si quieres datos ilimitados o te encanta hablar con nuestra oferta de llamadas ilimitadas. Tenemos la tarifa ideal para ti.
+                </p><p>
+                    Además, es el momento de que conozcas y disfrutes de nuestras nuevas <strong>tarifas móviles con 5G</strong>, con las que podrás descargarte series a gran velocidad y hacer videollamadas sin cortes y con una gran calidad de imagen. Escoge entre las mejores tarifas de móvil del mercado y empieza ya a disfrutar de llamadas, minutos y datos ilimitados
+                </p><p><strong>Preguntas Frecuentes</strong></p><details>
+                        <summary>
+                            <h3>¿Qué es el 5G?</h3>
+                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px">
+                                <title>Deploy</title>
+                                <use xlink:href="#icon-chevron-down"></use>
+                            </svg>
+                        </summary>
+                        <article>
+                            <p>
+                                La red 5G o red de quinta generación, es una tecnología de red inalámbrica evolución de la red 4G+ LTE cuyas principales ventajas son alcanzar mayor velocidad y cobertura además de un menor uso de batería y latencia.
+                            </p>
+                        </article>
+                    </details><details>
+                        <summary>
+                            <h3>¿Cómo puedo disfrutar del 5G? </h3>
+                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px">
+                                <title>Deploy</title>
+                                <use xlink:href="#icon-chevron-down"></use>
+                            </svg>
+                        </summary>
+                        <article>
+                            <p> La conexión 5G ya es una realidad en España para clientes Vodafone, para ello solo necesitarás un teléfono móvil 5G.</p>
+                            <p>Si quieres, puedes disfrutar de nuestro catálogo de móviles 5G con los últimos modelos de las mejores marcas como Samsung, Xiaomi, Huawei, Apple y muchos más.</p>
+                        </article>
+                    </details><details>
+                        <summary>
+                            <h3>Cuando hablan de datos ilimitados, ¿existe algún límite?¿Y en Roaming?</h3>
+                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px">
+                                <title>Deploy</title>
+                                <use xlink:href="#icon-chevron-down"></use>
+                            </svg>
+                        </summary>
+                        <article>
+                            <p>
+                                No existe un límite de datos siempre que el uso comprenda el uso personal del servicio para fines del uso particular y razonables. Así mismo, el uso responsable y no fraudulento. En cuanto al Roaming, las tarifas ilimitadas en datos disfrutarán de minutos, mensajes ilimitados y Gigas limitados cuando viajen por Europa, Reino Unido y EE.UU sin coste adicional. Los Gigas serán diferentes en función del tipo de tarifa. La tarifa Vodafone Ilimitada incluirá 20GB, la tarifa Vodafone Ilimitada Maxi  incluirá 18GB y la Vodafone Ilimitada Total  de 24GB. Superados los Gigas incluidos en roaming el precio del Giga será de 5,4 €/GB. 
+                            </p>
+                        </article>
+                    </details><details>
+                        <summary>
+                            <h3>¿Cuáles son las ventajas de mantener Secure Net en las tarifas móviles? ¿Me puedo dar de baja? ¿Cómo?</h3>
+                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px">
+                                <title>Deploy</title>
+                                <use xlink:href="#icon-chevron-down"></use>
+                            </svg>
+                        </summary>
+                        <article>
+                            <p>
+                                <strong>Secure Net</strong> te ofrece protección sea cual sea tu Smartphone y sistema operativo (iOS o Android), frente a virus (Malware, Spyware), phishing y páginas web que puedan contener archivos maliciosos.
+                            </p>
+                            <p>Te permite localizar fácilmente tu Smartphone en caso de pérdida o robo y protege y gestiona la actividad de tus hijos en Internet.</p>
+                            <p>Para dar de baja el servicio desde cualquier dispositivo, ve al botón de Ajustes de Secure Net, y selecciona abajo Desactivar. También puedes darlo de baja llamando gratis al <a href="tel:22155">22155</a>.</p>
+                        </article>
+                    </details><details>
+                        <summary>
+                            <h3>¿Qué es Vodafone TV sin deco (decodificador)?</h3>
+                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px">
+                                <title>Deploy</title>
+                                <use xlink:href="#icon-chevron-down"></use>
+                            </svg>
+                        </summary>
+                        <article>
+                            <p>
+                                Vodafone TV sin deco (decodificador) es la nueva experiencia para disfrutar de todos los contenidos de televisión sin disponer del decodificador asociado a la fibra, sino más bien a través de la App Vodafone TV asociado a tu tarifa móvil. Ahora podrás ver las mejores series y películas desde los dispositivos compatibles a través de la App Vodafone TV.
+                            </p>
+                        </article>
+                    </details><details>
+                        <summary>
+                            <h3>¿Cómo se activa Vodafone TV?</h3>
+                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px">
+                                <title>Deploy</title>
+                                <use xlink:href="#icon-chevron-down"></use>
+                            </svg>
+                        </summary>
+                        <article>
+                            <p>
+                               Una vez realizada la compra, recibirás un email de activación de servicio en el email que hayas introducido durante el proceso de compra.
+                            </p>
+                            <p>Podrás activar HBO España desde la App de Mi Vodafone.</p>
+                            <p>Después, descarga la app de Vodafone TV, para ver todo el contenido estés donde estés… Y… DISFRUTA.</p>
+                        </article>
+                    </details><details>
+                        <summary>
+                            <h3>¿Qué dispositivos son compatibles con la TV sin deco (decodificador)?</h3>
+                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px">
+                                <title>Deploy</title>
+                                <use xlink:href="#icon-chevron-down"></use>
+                            </svg>
+                        </summary>
+                        <article>
+                            <p>
+                               Puedes disfrutar de Vodafone TV sin decodificador a través de los siguientes dispositivos:
+                            </p>
+                            <ul>
+                                <li><p>Modelos de smart TV Samsung (a partir de 2017).</p></li>
+                                <li><p>Modelos de smart TV Sony (desde 2015), Philips (desde 2018) y Xiaomi con Android TV.</p></li>
+                                <li><p>Comprueba que tu smart TV es compatible con la App Vodafone TV.</p></li>
+                                <li><p>Móvil / Tablet iOS y Android.</p></li>
+                                <li><p>PC / Mac.</p></li>
+                                <li><p>Fire TV Stick.</p></li>
+                                <li><p>Chromecast.</p></li>
+                                <li><p>Vodafone TV sin decodificador te permite tener hasta 4 dispositivos registrados y realizar hasta 2 reproducciones simultáneas.</p></li>
+                            </ul>
+                            <p>También puedes efectuar hasta 5 cambios o eliminaciones de dispositivos registrados en un mes. Entra en vodafonetvonline.es, en la sección "Mi Cuenta &gt; Dispositivos", selecciona el dispositivo que quieres eliminar y pulsa "Aceptar".</p>
+                            <p>La App Vodafone TV no está disponible en Apple TV.</p>
+                        </article>
+                    </details><details>
+                        <summary>
+                            <h3>¿Puedo contratar líneas adicionales?</h3>
+                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px">
+                                <title>Deploy</title>
+                                <use xlink:href="#icon-chevron-down"></use>
+                            </svg>
+                        </summary>
+                        <article>
+                            <p>
+                               Si no eres cliente Vodafone puedes contratar líneas adicionales en el proceso de compra de la tarifa móvil. Cuando estés tramitando el pedido en la web, te daremos la opción de <strong>incluir más líneas</strong> con un 50% de descuento en cada una de ellas. Podrás realizar todo el trámite de manera digital de una forma rápida y sencilla. Si ya eres cliente Vodafone, podrás contratar <strong>líneas adicionales</strong> entrando en la App “Mi Vodafone”, desde tu área privada podrás añadir más líneas a tu plan actual. Si lo prefieres, también puedes llamar gratis al siguiente teléfono: <a href="tel:900921191">900 921 191</a>.
+                            </p>
+                        </article>
+                    </details>

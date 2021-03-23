@@ -1,0 +1,173 @@
+// CSS del microsite
+
+.vfes-ms-content{
+
+    .breadcrumbs-layout {
+        padding: 0;
+    }
+    .measurec2c {
+        text-decoration: none;
+    }
+    .vfms-carousel {
+        padding-top: 40px;
+    }
+    .vfes-card-shop__offer {
+        a{
+            text-decoration:none;
+        }
+        h2 {
+            margin-bottom: 0;
+        }
+    }
+    .header-background {
+        background-image: url('../img/background.png');
+        background-size: cover;
+
+        & img {
+            vertical-align: bottom;
+        }
+
+        .hide--sm {
+            vertical-align: middle;
+
+            .brand-logo {
+                margin-bottom: 18px;
+                width: 260px;
+            }
+
+            .vfes-1\/2 {
+                vertical-align: middle;
+            }
+
+            .vfes-layout__item:first-of-type {
+                vertical-align: middle;
+                padding-top: 48px;
+            }
+        }
+
+        .hide--lrg {
+            .brand-logo {
+                margin-top: 24px;
+            }
+            .vfes-title {
+                margin-top: 16px;
+            }
+            .vfes-paragraph {
+                margin-bottom: 24px;
+            }
+        }
+
+        &.vfms-text__align {
+            text-align: center;
+        }
+    }
+    .section-disp {
+        padding-top: 24px;
+        padding-bottom: 48px;
+
+        .vfes-link {
+            font-size: 14px;
+        }
+
+        .vfes-layout__item:last-of-type {
+            margin-top: 24px;
+        }
+    }
+
+    .vfes-carousel {
+        a:hover {
+            color: #333;
+        }
+        .vfes-button:hover {
+            color: #fff;
+        }
+        .vfes-title--4 {
+            font-size: 20px;
+            line-height: 24px;
+            color: #333;
+        }
+        .vfes-paragraph {
+            font-size: 16px;
+            line-height: 18px;
+            margin-bottom: 15px;
+        }
+        .vfes-card-shop__accordion-button {
+            margin-top: 16px;
+            margin-bottom: 16px;
+            &::after {
+                -ms-transform: rotate(135deg);
+                border-right: .1rem solid #e60000;
+                border-top: .1rem solid #e60000;
+            }
+        }
+        .vfes-card-shop__bottom {
+            padding-top: 0;
+            margin-top: 0;
+            .vfes-paragraph {
+                padding: 0;
+                margin: 0;
+            }
+            .vfes-title--5 {
+                margin-bottom: 12px;
+                font-size: 20px;
+                &:last-of-type {
+                    margin-bottom: 24px;
+                }
+            }
+        }
+        .lazyload {
+            padding-top: 12px;
+            padding-bottom: 12px;
+        }
+
+        .vfes-card-shop__accordion.open .vfes-card-shop__accordion-content {
+            padding-bottom: 18px;
+        }
+    }
+
+    .vfms-link {
+        text-decoration: underline;
+    }
+    
+    .box-companias {
+        display: flex;
+        flex-direction: column;
+        .logo-link {
+            color: transparent;
+            margin-right: 48px;
+            &:last-of-type {
+                margin: 0;
+            }
+        }
+    }
+
+    .logo {
+        
+        &--disabled {
+            -webkit-filter: grayscale(100%);
+            filter: grayscale(100%);
+            opacity: 0.3;
+            -webkit-transition: all 0.3s;
+            transition: all 0.3s;
+        }
+        &--disabled:hover {
+            -webkit-filter: grayscale(0%);
+            filter: grayscale(0%);
+            opacity: 1;
+        }
+    }
+
+    @media only screen and (min-width: 640px) {
+        .box-companias {
+            display: block;
+        }
+    }
+
+    @media only screen and (min-width: 970px) {
+        .section-disp {
+            .vfes-layout__item:last-of-type {
+                margin-top: 0px;
+            }
+        }
+    }
+}

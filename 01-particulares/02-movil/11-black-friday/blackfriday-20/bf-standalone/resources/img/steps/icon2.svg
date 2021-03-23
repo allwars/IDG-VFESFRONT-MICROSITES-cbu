@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="74" height="70" viewBox="0 0 74 70">
+    <defs>
+        <linearGradient id="m1rptncjqa" x1="26.824%" x2="73.176%" y1="10.73%" y2="89.27%">
+            <stop offset="0%" stop-color="#FFF" stop-opacity=".3"/>
+            <stop offset="100%" stop-color="#F6F6F6" stop-opacity="0"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <g>
+                        <g>
+                            <g transform="translate(-454 -2963) translate(18 2492) translate(11 439) translate(316 2) translate(78.714) translate(30.821 30)">
+                                <ellipse cx="36.5" cy="35" fill="#FFF" fill-rule="nonzero" rx="36.25" ry="35"/>
+                                <g>
+                                    <g transform="translate(4 1) translate(.333 .667)">
+                                        <rect width="26.667" height="53.333" x="18.667" y="5.333" fill="#EBEBEB" fill-rule="nonzero" rx="2.667"/>
+                                        <path fill="#000" fill-rule="nonzero" d="M42.667 58H21.333c-1.472 0-2.666-1.194-2.666-2.667V56c0 1.473 1.194 2.667 2.666 2.667h21.334c1.472 0 2.666-1.194 2.666-2.667v-.667c0 1.473-1.194 2.667-2.666 2.667z" opacity=".06"/>
+                                        <rect width="24" height="40.667" x="20" y="10.667" fill="#333" fill-rule="nonzero" rx=".667"/>
+                                        <rect width="24" height="40.667" x="20" y="10.667" fill="url(#m1rptncjqa)" fill-rule="nonzero" opacity=".5" rx=".667"/>
+                                        <g fill="#333" fill-rule="nonzero" opacity=".24">
+                                            <path d="M23.333.333c.184 0 .334.15.334.334V40c0 .184-.15.333-.334.333H.667c-.184 0-.334-.149-.334-.333V.667c0-.184.15-.334.334-.334h22.666zm0-.333H.667C.298 0 0 .298 0 .667V40c0 .368.298.667.667.667h22.666c.369 0 .667-.299.667-.667V.667C24 .298 23.702 0 23.333 0z" transform="translate(20 10.667)"/>
+                                        </g>
+                                        <rect width="5.333" height="1" x="29.333" y="8" fill="#4A4D4E" fill-rule="nonzero" rx=".237"/>
+                                        <rect width="1" height="1" x="27.333" y="8" fill="#E60000" fill-rule="nonzero" rx=".237"/>
+                                        <circle cx="32" cy="54.667" r="2" fill="#E60000" fill-rule="nonzero"/>
+                                        <path d="M0 0H64V64H0z"/>
+                                        <path fill="#EBEBEB" fill-rule="nonzero" d="M37.61 25.057l-4.667-4.667c-.25-.25-.59-.391-.943-.391-.354 0-.693.14-.943.391l-4.667 4.667c-.521.52-.521 1.365 0 1.886.521.521 1.366.521 1.887 0l2.39-2.39v16.114c0 .736.597 1.333 1.333 1.333s1.333-.597 1.333-1.333V24.553l2.39 2.39c.337.337.829.469 1.289.346.46-.124.82-.483.943-.944.124-.46-.008-.951-.345-1.288z"/>
+                                        <path fill="#333" fill-rule="nonzero" d="M37.61 25.057l-4.667-4.667c-.25-.25-.59-.391-.943-.391-.354 0-.693.14-.943.391l-4.667 4.667c-.521.52-.521 1.365 0 1.886.521.521 1.366.521 1.887 0l2.39-2.39v16.114c0 .736.597 1.333 1.333 1.333s1.333-.597 1.333-1.333V24.553l2.39 2.39c.337.337.829.469 1.289.346.46-.124.82-.483.943-.944.124-.46-.008-.951-.345-1.288z" opacity=".06"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

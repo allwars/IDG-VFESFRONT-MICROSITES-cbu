@@ -1,0 +1,106 @@
+<link href="css/ws10.css" rel="stylesheet"/>
+<link href="css/styles.css" rel="stylesheet" data-ws10-microcss/>
+
+<script>
+    utag_data.plans_add2cart = [{
+
+        "product_name": "hogar ilimitable 20",
+        "product_category": "one plus",
+        "product_variant": "2 líneas con datos y min. ilimitados+600Mbps Fibra",
+        "promotion_price_name": "Hogar ilimitable - 50% dto. 3 meses",
+        "promotion_gift_name": "268547871",
+        "product_id": "",
+        "product_sale_type": "yes:transactional"
+
+    },
+        {"product_name": "hogar ilimitable 20",
+            "product_category": "one plus",
+            "product_variant": "2 líneas con datos y min. ilimitados+1 Gbps Fibra",
+            "promotion_price_name": "Hogar ilimitable - 50% dto. 3 meses",
+            "promotion_gift_name": "",
+            "product_id": "268548067",
+            "product_sale_type": "yes:transactional"
+
+        },
+        {"product_name": "hogar ilimitable 30",
+            "product_category": "one plus",
+            "product_variant": "3 líneas con datos y min. ilimitados+600Mbps Fibra",
+            "promotion_price_name": "Hogar ilimitable - 50% dto. 3 meses",
+            "promotion_gift_name": "",
+            "product_id": "268547877",
+            "product_sale_type": "yes:transactional"
+
+        },
+        {"product_name": "hogar ilimitable 30",
+            "product_category": "one plus",
+            "product_variant": "3 líneas con datos y min. ilimitados+1Gbps Fibra' ",
+            "promotion_price_name": "Hogar ilimitable - 50% dto. 3 meses",
+            "promotion_gift_name": "",
+            "product_id": "268548068",
+            "product_sale_type": "yes:transactional"
+
+        },
+        {"product_name": "hogar ilimitable 40",
+            "product_category": "one plus",
+            "product_variant": "4 líneas con datos y min. ilimitados+600Mbps Fibra",
+            "promotion_price_name": "Hogar ilimitable - 50% dto. 3 meses",
+            "promotion_gift_name": "",
+            "product_id": "268547883",
+            "product_sale_type": "yes:transactional"
+        },
+        {"product_name": "hogar ilimitable 40",
+            "product_category": "one plus",
+            "product_variant": "4 líneas con datos y min. ilimitados+1Gbps Fibra",
+            "promotion_price_name": "Hogar ilimitable - 50% dto. 3 meses",
+            "promotion_gift_name": "",
+            "product_id": "268547889",
+            "product_sale_type": "yes:transactional"}]
+</script>
+
+<div class="vfes-ms-content ws10-u-color--bg-light-grey ws10-o-tabs" id="family-bundles">
+    <!--  Breadcrumbs  -->
+    {{!-- {{> breadcrumbs }} --}}
+    <!-- 2/3 DESKTOP-->
+    <div class="vf-container-lane">
+        <!--  Banner principal -->
+        {{> bannerTicket }}
+        <!-- PRINCIPAL CONTAINER 2/3 DESKTOP-->
+        <div class="ws10-o-wrapper ws10-u--pb16x" data-js="showSticky">
+            <div class="ws10-o-layout">
+                <div class="ws10-o-layout__item">
+                    <div class="ws10-u--2/3@desktop ws10-u--1/1@tablet">
+                        <h2 class=" ws10-u-heading--4 ws10-u--pb4x ws10-u--pt8x">
+                            <strong>¿Qué incluye el paquete familiar?</strong>
+                        </h2>
+                        <!-- Conectivity -->
+                        {{> conectivity }}
+                        <!-- Entretenimiento -->
+                        {{> entertainment }}
+                        <!-- Hogar inteligente -->
+                        {{> smartHome }}
+                        <!-- Sin sorpresas -->
+                        {{> noSurprises }}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <!-- 1/1 DESKTOP-->
+    <div class="ws10-o-wrapper" data-js="ticketStopped">
+        <!--  Próximos pasos -->
+        {{> nextSteps }}
+        <!--  Tabla -->
+        {{> table }}
+    </div>
+
+</div>
+
+    {{> stickyBackdrop }}
+
+
+
+<script src="js/ws10.js"></script>
+<script src="js/main.js"></script>

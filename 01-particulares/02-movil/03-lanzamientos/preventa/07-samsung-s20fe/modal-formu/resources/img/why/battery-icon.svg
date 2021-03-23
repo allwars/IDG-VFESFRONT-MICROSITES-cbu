@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="36px" viewBox="0 0 70 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>battery-icon_desktop</title>
+    <defs>
+        <linearGradient x1="32.8379846%" y1="25.0060459%" x2="56.3725913%" y2="85.828295%" id="linearGradient-1">
+            <stop stop-color="#000000" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="LP_Preventa-Samsung-Galaxy-Note-XX-+-Watch----Note---Desktop" transform="translate(-756.000000, -1406.000000)">
+            <g id="Group-6" transform="translate(50.000000, 1359.000000)">
+                <g id="1" transform="translate(600.000000, 0.000000)">
+                    <g id="Group" transform="translate(76.000000, 0.000000)">
+                        <g transform="translate(23.000000, 23.000000)" id="band_on_charge_hi_dark">
+                            <rect id="bg" fill-opacity="0" fill="#D8D8D8" x="0" y="0" width="84" height="84"></rect>
+                            <path d="M70,36.75 L70,31.5 C70,27.6340068 66.8659932,24.5 63,24.5 L14,24.5 C10.1340068,24.5 7,27.6340068 7,31.5 L7,52.5 C7,56.3659932 10.1340068,59.5 14,59.5 L63,59.5 C66.8659932,59.5 70,56.3659932 70,52.5 L70,36.75 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                            <path d="M70,52.5 L71.75,52.5 C74.6494949,52.5 77,50.1494949 77,47.25 L77,36.75 C77,33.8505051 74.6494949,31.5 71.75,31.5 L70,31.5" id="Shape" fill="#EBEBEB" fill-rule="nonzero"></path>
+                            <g id="Group" opacity="0.06" transform="translate(70.000000, 31.500000)" fill="#000000" fill-rule="nonzero">
+                                <path d="M0,21 L1.75,21 C4.64949494,21 7,18.6494949 7,15.75 L7,5.25 C7,2.35050506 4.64949494,0 1.75,0 L0,0" id="Shape"></path>
+                            </g>
+                            <g id="Group" opacity="0.06" transform="translate(70.000000, 31.500000)" fill="#000000" fill-rule="nonzero">
+                                <path d="M0,21 L1.75,21 C4.64949494,21 7,18.6494949 7,15.75 L7,5.25 C7,2.35050506 4.64949494,0 1.75,0 L0,0" id="Shape"></path>
+                            </g>
+                            <path d="M71.75,52.5 C74.6494949,52.5 77,50.1494949 77,47.25 L77,41.409375 L70,34.409375 L70,52.5 L71.75,52.5 Z" id="Shape" fill="url(#linearGradient-1)" fill-rule="nonzero" opacity="0.2"></path>
+                            <path d="M38.5,51.625 C38.3011294,51.625 38.1082441,51.5569493 37.953125,51.4325 C37.576414,51.1303466 37.515714,50.5801304 37.8175,50.203125 L43.68,42.875 L31.5,42.875 C31.1636825,42.8747899 30.8572489,42.6818379 30.7117138,42.3786399 C30.5661788,42.0754418 30.6073014,41.7156628 30.8175,41.453125 L37.8175,32.703125 C38.1243987,32.3437156 38.6612403,32.292962 39.0300573,32.5884885 C39.3988743,32.8840149 39.466366,33.41901 39.1825,33.796875 L33.32,41.125 L45.5,41.125 C45.8363175,41.1252101 46.1427511,41.3181621 46.2882862,41.6213601 C46.4338212,41.9245582 46.3926986,42.2843372 46.1825,42.546875 L39.1825,51.296875 C39.016563,51.5041304 38.7654992,51.625 38.5,51.625 Z" id="Shape" fill="#E60000" fill-rule="nonzero"></path>
+                            <polygon id="Shape" fill="#E60000" fill-rule="nonzero" points="37.673125 42 39.344375 33.473125 31.49125 42"></polygon>
+                            <polygon id="Shape" fill="#E60000" fill-rule="nonzero" points="39.344375 41.960625 37.673125 50.483125 45.530625 41.960625"></polygon>
+                            <path d="M63,58.625 L14,58.625 C10.1340068,58.625 7,55.4909932 7,51.625 L7,52.5 C7,56.3659932 10.1340068,59.5 14,59.5 L63,59.5 C66.8659932,59.5 70,56.3659932 70,52.5 L70,51.625 C70,55.4909932 66.8659932,58.625 63,58.625 Z" id="Shape" fill="#000000" fill-rule="nonzero" opacity="0.06"></path>
+                            <path d="M71.75,51.625 L70,51.625 L70,52.5 L71.75,52.5 C74.6494949,52.5 77,50.1494949 77,47.25 L77,46.375 C77,49.2744949 74.6494949,51.625 71.75,51.625 L71.75,51.625 Z" id="Shape" fill="#000000" fill-rule="nonzero" opacity="0.06"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

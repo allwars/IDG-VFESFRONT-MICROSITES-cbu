@@ -1,0 +1,187 @@
+// CSS del microsite
+.vfes-ms-content{
+    //Section hero
+    .vfms__hero-btn{
+        font-family: "Vodafone",Helvetica,Arial,sans-serif;
+        color: #333;
+        font-size:18px;
+        font-weight: normal;
+    }
+    .slide__content{
+        display: flex;
+        justify-content: center;
+    }
+    .ws10-c-hero-carousel__w-slides {
+        height: 420px;
+        @media screen and (min-width: 768px) {
+            height: 650px;
+        }
+        @media screen and (min-width: 1024px) {
+            height: 400px;
+        }
+    }
+    //Quicklinks
+    .ws10-c-quick-links__text {
+        width: 150px!important;
+    }
+    .ws10-c-quick-links__icon {
+        border: solid 2px #fff;
+        background-color: transparent;
+        color: #fff;
+        flex-shrink: 0;
+        transform: scale(1);
+        transition-property: transform;
+        transition-duration: .2s;
+        transition-timing-function: linear,ease-in;
+        transition-delay: 0s;
+        margin:0 auto;
+        margin-bottom: 5px;
+    }
+    .ws10-c-quick-links {
+        font-size: 1rem;
+        padding:0;
+        background: linear-gradient(to right, #820000 0%, #E60000 50%, #ff0000 100%);
+        .ws10-o-wrapper{
+            padding-right: 0;
+            padding-left:0;
+        }
+        .ws10-c-quick-links__list-item {
+            flex: 0;
+            padding: 1rem 0;
+        }
+    }
+
+    // Section outstanding
+    .vfms-outstandings{
+        &__container{
+            //background-color:getColor("light-grey");
+            background-color:#F4F4F4;
+        }
+    }
+    .ws10-c-cards-discovery-standard picture{
+        display:block;
+    }
+    
+    .vfms-outstanding__item{
+        justify-content: stretch;
+    }
+    .ws10-c-cards-discovery-standard--large {
+       
+        height: 100%;
+    }
+     // Section Why Vodafone
+     .vfms-why{
+        &__container{
+            //background-color:getColor("light-grey");
+            background-color:#F4F4F4;
+        }
+        &__container-tabs{
+            //background-color:getColor("light-grey");
+            background-color:#ffffff;
+        }
+      
+    }
+    
+
+    // Section Wanted
+
+    /*.ws10-c-card-discovery-product__image {   
+        width: auto; 
+    }*/
+
+    //GRID
+    .vfms__card-height{
+        height:100%;
+    }
+    .vfms__card-width{
+
+        width:250px;
+       
+        @media (min-width: 768px) and (max-width: 1024px) {
+            width: 280px;
+            margin:0 auto;
+        }
+        @media screen and (min-width: 1025px) {
+            width: 100%;
+            margin:0 auto;
+        }
+    }
+    .vfms__card-container{
+        width: 100%;
+        //overflow-x: scroll;
+        -webkit-overflow-scrolling: "touch";
+       // overflow-y:hidden;
+        //max-width: unset;
+
+        overflow: none;
+        overflow-x: auto;
+        display: block;
+
+
+        @media screen and (min-width: 1025px) {
+            //overflow-x: scroll;
+            //overflow-y:hidden;
+            overflow: none;
+            overflow-x: auto;
+            display: block;
+        }
+        @media screen and (min-width: 1400px) {
+            overflow-x: hidden;
+            overflow-y:hidden;
+        }
+    }
+    .vfms__card-container-content {
+        width:800px;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-auto-rows: auto;    
+        grid-gap: 1rem;
+        overflow:hidden;
+        position:relative;
+       
+        @media (min-width: 768px) and (max-width: 1024px) {
+            width: 950px;
+        }   
+        @media screen and (min-width: 1025px) {
+            width: 100%;
+        } 
+        .vfms__card-item { 
+            padding: .5rem;
+            justify-content: stretch;
+        }
+    }
+    .ws10-c-card-discovery-product--large {
+        height: 100%;
+    }
+
+    .vfms-wanted{
+        &__container{
+            //background-color:getColor("light-grey");
+            background-color:#F4F4F4;
+        }
+    }
+    .vfms-discovery-product-search{
+        padding: 12px 1.25rem
+    }
+    .ws10-c-card-discovery-product-search__title{
+        min-height: 100px;
+    }
+    .ws10-c-tabs-filter__tablist {
+        padding: 20px;
+    }
+    .vfms__wanted-btn{
+        text-align: center!important;
+        font-size: 18px!important;;
+
+    }
+
+
+    // Section Benefits
+    .vfms-benefits{
+        &__container{
+            //background-color:getColor("light-grey");
+            background-color:#F4F4F4;
+        }
+    }
+
+}

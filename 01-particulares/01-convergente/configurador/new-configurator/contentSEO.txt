@@ -1,0 +1,1020 @@
+<div data-spritesheet="svg/sprite.mid.svg"></div><h3>Elige una tarifa de Móvil + Fibra:</h3><ul>
+                        <li>
+                            <div>
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-tick-or-solved"></use>
+                                </svg>
+                                <div></div>
+                                <ul>
+                                    <li data-card="title">
+                                        <h3>
+                                            <span>Vodafone One Ilimitada</span>
+                                        </h3>
+                                    </li>
+                                    <li>
+                                        <svg style="width: 30px; height: 30px;"><title>icon3-mobile</title><use xlink:href="#icon3-mobile"></use></svg>
+                                        <div>
+                                            <span>GB y minutos ilimitados</span>
+                                            <p>
+                                                <span>Velocidad media</span>
+                                                
+                                            </p>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <svg style="width: 30px; height: 30px;"><title>icon3-router</title><use xlink:href="#icon3-router"></use></svg>
+                                        <div>
+                                            <span>100Mbps Fibra</span>
+                                            <p>+ llamadas ilimitadas en fijo</p>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <svg style="width: 30px; height: 30px;"><title>icon3-tv</title><use xlink:href="#icon3-tv"></use></svg>
+                                        <div>
+                                            <span>Pack Tv Seriefans <span>GRATIS</span></span>
+                                            <p>con HBO España y 98 canales</p>
+                                        </div>
+                                    </li>
+                                </ul>
+                                <div>
+                                    <div>
+                                        <p><span>50% dto. 3 meses.</span></p>
+                                        <p>Permanencia 12 meses</p>
+                                        <p><span>64,99€/mes</span></p>
+                                        <p>
+                                            <strong><span>31,99</span>€</strong>
+                                        </p>
+                                    </div>
+                                    <button title="Pulse para añadir al ticket" disabled="">Quiero esta tarifa</button>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-tick-or-solved"></use>
+                                </svg>
+                                <div></div>
+                                <ul>
+                                    <li data-card="title">
+                                        <h3>
+                                            <span>Vodafone One Ilimitada Súper</span>
+                                        </h3>
+                                    </li>
+                                    <li>
+                                        <svg style="width: 30px; height: 30px;"><title>icon3-mobile</title><use xlink:href="#icon3-mobile"></use></svg>
+                                        <div>
+                                            <span>GB y minutos ilimitados</span>
+                                            <p>
+                                                <span>Velocidad alta</span>
+                                                
+                                            </p>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <svg style="width: 30px; height: 30px;"><title>icon3-router</title><use xlink:href="#icon3-router"></use></svg>
+                                        <div>
+                                            <span>600Mbps Fibra</span>
+                                            <p>+ llamadas ilimitadas en fijo</p>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <svg style="width: 30px; height: 30px;"><title>icon3-tv</title><use xlink:href="#icon3-tv"></use></svg>
+                                        <div>
+                                            <span>Pack Tv Seriefans <span>GRATIS</span></span>
+                                            <p>con HBO España y 98 canales</p>
+                                        </div>
+                                    </li>
+                                </ul>
+                                <div>
+                                    <div>
+                                        <p><span>50% dto. 3 meses.</span></p>
+                                        <p>Permanencia 12 meses</p>
+                                        <p><span>84,99€/mes</span></p>
+                                        <p>
+                                            <strong><span>41,99</span>€</strong>
+                                        </p>
+                                    </div>
+                                    <button title="Pulse para añadir al ticket">Quiero esta tarifa</button>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-tick-or-solved"></use>
+                                </svg>
+                                <div></div>
+                                <ul>
+                                    <li data-card="title">
+                                        <h3>
+                                            <span>Vodafone One Ilimitada Total</span>
+                                        </h3>
+                                    </li>
+                                    <li>
+                                        <svg style="width: 30px; height: 30px;"><title>icon3-mobile</title><use xlink:href="#icon3-mobile"></use></svg>
+                                        <div>
+                                            <span>GB y minutos ilimitados</span>
+                                            <p>
+                                                <span>Velocidad máxima</span>
+                                                
+                                            </p>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <svg style="width: 30px; height: 30px;"><title>icon3-router</title><use xlink:href="#icon3-router"></use></svg>
+                                        <div>
+                                            <span>1Gbps Fibra</span>
+                                            <p>+ llamadas ilimitadas en fijo</p>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <svg style="width: 30px; height: 30px;"><title>icon3-tv</title><use xlink:href="#icon3-tv"></use></svg>
+                                        <div>
+                                            <span>Pack Tv Seriefans <span>GRATIS</span></span>
+                                            <p>con HBO España y 98 canales</p>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <svg style="width: 30px; height: 30px;"><title>icon3-broadband-or-wifi</title><use xlink:href="#icon3-broadband-or-wifi"></use></svg>
+                                        <div>
+                                            <span>Super Wifi</span>
+                                            <p>Amplifica tu conexión de fibra</p>
+                                        </div>
+                                    </li>
+                                </ul>
+                                <div>
+                                    <div>
+                                        <p><span>50% dto. 3 meses.</span></p>
+                                        <p>Permanencia 12 meses</p>
+                                        <p><span>109,99€/mes</span></p>
+                                        <p>
+                                            <strong><span>54,99</span>€</strong>
+                                        </p>
+                                    </div>
+                                    <button title="Pulse para añadir al ticket">Quiero esta tarifa</button>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-tick-or-solved"></use>
+                                </svg>
+                                <div></div>
+                                <ul>
+                                    <li data-card="title">
+                                        <h3>
+                                            <span>Vodafone One Mini</span>
+                                        </h3>
+                                    </li>
+                                    <li>
+                                        <svg style="width: 30px; height: 30px;"><title>icon3-mobile</title><use xlink:href="#icon3-mobile"></use></svg>
+                                        <div>
+                                            <span>4GB y 200 minutos</span>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <svg style="width: 30px; height: 30px;"><title>icon3-router</title><use xlink:href="#icon3-router"></use></svg>
+                                        <div>
+                                            <span>100Mbps Fibra</span>
+                                            <p>+ llamadas ilimitadas en fijo</p>
+                                        </div>
+                                    </li>
+
+                                </ul>
+                                <div>
+                                    <div>
+                                        <p>Sin Permanencia</p>
+                                        <p>
+                                            <strong><span>47,99</span>€</strong>
+                                        </p>
+                                    </div>
+                                    <button title="Pulse para añadir al ticket">Quiero esta tarifa</button>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-tick-or-solved"></use>
+                                </svg>
+                                <div></div>
+                                <ul>
+                                    <li data-card="title">
+                                        <h3>
+                                            <span>Vodafone One Extra</span>
+                                        </h3>
+                                    </li>
+                                    <li>
+                                        <svg style="width: 30px; height: 30px;"><title>icon3-mobile</title><use xlink:href="#icon3-mobile"></use></svg>
+                                        <div>
+                                            <span>8GB y minutos ilimitados</span>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <svg style="width: 30px; height: 30px;"><title>icon3-router</title><use xlink:href="#icon3-router"></use></svg>
+                                        <div>
+                                            <span>100Mbps Fibra</span>
+                                            <p>+ llamadas ilimitadas en fijo</p>
+                                        </div>
+                                    </li>
+
+                                </ul>
+                                <div>
+                                    <div>
+                                        <p><span>50% dto. 3 meses.</span></p>
+                                        <p>Permanencia 12 meses</p>
+                                        <p><span>57,99€/mes</span></p>
+                                        <p>
+                                            <strong><span>28,99</span>€</strong>
+                                        </p>
+                                    </div>
+                                    <button title="Pulse para añadir al ticket">Quiero esta tarifa</button>
+                                </div>
+                            </div>
+                        </li>
+                    </ul><h3>Añade líneas móviles adicionales:</h3><p>¿Cuántas líneas necesita?</p><button aria-label="Botón para borrar las líneas adicionales" disabled="">
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="35x" height="35px">
+                                    <title>Aumentar el número de líneas adicionales</title>
+                                    <use xlink:href="#icon3-minus-or-less"></use>
+                                </svg>
+                                </button><span>
+                                1
+                            </span><button aria-label="Botón para aumentar las líneas adicionales">
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="35x" height="35px">
+                                    <title>Aumentar el número de líneas adicionales</title>
+                                    <use xlink:href="#icon3-add-or-plus"></use>
+                                </svg>
+                            </button><div></div><span>Elige una tarifa móvil <span>¡Ahora al 50% dto!</span></span><button>Añadir</button><button>
+                                <svg width="28px" height="28px"><title>icon3-delete</title><use xlink:href="#icon3-delete"></use></svg>
+                            </button><button>
+                                <svg style="pointer-events: none;" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28px" height="28px"><title>Tick</title><use xlink:href="#icon3-chevron-down"></use></svg>
+                                <svg style="pointer-events: none;" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28px" height="28px"><title>Tick</title><use xlink:href="#icon3-chevron-up"></use></svg>
+                            </button><ul>
+                                <li>
+                                    <input type="radio" name="radio" value="Opcion 1">
+                                    <label for="radio1"></label>
+                                    <div>
+                                        <svg style="width: 45px; height: 45px;"><title>icon-sim-mid</title><use xlink:href="#icon-sim-mid"></use></svg>
+                                        <div>
+                                            <p>Tarifa Móvil Mini</p>
+                                            <span>4GB Datos móvil</span>
+                                        </div>
+                                    </div>
+                                    <div>
+                                        <p>200 min en llamadas</p>
+                                    </div>
+                                    <div>
+                                        <span>19,99€</span>
+                                        <span><span>9,99</span>€</span>
+                                    </div>
+                                </li>
+                                <li>
+                                    <input type="radio" name="radio" value="Opcion 2">
+                                    <label for="radio2"></label>
+                                    <div>
+                                        <svg style="width: 45px; height: 45px;"><title>icon-sim-mid</title><use xlink:href="#icon-sim-mid"></use></svg>
+                                        <div>
+                                            <p>Tarifa Móvil Extra</p>
+                                            <span>8GB Datos móvil</span>
+                                        </div>
+                                    </div>
+                                    <div>
+                                        <p>Llamadas ilimitadas</p>
+                                    </div>
+                                    <div>
+                                        <span>29,99€</span>
+                                        <span><span>14,99</span>€</span>
+                                    </div>
+                                </li>
+                                <li>
+                                    <input type="radio" name="radio" value="Opcion 3">
+                                    <label for="radio3"></label>
+                                    <div>
+                                        <svg style="width: 45px; height: 45px;"><title>icon-sim-mid</title><use xlink:href="#icon-sim-mid"></use></svg>
+                                        <div>
+                                            <p>Tarifa Móvil ilimitada</p>
+                                            <span>
+                                        <span>Datos ilimitados</span>
+                                        
+                                    </span>
+                                        </div>
+                                    </div>
+                                    <div>
+                                        <p>Llamadas ilimitadas</p>
+                                    </div>
+                                    <div>
+                                        <span>40,99€</span>
+                                        <span><span>25</span>€</span>
+
+                                    </div>
+                                </li>
+                                <li>
+                                    <input type="radio" name="radio" value="Opcion 1">
+                                    <label for="radio4"></label>
+                                    <div>
+                                        <svg style="width: 45px; height: 45px;"><title>icon-sim-mid</title><use xlink:href="#icon-sim-mid"></use></svg>
+                                        <div>
+                                            <p>Tarifa Móvil Ilimitada Súper</p>
+                                            <span>
+                                        <span>Datos ilimitados</span>
+                                        
+                                    </span>
+                                        </div>
+                                    </div>
+                                    <div>
+                                        <p>Llamadas ilimitadas</p>
+                                    </div>
+                                    <div>
+                                        <span>45,99€</span>
+                                        <span><span>23</span>€</span>
+                                    </div>
+                                </li>
+                                <li>
+                                    <input type="radio" name="radio" value="Opcion 1">
+                                    <label for="radio5"></label>
+                                    <div>
+                                        <svg style="width: 45px; height: 45px;"><title>icon-sim-mid</title><use xlink:href="#icon-sim-mid"></use></svg>
+                                        <div>
+                                            <p>Tarifa Móvil Ilimitada Total</p>
+                                            <span>
+                                        <span>Datos ilimitados</span>
+                                        
+                                    </span>
+                                        </div>
+                                    </div>
+                                    <div>
+                                        <p>Llamadas ilimitadas</p>
+                                    </div>
+                                    <div>
+                                        <span>49,99€</span>
+                                        <span><span>25</span>€</span>
+                                    </div>
+                                </li>
+                            </ul><h3>Añade uno o más Packs de TV:</h3><ul>
+                        <li>
+                            <div>
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-tick-or-solved"></use>
+                                </svg>
+                                <div></div>
+                                <div></div>
+                                <h5><strong>Pack Seriefans</strong></h5>
+                                <p>Con HBO España, AXN Now...</p>
+                                <button data-modal="modal-seriefans" data-modal-close="" aria-haspopup="dialog">Ver todos los canales incluidos</button>
+                                <p><span><strong>0€</strong></span>/mes</p>
+                                <button title="Pulse para añadir al ticket">Añadir</button>
+                                <button title="Pulsa para eliminar del ticket">Eliminar</button>
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-tick-or-solved"></use>
+                                </svg>
+
+                                <div></div>
+                                <div></div>
+                                <h5><strong>Pack Serielovers</strong></h5>
+                                <p>Con Amazon Prime, HBO España...</p>
+                                <button data-modal="modal-serielovers" data-modal-close="" aria-haspopup="dialog">Ver todos los canales incluidos</button>
+                                <p><span><strong>10€</strong></span>/mes</p>
+                                <button title="Pulse para añadir al ticket">Añadir</button>
+                                <button title="Pulsa para eliminar del ticket">Eliminar</button>
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-tick-or-solved"></use>
+                                </svg>
+                                <div></div>
+                                <div></div>
+                                <h5><strong>Pack Más Series</strong></h5>
+                                <p>Con HBO España, AXN Now...</p>
+                                <button data-modal="modal-seriefans" data-modal-close="" aria-haspopup="dialog">Ver todos los canales incluidos</button>
+                                <p><span><strong>0€</strong></span>/mes</p>
+                                <button title="Pulse para añadir al ticket">Añadir</button>
+                                <button title="Pulsa para eliminar del ticket">Eliminar</button>
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-tick-or-solved"></use>
+                                </svg>
+                                <div></div>
+                                <div></div>
+                                <h5><strong>Pack Cinefans</strong></h5>
+                                <p>Con FILMIN...</p>
+                                <button data-modal="modal-cinefans" data-modal-close="" aria-haspopup="dialog">Ver todos los canales incluidos</button>
+                                <p><span><strong>12€</strong></span>/mes</p>
+                                <button title="Pulse para añadir al ticket">Añadir</button>
+                                <button title="Pulsa para eliminar del ticket">Eliminar</button>
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-tick-or-solved"></use>
+                                </svg>
+                                <div></div>
+                                <div></div>
+                                <h5><strong>Pack Documentales</strong></h5>
+                                <p>Con National Geographic, Odisea...</p>
+                                <button data-modal="modal-documentales" data-modal-close="" aria-haspopup="dialog">Ver todos los canales incluidos</button>
+                                <p><span><strong>8€</strong></span>/mes</p>
+                                <button title="Pulse para añadir al ticket">Añadir</button>
+                                <button title="Pulsa para eliminar del ticket">Eliminar</button>
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25">
+                                    <title>Tick</title>
+                                    <use xlink:href="#icon3-tick-or-solved"></use>
+                                </svg>
+                                <div></div>
+                                <div></div>
+                                <h5><strong>Pack Peques</strong></h5>
+                                <p>Con Disney XD, Nick Jr...</p>
+                                <button data-modal="modal-peques" data-modal-close="" aria-haspopup="dialog">Ver todos los canales incluidos</button>
+                                <p><span><strong>5€</strong></span>/mes</p>
+                                <button title="Pulse para añadir al ticket">Añadir</button>
+                                <button title="Pulsa para eliminar del ticket">Eliminar</button>
+                            </div>
+                        </li>
+                    </ul><button></button><p></p><p></p><article data-common-function="accordion">
+                        <button data-common-function="dropdown" aria-controls="ticket-dropdown" aria-expanded="true"><span><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28px" height="28px"><title>Tick</title><use xlink:href="#icon3-chevron-down"></use></svg></span><span><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28px" height="28px"><title>Tick</title><use xlink:href="#icon3-chevron-up"></use></svg></span></button>
+                        <div aria-hidden="false">
+                            <div>
+                                <div>
+                                    <p>Resumen de compra</p>
+                                </div>
+                            </div>
+                            <div></div>
+                        </div>
+                        <div>
+                            <p>Precio inicial: <span>€/mes</span></p>
+                            <p>Total: <span><strong>€/mes</strong></span></p>
+                            <a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?tti=7&amp;tta=1&amp;tcli=0&amp;tcon=0&amp;ec=0&amp;tal=2&amp;sap=11111&amp;m=0&amp;tar=168444492" title="quiero esta tarifa">Quiero esta tarifa</a>
+                            <button onclick="window.parent.document.ws_popup.open3('Tu mejor tarifa Vodafone One', ' contratar online');">Quiero esta tarifa</button>
+                        </div>
+                    </article><a target="_blank" href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/legales/" title="Condiciones legales">Ver condiciones legales</a><button aria-hidden="false"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px"><title>Close</title><use xlink:href="#icon3-close"></use></svg></button><div></div><button aria-hidden="false"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px"><title>Close</title><use xlink:href="#icon3-close"></use></svg></button><p>¿Qué puedes hacer con datos ilimitados?</p><p>Ya no tienes que buscar Wifi. Ahora con datos ilimitados podrás, por ejemplo, consultar redes sociales, usar aplicaciones de mensajería instantánea, escuchar música online o gestionar el correo electrónico.</p><p>Con Vodafone One ilimitada tendrás una velocidad simétrica de <strong>2Mbps</strong></p><p>Usos recomendados para esta tarifa:</p><ul>
+                            <li>Redes sociales</li>
+                            <li>Música online</li>
+                            <li>Aplicaciones de mensajería instantánea</li>
+                        </ul><button aria-hidden="false"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px"><title>Close</title><use xlink:href="#icon3-close"></use></svg></button><p>¿Qué puedes hacer con datos ilimitados?</p><p>Ya no tienes que buscar WIFI. Ahora con los datos ilimitados podrás, por ejemplo, disfrutar de vídeos y música online en alta calidad, hacer usos avanzado de redes sociales o aplicaciones que requieren ubicación.</p><p>Con Vodafone One ilimitada Súper tendrás una Velocidad simétrica de <strong>10Mbps</strong></p><p>Usos recomendados para esta tarifa:</p><ul>
+                            <li>Uso avanzado de redes sociales</li>
+                            <li>Vídeos alta calidad</li>
+                            <li>Aplicaciones de mensajería instantánea</li>
+                            <li>Redes sociales</li>
+                            <li>Música online</li>
+                            <li>Vídeo y música online de alta calidad</li>
+                            <li>Aplicaciones que requieren ubicación</li>
+                        </ul><button aria-hidden="false"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px"><title>Close</title><use xlink:href="#icon3-close"></use></svg></button><p>¿Qué puedes hacer con datos ilimitados?</p><p>Ya no tienes que buscar WIFI. Ahora con datos ilimitados podrás, por ejemplo, acceder a apps de juego online, descargar y subir archivos de gran tamaño o ver vídeos en máxima calidad.</p><p>Con Vodafone One ilimitada Total disfruta de la <strong>máxima velocidad 5G</strong></p><p>Usos recomendados para esta tarifa:</p><ul>
+                            <li>Vídeos Online de máxima calidad</li>
+                            <li>Jugar Online</li>
+                            <li>Redes sociales</li>
+                            <li>Música online</li>
+                            <li>Vídeo y música online de alta calidad</li>
+                            <li>Uso avanzado de redes sociales</li>
+                            <li>Aplicaciones que requieren ubicación</li>
+                        </ul><button aria-hidden="false"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px"><title>Close</title><use xlink:href="#icon3-close"></use></svg></button><p>Canales Pack Cinefans</p><ul>
+                    <li>
+                        
+                        <p>M. Estrenos</p>
+                    </li>
+                    <li>
+                        
+                        <p>Filmin</p>
+                    </li>
+                    <li>
+                        
+                        <p>Hollywood</p>
+                    </li>
+                    <li>
+                        
+                        <p>Somos</p>
+                    </li>
+                    <li>
+                        
+                        <p>Dark</p>
+                    </li>
+                </ul><p>Y además todos los Packs incluyen estos canales:</p><ul>
+                    <li>
+                        
+                        <p>AMC</p>
+                    </li>
+                    <li>
+                        
+                        <p>FOX Life</p>
+                    </li>
+                    <li>
+                        
+                        <p>Cosmo</p>
+                    </li>
+                    <li>
+                        
+                        <p>Comedy Central</p>
+                    </li>
+                    <li>
+                        
+                        <p>XTRM</p>
+                    </li>
+                    <li>
+                        
+                        <p>TCM</p>
+                    </li>
+                    <li>
+                        
+                        <p>Sundance TV</p>
+                    </li>
+                    <li>
+                        
+                        <p>National Geographic</p>
+                    </li>
+                    <li>
+                        
+                        <p>National Geographic+</p>
+                    </li>
+                    <li>
+                        
+                        <p>Cocina</p>
+                    </li>
+                    <li>
+                        
+                        <p>Decasa</p>
+                    </li>
+                    <li>
+                        
+                        <p>MTV</p>
+                    </li>
+                    <li>
+                        
+                        <p>MyMTV Music</p>
+                    </li>
+                    <li>
+                        
+                        <p>SOL Música</p>
+                    </li>
+                    <li>
+                        
+                        <p>HIT TV</p>
+                    </li>
+                    <li>
+                        
+                        <p>Eurosport 1</p>
+                    </li>
+                    <li>
+                        
+                        <p>Disney XD</p>
+                    </li>
+                </ul><button aria-hidden="false"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px"><title>Close</title><use xlink:href="#icon3-close"></use></svg></button><p>Canales Pack Documentales</p><ul>
+                        <li>
+                            
+                            <p>Historia</p>
+                        </li>
+                        <li>
+                            
+                            <p>Odisea HD</p>
+                        </li>
+                        <li>
+                            
+                            <p>Discovery</p>
+                        </li>
+                        <li>
+                            
+                            <p>Nat Geo Wild</p>
+                        </li>
+                        <li>
+                            
+                            <p>Viajar</p>
+                        </li>
+                        <li>
+                            
+                            <p>Crimen e investigación</p>
+                        </li>
+                        <li>
+                            
+                            <p>Fun Box</p>
+                        </li>
+                        <li>
+                            
+                            <p>Insight</p>
+                        </li>
+                        <li>
+                            
+                            <p>Blaze</p>
+                        </li>
+                        <li>
+                            
+                            <p>My Zen TV</p>
+                        </li>
+                        <li>
+                            
+                            <p>Festival 4K</p>
+                        </li>
+                        <li>
+                            
+                            <p>Slow Channel</p>
+                        </li>
+                    </ul><p>Y además todos los Packs incluyen estos canales:</p><ul>
+                        <li>
+                            
+                            <p>AMC</p>
+                        </li>
+                        <li>
+                            
+                            <p>FOX Life</p>
+                        </li>
+                        <li>
+                            
+                            <p>Cosmo</p>
+                        </li>
+                        <li>
+                            
+                            <p>Comedy Central</p>
+                        </li>
+                        <li>
+                            
+                            <p>XTRM</p>
+                        </li>
+                        <li>
+                            
+                            <p>TCM</p>
+                        </li>
+                        <li>
+                            
+                            <p>Sundance TV</p>
+                        </li>
+                        <li>
+                            
+                            <p>National Geographic</p>
+                        </li>
+                        <li>
+                            
+                            <p>National Geographic+</p>
+                        </li>
+                        <li>
+                            
+                            <p>Cocina</p>
+                        </li>
+                        <li>
+                            
+                            <p>Decasa</p>
+                        </li>
+                        <li>
+                            
+                            <p>MTV</p>
+                        </li>
+                        <li>
+                            
+                            <p>MyMTV Music</p>
+                        </li>
+                        <li>
+                            
+                            <p>SOL Música</p>
+                        </li>
+                        <li>
+                            
+                            <p>HIT TV</p>
+                        </li>
+                        <li>
+                            
+                            <p>Eurosport 1</p>
+                        </li>
+                        <li>
+                            
+                            <p>Disney XD</p>
+                        </li>
+                    </ul><button aria-hidden="false"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px"><title>Close</title><use xlink:href="#icon3-close"></use></svg></button><p>Canales Pack Peques</p><ul>
+                        <li>
+                            
+                            <p>Disney Jr.</p>
+                        </li>
+                        <li>
+                            
+                            <p>Baby TV</p>
+                        </li>
+                        <li>
+                            
+                            <p>Nickelodeon</p>
+                        </li>
+                        <li>
+                            
+                            <p>Nick Jr.</p>
+                        </li>
+                        <li>
+                            
+                            <p>Canal Panda</p>
+                        </li>
+                        <li>
+                            
+                            <p>My Nick Jr.</p>
+                        </li>
+                    </ul><p>Y además todos los Packs incluyen estos canales:</p><ul>
+                        <li>
+                            
+                            <p>AMC</p>
+                        </li>
+                        <li>
+                            
+                            <p>FOX Life</p>
+                        </li>
+                        <li>
+                            
+                            <p>Cosmo</p>
+                        </li>
+                        <li>
+                            
+                            <p>Comedy Central</p>
+                        </li>
+                        <li>
+                            
+                            <p>XTRM</p>
+                        </li>
+                        <li>
+                            
+                            <p>TCM</p>
+                        </li>
+                        <li>
+                            
+                            <p>Sundance TV</p>
+                        </li>
+                        <li>
+                            
+                            <p>National Geographic</p>
+                        </li>
+                        <li>
+                            
+                            <p>National Geographic+</p>
+                        </li>
+                        <li>
+                            
+                            <p>Cocina</p>
+                        </li>
+                        <li>
+                            
+                            <p>Decasa</p>
+                        </li>
+                        <li>
+                            
+                            <p>MTV</p>
+                        </li>
+                        <li>
+                            
+                            <p>MyMTV Music</p>
+                        </li>
+                        <li>
+                            
+                            <p>SOL Música</p>
+                        </li>
+                        <li>
+                            
+                            <p>HIT TV</p>
+                        </li>
+                        <li>
+                            
+                            <p>Eurosport 1</p>
+                        </li>
+                        <li>
+                            
+                            <p>Disney XD</p>
+                        </li>
+                    </ul><button aria-hidden="false"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px"><title>Close</title><use xlink:href="#icon3-close"></use></svg></button><p>Canales Pack Seriefans</p><ul>
+                        <li>
+                            
+                            <p>HBO España</p>
+                        </li>
+                        <li>
+                            
+                            <p>FOXNOW</p>
+                        </li>
+                        <li>
+                            
+                            <p>AXN Now</p>
+                        </li>
+                        <li>
+                            
+                            <p>TNT</p>
+                        </li>
+                        <li>
+                            
+                            <p>FOX</p>
+                        </li>
+                        <li>
+                            
+                            <p>SYFY</p>
+                        </li>
+                        <li>
+                            
+                            <p>Calle 13</p>
+                        </li>
+                        <li>
+                            
+                            <p>AXN</p>
+                        </li>
+                        <li>
+                            
+                            <p>AXN White</p>
+                        </li>
+                    </ul><p>Y además todos los Packs incluyen estos canales:</p><ul>
+                        <li>
+                            
+                            <p>AMC</p>
+                        </li>
+                        <li>
+                            
+                            <p>FOX Life</p>
+                        </li>
+                        <li>
+                            
+                            <p>Cosmo</p>
+                        </li>
+                        <li>
+                            
+                            <p>Comedy Central</p>
+                        </li>
+                        <li>
+                            
+                            <p>XTRM</p>
+                        </li>
+                        <li>
+                            
+                            <p>TCM</p>
+                        </li>
+                        <li>
+                            
+                            <p>Sundance TV</p>
+                        </li>
+                        <li>
+                            
+                            <p>National Geographic</p>
+                        </li>
+                        <li>
+                            
+                            <p>National Geographic+</p>
+                        </li>
+                        <li>
+                            
+                            <p>Cocina</p>
+                        </li>
+                        <li>
+                            
+                            <p>Decasa</p>
+                        </li>
+                        <li>
+                            
+                            <p>MTV</p>
+                        </li>
+                        <li>
+                            
+                            <p>MyMTV Music</p>
+                        </li>
+                        <li>
+                            
+                            <p>SOL Música</p>
+                        </li>
+                        <li>
+                            
+                            <p>HIT TV</p>
+                        </li>
+                        <li>
+                            
+                            <p>Eurosport 1</p>
+                        </li>
+                        <li>
+                            
+                            <p>Disney XD</p>
+                        </li>
+                    </ul><button aria-hidden="false"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px"><title>Close</title><use xlink:href="#icon3-close"></use></svg></button><p>Canales Pack Serielovers</p><ul>
+                        <li>
+                            
+                            <p>HBO España</p>
+                        </li>
+                        <li>
+                            
+                            <p>Amazon Prime Video</p>
+                        </li>
+                        <li>
+                            
+                            <p>Starzplay</p>
+                        </li>
+                        <li>
+                            
+                            <p>Movistar Series</p>
+                        </li>
+                        <li>
+                            
+                            <p>FOXNOW</p>
+                        </li>
+                        <li>
+                            
+                            <p>AXN Now</p>
+                        </li>
+                        <li>
+                            
+                            <p>FOX</p>
+                        </li>
+                        <li>
+                            
+                            <p>AXN</p>
+                        </li>
+                        <li>
+                            
+                            <p>TNT</p>
+                        </li>
+                        <li>
+                            
+                            <p>SYFY</p>
+                        </li>
+                        <li>
+                            
+                            <p>Calle 13</p>
+                        </li>
+                        <li>
+                            
+                            <p>AXN White</p>
+                        </li>
+                    </ul><p>Y además todos los Packs incluyen estos canales:</p><ul>
+                        <li>
+                            
+                            <p>AMC</p>
+                        </li>
+                        <li>
+                            
+                            <p>FOX Life</p>
+                        </li>
+                        <li>
+                            
+                            <p>Cosmo</p>
+                        </li>
+                        <li>
+                            
+                            <p>Comedy Central</p>
+                        </li>
+                        <li>
+                            
+                            <p>XTRM</p>
+                        </li>
+                        <li>
+                            
+                            <p>TCM</p>
+                        </li>
+                        <li>
+                            
+                            <p>Sundance TV</p>
+                        </li>
+                        <li>
+                            
+                            <p>National Geographic</p>
+                        </li>
+                        <li>
+                            
+                            <p>National Geographic+</p>
+                        </li>
+                        <li>
+                            
+                            <p>Cocina</p>
+                        </li>
+                        <li>
+                            
+                            <p>Decasa</p>
+                        </li>
+                        <li>
+                            
+                            <p>MTV</p>
+                        </li>
+                        <li>
+                            
+                            <p>MyMTV Music</p>
+                        </li>
+                        <li>
+                            
+                            <p>SOL Música</p>
+                        </li>
+                        <li>
+                            
+                            <p>HIT TV</p>
+                        </li>
+                        <li>
+                            
+                            <p>Eurosport 1</p>
+                        </li>
+                        <li>
+                            
+                            <p>Disney XD</p>
+                        </li>
+                    </ul>

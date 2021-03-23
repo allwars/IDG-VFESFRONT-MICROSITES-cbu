@@ -1,0 +1,99 @@
+// CSS del microsite
+.vfms-overlay {
+    display: none;
+    @media screen and (min-width: 640px) {
+        background: rgba(0,0,0,.85);
+        position: fixed;
+        z-index: 3;
+        height: 100vh;
+        width: 100vw;
+    }
+}
+.vfes-ms-content{
+    display: none;
+    @media screen and (min-width: 640px) {
+        display: flex;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        .vfes-layout__item {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            max-width: 313px;
+            margin: 0 auto;
+        }
+
+        .vfes-layout {
+            padding-top: 30px;
+        }
+        
+        .vfms-popup{
+            width: 556px;
+            height: 446px;
+            background-image: url('https://www.vodafone.es/c/statics/imagen/02-fondo-pop-up-tablet.png');
+            background-size: cover;
+            background-repeat: no-repeat;
+            border-radius: 6px;
+    
+            .vfms-close{
+                position: absolute;
+                right: 10px;
+                top: 0;
+            }
+
+            .vfms-title {
+                font-size: 34px;
+            }
+    
+            .vfms-special--size {
+                font-size: 24px;
+            }
+    
+            .vfes-button{
+                height: 44px;
+                width: 313px;
+                font-size: 18px;
+            }
+    
+        }
+    }
+    @media screen and (min-width: 1024px) {
+        display: flex;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        .vfms-popup{
+            width: 661px;
+            height: 500px;
+            background-image: url('https://www.vodafone.es/c/statics/imagen/02-fondo-pop-up-desktop.png');
+            background-size: cover;
+            background-repeat: no-repeat;
+            border-radius: 6px;
+            
+            .vfes-layout__item {
+                max-width: 400px;
+            }
+            
+            .vfms-close{
+                top: -10px;
+            }
+
+            .vfms-title {
+                font-size: 40px;
+            }
+    
+            .vfms-special--size {
+                font-size: 28px;
+            }
+
+            .vfms-width {
+                max-width: 400px;
+                margin: 0 auto;
+            }
+        }
+    }
+    
+}

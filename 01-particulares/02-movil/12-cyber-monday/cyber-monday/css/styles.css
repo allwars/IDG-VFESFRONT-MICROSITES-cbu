@@ -1,0 +1,428 @@
+/**
+<<<<<<< HEAD
+ * Vodafone Reboot Framework: Version 15.3.0. Generation Date: 2019-12-03T10:42:25.774Z
+ */
+
+.vfes-ms-content .vfms-hero {
+  padding: 0.9375rem;
+  background-image:  url('../img/bg-hero-mobile.png?v=aafbcd5b0faa7228869457a09591e413');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: center;
+}
+
+@media screen and (min-width: 48rem) {
+  .vfes-ms-content .vfms-hero {
+    padding: 1.5625rem;
+    background-image:  url('../img/bg-hero-tablet.png?v=d24066f7f2c5f5e756675f569dbff589');
+  }
+}
+
+@media screen and (min-width: 64rem) {
+  .vfes-ms-content .vfms-hero {
+    max-width: none;
+    background-image:  url('../img/bg-hero-desktop.png?v=db572097bde06b807962d020cc03fbb9');
+  }
+}
+
+.vfes-ms-content .vfms-hero__img {
+  max-width: 9.0625rem;
+}
+
+@media screen and (min-width: 48rem) {
+  .vfes-ms-content .vfms-hero__img {
+    max-width: 16.875rem;
+  }
+}
+
+@media screen and (min-width: 64rem) {
+  .vfes-ms-content .vfms-hero__img {
+    max-width: 20.5625rem;
+  }
+}
+
+.vfes-ms-content .vfms-hero__img--container {
+  margin-top: -1.875rem;
+}
+
+@media screen and (min-width: 48rem) {
+  .vfes-ms-content .vfms-hero__img--container {
+    position: absolute;
+    top: 2.1875rem;
+    right: 2.1875rem;
+  }
+}
+
+@media screen and (min-width: 64rem) {
+  .vfes-ms-content .vfms-hero__img--container {
+    top: 1.25rem;
+  }
+}
+
+.vfes-ms-content .vfms-hero__title {
+  margin-bottom: 0.625rem;
+}
+
+@media screen and (min-width: 48rem) {
+  .vfes-ms-content .vfms-hero__title {
+    max-width: 25.9375rem;
+    font-size: 2.5rem;
+  }
+}
+
+@media screen and (min-width: 64rem) {
+  .vfes-ms-content .vfms-hero__title {
+    max-width: 46.875rem;
+    font-size: 3.5rem;
+  }
+}
+
+@media screen and (min-width: 48rem) {
+  .vfes-ms-content .vfms-hero__subtitle {
+    max-width: 25.9375rem;
+    font-size: 1.5rem;
+  }
+}
+
+@media screen and (min-width: 64rem) {
+  .vfes-ms-content .vfms-hero__subtitle {
+    max-width: none;
+    font-size: 1.75rem;
+  }
+}
+
+@media screen and (min-width: 48rem) {
+  .vfes-ms-content .vfes-paragraph--large {
+    font-size: 1.25rem;
+  }
+}
+
+.vfes-ms-content .vfms-tabs__container {
+  padding: 0;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.vfes-ms-content .vfms-tabs__container .vfes-tabs__tab {
+  padding: 0;
+  margin-bottom: 2.5rem;
+}
+
+.vfes-ms-content .vfms-tabs__content {
+  padding: 0;
+}
+
+.vfes-ms-content .vfes-button.vfes-tabs__tab-button.js-tab.vfes-tabs__tab-active {
+  background-color: #E60000;
+  color: #fff;
+}
+
+.vfes-ms-content .vfes-carousel__bullets-bullet {
+  background-color: transparent;
+  border: 0;
+  display: inline-block;
+  font-size: 0;
+  margin: 0;
+  padding: 0.75rem;
+  position: relative;
+  vertical-align: middle;
+}
+
+.vfes-ms-content .vfes-color-bg-vodafone-gray .vfes-carousel__bullets-bullet--active::after {
+  background-color: #FFFFFF;
+  border-color: #FFFFFF;
+}
+
+.vfes-ms-content .vfes-carousel__bullets-bullet::after {
+  border: 0;
+}
+
+.vfes-ms-content .vfes-carousel__bullets-bullet--active::before {
+  opacity: 1;
+  background: #E60000;
+}
+
+@media screen and (min-width: 48rem) {
+  .vfes-ms-content .vfms-wrapper__container {
+    padding: 0;
+  }
+}
+
+@media screen and (min-width: 64rem) {
+  .vfes-ms-content .vfms-wrapper__container {
+    max-width: none;
+  }
+}
+
+@media screen and (min-width: 64rem) {
+  .vfes-ms-content .vfes-tabs__content {
+    padding: 0;
+  }
+}
+
+.vfes-ms-content .vfms-devices {
+  padding-bottom: 0;
+}
+
+@media screen and (min-width: 48rem) {
+  .vfes-ms-content .vfms-devices {
+    padding-top: 1.875rem;
+  }
+}
+
+.vfes-ms-content .vfms-devices__wrapper {
+  padding: 0;
+}
+
+@media screen and (min-width: 64rem) {
+  .vfes-ms-content .vfms-devices__wrapper {
+    max-width: none;
+  }
+}
+
+.vfes-ms-content .vfms-carousel__title {
+  margin-bottom: 0;
+}
+
+@media screen and (min-width: 64rem) {
+  .vfes-ms-content .vfms-carousel__title--container {
+    min-height: 6.25rem;
+  }
+}
+
+.vfes-ms-content .vfms-carousel .li.vfes-carousel__list-element {
+  min-height: 32.1875rem;
+}
+
+@media screen and (min-width: 64rem) {
+  .vfes-ms-content .vfms-carousel .li.vfes-carousel__list-element {
+    min-height: 39.8125rem;
+  }
+}
+
+.vfes-ms-content .vfms-carousel .vfes-tag-label .vfes-card {
+  margin-bottom: 0;
+  border-top-left-radius: 0;
+}
+
+.vfes-ms-content .vfms-carousel .vfes-card.vfes-card__product {
+  min-height: 32.1875rem;
+  margin-bottom: 0;
+}
+
+@media screen and (min-width: 48rem) {
+  .vfes-ms-content .vfms-carousel .vfes-card.vfes-card__product {
+    min-height: 34.0625rem;
+  }
+}
+
+@media screen and (min-width: 64rem) {
+  .vfes-ms-content .vfms-carousel .vfes-card.vfes-card__product {
+    min-height: 38.5625rem;
+  }
+}
+
+.vfes-ms-content .vfms-packs {
+  padding: 2rem 0.9375rem;
+}
+
+@media screen and (min-width: 64rem) {
+  .vfes-ms-content .vfms-packs {
+    max-width: none;
+  }
+}
+
+.vfes-ms-content .vfms-packs__layout {
+  padding: 0;
+}
+
+.vfes-ms-content .vfms-packs__card {
+  margin-bottom: 0;
+  border-top-left-radius: 0;
+}
+
+@media screen and (min-width: 48rem) {
+  .vfes-ms-content .vfms-packs__text {
+    min-height: 6.25rem;
+  }
+}
+
+.vfes-ms-content .vfms-item__price {
+  font-size: 1.75rem;
+}
+
+@media screen and (min-width: 64rem) {
+  .vfes-ms-content .vfms-rates__layout .icon-corner {
+    top: -1.25rem;
+  }
+}
+
+.vfes-ms-content .vfms-outstanding {
+  color: white;
+  background: #666;
+}
+
+.vfes-ms-content .vfms-carousel {
+  padding-top: 0;
+}
+
+.vfes-ms-content .vfms-rates {
+  padding: 0 0.9375rem 2rem 0.9375rem;
+}
+
+.vfes-ms-content .vfms-rates__layout {
+  padding: 0;
+}
+
+.vfes-ms-content .vfms-rates .vfms-tag-label--grey {
+  border: 0.0625rem solid #666;
+}
+
+.vfes-ms-content .vfms-rates__offer {
+  min-width: 5rem;
+  margin-right: 0.625rem;
+}
+
+.vfes-ms-content .vfms-rates__wrapper {
+  padding: 0;
+}
+
+@media screen and (min-width: 64rem) {
+  .vfes-ms-content .vfms-rates__wrapper {
+    max-width: none;
+  }
+}
+
+.vfes-ms-content .vfms-rates__icon {
+  position: relative;
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-align: center;
+          align-items: center;
+}
+
+.vfes-ms-content .vfms-rates--checkmarks {
+  margin-top: 0;
+}
+
+.vfes-ms-content .vfms-convergente__icon {
+  max-width: 3.125rem;
+  max-height: 3.125rem;
+}
+
+.vfes-ms-content .vfms-convergente__bg {
+  background-image:  url('../img/convergente/bg-convergente-mobile.png?v=2f6501e24862bf69e87eea638ec610f9');
+  background-position: bottom center;
+  background-repeat: no-repeat;
+  background-position-y: 26rem;
+  background-position-x: -13.75rem;
+}
+
+@media screen and (min-width: 48rem) {
+  .vfes-ms-content .vfms-convergente__bg {
+    background-image:  url('../img/convergente/bg-convergente-tablet.png?v=eac64c8b584faebda2f0ab1e4e21a6a5');
+    background-size: contain;
+    background-position: bottom;
+    background-position-x: -3.125rem;
+  }
+}
+
+@media screen and (min-width: 64rem) {
+  .vfes-ms-content .vfms-convergente__bg {
+    background-image:  url('../img/convergente/bg-convergente-desktop.png?v=72694046e90051798b512ac66b61c942');
+    background-position-x: -14.0625rem;
+  }
+}
+
+@media screen and (min-width: 64rem) {
+  .vfes-ms-content .vfms-container {
+    position: relative;
+    max-width: 75rem;
+    margin: 0 auto;
+    padding: 2.8125rem 0;
+  }
+}
+
+@media screen and (min-width: 64rem) {
+  .vfes-ms-content .vfms-renove__container {
+    max-width: 75rem;
+    margin: 0 auto;
+  }
+}
+
+.vfes-ms-content .vfms-mr {
+  margin-right: 0.4375rem;
+}
+
+.vfes-ms-content .vfms-renove {
+  padding: 0.9375rem;
+}
+
+@media screen and (min-width: 48rem) {
+  .vfes-ms-content .vfms-renove {
+    padding: 2rem 1rem;
+    margin: 0;
+  }
+}
+
+@media screen and (min-width: 64rem) {
+  .vfes-ms-content .vfms-renove {
+    padding: 3.125rem 0;
+  }
+}
+
+.vfes-ms-content .vfms-renove__img {
+  border-radius: 0.375rem;
+}
+
+@media screen and (min-width: 64rem) {
+  .vfes-ms-content .vfms-renove__text {
+    text-align: left;
+    display: -webkit-box;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+            flex-direction: column;
+    -webkit-box-pack: center;
+            justify-content: center;
+    max-width: 33.125rem;
+  }
+}
+
+@media screen and (min-width: 48rem) {
+  .vfes-ms-content .vfms-s__visible {
+    display: none;
+  }
+}
+
+.vfes-ms-content .vfms-m__visible {
+  display: none;
+}
+
+@media screen and (min-width: 48rem) {
+  .vfes-ms-content .vfms-m__visible {
+    display: block;
+  }
+}
+
+@media screen and (min-width: 64rem) {
+  .vfes-ms-content .vfms-m__visible {
+    display: none;
+  }
+}
+
+.vfes-ms-content .vfms-l__visible {
+  display: none;
+}
+
+@media screen and (min-width: 64rem) {
+  .vfes-ms-content .vfms-l__visible {
+    display: block;
+  }
+}
+=======
+ * Vodafone Reboot Framework: Version 15.4.1. Generation Date: 2019-12-03T11:16:37.280Z
+ */
+
+.vfes-ms-content .vfms-carousel{padding-top:1.875rem!important}.vfes-ms-content .vfms-hero{padding:.9375rem;background-image: url('../img/bg-hero-mobile.png?v=d9d3f92c5f13b12bc3bb1e3cd92566a9');background-repeat:no-repeat;background-size:cover;background-position-x:center}@media screen and (min-width:48rem){.vfes-ms-content .vfms-hero{padding:1.5625rem;background-image: url('../img/bg-hero-tablet.png?v=20705cb1e2c38e45b7f50e8ceb7be264')}}@media screen and (min-width:64rem){.vfes-ms-content .vfms-hero{max-width:none;background-image: url('../img/bg-hero-desktop.png?v=3a3742a5e458b482fb097b9c17844b11')}}.vfes-ms-content .vfms-hero__img{max-width:9.0625rem}@media screen and (min-width:48rem){.vfes-ms-content .vfms-hero__img{max-width:16.875rem}}@media screen and (min-width:64rem){.vfes-ms-content .vfms-hero__img{max-width:20.5625rem}}.vfes-ms-content .vfms-hero__img--container{margin-top:-1.875rem}@media screen and (min-width:48rem){.vfes-ms-content .vfms-hero__img--container{position:absolute;top:2.1875rem;right:2.1875rem}}@media screen and (min-width:64rem){.vfes-ms-content .vfms-hero__img--container{top:1.25rem}}.vfes-ms-content .vfms-hero__title{margin-bottom:.625rem}@media screen and (min-width:48rem){.vfes-ms-content .vfms-hero__title{max-width:25.9375rem;font-size:2.5rem}}@media screen and (min-width:64rem){.vfes-ms-content .vfms-hero__title{max-width:46.875rem;font-size:3.5rem}}@media screen and (min-width:48rem){.vfes-ms-content .vfms-hero__subtitle{max-width:25.9375rem;font-size:1.5rem}}@media screen and (min-width:64rem){.vfes-ms-content .vfms-hero__subtitle{max-width:none;font-size:1.75rem}}@media screen and (min-width:48rem){.vfes-ms-content .vfes-paragraph--large{font-size:1.25rem}}.vfes-ms-content .vfms-tabs__container{padding:0;margin-left:0;margin-right:0}.vfes-ms-content .vfms-tabs__container .vfes-tabs__tab{padding:0;margin-bottom:2.5rem}.vfes-ms-content .vfms-tabs__content{padding:0}.vfes-ms-content .vfes-button.vfes-tabs__tab-button.js-tab.vfes-tabs__tab-active{background-color:#e60000;color:#fff}.vfes-ms-content .vfes-carousel__bullets-bullet{background-color:transparent;border:0;display:inline-block;font-size:0;margin:0;padding:.75rem;position:relative;vertical-align:middle}.vfes-ms-content .vfes-color-bg-vodafone-gray .vfes-carousel__bullets-bullet--active:after{background-color:#fff;border-color:#fff}.vfes-ms-content .vfes-carousel__bullets-bullet:after{border:0}.vfes-ms-content .vfes-carousel__bullets-bullet--active:before{opacity:1;background:#e60000}@media screen and (min-width:48rem){.vfes-ms-content .vfms-wrapper__container{padding:0}}@media screen and (min-width:64rem){.vfes-ms-content .vfms-wrapper__container{max-width:none}}@media screen and (min-width:64rem){.vfes-ms-content .vfes-tabs__content{padding:0}}.vfes-ms-content .vfms-devices{padding-bottom:0}@media screen and (min-width:48rem){.vfes-ms-content .vfms-devices{padding-top:1.875rem}}.vfes-ms-content .vfms-devices__wrapper{padding:0}@media screen and (min-width:64rem){.vfes-ms-content .vfms-devices__wrapper{max-width:none}}.vfes-ms-content .vfms-carousel__title{margin-bottom:0}@media screen and (min-width:64rem){.vfes-ms-content .vfms-carousel__title--container{min-height:6.25rem}}.vfes-ms-content .vfms-carousel .li.vfes-carousel__list-element{min-height:32.1875rem}@media screen and (min-width:64rem){.vfes-ms-content .vfms-carousel .li.vfes-carousel__list-element{min-height:39.8125rem}}.vfes-ms-content .vfms-carousel .vfes-tag-label .vfes-card{margin-bottom:0;border-top-left-radius:0}.vfes-ms-content .vfms-carousel .vfes-card.vfes-card__product{min-height:32.1875rem;margin-bottom:0}@media screen and (min-width:48rem){.vfes-ms-content .vfms-carousel .vfes-card.vfes-card__product{min-height:34.0625rem}}@media screen and (min-width:64rem){.vfes-ms-content .vfms-carousel .vfes-card.vfes-card__product{min-height:38.5625rem}}.vfes-ms-content .vfms-packs{padding:2rem .9375rem}@media screen and (min-width:64rem){.vfes-ms-content .vfms-packs{max-width:none}}.vfes-ms-content .vfms-packs__layout{padding:0}.vfes-ms-content .vfms-packs__card{margin-bottom:0;border-top-left-radius:0}@media screen and (min-width:48rem){.vfes-ms-content .vfms-packs__text{min-height:6.25rem}}.vfes-ms-content .vfms-item__price{font-size:1.75rem}@media screen and (min-width:64rem){.vfes-ms-content .vfms-rates__layout .icon-corner{top:-1.25rem}}.vfes-ms-content .vfms-outstanding{color:#fff;background:#666}.vfes-ms-content .vfms-rates{padding:0 .9375rem 2rem}.vfes-ms-content .vfms-rates__layout{padding:0}.vfes-ms-content .vfms-rates .vfms-tag-label--grey{border:.0625rem solid #666}.vfes-ms-content .vfms-rates__offer{min-width:5rem;margin-right:.625rem}.vfes-ms-content .vfms-rates__wrapper{padding:0}@media screen and (min-width:64rem){.vfes-ms-content .vfms-rates__wrapper{max-width:none}}.vfes-ms-content .vfms-rates__icon{position:relative;display:-webkit-box;display:flex;-webkit-box-align:center;align-items:center}.vfes-ms-content .vfms-rates--checkmarks{margin-top:0}.vfes-ms-content .vfms-convergente__icon{max-width:3.125rem;max-height:3.125rem}.vfes-ms-content .vfms-convergente__bg{background-image: url('../img/convergente/bg-convergente-mobile.png?v=ca67e0ebcdc4a525ae3829f890ca56fa');background-position:bottom;background-repeat:no-repeat;background-position-y:26rem;background-position-x:-13.75rem}@media screen and (min-width:48rem){.vfes-ms-content .vfms-convergente__bg{background-image: url('../img/convergente/bg-convergente-tablet.png?v=de7058f82090e05c4fcb0a3ce861d9c7');background-size:contain;background-position:bottom;background-position-x:-3.125rem}}@media screen and (min-width:64rem){.vfes-ms-content .vfms-convergente__bg{background-image: url('../img/convergente/bg-convergente-desktop.png?v=a0df122e5729c3c33323c791e085899f');background-position-x:-14.0625rem}}@media screen and (min-width:64rem){.vfes-ms-content .vfms-container{position:relative;max-width:75rem;margin:0 auto;padding:2.8125rem 0}}@media screen and (min-width:64rem){.vfes-ms-content .vfms-renove__container{max-width:75rem;margin:0 auto}}.vfes-ms-content .vfms-mr{margin-right:.4375rem}.vfes-ms-content .vfms-renove{padding:.9375rem}@media screen and (min-width:48rem){.vfes-ms-content .vfms-renove{padding:2rem 1rem;margin:0}}@media screen and (min-width:64rem){.vfes-ms-content .vfms-renove{padding:3.125rem 0}}.vfes-ms-content .vfms-renove__img{border-radius:.375rem}@media screen and (min-width:64rem){.vfes-ms-content .vfms-renove__text{text-align:left;display:-webkit-box;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;flex-direction:column;-webkit-box-pack:center;justify-content:center;max-width:33.125rem}}@media screen and (min-width:48rem){.vfes-ms-content .vfms-s__visible{display:none}}.vfes-ms-content .vfms-m__visible{display:none}@media screen and (min-width:48rem){.vfes-ms-content .vfms-m__visible{display:block}}@media screen and (min-width:64rem){.vfes-ms-content .vfms-m__visible{display:none}}.vfes-ms-content .vfms-l__visible{display:none}@media screen and (min-width:64rem){.vfes-ms-content .vfms-l__visible{display:block}}
+>>>>>>> 279ba052a669a455470fbc6aae077afec9c8717e

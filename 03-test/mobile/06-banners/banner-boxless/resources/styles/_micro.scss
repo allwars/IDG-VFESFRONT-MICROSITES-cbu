@@ -1,0 +1,26 @@
+// CSS del microsite
+.vfms-banner-boxless{
+    .vfes-flex__direction--row-column-sm {
+        @media screen and (min-width: 640px) {
+            flex-direction: row;
+        }
+    }
+    .vfms-align {
+        align-items: center;
+        text-align: center;
+        @media screen and (min-width: 640px) {
+            text-align: left;
+        }
+    }
+    .vfms-title  {
+        @media screen and (min-width: 970px) {
+            font-size: 26px;
+        }
+    }
+    .vfms-text {
+        @media screen and (min-width: 970px) {
+            font-size: 18px;
+            max-width: 581px;
+        }
+    }
+}

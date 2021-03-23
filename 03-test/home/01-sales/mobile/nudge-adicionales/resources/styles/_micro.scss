@@ -1,0 +1,102 @@
+// CSS del microsite
+.vfes-ms-content-adicionales-mobile{
+    .vfms-nudge{
+        width: 100%;
+        background-image: url('https://www.vodafone.es/c/statics/imagen/nudge-lineas-adicionales-mobile.png');
+        background-size: cover;
+        background-position: bottom;
+        background-repeat: no-repeat;
+        padding: 0 15px;
+        height: 422px;
+        position: fixed;
+        top: 0;
+        z-index: 9;
+        p {
+            margin-bottom: 0;
+        }
+
+        .vfms-title__center {
+            max-width: 250px;
+            margin: 0 auto;
+        }
+
+        .vfes-layout {
+            padding-top: 30px;
+        }
+
+        &-itemblock{
+            font-size: 32px;
+        }
+
+        .vfes-button{
+            height: 44px;
+            font-size: 18px;
+        }
+
+    }
+    @media screen and (min-width: 640px) {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        .vfes-layout__item {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin: 0 auto;
+        }
+
+        .vfes-layout {
+            padding-top: 30px;
+        }
+
+        .vfms-center {
+            display: flex;
+            justify-content: center;
+            margin-top: 20px;
+        }
+        
+        .vfms-nudge{
+            width: 100%;
+            height: 420px;
+            background-image: url('https://www.vodafone.es/c/statics/imagen/nudge-lineasadicionales-tablet.png');
+            background-size: cover;
+            background-position: bottom;
+            background-repeat: no-repeat;
+
+            .vfms-special--size {
+                max-width: 250px;
+                font-size: 24px;
+            }
+    
+            .vfes-button{
+                height: 44px;
+                width: 313px;
+                font-size: 18px;
+            }
+            &-itemblock{
+                font-size: 40px;
+            }
+    
+        }
+    }
+    @media screen and (min-width: 1024px) {
+
+        .vfms-nudge{
+            background-image: url('https://www.vodafone.es/c/statics/imagen/nudge-lineas-adicionales-desktop.png');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: bottom;
+
+            .vfms-special--size {
+                max-width: 250px;
+            }
+            
+            .vfms-width {
+                max-width: 300px;
+                margin: 0 auto;
+            }
+    
+        }
+    }
+}

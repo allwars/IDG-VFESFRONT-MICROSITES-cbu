@@ -1,0 +1,236 @@
+<div data-spritesheet="svg/sprite.mid.svg"></div><main>
+			<section>
+				<div> 
+					<h3>Samsung Galaxy S20 FE 5G</h3>
+					<h4>Elige el Samsung Galaxy que más se adapte a ti y llévate gratis los 3 primeros meses de <span>Vodafone Care</span></h4> 
+					<div>
+						<div>
+							<div>
+								<div>
+									<p>Samsung Galaxy S20 FE 5G Rojo 128GB</p>
+									
+									<div>
+										<div>
+											<div>
+												<div>
+													
+												</div>
+												<p>
+													Pantalla</p>
+											</div>
+											<div>
+												<p>6.5”</p>
+											</div>
+										</div>
+										<div>
+											<div>
+												<div>
+													
+												</div>
+												<p>
+													Cámara</p>
+											</div>
+											<div>
+												<p>12MP F2.2</p>
+												<p>12MP F1.8</p>
+												<p>8MP 3x  F2.4</p>
+											</div>
+										</div>
+										<div>
+											<div>
+												<div>
+													
+												</div>
+												<p>
+													Memoria</p>
+											</div>
+											<div>
+												<p>128GB</p>
+												<p>RAM 6GB</p>
+											</div>
+										</div>
+									</div>
+									<div>
+										<p><span><strong>15€/mes</strong></span> en 36
+											meses</p>
+										<p><span><strong>+0€</strong></span> de pago inicial
+										</p>
+										<a href="https://www.vodafone.es/c/tienda-online/particulares/catalogo-moviles/samsung-galaxy-s20-fe-5g-rojo-128gb-313936/" target="_self" data-analytics-id="1500089957853-1957610789070">Más información
+											<span>: Más información Samsung Galaxy S20 FE 5G Rojo 128GB</span>
+										</a>
+									</div>
+								</div>
+							</div>
+							<div>
+								<div>
+									<p>Samsung Galaxy S20 FE 5G Azul 128GB</p>
+									
+									<div>
+										<div>
+											<div>
+												<div>
+													
+												</div>
+												<p>
+													Pantalla</p>
+											</div>
+											<div>
+												<p>6.5”</p>
+											</div>
+										</div>
+										<div>
+											<div>
+												<div>
+													
+												</div>
+												<p>
+													Cámara</p>
+											</div>
+											<div>
+												<p>12MP F2.2</p>
+												<p>12MP F1.8</p>
+												<p>8MP 3x  F2.4</p>
+											</div>
+										</div>
+										<div>
+											<div>
+												<div>
+													
+												</div>
+												<p>
+													Memoria</p>
+											</div>
+											<div>
+												<p>128GB</p>
+												<p>RAM 6GB</p>
+											</div>
+										</div>
+									</div>
+									<div>
+										<p><span><strong>15€/mes</strong></span> en 36
+											meses</p>
+										<p><span><strong>+0€</strong></span> de pago inicial
+										</p>
+										<a href="https://www.vodafone.es/c/tienda-online/particulares/catalogo-moviles/samsung-galaxy-s20-fe-5g-azul-128gb-313935/" target="_self" data-analytics-id="1500089957853-3243256279464">Más información
+											<span>: Más información Samsung Galaxy S20 FE 5G Azul</span>
+										</a>
+									</div>
+								</div>
+							</div>
+							<div>
+								<div>
+									<p>Samsung Galaxy S20 FE 5G Lavanda 128GB</p>
+									
+									<div>
+										<div>
+											<div>
+												<div>
+													
+												</div>
+												<p>
+													Pantalla</p>
+											</div>
+											<div>
+												<p>6.5”</p>
+											</div>
+										</div>
+										<div>
+											<div>
+												<div>
+													
+												</div>
+												<p>
+													Cámara</p>
+											</div>
+											<div>
+												<p>12MP F2.2</p>
+												<p>12MP F1.8</p>
+												<p>8MP 3x  F2.4</p>
+											</div>
+										</div>
+										<div>
+											<div>
+												<div>
+													
+												</div>
+												<p>
+													Memoria</p>
+											</div>
+											<div>
+												<p>128GB</p>
+												<p>RAM 6GB</p>
+											</div>
+										</div>
+									</div>
+									<div>
+										<p><span><strong>15€/mes</strong></span> en 36
+											meses</p>
+										<p><span><strong>+0€</strong></span> de pago inicial
+										</p>
+										<a href="https://www.vodafone.es/c/tienda-online/particulares/catalogo-moviles/samsung-galaxy-s20-fe-5g-lavanda-128gb-313938/" target="_self" data-analytics-id="1500089957853-8795491994836">Más información
+											<span>: Más información Samsung Galaxy S20 FE 5G Lavanda 128GB</span>
+										</a>
+									</div>
+								</div>
+							</div>
+							<div>
+								<div>
+									<p>Samsung Galaxy S20 FE 5G Verde 128GB</p>
+									
+									<div>
+										<div>
+											<div>
+												<div>
+													
+												</div>
+												<p>
+													Pantalla</p>
+											</div>
+											<div>
+												<p>6.5”</p>
+											</div>
+										</div>
+										<div>
+											<div>
+												<div>
+													
+												</div>
+												<p>
+													Cámara</p>
+											</div>
+											<div>
+												<p>12MP F2.2</p>
+												<p>12MP F1.8</p>
+												<p>8MP 3x  F2.4</p>
+											</div>
+										</div>
+										<div>
+											<div>
+												<div>
+													
+												</div>
+												<p>
+													Memoria</p>
+											</div>
+											<div>
+												<p>128GB</p>
+												<p>RAM 6GB</p>
+											</div>
+										</div>
+									</div>
+									<div>
+										<p><span><strong>15€/mes</strong></span> en 36
+											meses</p>
+										<p><span><strong>+0€</strong></span> de pago inicial
+										</p>
+										<a href="https://www.vodafone.es/c/tienda-online/particulares/catalogo-moviles/samsung-galaxy-s20-fe-5g-verde-128gb-313937/" target="_self" data-analytics-id="1500089957853-4538767178623">Más información
+											<span>: Más información Samsung Galaxy S20 FE 5G Verde 128GB</span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+		</main>

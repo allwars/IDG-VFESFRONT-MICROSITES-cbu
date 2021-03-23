@@ -1,0 +1,128 @@
+.vfes-modal-channel {
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 10px;
+    .vfes-modal__head {
+        padding-top: 14px;
+    }
+    .vfes-modal__close {
+        padding-top: 14px;
+    }
+    .vfes-modal__item {
+        margin-top: 60px;
+    }
+    .vfes-modal__content {
+        margin-top: -2px;
+        overflow: overlay;
+        height: 100%;
+        .vfes-title {
+            text-align: center;
+            font-size: 28px;
+            line-height: 36px;
+            &--5 {
+                font-size: 18px;
+                text-align: center;
+            }
+        }
+        .vfes-list {
+            display: flex;
+            flex-flow: row wrap;
+            justify-content: flex-start;
+            padding: 0 10px 0 10px;
+        }
+        .channels {
+            text-align: center;
+            &__channel {
+                display: inline-block;
+                text-align: center;
+                vertical-align: top;
+                width: 68px;
+                margin: 10px;
+                .img {
+                    //width: 68px;
+                    width: 100%;
+                }
+                .vfes-paragraph {
+                    text-align: center;
+                }
+                &:last-of-type {
+                    .vfes-paragraph {
+                        margin-bottom: 40px;
+                    }
+                }
+            }
+            &__common {
+                text-align: center;
+                .channels__channel:last-of-type {
+                    .vfes-paragraph {
+                        margin-bottom: 0px;
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media screen and (min-width: 640px) {
+    .vfes-modal-channel {
+        align-items: center;
+        .vfes-modal__item {
+            width: 600px;
+            margin-top: 0;
+        }
+        .vfes-modal__content {
+            padding: 0 38px 40px 38px;
+            height: auto;
+            .vfes-title {
+                font-size: 36px;
+                line-height: 40px;
+                &--5 {
+                    font-size: 20px;
+                }
+            }
+            .vfes-list {
+                display: inline-block;
+            }
+            .list-cinefans,
+            .list-peques {
+                display: flex;
+                justify-content: space-between;
+            }
+            .channels {
+                &__channel {
+                    width: 80px;
+                    .img {
+                        //width: 80px;
+                    }
+                    .vfes-paragraph {
+                        font-size: 14px;
+                        line-height: 18px;
+                    }
+                    &:last-of-type {
+                        .vfes-paragraph {
+                            margin-bottom: 40px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media screen and (min-width: 970px) {
+    .vfes-modal-channel {
+        .vfes-modal__item {
+            width: 780px;
+        }
+        .vfes-modal__content {
+            padding: 0 0 40px 0;
+            .vfes-title {
+                font-size: 40px;
+                line-height: 48px;
+            }
+            .vfes-list {
+                padding-left: 100px;
+                padding-right: 100px;
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+<p data-animation-element="category">Móvil + Fibra
+						</p><h2>
+										Por ser cliente Vodafone, este verano te regalamos <strong>datos ilimitados o 3 meses de TIDAL HiFi</strong>
+									</h2><h2>
+
+							
+							<div data-animation-element="1sentence">Los primeros con</div>
+							<div data-animation-element="2sentence"><span>datos ilimitados</span> y la</div>
+							<div data-animation-element="3sentence"> <span>TV</span> con <span>más contenidos</span>
+							</div>
+						</h2><div data-animation-element="sello">
+							
+						</div><div data-animation-element="imac">
+							
+						</div><div data-animation-element="ipad">
+							
+						</div><div data-animation-element="deco">
+							
+						</div><div data-animation-element="iphone">
+							
+						</div><div data-animation-element="bolo">
+							
+						</div><video src="media/1440x300.mp4" muted="" autoplay="" loop=""></video><h2>Hello Vodafone test2!</h2><h3>Ejemplo de contenido cargado desde el JSON</h3><p>La ubicación del fichero JSON: microsite/[ruta_del_microsite]/resource/data/local.json</p><h3>Este titulo se carga desde el JSON comun</h3><p>La ubicación del fichero JSON: ./resources/assets/data/common.json</p><h4>Recuerda: </h4><p> Si la clave de tu JSON LOCAL coincide con la clave del JSON Global, priorizará el contenido del JSON local. </p><h4>Ejemplo</h4><ul>
+			<li>Yo soy el JSON local del microsite</li>
+		</ul>

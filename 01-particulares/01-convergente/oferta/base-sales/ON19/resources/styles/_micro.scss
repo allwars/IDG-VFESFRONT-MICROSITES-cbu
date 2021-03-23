@@ -1,0 +1,96 @@
+.vfes-ms-content-on19 {
+  .vfms-button {
+      font-family: VodafoneRegular,Helvetica,Arial,sans-serif;
+      text-align: center;
+      border: 0;
+      text-decoration: none;
+      cursor: pointer;
+      display: inline-block;
+      box-sizing: border-box;
+      border-radius: .375rem;
+      padding: .5625rem .875rem .6875rem;
+      line-height: 1.25;
+      width: 100%;
+      margin-right: 0;
+      margin-left: 0;
+  }
+  .vfms-button--primary {
+    font-size: 1.25rem;
+    background-color: #e60000;
+    color: white;
+  }
+  .vfms-banner-bg{
+    background-image: url("https://www.vodafone.es/c/statics/imagen/background_mobile_ON19.jpg");
+    background-size: cover;
+    padding: 2.5rem 0;
+  }
+
+  .vfms-text{
+    align-items: center;
+    text-align: center;
+  }
+
+  .vfms-contenido{
+    flex-direction: column;
+  }
+
+  .vfms-img-desktop{
+    display: none;
+  }
+
+  .vfms-title--2 {
+    font-size: 1.75rem;
+    line-height: 1.15;
+  }
+  .vfms-title--4 {
+    font-size: 1.25rem;
+    line-height: 1.23;
+  }
+@media screen and (min-width: 640px) {
+  .vfes-button {
+    width: auto;
+  }
+  .vfms-text{
+    align-items: flex-end;
+    text-align: right;
+  }
+
+  .vfms-img-mobile{
+    display: none;
+  }
+
+  .vfms-img-desktop{
+    display: block;
+  }
+  .vfms-contenido{
+    flex-direction: row;
+  }
+  .vfms-banner-bg{
+    background-image: url("https://www.vodafone.es/c/statics/imagen/background_tablet_ON19.jpg");
+    background-size: cover;
+    padding: 3.5rem 0;
+  }
+  .vfms-title--2 {
+    font-size: 1.875rem;
+  }
+  .vfms-title--4 {
+    font-size: 1.5rem;
+  }
+}
+
+  @media screen and (min-width: 970px) {
+
+  .vfms-banner-bg{
+    background-image: url("https://www.vodafone.es/c/statics/imagen/background_desktop_ON19.jpg");
+    background-size: cover;
+    padding: 3.75rem 0;
+  }
+  .vfms-title--2 {
+    font-size: 2.25rem;
+  }
+  .vfms-title--4 {
+    font-size: 1.625rem;
+  }
+}
+
+}

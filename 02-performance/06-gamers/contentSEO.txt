@@ -1,0 +1,376 @@
+<h2>Has entrado en terreno GAMER.</h2><h2>NO MORE LAG
+		</h2><p>La mejor conexión para jugar en
+			casa, fuera, o en todas partes.</p><ul>
+			<li><a title="Vodafone.es" target="_self" href="https://www.vodafone.es/c/particulares/es/">Home</a></li>
+			<li><a title="Tarifas móvil" target="_self" href="https://www.vodafone.es/c/tienda-online/particulares/tarifas-moviles/">Móvil</a></li>
+			<li><a title="Item 3" target="_self" href="#">Gamers</a></li>
+		</ul><p>Estés donde estés juega a toda velocidad.</p><p>¿Cuál es tu perfil gamer?</p><ul>
+			<li>
+				<a title="CTA">
+					<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22px" height="22px">
+						<title>Convergente</title>
+						<use fill="#ffffff" xlink:href="#icon3-convergente-system"></use>
+					</svg>
+					Juego todo el rato
+				</a>
+			</li>
+			<li>
+				<a title="CTA">
+					<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22px" height="22px">
+						<title>Movil</title>
+						<use fill="#ffffff" xlink:href="#icon3-broadband-or-wifi"></use>
+					</svg>
+					Solo juego en casa</a>
+			</li>
+			<li>
+				<a title="CTA">
+					<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22px" height="22px">
+						<title>Fibra</title>
+						<use fill="#ffffff" xlink:href="#icon3-mobile"></use>
+					</svg>
+					Juego fuera de casa</a>
+			</li>
+		</ul><p>Juego todo el rato (Fibra
+                        + Móvil)</p><p>Vodafone One ilimitada, <span> 50% de descuento</span> durante 3 meses</p><ul>
+                        <li>
+                            <div>
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                    <title>Datos ilimitados 5G</title>
+                                    <use fill="#ffffff" xlink:href="#icon3-mobile"></use>
+                                </svg>
+                                <div>
+                                    <p>Datos ilimitados 5G
+                                    </p>
+                                    <p>Con tu móvil podrás conectarte todo el mes a la
+                                        misma velocidad con gigas ilimitados.</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                    <title>Velocidad</title>
+                                    <use fill="#ffffff" xlink:href="#icon3-broadband-or-wifi"></use>
+                                </svg>
+                                <div>
+                                    <p>100Mbps simétricos</p>
+                                    <p>Fibra sin cortes ni interrupciones. Es simétrica, misma velocidad de subida y descarga de archivos.</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                    <title>Llamadas ilimitadas</title>
+                                    <use fill="#ffffff" xlink:href="#icon3-tv"></use>
+                                </svg>
+                                <div>
+                                    <p>Pack Seriefans
+                                        GRATIS</p>
+                                    <p>Con HBO España, FoxNow y mucho más</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                
+                                <div>
+                                    <p>Fibra sin cortes</p>
+                                    <p>Navega a toda velocidad, juega online a tiempo
+                                        real y disfruta de una mayor calidad sin cortes.</p>
+                                </div>
+                            </div>
+                        </li>
+                    </ul><p> <span><strong>31,99</strong></span>€/mes</p><p>durante 3 meses, después 64,99€/mes</p><a href="https://www.vodafone.es/c/tienda-online/particulares/vodafone-one/paquete-fibra-movil-3/" title="CTA">
+                    Lo quiero
+					<span>: Lo quiero</span>
+                </a><p>Solo juego en casa (Fibra)
+                    </p><p>Ahora con toda la velocidad que necesitas y sin cortes</p><ul>
+                        <li>
+                            <div>
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                    <title>Velocidad</title>
+                                    <use fill="#ffffff" xlink:href="#icon3-broadband-or-wifi"></use>
+                                </svg>
+                                <div>
+                                    <p>600Mbps simétricos
+                                    </p>
+                                    <p>Fibra sin cortes ni interrupciones. Es
+                                        simétrica, misma velocidad de subida y descarga de archivos.</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                    <title>Dispositivos</title>
+                                    <use fill="#ffffff" xlink:href="#icon3-connected-devices"></use>
+                                </svg>
+                                <div>
+                                    <p>Hasta 15
+                                        dispositivos</p>
+                                    <p>Puedes conectar varios dispositivos a la vez
+                                        sin que afecte al ritmo de navegación.</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                
+
+                                <div>
+                                    <p>Fibra sin cortes</p>
+                                    <p>Navega a toda velocidad, juega online a tiempo
+                                        real y disfruta de una mayor calidad sin cortes.</p>
+                                </div>
+                            </div>
+                        </li>
+                    </ul><p> <span><strong>24,84</strong></span>€/mes</p><p>+18,15€ de cuota de línea (IVA incl.)</p><a href="https://www.vodafone.es/c/tienda-online/particulares/fibra-optica/" target="_new" title="Lo quiero">Lo quiero</a><p>Juego fuera de casa
+                        (Móvil)</p><p>Llévate este<span> móvil 5G</span> y disfruta de<span> máxima velocidad</span> y<span> datos ilimitados 5G</span> para jugar</p><div>
+                                
+                            </div><ul>
+                                    <li>
+                                        <div>
+                                            <div>
+                                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                                    <title>Datos ilimitados</title>
+                                                    <use fill="#ffffff" xlink:href="#icon3-sim"></use>
+                                                </svg>
+                                            </div>
+                                            <div>
+                                                <p>Tarifa
+                                                    Móvil ilimitada Total</p>
+                                                <p>con datos ilimitados 5G (a máxima
+                                                    velocidad) y llamadas ilimitadas</p>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div>
+                                            <div>
+                                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                                    <title>Samsung Galaxy A90</title>
+                                                    <use fill="#ffffff" xlink:href="#icon3-mobile"></use>
+                                                </svg>
+                                            </div>
+                                            <div>
+                                                <p>Samsung
+                                                    Galaxy A90</p>
+                                                <p>128 GB Negro</p>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div>
+
+                                            
+
+                                            <div>
+                                                <p>Gafas de
+                                                    realidad virtual Homido <span>GRATIS</span> </p>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div>
+                                            <div>
+                                                
+                                            </div>
+                                            <div>
+                                                <p>Hatch
+                                                    Premium 1 año <span>GRATIS</span></p>
+                                                <p>Plataforma de videojuegos online</p>
+                                            </div>
+                                        </div>
+                                    </li>
+                                </ul><p>
+                                        <strong>49,99€</strong>/mes</p><p>(IVA incl.)</p><a href="https://www.vodafone.es/c/tienda-online/particulares/catalogo-moviles/samsung-galaxy-a90-5g-negro-128gb-313764/" title="CTA">
+                                    Lo quiero
+									<span>: Lo quiero</span>
+                                </a><a href="Enlace al sitio" data-modal="legales-gamers" data-modal-close="" aria-haspopup="dialog" title="Condiciones legales">Ver condiciones legales</a><p>Preguntas Frecuentes
+				</p><button aria-expanded="false" aria-controls="accordion-content-0">¿Qué es Hatch
+								Premium?</button><p>
+										Hatch es una plataforma de cloud gaming, diseñada especialmente para 5G. Hatch
+										Premium, es el servicio de suscripción mensual a Hatch que ofrece más de 160
+										juegos premium a la carta, sin descargas adicionales ni compras desde
+										aplicaciones. Esta suscripción, dispone de una sección para niños con contenido
+										adecuado para su edad, sin anuncios ni compras dentro de la aplicación Podrás
+										jugar desde dispositivos Android: móvil, Tablet o Smart TV. Salta de una
+										pantalla a otra y continua la partida donde la dejaste. Además, podrás usar tu
+										móvil como mando si juegas desde la televisión.
+									</p><button aria-expanded="false" aria-controls="accordion-content-0">¿Cómo puedo activar Hatch
+								Premium?</button><p>
+										La activación de&nbsp;Hatch Premium&nbsp;se realiza a través de la
+										web:&nbsp;<a href="vodafone.es/entretenimiento">vodafone.es/entretenimiento</a>.
+										Selecciona Hatch, crea una cuenta para completar el alta en el servicio y, una
+										vez lo hayas hecho, serás redirigido a la descarga de la aplicación del servicio
+										para poder acceder al mismo. Comprueba previamente que tienes&nbsp;las restricciones
+										de pagos a terceros de Hatch
+										desactivadas.
+									</p><button aria-expanded="false" aria-controls="accordion-content-0">¿Qué es y cómo puedo disfrutar
+								del 5G?</button><p>
+										La tecnología 5G es la evolución de las redes 4G LTE (Long Term Evolution) y es
+										posible gracias a una infraestructura de red móvil independiente más avanzada.
+										El 5G ofrece conexiones con más velocidad. Esta tecnología ofrece una red más
+										estable y de mayor alcance que las actuales redes 4G con la que podrás conectar
+										más
+										dispositivos a la vez y cada vez más diversos.
+									</p><p>
+										El despliegue de la cobertura 5G se irá realizando de forma gradual por el
+										territorio nacional. Puedes ir informándote de las nuevas zonas de cobertura 5G
+										con el&nbsp;<a href="https://www.vodafone.es/c/conocenos/es/vodafone-espana/mapa-cobertura-movil/">mapa
+											de cobertura móvil</a> &nbsp;de&nbsp;<a href="https://www.vodafone.es/c/particulares/es/">Vodafone.es</a>.
+									</p><p>
+										Para disfrutar de 5G, además de estar en zona de cobertura, será necesario:
+									</p><ul>
+										<li>Qué tengas contratada alguna de las nuevas tarifas Vodafone ya preparadas
+											para 5G y sin aumento de precio. Si el servicio principal es 5G todos los
+											servicios secundarios que tengas contratados (OneNumber, líneas adicionales)
+											también disfrutarán de 5G. Las tarifas prepago, bit, Lowi y para empresas
+											también tendrán 5G próximamente.
+										</li>
+										<li>
+											Qué dispongas de un terminal móvil 5G, que podrás adquirir en Vodafone en
+											cómodos plazos. Puedes consultar&nbsp;<a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/moviles/moviles-5g/">aquí</a>
+											la información de precios y
+											terminales móviles 5G.
+										</li>
+									</ul><button aria-expanded="false" aria-controls="accordion-content-0">¿Estas ofertas tienen
+								permanencia?</button><p>
+										Vodafone One Ilimitada: esta oferta tiene un compromiso de 12 meses, con una
+										penalización por baja anticipada de hasta 165 euros en función del descuento
+										aplicado
+										y el tiempo que reste para el cumplimiento del compromiso.
+									</p><p>
+										Pack ilimitable 5g con Samsung A90+ tarifa móvil ilimitada Total: esta oferta
+										tiene un compromiso asociado a la promoción sobre la tarifa Vodafone
+										Ilimitada Total (24 meses). Penalizaciones máximas asociadas:
+									</p><ul>
+										<li>
+											Compromiso de permanencia de 24 meses en Vodafone, con
+											penalización creciente por importe máximo de 600€ por baja
+											anticipada, por el descuento aplicado y el tiempo que reste para el
+											cumplimiento del compromiso. La penalización se ejecutaría en caso
+											de baja del cliente.
+										</li>
+										<li>
+											Compromiso de permanencia en tarifa de 18 meses por el terminal,
+											con penalización decreciente por importe máximo de 150€ cambio a
+											una tarifa inferior.
+										</li>
+									</ul><button aria-hidden="false"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px">
+						<title>Close</title>
+						<use xlink:href="#icon3-close"></use>
+					</svg></button><p>Condiciones legales de Gamers</p><p>Vodafone One ilimitada</p><p>
+					Promoción de 50% 3 meses en tarifa Vodafone One ilimitada válida hasta el 31/12/2019 para nuevos
+					clientes (altas nuevas y portabilidades) y para clientes existentes de móvil o fijo que se hagan
+					convergentes. Condiciones de la promoción: descuento en la cuota de 33€/mes en la tarifa Vodafone
+					One Ilimitada. Compromiso de 12 meses en Vodafone One, con penalización por baja anticipada de hasta
+					165 euros en función del descuento aplicado y el tiempo que reste para el cumplimiento del
+					compromiso. Precio después de promoción: 64.99€. Oferta no acumulable con otras ofertas de fibra y
+					fijo, o móvil.
+				</p><p>
+					Pack Seriefans incluido. Pack Serielovers 10€/mes en esta tarifa. Condiciones de los Packs de TV:
+					Sin permanencia y sin cuota de alta. Penalización por no devolución del equipo en caso de baja de
+					120€. HBO España incluido en Seriefans y Serielovers y Amazon Prime solamente incluido en
+					Serielovers. Una vez dado de alta los paquetes de TV es necesario activar HBO España y Amazon Prime
+					en <a href="vodafone.es/entretenimiento"></a> vodafone.es/entretenimiento. La baja de ambos paquetes
+					implica la cancelación del servicio de HBO España, y la baja del pack Serielovers implica la
+					cancelación del servicio Amazon Prime. Amazon Prime tiene un precio de 3,99€/mes fuera de pack.
+					©2019 Home Box Office,Todos los derechos reservados. HBO® y sus canales y servicios asociados a su
+					marca son propiedad de Home Box Office, Amazon.com, Inc. y sus afiliados no son sponsor de esta
+					promoción. Todas las marcas Amazon ®, TM &amp; © son propiedad intelectual de Amazon.com, Inc. o de
+					sus afiliados.
+				</p><p>
+					Por la instalación del Servicio de fibra Vodafone incurre en un coste de 150 euros. &nbsp;En el caso de
+					que el servicio se dé de baja dentro de los 12 primeros meses desde la instalación, Vodafone
+					repercutirá al cliente el citado coste por un importe de hasta 150 euros.
+				</p><p>
+					Con&nbsp;Vodafone Fibra 100Mbps, el Cliente tendrá Acceso a Internet con conexión por cable Ethernet con
+					velocidad de hasta 100Mbps en bajada y 10Mbps o 100Mbps en subida.
+				</p><p>
+					La tarifa&nbsp;Vodafone Ilimitada&nbsp;incluye:
+				</p><ul>
+					<li>
+						<p>Llamadas y SMS ilimitados con cualquier operador nacional las 24
+							horas. Los minutos incluidos en todas las tarifas excluyen las llamadas a numeraciones
+							especiales de tarificación adicional (como los 700,C2 General 901 o 902), llamadas a
+							inteligencia de red, llamadas internacionales,llamadas a números guía (como los 118) y las
+							llamadas no utilizadas para la identificación de usuarios finales.</p>
+					</li>
+					<li>
+						<p>Datos ilimitados de navegación a una velocidad de 2Mbps.</p>
+					</li>
+					<li>
+						<p>Roaming incluido en Europa, Reino Unido y EE.UU: llamadas y SMS ilimitados y 16GB
+							de navegación.</p>
+					</li>
+					<li>
+						<p>Servicio Secure Net para usar tu Smartphone con seguridad, 1 euro al
+							mes (gratis los 3 primeros meses).</p>
+					</li>
+					<li>
+						<p>Roaming incluido en UE, Reino Unido y EE.UU, Islandia, Noruega, Liechtenstein,
+							Suiza, Turquía, Vaticano, Kosovo y Mónaco (Zona1).Las llamadas en roaming realizadas y
+							recibidas, SMS enviados y GB consumidos en estos destinos se contabilizan en la tarifa
+							nacional sin coste adicional. Incluidas las llamadas realizadas con origen y destino en
+							cualquier país de los indicados. Llamadas realizadas desde zona 1 a cualquier destino, fuera
+							de zona 1, se tarifica según la tarifa Vodafone World. Más información y política de uso
+							razonable en&nbsp;<a href="vodafone.es/roaming" target="_blank"></a> vodafone.es/roaming Abre en
+							ventana nueva.</p>
+					</li>
+					<li>
+						<p>Superados los GB incluidos en Roaming para las tarifas ilimitada,
+							Súper y Total el precio de cada Giga adicional es de 5,4€/GB.</p>
+					</li>
+					<li>
+						<p>Cuotas mensuales prorrateables en el alta y en la baja.</p>
+					</li>
+				</ul><p>Vodafone Fibra 600Mb</p><p>
+					Paquete disponible para nuevas altas, portabilidades, migración de prepago a contrato y Clientes de cartera en modalidad contrato para Clientes Particulares. Vodafone Fibra 600Mbps se ofrece a un precio de 42,99€/mes.
+				</p><p>
+					El precio incluye un compromiso de permanencia de 24 meses. Transcurrido ese periodo el precio al mes pasará a ser 51,99€.
+				</p><p>
+					El precio de la Fibra incluye el alquiler del router de 3€/mes. Por la instalación del servicio de fibra Vodafone incurre en un coste de 150 euros. En el caso de que el servicio se dé de baja dentro de los 12 primeros meses desde la instalación, Vodafone repercutirá al cliente el citado coste por un importe de hasta 150 euros.
+				</p><p>
+					Con Vodafone Fibra 600Mbps, el Cliente tendrá Acceso a Internet con conexión por cable Ethernet con velocidad de hasta 600Mbps en bajada y 60Mbps o 600Mbps en subida.
+				</p><p>Condiciones de los servicios de fijo de banda ancha</p><p>
+					Los servicios a través de Vodafone Fibra y de Vodafone ADSL están sujetos a disponibilidad de cobertura. El Cliente únicamente podrá contratar la tarifa asociada a ADSL en caso de que no disponga de cobertura de fibra.
+					Llamadas a cualquier operador nacional: Incluyen llamadas ilimitadas desde el fijo a fijos y móviles nacionales.
+				</p><p>
+					El cliente puede activar el servicio de identificación de llamadas para el fijo por 2€/mes. El Cliente puede darse de baja de este servicio de identificación de llamadas de forma gratuita a través de Mi Vodafone.
+				</p><p>
+					Condiciones de permanencia: si el cliente se da de baja dentro del periodo de compromiso, deberá pagare a Vodafone en concepto de penalización por incumplimiento la cantidad que corresponda en función del tiempo que reste para cumplir el compromiso adquirido hasta el máximo del beneficio obtenido por el cliente. Penalización por no devolución del equipo de fibra en caso de baja 80€
+				</p><p>Promoción Pack Ilimitables 5G: Samsung A90 + Tarifa
+					Móvil ilimitada Total</p><p>
+					Promoción válida hasta el 03/12. Consta de un terminal Samsung Galaxy A90 5G con pago a plazos de 24
+					meses y de un descuento en la tarifa Ilimitada Total durante 24 meses.
+				</p><p>
+					Precios al mes es: 49,99€ (solo móvil), 99,99€ (móvil+fibra 600Mbps) y 109,99€ (móvil+fibra 1Gbps).
+					Con ADSL el precio sería 73,99€.
+				</p><p>
+					Canon digital no incluido. Precios en cuotas reflejados en factura estarán grabados al impuesto
+					indirecto aplicable según territorio.
+				</p><p>
+					Además incluye un soporte/gafas para Realidad Virtual de regalo por redención en&nbsp;<a href="https://vodafone.ascendeoiberia.com/form/ilimitables5g-g3.html"></a>
+					https://vodafone.ascendeoiberia.com/form/ilimitables5g-g3.html. Y el cliente podrá suscribirse a
+					Hatch Premium de forma gratuita durante 12 meses, a través de MiVodafone.
+				</p><p>
+					Penalizaciones en solo móvil: Con esta promoción el cliente adquiere un compromiso asociado a la
+					promoción sobre la tarifa Vodafone Ilimitada Total (24 meses). Penalizaciones máximas asociadas:
+				</p><ul>
+					<li>
+						<p>Compromiso de permanencia de 24 meses en Vodafone, con penalización
+							creciente por importe máximo de 600€ por baja anticipada, por el descuento aplicado y el
+							tiempo que reste para el cumplimiento del compromiso. La penalización se ejecutaría en caso
+							de baja del cliente.</p>
+					</li>
+					<li>
+						<p>Compromiso de permanencia en tarifa de 18 meses por el terminal, con
+							penalización decreciente por importe máximo de 150€ cambio a una tarifa inferior.</p>
+					</li>
+				</ul><p>
+					Nota: Los precios recogidos en esta comunicación están expresados con el IVA aplicable en Península
+					y Baleares. En Canarias, Ceuta y Melilla, los precios resultarán de aplicar el porcentaje impositivo
+					correspondiente a los precios sin IVA incluidos en esta comunicación
+				</p>

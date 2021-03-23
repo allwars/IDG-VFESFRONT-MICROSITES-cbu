@@ -1,0 +1,224 @@
+
+.vfes-card__product-name {
+    font-size: 28px;
+    max-width: 200px;
+    margin:0 auto;
+    span{
+
+        font-size: 28px;
+
+    }
+ 
+}
+.vfes-ms-content{
+   
+    
+    .vfes-paragraph--large {
+        @media screen and (min-width: 768px) {
+            font-size: 20px;
+        }
+    }
+
+    .vfes-carousel__bullets-bullet {
+        background-color: transparent;
+        border: 0;
+        display: inline-block;
+        font-size: 0;
+        margin: 0;
+        padding: 0.75rem;
+        position: relative;
+        vertical-align: middle;
+    }
+    .vfes-carousel__bullets-bullet::after {
+        border: 0;
+    }
+    .vfms-wrapper__container {
+
+        @media screen and (min-width: 768px) {
+            padding: 0;
+        }
+        @media screen and (min-width: 1024px) {
+            max-width: none;
+        }
+    }
+    .vfes-tabs__content {
+        @media screen and (min-width: 1024px) {
+            padding: 0;
+        }
+    }
+    .vfms-devices {
+        padding-bottom: 0;
+        @media screen and (min-width: 768px) {
+            padding-top: 30px;
+        }
+        &__wrapper {
+            padding: 0;
+            @media screen and (min-width: 1024px) {
+                max-width: none;
+            }
+        }
+    }
+    .vfms-carousel{
+        &__title {
+            margin-bottom: 0;
+            &--container {
+                @media screen and (min-width: 1024px) {
+                    min-height: 100px;
+                }
+            }
+        }
+        .vfes-carousel__list {
+            padding-top: 40px;
+        }
+        .li.vfes-carousel__list-element {
+            min-height: 515px;
+            @media screen and (min-width: 1024px) {
+                min-height: 637px;
+            }
+        }
+        .vfes-tag-label {
+            .vfes-card {
+                margin-bottom: 0;
+                border-top-left-radius: 0;
+            }
+        }
+        // .vfes-card.vfes-card__product {
+        //     min-height: 515px;
+        //     margin-bottom: 0;
+        //     @media screen and (min-width: 768px) {
+        //         min-height: 545px;
+        //     }
+        //     @media screen and (min-width: 1024px) {
+        //         min-height: 617px;
+        //     }
+        // }
+        .vfes-card__product img {
+            height: 223px;
+        }
+        .vfes-card__product-name {
+            font-weight: normal;
+        }
+    }
+    .vfms-packs {
+
+        
+      
+        //padding: 32px 15px;
+        @media screen and (min-width: 1024px) {
+           
+        }
+        &__layout {
+            padding: 0;
+            background-color: #F4F4F4;
+        }
+        &__card {
+            margin-bottom: 0;
+            border-top-left-radius: 0;
+        }
+        &__text {
+            @media screen and (min-width: 768px) {
+                min-height: 60px;
+            }
+        }
+       
+    }
+    .vfms-item__price {
+        font-size: 28px;
+    }
+    .vfms-rates__layout {
+        .icon-corner {
+            @media screen and (min-width: 1024px) {
+                top: -20px;
+            }
+        }
+    }
+   
+    .vfms-permanence{
+        margin-top:10px;
+    }
+    .vfms-hbo{
+        align-items: center;
+        justify-content: center;
+    }
+    .vfms-outstanding {
+        color: white;
+        background: #666;
+    }
+    .vfms-carousel {
+        padding-top: 0;
+    }
+    .vfms-rates {
+        padding: 45px 0;
+ 
+        &__layout {
+            padding: 0;
+        }
+        &__offer {
+            min-width: 80px;
+            margin-right: 10px;
+        }
+        &__wrapper {
+            padding: 0;
+            @media screen and (min-width: 1024px) {
+                max-width: none;
+            }
+        }
+        &__icon {
+            position: relative;
+            display: flex;
+            align-items: center;
+        }
+        &--checkmarks {
+            margin-top: 0;
+        }
+        
+    }
+    .vfms-container {
+
+        padding: 25px 0;
+
+        @media screen and (min-width: 1024px) {
+            position: relative;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 45px 0;
+        }
+    }
+    .vfms-mr {
+        margin-right: 7px;
+    }
+    .vfms-s__visible {
+        @media screen and (min-width: 768px) {
+            display: none;
+        }
+    }
+    .vfms-m__visible {
+        display: none;
+        @media screen and (min-width: 768px) {
+            display: block;
+        }
+        @media screen and (min-width: 1024px) {
+            display: none;
+        }
+    }
+    .vfms-l__visible {
+        display: none;
+        @media screen and (min-width: 1024px) {
+            display: block;
+        }
+    }
+
+    .vfms-title-ilimitable{
+        margin-top:45px;
+    }
+    .vfms-balls-text{
+        display: block;
+    }
+    .vfms-uses-block{
+        @media screen and (max-width: 640px) {
+            margin-top:20px;
+        }
+
+    }
+  
+}

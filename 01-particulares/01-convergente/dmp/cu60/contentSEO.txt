@@ -1,0 +1,12 @@
+<picture>
+		<source media="(min-width:1024px)" srcset="https://www.vodafone.es/c/statics/imagen/484_CU37_oferta_privada_desktop_cu37.jpg">
+		<source media="(min-width:768px)" srcset="https://www.vodafone.es/c/statics/imagen/484_CU37_oferta_privada_tablet_cu37.jpg">
+		
+		</picture><p>
+                Ahora <strong>datos ilimitados</strong> y <strong>600Mbps de Fibra</strong> con hasta <strong>45% dto. 1 año</strong>
+			</p><p>
+				<a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/?dmp=12626262:cp-acciondmp:cn-dmp:md-CU60&amp;c_var_11=dmp-cu60" target="_self" data-analytics-dmp-click="particulares:cu60:isp-masmovil">
+				Más información
+                    <span>:Datos ilimitados y 600Mbps de Fibra</span>
+                </a>
+			</p>

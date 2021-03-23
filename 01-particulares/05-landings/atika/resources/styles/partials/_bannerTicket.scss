@@ -1,0 +1,90 @@
+
+// Carril para Ticket
+.vf-container-lane{
+  position: relative;
+}
+
+// Banner & Ticket
+.vf-banner {
+  &__bg{
+    width: 100%;
+    background-image: url("../img/banner/bg-banner-mobile.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: top;
+    @media screen and (min-width: 768px) {
+      background-image: url("../img/banner/bg-banner-tablet.jpg");
+      background-size: cover;
+    }
+    @media screen and (min-width: 970px) {
+      background-image: url("../img/banner/bg-banner-desktop.jpg");
+      background-size: cover;
+      min-height: 326px;
+      padding-bottom: 90px;
+      background-repeat: no-repeat;
+    }
+  }
+  &__title {
+    padding-top: 20px;
+
+    @media screen and (min-width: 970px) {
+      padding-top: 50px;
+    }
+  }
+
+
+  &__container {
+    @media screen and (min-width: 764px) {
+      padding-top: 40px;
+      padding-bottom: 40px;
+    }
+    @media screen and (min-width: 970px) {
+      padding-top: initial;
+      padding-bottom: initial;
+    }
+  }
+}
+.vf-rate-ticket {
+  position: relative;
+  margin: auto;
+  z-index: 9;
+
+  @media screen and (min-width: 1025px) {
+    position: absolute;
+    right: 16px;
+    padding-top: 30px;
+  }
+  &__stop{
+    @media screen and (min-width: 970px) {
+      position: absolute;
+      bottom: 0;
+    }
+  }
+  &__floating {
+    position: sticky;
+    width: 100%;
+    max-width: 400px;
+    padding-top: .625rem;
+  }
+  &__hidden {
+    display: none;
+    @media screen and (min-width: 1025px) {
+      display: block;
+    }
+  }
+  &__info{
+    &-prices{
+      display: flex;
+      align-items: flex-end;
+      justify-content: space-between;
+      @media screen and (min-width: 970px) {
+        display: initial;
+      }
+    }
+    &-cta{
+      @media screen and (min-width: 970px) {
+        margin-top: 10px;
+      }
+    }
+  }
+}

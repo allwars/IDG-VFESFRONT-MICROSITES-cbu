@@ -1,0 +1,1 @@
+<h4>¡Hola!</h4><h4>Por ser cliente de <span>Vodafone One,</span></h4><p>Disfruta de <span>datos ilimitados</span> en tu <span>segunda residencia</span> por solo <span>25€/mes</span></p><a href="tel:#">Llama gratis al XXX XXX XXX</a>

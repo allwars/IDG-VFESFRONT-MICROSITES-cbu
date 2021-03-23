@@ -1,0 +1,29 @@
+// CSS del microsite
+.vfes-ms-content{
+    .vfms-label {
+        background-image: linear-gradient(45deg,#e60000 0,#e60000 40%,#9c2aa0 70%,#00b0ca);
+    }
+    .vfms-tag{
+        position: absolute;
+        right: 0;
+        top:0;
+        background-color: #fecb00;
+        padding: 10px;
+    }
+    .vfms-icon-rate{
+        padding: 10px;
+    }
+    .vfms-link-container{
+        text-align: center;
+        width: 100%;
+        margin:0 auto;
+
+    }
+    .vfms-link {
+        color: #fff;
+        text-align: center;
+        margin: 0 auto;
+        display: block; 
+        text-decoration: underline;  
+    }
+}

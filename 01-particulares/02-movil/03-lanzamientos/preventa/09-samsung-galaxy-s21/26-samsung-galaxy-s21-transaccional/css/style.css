@@ -1,0 +1,375 @@
+
+#samsung_container {font-family: "so400";font-size:16px;background-color: #fff;}
+#samsung_container h1, h2, h3, h4 {color:#000;font-family: "SharpSans-Bold",arial;}
+#samsung_container p>strong {font-family: "so700";}
+
+#samsung_container .hero {overflow: hidden}
+#samsung_container .hero h1{font-size: 10px; position: absolute;top:-80px;z-index: 0;display: block;color:#000000;}
+#samsung_container .hero img{z-index: 5;}
+
+#samsung_container #seomod {padding-top: 30px;}
+#samsung_container .seo-link a{color: #000000;display: inline-block;margin: 0 auto;text-align: center;}
+#samsung_container .seo-link {margin: 0 auto;text-align: center;padding-bottom: 20px;padding-top: 10px;}
+
+#samsung_container .visible {display: block;}
+#samsung_container .oculto {display:none;}
+#samsung_container .valido {font-size: 1.45em;}
+#samsung_container .mobile {display:block;}
+#samsung_container .desktop {display:none;}
+#samsung_container .buy-tool {margin-top:25px;}
+#samsung_container .buy-tool h3 {font-size: 22px;text-align: center;}
+#samsung_container .connect {margin:15px 0px;}
+#samsung_container .btn-connect {font-family: "so700";color: #333;background-color: #fff;border-color: #ccc;text-align: center;margin-right:5px;padding-left:25px;padding-right:25px;}
+#samsung_container .capacity {margin:10px 0px;}
+#samsung_container .capacity p {line-height: 2;}
+#samsung_container .btn-capacity {font-family: "so700";color: #b6b6b6;background-color: #fff;text-align: center;margin-right:5px;}
+#samsung_container .btn-capacity-select {font-family: "so700";color: #333;background-color: #fff;text-align: center;margin-right:5px; text-decoration: none;}
+#samsung_container .colors {margin:15px 0px;}
+#samsung_container .btn-color {padding: 0px;border-color: #333;border-radius: 50%;width: 32px;height: 32px;margin-right:5px; margin: 0 20px;}
+#samsung_container .btn-color.active::after {
+	content: '';    
+	display: block;
+    width: 40px;
+    height: 40px;
+    border: solid 1px #000000;
+    border-radius: 100%;
+    transform: translate(-5px, -5px);
+    -moz-transform: translate(-5px, -5px);
+	-webkit-transform: translate(-5px, -5px);}
+
+
+#samsung_container .btn-PhantomBlack {background-color: #211e16;}
+#samsung_container .btn-PhantomSilver {background-color: #c2c9d5;}
+#samsung_container .btn-PhantomPink {background-color: #efc5be;}
+#samsung_container .btn-PhantomGrey {background-color: #6e7074;}
+#samsung_container .btn-PhantomWhite {background-color: #e9e9e7;}
+#samsung_container .btn-PhantomViolet {background-color: #a5a8c4;}
+
+
+#samsung_container .btn-bronze {background-color: #9a716e;}
+#samsung_container .btn-green {background-color: #b1c0bc;}
+#samsung_container .btn-black {background-color: #3d3935;}
+#samsung_container .btn-gray {background-color: #545859;}
+#samsung_container .capacity {padding: 15px 0;}
+#samsung_container .promo-text {color:#000000;margin:25px 20px 0px 20px;text-align: center;}
+#samsung_container .cta-container {margin: 40px auto;text-align:center;}
+#samsung_container .cta-container a {font-size: 1em;-webkit-border-radius: 22px;-moz-border-radius: 22px;border-radius: 22px;text-align: center;border: solid 1px;padding: 10px 45px;text-decoration: none;cursor:pointer;}
+#samsung_container .cta-container .cta-black {color: #ffffff;border-color: #000000; background-color: #000000}
+#samsung_container .cta-container .cta-white {color: #000000;border-color: #000000; background-color: #ffffff}
+#samsung_container .buy-tool {margin: 20px auto;}
+	#samsung_container .buy-tool .title {margin:20px auto;text-align: center;}
+	#samsung_container .buy-tool .title h2 {font-size: 36px;}
+	#samsung_container .buy-tool .separator {border-bottom: 1px solid #666;}
+
+	#samsung_container .ready {margin: 20px auto;}
+	#samsung_container .ready h2 {font-family: "SharpSans-Bold",arial;font-size: 36px;text-align: center;margin-bottom:40px;}
+	#samsung_container .ready h3 {font-family: "SharpSans-Bold",arial;font-size: 24px;text-align: center;margin-bottom:40px;}
+	#samsung_container .ready p {font-family: "so400";font-size:18px;text-align: center;margin-bottom:40px;}
+
+	#samsung_container .comparador {margin-top:70px;padding-bottom:50px;}
+	#samsung_container .comparador h2 {font-family: "SharpSans-Bold",arial;font-size: 36px;text-align: center;margin-bottom:0px;}
+	#samsung_container .comparador p {font-family: "so700";font-size:16px;text-align:center;}
+	#samsung_container .comparador .phantom {width:200px;height: 200px;display: none;}
+	#samsung_container .comparador .gray {background-color: #f3f3f3;color: #000;}
+	#samsung_container .comparador .round-tbl {-webkit-border-top-left-radius: 10px;-webkit-border-bottom-left-radius: 10px;-moz-border-radius-topleft: 10px;-moz-border-radius-bottomleft: 10px;border-top-left-radius: 10px;border-bottom-left-radius: 10px;margin-top: 80px;}
+	#samsung_container .comparador .icon {max-width: 50px;height: auto;margin-bottom: 5px;}
+	#samsung_container .comparador .head {font-family: "so700";font-size:14px;}
+	#samsung_container .comparador .esp-0 {height:10px;}
+	#samsung_container .comparador .esp-1 {height:35px;}
+	#samsung_container .comparador .esp-2 {height:30px;}
+	#samsung_container .comparador .esp-3 {height:180px;}
+	#samsung_container .comparador .esp-4 {height:165px;}
+	#samsung_container .comparador .esp-5 {height:55px;}
+	#samsung_container .comparador .esp-6 {height:65px;}
+	#samsung_container .comparador .esp-7 {height:30px;}
+	#samsung_container .comparador .esp-8 {height:20px;}
+
+	#samsung_container .round-tbl {font-size: 12px;}
+	#samsung_container .table-responsive {border:0px;}
+	#samsung_container .table-responsive th {border: 0px;}
+	#samsung_container .table-responsive th h3 {font-size:20px;}
+	#samsung_container .table-responsive td {/*border: 0px;*/font-size: 18px;}
+	#samsung_container .table-responsive strong {font-family: "so700";}
+	#samsung_container .table-responsive h3 {font-family: "SharpSans-Bold",arial;font-size: 18px;text-align: center;}
+
+	#samsung_container .redention {margin: 40px auto;}
+	#samsung_container .redention h2 {font-family: "SharpSans-Bold",arial;font-size: 36px;text-align: center;margin-bottom:20px;}
+	#samsung_container .redention p {margin-bottom: 40px; text-transform: uppercase;}
+	#samsung_container .redention .icons {padding-top: 5px;max-width: 250px;margin: 0 auto;}
+	#samsung_container .redention .pares {padding-top: 0px}
+	#samsung_container .redention .icons img {width: 70px; margin-bottom:20px;}
+	#samsung_container .redention .icons h3 {color:#2f5597;font-family: "SharpSans-Bold",arial;font-size: 70px;line-height:0.6;text-align: right;}
+	#samsung_container .redention .icons p {}
+	#samsung_container .redention .icons .disclaimer {font-size: 14px;}
+	
+	#samsung_container .video {margin: 60px auto;}
+
+@media (min-width:768px) {
+	#samsung_container .container {max-width: 738px;margin: 0 auto;}
+	#samsung_container .container {width: 738px;}
+	#samsung_container .desktop {display:block;}
+	#samsung_container .mobile {display:none;}
+
+	#samsung_container .buy-tool {margin: 20px auto;}
+	#samsung_container .buy-tool .title {margin:20px auto;text-align: center;}
+	#samsung_container .buy-tool .title h2 {font-size: 36px;}
+	#samsung_container .buy-tool .separator {border-bottom: 1px solid #666;}
+
+	#samsung_container .ready {margin: 20px auto;}
+	#samsung_container .ready h2 {font-family: "SharpSans-Bold",arial;font-size: 36px;text-align: center;margin-bottom:40px;}
+	#samsung_container .ready h3 {font-family: "SharpSans-Bold",arial;font-size: 24px;text-align: center;margin-bottom:40px;}
+	#samsung_container .ready p {font-family: "so400";font-size:18px;text-align: center;margin-bottom:40px;}
+
+	#samsung_container .comparador {margin-top:70px;padding-bottom:50px;}
+	#samsung_container .comparador h2 {font-family: "SharpSans-Bold",arial;font-size: 36px;text-align: center;margin-bottom:0px;}
+	#samsung_container .comparador .phantom {width:200px;height: 140px;display: block;}
+	#samsung_container .comparador .bode {max-height: 150px;}
+	#samsung_container .comparador .gray {background-color: #f3f3f3;color: #000;}
+	#samsung_container .comparador .round-tbl {-webkit-border-top-left-radius: 10px;-webkit-border-bottom-left-radius: 10px;-moz-border-radius-topleft: 10px;-moz-border-radius-bottomleft: 10px;border-top-left-radius: 10px;border-bottom-left-radius: 10px;margin-top: 80px;}
+	#samsung_container .comparador .icon {max-width: 50px;height: auto;margin-bottom: 5px;}
+	#samsung_container .comparador .head {font-family: "so700";font-size:16px;}
+	#samsung_container .comparador .esp-0 {height:15px;}
+	#samsung_container .comparador .esp-1 {height:10px;}
+	#samsung_container .comparador .esp-2 {height:40px;}
+	#samsung_container .comparador .esp-3 {height:200px;}
+	#samsung_container .comparador .esp-4 {height:200px;}
+	#samsung_container .comparador .esp-5 {height:85px;}
+	#samsung_container .comparador .esp-6 {height:60px;}
+	#samsung_container .comparador .esp-7 {height:60px;}
+	#samsung_container .comparador .esp-8 {height:30px;}
+
+	#samsung_container .table-responsive {}
+	#samsung_container .table-responsive th {border: 0px;}
+	#samsung_container .table-responsive th h3 {font-size:18px;}
+	#samsung_container .table-responsive td {/*border: 0px;*/font-size: 18px}
+	#samsung_container .table-responsive strong {font-family: "so700";}
+	#samsung_container .table-responsive h3 {font-family: "SharpSans-Bold",arial;font-size: 18px;text-align: center;}
+
+	#samsung_container .redention {margin: 40px auto;}
+	#samsung_container .redention h2 {font-family: "SharpSans-Bold",arial;font-size: 36px;text-align: center;margin-bottom:20px;}
+	#samsung_container .redention p {margin-bottom: 40px;}
+	#samsung_container .redention .pares {padding-top: 80px}
+	#samsung_container .redention .icons {padding-top: 80px;max-width: 100%;margin: 0 auto}
+	#samsung_container .redention .icons img {width: 50px; margin-bottom:5px;}
+	#samsung_container .redention .icons h3 {font-family: "SharpSans-Bold",arial;font-size: 50px;line-height:0.6;text-align: right;}
+	#samsung_container .redention .icons p {font-size: 12px;}
+	#samsung_container .redention .icons .disclaimer {font-size: 14px;}
+	
+	#samsung_container #seomod {padding-top: 50px;}
+	
+	#samsung_container .video {margin: 60px auto;}
+
+}
+
+@media (min-width:992px) {
+	#samsung_container .container {max-width: 962px;margin: 0 auto;}
+	#samsung_container .container {width: 962px;}
+	#samsung_container .desktop {display:block;}
+	#samsung_container .mobile {display:none;}
+
+	#samsung_container .buy-tool {margin: 20px auto;}
+	#samsung_container .buy-tool .title {margin:10px auto;text-align: center;}
+	#samsung_container .buy-tool .title h2 {font-size: 36px;}
+	#samsung_container .buy-tool .separator {border-bottom: 1px solid #666;}
+
+	#samsung_container .ready {margin: 20px auto;}
+	#samsung_container .ready h2 {font-family: "SharpSans-Bold",arial;font-size: 36px;text-align: center;margin-bottom:40px;}
+	#samsung_container .ready h3 {font-family: "SharpSans-Bold",arial;font-size: 24px;text-align: center;margin-bottom:40px;}
+	#samsung_container .ready p {font-family: "so400";font-size:18px;text-align: center;margin-bottom:40px;}
+
+	#samsung_container .comparador {margin-top:70px;padding-bottom:50px;}
+	#samsung_container .comparador h2 {font-family: "SharpSans-Bold",arial;font-size: 36px;text-align: center;margin-bottom:0px;}
+	#samsung_container .comparador .phantom {width:200px;height: 200px;}
+	
+	#samsung_container .comparador .bode {max-height: 300px;}
+	#samsung_container .comparador .gray {background-color: #f3f3f3;color: #000;}
+	#samsung_container .comparador .round-tbl {-webkit-border-top-left-radius: 10px;-webkit-border-bottom-left-radius: 10px;-moz-border-radius-topleft: 10px;-moz-border-radius-bottomleft: 10px;border-top-left-radius: 10px;border-bottom-left-radius: 10px;margin-top: 80px;}
+	#samsung_container .comparador .icon {max-width: 50px;height: auto;margin-bottom: 5px;}
+	#samsung_container .comparador .head {font-family: "so700";font-size:16px;}
+	#samsung_container .comparador .esp-0 {height:15px;}
+	#samsung_container .comparador .esp-1 {height:35px;}
+	#samsung_container .comparador .esp-2 {height:40px;}
+	#samsung_container .comparador .esp-3 {height:210px;}
+	#samsung_container .comparador .esp-4 {height:180px;}
+	#samsung_container .comparador .esp-5 {height:90px;}
+	#samsung_container .comparador .esp-6 {height:60px;}
+	#samsung_container .comparador .esp-7 {height:45px;}
+	#samsung_container .comparador .esp-8 {height:30px;}
+
+	#samsung_container .table-responsive {}
+	#samsung_container .table-responsive th {border: 0px;}
+	#samsung_container .table-responsive th h3 {font-size:22px;}
+	#samsung_container .table-responsive td {/*border: 0px;*/font-size: 20px;}
+	#samsung_container .table-responsive strong {font-family: "so700";}
+	#samsung_container .table-responsive h3 {font-family: "SharpSans-Bold",arial;font-size: 18px;text-align: center;}
+
+	#samsung_container .redention {margin: 40px auto;}
+	#samsung_container .redention h2 {font-family: "SharpSans-Bold",arial;font-size: 36px;text-align: center;margin-bottom:20px;}
+	#samsung_container .redention p {margin-bottom: 40px;}
+	#samsung_container .redention .icons img {width: 70px; margin-bottom:20px;}
+	#samsung_container .redention .icons .col-lg-3 {width: 20%}
+	#samsung_container .redention .icons h3 {font-family: "SharpSans-Bold",arial;font-size: 70px;line-height:0.6;text-align: right;margin-top: 40px;}
+	#samsung_container .redention .icons p {font-size: 12px;}
+	#samsung_container .redention .icons .disclaimer {font-size: 14px;}
+	
+	#samsung_container .video {margin: 60px auto;}
+}
+
+@media (min-width:1280px) {
+	#samsung_container .container {max-width: 1250px;margin: 0 auto;}
+	#samsung_container .container {width: 1250px;}
+	#samsung_container .desktop {display:block;}
+	#samsung_container .mobile {display:none;}
+
+	#samsung_container .buy-tool {margin: 20px auto;}
+	#samsung_container .buy-tool .title {margin:10px auto;text-align: center;}
+	#samsung_container .buy-tool .title h2 {font-size: 36px;}
+	#samsung_container .buy-tool .separator {border-bottom: 1px solid #666;}
+
+	#samsung_container .ready {margin: 20px auto;}
+	#samsung_container .ready h2 {font-family: "SharpSans-Bold",arial;font-size: 36px;text-align: center;margin-bottom:40px;}
+	#samsung_container .ready h3 {font-family: "SharpSans-Bold",arial;font-size: 24px;text-align: center;margin-bottom:40px;}
+	#samsung_container .ready p {font-family: "so400";font-size:18px;text-align: center;margin-bottom:40px;}
+
+	#samsung_container .comparador {margin-top:70px;padding-bottom:50px;}
+	#samsung_container .comparador h2 {font-family: "SharpSans-Bold",arial;font-size: 36px;text-align: center;margin-bottom:0px;}
+	#samsung_container .comparador .phantom {width:200px;height: 200px;}
+	#samsung_container .comparador .gray {background-color: #f3f3f3;color: #000;}
+	#samsung_container .comparador .round-tbl {-webkit-border-top-left-radius: 10px;-webkit-border-bottom-left-radius: 10px;-moz-border-radius-topleft: 10px;-moz-border-radius-bottomleft: 10px;border-top-left-radius: 10px;border-bottom-left-radius: 10px;margin-top: 80px;}
+	#samsung_container .comparador .icon {max-width: 50px;height: auto;margin-bottom: 5px;}
+	#samsung_container .comparador .head {font-family: "so700";font-size:16px;}
+	#samsung_container .comparador .esp-0 {height:15px;}
+	#samsung_container .comparador .esp-1 {height:35px;}
+	#samsung_container .comparador .esp-2 {height:40px;}
+	#samsung_container .comparador .esp-3 {height:200px;}
+	#samsung_container .comparador .esp-4 {height:200px;}
+	#samsung_container .comparador .esp-5 {height:85px;}
+	#samsung_container .comparador .esp-6 {height:60px;}
+	#samsung_container .comparador .esp-7 {height:40px;}
+	#samsung_container .comparador .esp-8 {height:30px;}
+
+	#samsung_container .table-responsive {}
+	#samsung_container .table-responsive th {border: 0px;}
+	#samsung_container .table-responsive th h3 {font-size:22px;}
+	#samsung_container .table-responsive td {/*border: 0px;*/font-size: 20px;}
+	#samsung_container .table-responsive strong {font-family: "so700";}
+	#samsung_container .table-responsive h3 {font-family: "SharpSans-Bold",arial;font-size: 18px;text-align: center;}
+
+	#samsung_container .redention {margin: 40px auto;}
+	#samsung_container .redention h2 {font-family: "SharpSans-Bold",arial;font-size: 36px;text-align: center;margin-bottom:20px;}
+	#samsung_container .redention p {margin-bottom: 40px;}
+	#samsung_container .redention .icons img {width: 70px; margin-bottom:20px;}
+	#samsung_container .redention .icons .col-lg-3 {width: 20%}
+	#samsung_container .redention .icons h3 {font-family: "SharpSans-Bold",arial;font-size: 105px;line-height:0.6;text-align: right;margin-top: 60px;}
+	#samsung_container .redention .icons p {font-size: 15px;}
+	#samsung_container .redention .icons .disclaimer {font-size: 14px;}
+	
+	#samsung_container .video {margin: 60px auto;}
+}
+
+@media (min-width:1360px) {
+	#samsung_container .container {max-width: 1330px;margin: 0 auto;}
+	#samsung_container .container {width: 1330px;}
+	#samsung_container .desktop {display:block;}
+	#samsung_container .mobile {display:none;}
+
+	#samsung_container .buy-tool {margin: 20px auto;}
+	#samsung_container .buy-tool .title {margin:20px auto;text-align: center;}
+	#samsung_container .buy-tool .title h2 {font-size: 30px;}
+	#samsung_container .buy-tool .separator {border-bottom: 1px solid #666;}
+
+	#samsung_container .ready {margin: 20px auto;}
+	#samsung_container .ready h2 {font-family: "SharpSans-Bold",arial;font-size: 36px;text-align: center;margin-bottom:40px;}
+	#samsung_container .ready h3 {font-family: "SharpSans-Bold",arial;font-size: 24px;text-align: center;margin-bottom:40px;}
+	#samsung_container .ready p {font-family: "so400";font-size:18px;text-align: center;margin-bottom:40px;}
+
+	#samsung_container .comparador {margin-top:70px;padding-bottom:50px;}
+	#samsung_container .comparador h2 {font-family: "SharpSans-Bold",arial;font-size: 36px;text-align: center;margin-bottom:0px;}
+	#samsung_container .comparador .phantom {width:200px;height: 200px;}
+	#samsung_container .comparador .gray {background-color: #f3f3f3;color: #000;}
+	#samsung_container .comparador .round-tbl {-webkit-border-top-left-radius: 10px;-webkit-border-bottom-left-radius: 10px;-moz-border-radius-topleft: 10px;-moz-border-radius-bottomleft: 10px;border-top-left-radius: 10px;border-bottom-left-radius: 10px;margin-top: 80px;}
+	#samsung_container .comparador .icon {max-width: 50px;height: auto;margin-bottom: 5px;}
+	#samsung_container .comparador .head {font-family: "so700";font-size:16px;}
+	#samsung_container .comparador .esp-0 {height:15px;}
+	#samsung_container .comparador .esp-1 {height:35px;}
+	#samsung_container .comparador .esp-2 {height:40px;}
+	#samsung_container .comparador .esp-3 {height:200px;}
+	#samsung_container .comparador .esp-4 {height:200px;}
+	#samsung_container .comparador .esp-5 {height:75px;}
+	#samsung_container .comparador .esp-6 {height:70px;}
+	#samsung_container .comparador .esp-7 {height:40px;}
+	#samsung_container .comparador .esp-8 {height:30px;}
+
+	#samsung_container .table-responsive {}
+	#samsung_container .table-responsive th {border: 0px;}
+	#samsung_container .table-responsive th h3 {font-size:22px;}
+	#samsung_container .table-responsive td {/*border: 0px;*/font-size: 20px;}
+	#samsung_container .table-responsive strong {font-family: "so700";}
+	#samsung_container .table-responsive h3 {font-family: "SharpSans-Bold",arial;font-size: 18px;text-align: center;}
+
+	#samsung_container .redention {margin: 40px auto;}
+	#samsung_container .redention h2 {font-family: "SharpSans-Bold",arial;font-size: 36px;text-align: center;margin-bottom:20px;}
+	#samsung_container .redention p {margin-bottom: 40px;}
+	#samsung_container .redention .icons img {width: 70px; margin-bottom:20px;}
+	#samsung_container .redention .icons .col-lg-3 {width: 20%}
+	#samsung_container .redention .icons h3 {font-family: "SharpSans-Bold",arial;font-size: 120px;line-height:0.6;text-align: right;margin-top: 60px;}
+	#samsung_container .redention .icons p {font-size: 16px;}
+	#samsung_container .redention .icons .disclaimer {font-size: 14px;}
+	
+	#samsung_container .video {margin: 60px auto;}
+
+}
+
+@media (min-width:1440px) {
+
+	#samsung_container .container {max-width: 1410px;margin: 0 auto;font-family: "so400";font-size:16px;}
+	#samsung_container .container {width: 1410px;}
+	#samsung_container .desktop {display:block;}
+	#samsung_container .mobile {display:none;}
+
+	#samsung_container .buy-tool {margin: 20px auto;}
+	#samsung_container .buy-tool .title {margin:20px auto;text-align: center;}
+	#samsung_container .buy-tool .separator {border-bottom: 1px solid #666;}
+
+	#samsung_container .ready {margin: 20px auto;}
+	#samsung_container .ready h2 {font-family: "SharpSans-Bold",arial;font-size: 36px;text-align: center;margin-bottom:40px;}
+	#samsung_container .ready h3 {font-family: "SharpSans-Bold",arial;font-size: 24px;text-align: center;margin-bottom:40px;}
+	#samsung_container .ready p {font-family: "so400";font-size:18px;text-align: center;margin-bottom:40px;}
+
+	#samsung_container .comparador {margin-top:70px;padding-bottom:50px;}
+	#samsung_container .comparador h2 {font-family: "SharpSans-Bold",arial;font-size: 36px;text-align: center;margin-bottom:0px;}
+	#samsung_container .comparador .phantom {width:200px;height: 200px;}
+	#samsung_container .comparador .gray {background-color: #f3f3f3;color: #000;}
+	#samsung_container .comparador .round-tbl {-webkit-border-top-left-radius: 10px;-webkit-border-bottom-left-radius: 10px;-moz-border-radius-topleft: 10px;-moz-border-radius-bottomleft: 10px;border-top-left-radius: 10px;border-bottom-left-radius: 10px;margin-top: 80px;}
+	#samsung_container .comparador .icon {max-width: 50px;height: auto;margin-bottom: 5px;}
+	#samsung_container .comparador .head {font-family: "so700";font-size:16px;}
+	#samsung_container .comparador .esp-0 {height:15px;}
+	#samsung_container .comparador .esp-1 {height:35px;}
+	#samsung_container .comparador .esp-2 {height:50px;}
+	#samsung_container .comparador .esp-3 {height:200px;}
+	#samsung_container .comparador .esp-4 {height:160px;}
+	#samsung_container .comparador .esp-5 {height:45px;}
+	#samsung_container .comparador .esp-6 {height:60px;}
+	#samsung_container .comparador .esp-7 {height:44px;}
+	#samsung_container .comparador .esp-8 {height:30px;}
+	#samsung_container .table-responsive {}
+	#samsung_container .table-responsive th {border: 0px;}
+	#samsung_container .table-responsive td {/*border: 0px;*/}
+	#samsung_container .table-responsive strong {font-family: "so700";}
+	#samsung_container .table-responsive h3 {font-family: "SharpSans-Bold",arial;font-size: 18px;text-align: center;}
+
+	#samsung_container .redention {margin: 40px auto;}
+	#samsung_container .redention h2 {font-family: "SharpSans-Bold",arial;font-size: 36px;text-align: center;margin-bottom:20px;}
+	#samsung_container .redention p {margin-bottom: 40px;}
+	#samsung_container .redention .icons img {width: 70px; margin-bottom:20px;}
+	#samsung_container .redention .icons .col-lg-3 {width: 20%}
+	#samsung_container .redention .icons h3 {font-family: "SharpSans-Bold",arial;font-size: 130px;line-height:0.6;text-align: right;margin-top: 50px;}
+	#samsung_container .redention .icons p {}
+	#samsung_container .redention .icons .disclaimer {font-size: 14px;}
+	
+	#samsung_container .video {margin: 60px auto;}
+}
+.vfms-device_title{
+	text-align: center;
+
+}

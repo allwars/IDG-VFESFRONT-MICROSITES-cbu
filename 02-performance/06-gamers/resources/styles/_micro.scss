@@ -1,0 +1,422 @@
+// CSS del microsite
+footer{
+    background-color: #333333!important;
+}
+// div#content-nav-desktop {
+//     display: none;
+// }
+// div#mdd-desktop {
+//     display: none;
+// }
+.vfes-breadcrumbs {
+    padding: 1.25rem 1.25rem;
+    border-top: 0.0625rem solid #333;
+    border-bottom: 0.0625rem solid #333;
+}
+.vfes-link::after {
+    border-top: 0.0625rem solid #ffffff;
+    border-right: 0.0625rem solid #ffffff;
+    border-width: 0.0625rem;
+    display: block;
+    width: 0.75rem;
+    height: 0.75rem;
+    transform: rotate(45deg);
+    content: "";
+    display: inline-block;
+    margin-left: 0.5rem;
+    vertical-align: baseline;
+    position: relative;
+    top: 0.0.3125rem;
+}
+.vfes-link {
+    color: #ffffff;
+    font-size: 1rem;
+    line-height: 1.25;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-family: "VodafoneRegular",Helvetica,Arial,sans-serif;
+    display: inline-block;
+}
+.MDD_autoncontent.MDDfooter {
+    color: #333!important;
+    position:relative!important;
+}
+.vfes-mb {
+    margin-top: 40px!important;
+}
+.item-convergente{
+    @media screen and (min-width: 768px) {
+        opacity: 0;
+    }
+
+}
+.item-fibra{
+    @media screen and (min-width: 768px) {
+        opacity: 0;
+    }
+
+}
+.item-movil{
+    @media screen and (min-width: 768px) {
+        opacity: 0;
+    }
+
+}
+
+.vfes-ms-content{ 
+    scroll-behavior: smooth;
+
+	.vfms-height-section{
+		@media screen and (min-width: 768px) {
+			height: 100vh;
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+        }
+        @media (min-width: 1024px) and (max-width: 1367px) {
+            height: auto;
+        }
+        @media screen and (min-width: 1368px) {
+            height: 100vh;
+        }
+	}
+
+    .vfms-hero{
+        &__background {  
+            background-image: url('../img/mobile/IMG_Cabecera_Mobile.jpg');
+            min-height: 350px;
+            padding-top: 15px;
+            background-size: cover;
+            background-position: center center;
+            align-items: center;
+            @media screen and (min-width: 768px) {
+                background-image: url('../img/tablet/IMG_Cabecera_Tablet.jpg');
+                align-items: flex-start;
+                padding: 82px;
+            }
+            @media screen and (min-width: 1024px) {
+                background-image: url('../img/desktop/IMG_Cabecera_Desktop.jpg');
+                padding: 82px 0;
+            }
+        }
+        &__title {
+            text-align: center;
+            max-width: 230px;
+            margin-bottom: 0;
+            @media screen and (min-width: 768px) {
+                text-align: left;
+                max-width: 355px;
+            }
+            @media screen and (min-width: 1024px) {
+                max-width: none;
+            }
+        }
+        &__text {
+            @media screen and (min-width: 768px) {
+                font-size: 24px;
+                max-width: 340px;
+            }
+            @media screen and (min-width: 1024px) {
+                margin-top: 20px;
+            }
+        }
+    }
+    .vfms-profile {
+        padding: 25px 20px;
+        .vfes-paragraph {
+            @media screen and (min-width: 1024px) {
+                font-size: 20px;
+            }
+        }
+        .vfes-title--3 {
+            @media screen and (min-width: 1024px) {
+                font-size: 40px;
+            }
+        }
+        &__buttons {
+            @media screen and (min-width: 1024px) {
+                justify-content: space-between;
+            }
+        }
+        &__icon {
+            margin-right: 15px;
+            width: 25px;
+            height: 25px;
+        }
+        &__btn {
+            margin-bottom: 20px;
+            a {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                width: 280px;
+                @media screen and (min-width: 1024px) {
+                    min-width: 300px;
+                }
+            }
+        }
+    }
+    .vfms-max__width {
+        max-width: 250px;
+        margin: 0 auto;
+        @media screen and (min-width: 768px) {
+            max-width: none;
+        }
+    }
+    .vfms-margin {
+        margin-bottom: 55px;
+    }
+    .vfms-everywhere {
+        background-image: url('../img/mobile/bg-uno.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        @media screen and (min-width: 768px) {
+            background-image: url('../img/tablet/bg_convergente.png');
+        }
+        @media screen and (min-width: 1024px) {
+            background-image: url('../img/desktop/1900x716_01.jpg');
+        }
+        &__icon {
+            width: 40px;
+            height: 40px;
+        }
+        &__iconlist {
+            width: 50px;
+            height: 50px;
+        }
+
+
+        .vfes-title--3 {
+            @media screen and (min-width: 1024px) {
+                font-size: 40px;
+            }
+        }
+        .vfes-paragraph--large {
+            font-size: 20px;
+        }
+    }
+    .vfms-indoor {
+        background-image: url('../img/mobile/bg-dos.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        @media screen and (min-width: 768px) {
+            background-image: url('../img/tablet/bg_fibra.png');
+        }
+        @media screen and (min-width: 1024px) {
+            background-image: url('../img/desktop/1900x716_02.jpg');
+        }
+        .vfes-title--3 {
+            @media screen and (min-width: 1024px) {
+                font-size: 40px;
+            }
+        }
+        .vfes-paragraph--large{
+            @media screen and (min-width: 1024px) {
+                font-size: 20px;
+            }
+        }
+    }
+    .vfms-outdoor {
+        background-image: url('../img/mobile/bg-tres.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        position: relative;
+        @media screen and (min-width: 768px) {
+            background-image: url('../img/tablet/bg_mobile.png');
+        }
+        @media screen and (min-width: 1024px) {
+            background-image: url('../img/desktop/1900x716_03.jpg');
+            max-width: none;
+        }
+        .vfes-title--3 {
+            @media screen and (min-width: 1024px) {
+                font-size: 40px;
+            }
+        }
+        &__iconlist {
+            width: 26px;
+            height: 31px;
+            border-bottom: 1px solid #fff;
+        }
+
+		&__png{
+			height: initial;
+		}
+        &__device {
+            display: flex;
+            justify-content: center;
+            @media screen and (min-width: 768px) {
+                display: inline-block;
+            }
+        }
+        &__imgdevice {
+            max-width: 194px;
+            @media screen and (min-width: 768px) {
+                max-width: 272px;
+            }
+        }
+        &__layout {
+            padding-top: 0 ;
+        }
+        .vfms-device__container {
+            display: flex;
+            align-items: center;
+            justify-content: flex-end;
+            margin-right: 50px;
+        }
+    }
+    .vfms-cta {
+        max-width: 280px;
+        margin-bottom: 40px!important;
+    }
+    .vfms-nopadding {
+        @media screen and (min-width: 768px) {
+            padding: 30px 0 0 0;
+        }
+        @media (min-width: 1024px) and (max-width: 1290px) {
+            padding: 0;
+        }
+        @media screen and (min-width: 1300px) {
+            padding: 30px 0 0 0;
+        }
+    }
+    .vfms-title__device {
+        margin-bottom: 0;
+        margin-top: 10px;
+    }
+    .vfms-text__width {
+        @media screen and (min-width: 768px) {
+            max-width: 230px;
+        }
+        @media screen and (min-width: 1024px) {
+            max-width: none;
+        }
+    }
+    .vfms-price {
+        strong{
+            font-size: 40px;
+         }
+
+        @media screen and (min-width: 768px) {
+            font-size: 40px;
+        }
+        &__container {
+            align-items: center;
+            @media screen and (min-width: 768px) {
+                align-items: flex-start;
+                margin-left: 60px;
+            }
+        }
+        &__items {
+            @media screen and (min-width: 768px) {
+                flex-direction: row;
+                align-items: flex-end;
+            }
+        }
+        &__iva {
+            margin-bottom: 6px;
+            padding-left: 5px;
+        }
+    }
+    .vfms-nomargin {
+        margin: 0;
+        strong{
+            font-size:40px;
+        }
+    }
+    .vfms-padding__left {
+        @media screen and (min-width: 768px) {
+            padding-left: 48px;
+        }
+    }
+    .vfms-legals {
+        background: black;
+        text-align: center;
+        @media screen and (min-width: 768px) {
+            text-align: right;
+        }
+    }
+    .panel {
+        @media screen and (min-width: 1024px) {
+            max-width: none;
+           padding-top: 5px;
+        }
+        @media screen and (min-width: 1280px) {
+           padding-top: 80px;
+        }
+    }
+
+	.vfms-flexdirection{
+		display: flex;
+		flex-direction: column;
+		@media screen and (min-width: 768px) {
+			flex-direction: row;
+		}
+
+	}
+
+	.vfms-flexdirection-column{
+		flex-direction: column;
+		@media screen and (min-width: 768px) {
+			flex-direction: column;
+		}
+
+	}
+
+	.vfms-faqs{
+		position: relative;
+	}
+    .vfms-link{
+        &__container {
+            text-align: right;
+        }
+        &__text {
+            text-decoration: underline;
+        }
+    }  
+    // init animation styles
+    .hide-button {
+        @media screen and (min-width: 768px) {
+            opacity: 0;
+            /*-webkit-transform: translateY(-40px);
+                    -moz-transform: translateY(-40px);
+                    -ms-transform: translateY(-40px);
+                        -o-transform: translateY(-40px);
+                            transform: translateY(-40px);
+            -webkit-transition: all 0.6s ease-out;
+                    -moz-transition: all 0.6s ease-out;
+                    -ms-transition: all 0.6s ease-out;
+                        -o-transition: all 0.6s ease-out;
+                            transition: all 0.6s ease-out;*/
+        } 
+    }
+    .hide-element, .hide-element-outdoor, .hide-element-indoor {
+        @media screen and (min-width: 768px) {
+            opacity: 0;
+            /*-webkit-transform: scale(0.9);
+                -moz-transform: scale(0.9);
+                    -ms-transform: scale(0.9);
+                    -o-transform: scale(0.9);
+                            transform: scale(0.9);
+            -webkit-transition: all 1s ease-in-out;
+                -moz-transition: all 1s ease-in-out;
+                    -ms-transition: all 1s ease-in-out;
+                    -o-transition: all 1s ease-in-out;
+                            transition: all 1s ease-in-out;*/
+        }
+    }   
+	.hide-element.visible, .hide-element-outdoor.visible, .hide-element-indoor.visible, .hide-button.visible {
+        @media screen and (min-width: 768px) {
+            opacity: 1;
+           /* -webkit-transform: none;
+                -moz-transform: none;
+                    -ms-transform: none;
+                    -o-transform: none;
+                            transform: none;*/
+        }
+		
+    }
+}

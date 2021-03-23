@@ -1,0 +1,36 @@
+.vfms-banner{
+  background-image: url("https://www.vodafone.es/c/statics/imagen/bg-mobile-base-sales.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.vfms-btn{
+  color: #ffffff;
+}
+
+.vfms-img--offer{
+  height: 100px;
+  width: 45%;
+}
+.vfms-banner-content-text{
+  text-align: center;
+  margin-left: 0;
+}
+
+@media screen and (min-width: 640px) {
+  .vfms-banner {
+    background-image: url("https://www.vodafone.es/c/statics/imagen/bg-tablet-base-sales.jpg");
+    background-position-x: 40%;
+    text-align: left;
+  }
+  .vfms-banner-content-text{
+    margin-left: 10%;
+    text-align: left;
+  }  
+}
+@media screen and (min-width: 970px) {
+  .vfms-banner {
+    background-image: url("https://www.vodafone.es/c/statics/imagen/bg-desktop-base-sales.jpg");
+    background-position-x: 60%;
+  }
+}
+

@@ -1,0 +1,304 @@
+<h2>Vodafone Ilimitada Súper</h2><ul>
+							<li>Datos: Ilimitados</li>
+							<li>Llamadas: Ilimitadas</li>
+						</ul><p>
+									<span>Por solo </span>
+									<span>45,99€<span>/mes</span></span>
+									<span>IVA INCLUIDO</span>
+								</p><a href="#" target="_self" data-modal="offer-details-ilimitada-super" data-modal-close="" aria-haspopup="dialog">Detalles de la oferta</a><hr><div>
+							
+							
+						</div><p> <span>Además, llévate el : </span><span>Sony Xperia 10</span></p><p>  <span> añadiendo sólo </span><span>8€<span>/mes</span></span></p><p>¿Quieres contratar <strong>una de nuestras tarifas?</strong></p><p>¡Te llamamos!</p><input style="display:none;" value="NO" name="verifyLeadId"><input name="wg-return" value="gracias" type="hidden"><input type="phone" name="phone" inputmode="numeric" pattern="[0-9]*" maxlength="9" data-wg-validation="required,phone" placeholder="Nº teléfono" oninput="javascript: if (this.value.length > this.maxLength) this.value = this.value.slice(0, this.maxLength);"><input data-wg-validation="required" type="checkbox" value="on" name="check"><label for="privacy">Acepto la <a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/movil/catalogo-clientes/politica-privacidad/" title="Vodafone One" target="_blank" data-modal="legales" rel="nofollow"> Política de Privacidad</a>
+								</label><input type="checkbox" name="gdpr" value="on"><label for="comunication"><span>Acepto recibir
+										comunicaciones comerciales de Vodafone</span> </label><input type="submit" value="ENVIAR"><h2>Vodafone One Ilimitada con 50% de dto + Pack Seriefans <span>GRATIS</span> </h2><ul>
+						<li>
+							<span>
+								<svg height="35" width="35" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+									<title>TV</title>
+									<use xlink:href="#icon3-mobile"></use>
+								</svg>
+							</span>
+							<span>
+								<h3>Tarifa Móvil</h3>
+								<p> <span> Datos ilimitados</span> y llamadas ilimitadas  <span> 2Mbps de velocidad</span> móvil para: Redes Sociales y música online.</p>
+							</span>
+						</li>
+						<li>
+							<span>
+								<svg height="35" width="35" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+									<title>TV</title>
+									<use xlink:href="#icon3-convergente-system"></use>
+								</svg>
+							</span>
+							<span>
+								<h3>Fibra 100Mbps</h3>
+								<p>Simétricos</p>
+							</span>
+						</li>
+						<li>
+							<span>
+								<svg height="35" width="35" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+									<title>TV</title>
+									<use xlink:href="#icon3-business-phone"></use>
+								</svg>
+							</span>
+							<span>
+								<h3>Fijo</h3>
+								<p>Llamadas ilimitadas.</p>
+							</span>
+						</li>
+						<li>
+							<span>
+								<svg height="35" width="35" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+									<title>TV</title>
+									<use xlink:href="#icon3-tv"></use>
+								</svg>
+							</span>
+							<span>
+								<h3>Pack Seriefans <span>GRATIS</span> </h3>
+								<p>Con HBO España incluido</p>
+							</span>
+						</li>
+						
+					</ul><hr><span>
+							Antes:
+						</span><span>
+							64,99€<span>/mes</span>
+						</span><span>
+							Ahora:
+						</span><span>
+							 <span>31,99€<span>/mes</span></span>
+						</span><span>
+							<span>(IVA incluido).</span>
+							 <span>Dto durante 3 meses</span>
+
+						</span><a href="#" target="_self" data-modal="offer-details-one-ilimitada" data-modal-close="" aria-haspopup="dialog">Detalles de la oferta</a><p>¿Quieres contratar <strong>una de nuestras tarifas?</strong></p><p>¡Te llamamos!</p><input style="display:none;" value="NO" name="verifyLeadId"><input name="wg-return" value="gracias" type="hidden"><input type="phone" name="phone" inputmode="numeric" pattern="[0-9]*" maxlength="9" data-wg-validation="required,phone" placeholder="Nº teléfono" oninput="javascript: if (this.value.length > this.maxLength) this.value = this.value.slice(0, this.maxLength);"><input data-wg-validation="required" type="checkbox" value="on" name="check"><label for="privacy">Acepto la <a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/movil/catalogo-clientes/politica-privacidad/" title="Vodafone One" target="_blank" data-modal="legales" rel="nofollow">Política de Privacidad</a>
+								</label><input type="checkbox" name="gdpr" value="on"><label for="comunication"><span>Acepto recibir
+										comunicaciones comerciales de Vodafone</span> </label><input type="submit" value="ENVIAR"><h2>Vodafone Fibra 100Mbps</h2><ul>
+						<li>
+							<span>
+								<svg height="35" width="35" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+									<title>TV</title>
+									<use xlink:href="#icon3-convergente-system"></use>
+								</svg>
+							</span>
+							<span>
+								<h3>Fibra 100Mbps</h3>
+								<p>Simétricos</p>
+							</span>
+						</li>
+						<li>
+							<span>
+								<svg height="35" width="35" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+									<title>TV</title>
+									<use xlink:href="#icon3-business-phone"></use>
+								</svg>
+							</span>
+							<span>
+								<h3>Fijo</h3>
+								<p>Llamadas ilimitadas.</p>
+							</span>
+						</li>
+					</ul><hr><span>
+							Por sólo:
+						</span><span>
+							 <span>12,84€<span>/mes</span></span>
+						</span><span>
+							<span> <span> +18,15€</span> cuota de línea</span>
+							<span>(IVA incluido).</span>
+							 <span>Con compromiso</span>
+						</span><a href="#" target="_self" data-modal="offer-details-fibra100mbp" data-modal-close="" aria-haspopup="dialog">Detalles de la oferta</a><span>La mejor conexión</span><span>para tu hogar</span><p>¿Quieres contratar <strong>una de nuestras tarifas?</strong></p><p>¡Te llamamos!</p><input style="display:none;" value="NO" name="verifyLeadId"><input name="wg-return" value="gracias" type="hidden"><input type="phone" name="phone" inputmode="numeric" pattern="[0-9]*" maxlength="9" data-wg-validation="required,phone" placeholder="Nº teléfono" oninput="javascript: if (this.value.length > this.maxLength) this.value = this.value.slice(0, this.maxLength);"><input data-wg-validation="required" type="checkbox" value="on" name="check"><label for="privacy">Acepto la <a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/movil/catalogo-clientes/politica-privacidad/" title="Vodafone One" target="_blank" data-modal="legales" rel="nofollow">Política de Privacidad</a>
+								</label><input type="checkbox" name="gdpr" value="on"><label for="comunication"><span>Acepto recibir
+										comunicaciones comerciales de Vodafone</span> </label><input type="submit" value="ENVIAR"><h1>
+						<p "vfes-title--regular"="">Contrata la  <span>Fibra Yuser</span></p>
+						
+					</h1><h2>
+						Ahora <span> más velocidad</span> de fibra <span> por menos</span>
+					</h2><ul>
+						<li>
+							<span>600Mbps</span>
+							<span>Fibra simétrica</span>
+						</li>
+						<li>
+							<span>12,84€ <span>/mes</span></span>
+							<span>+18,15€/mes de cuota de línea</span>
+						</li>
+						
+					</ul><span>¡Sin permanencia!</span><span><a href="#" target="_self" data-modal="offer-details-fibra600mbp" data-modal-close="" aria-haspopup="dialog">Detalles de la oferta</a></span><p>¿Quieres contratar <strong>una de nuestras tarifas?</strong></p><p>¡Te llamamos!</p><input style="display:none;" value="NO" name="verifyLeadId"><input name="wg-return" value="gracias" type="hidden"><input type="phone" name="phone" inputmode="numeric" pattern="[0-9]*" maxlength="9" data-wg-validation="required,phone" placeholder="Nº teléfono" oninput="javascript: if (this.value.length > this.maxLength) this.value = this.value.slice(0, this.maxLength);"><input data-wg-validation="required" type="checkbox" value="on" name="check"><label for="privacy">Acepto la <a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/movil/catalogo-clientes/politica-privacidad/" title="Vodafone One" target="_blank" data-modal="legales" rel="nofollow">Política de Privacidad</a>
+								</label><input type="checkbox" name="gdpr" value="on"><label for="comunication"><span>Acepto recibir
+										comunicaciones comerciales de Vodafone</span> </label><input type="submit" value="ENVIAR"><button aria-hidden="false"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px">
+                        <title>Close</title>
+                        <use xlink:href="#icon3-close"></use>
+                    </svg></button><h1>Tu paquete  <span>Vodafone One Ilimitada</span> incluye</h1><ul>
+						<li>
+							<div>
+								<span>
+									<svg height="30" width="30" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+										<title>INTERNET</title>
+										<use xlink:href="#icon3-desktop"></use>
+									</svg>
+								</span>
+								<h2>Internet</h2>
+							</div>
+							<ul>
+								<li>100Mbps Fibra simétrica.</li>
+								<li>Conecta más de 7 dispositivos a la vez con la mejor conexión.</li>
+							</ul>
+						</li>
+						<li>
+							<div>
+								<span>
+									<svg height="30" width="30" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+										<title>MOVIL</title>
+										<use xlink:href="#icon3-mobile"></use>
+									</svg>
+								</span>
+								<h2>Móvil</h2>
+							</div>
+							<ul>
+								<li>Datos ilimitados con velocidad de descarga y subida de datos de 2Mbps.</li>
+								<li>Llamadas ilimitadas a fijos y a móviles.</li>
+								<li>Roaming incluido en Europa y EEUU.</li>
+							</ul>
+						</li>
+						<li>
+							<div>
+								<span>
+									<svg height="35" width="35" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+										<title>TV</title>
+										<use xlink:href="#icon3-business-phone"></use>
+									</svg>
+								</span>
+								<h2>Fijo</h2>
+							</div>
+							<ul>
+								<li>Llamadas nacionales ilimitadas a fijos y móviles.</li>
+							</ul>
+						</li>
+						<li>
+							<div>
+								<h2>Y además:</h2>
+							</div>
+							<ul>
+								<li>3 meses de navegación segura con el Servicio Secure Net. Después 1 euro al mes.</li>
+								<li>Pack Seriefans GRATIS con HBO España, FOXNOW y AXN Now.</li>
+							</ul>
+						</li>
+						
+
+					</ul><h2>Condiciones:</h2><ul>
+						<li>Móvil + Fibra + TV (Pack Seriefans GRATIS) 3 meses de dto. Después 64,99€/mes.</li>
+						<li>Permanencia 12 meses</li>
+
+					</ul><button aria-hidden="false"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px">
+                        <title>Close</title>
+                        <use xlink:href="#icon3-close"></use>
+                    </svg></button><h1>Vodafone Fibra 100Mbps</h1><ul>
+						<li>
+							<div>
+								<span>
+									<svg height="30" width="30" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+										<title>INTERNET</title>
+										<use xlink:href="#icon3-desktop"></use>
+									</svg>
+								</span>
+								<h2>Internet</h2>
+							</div>
+							<ul>
+								<li>100Mbps Fibra simétrica.</li>
+								<li>Conecta más de 7 dispositivos a la vez con la mejor conexión.</li>
+							</ul>
+						</li>
+						
+						<li>
+							<div>
+								<span>
+									<svg height="30" width="30" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+										<title>FIJO</title>
+										<use xlink:href="#icon3-business-phone"></use>
+									</svg>
+								</span>
+								<h2>Fijo</h2>
+							</div>
+							<ul>
+								<li>Llamadas nacionales ilimitadas a fijos y móviles.</li>
+							</ul>
+						</li>
+					
+					</ul><h2>Detalles de tu cuota:</h2><ul>
+						<li>Durante el 1º y 2º año: 12,84€/mes + 18,15€ de cuota de línea, total 30,99€/mes.</li>
+						<li>Después del 2º año: 21,84€/mes + 18,15€ de cuota de línea, total 39,99€/mes.</li>
+						<li>Precios con IVA incluido.</li>
+
+					</ul><button aria-hidden="false"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px">
+                        <title>Close</title>
+                        <use xlink:href="#icon3-close"></use>
+                    </svg></button><h1> <span>Vodafone Fibra Yuser </span>incluye</h1><ul>
+						<li>
+							<div>
+								<span>
+									<svg height="30" width="30" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+										<title>INTERNET</title>
+										<use xlink:href="#icon3-desktop"></use>
+									</svg>
+								</span>
+								<h2>Internet</h2>
+							</div>
+							<ul>
+								<li>Vodafone Fibra 600Mb simétricos.</li>
+								<li>Conecta hasta 15 dispositivos.</li>
+								<li>Con fibra auto instalable, coste 0€. Si requiere instalación coste de 70€.</li>
+							</ul>
+						</li>
+						
+						<li>
+							<div>
+								<span>
+									<svg height="30" width="30" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+										<title>FIJO</title>
+										<use xlink:href="#icon3-business-phone"></use>
+									</svg>
+								</span>
+								<h2>Fijo</h2>
+							</div>
+							<ul>
+								<li>Llamadas nacionales ilimitadas a fijos y móviles.</li>
+							</ul>
+						</li>
+					
+					</ul><h2>Detalles de tu cuota:</h2><ul>
+						<li> <span>Sin Permanencia</span> </li>
+						<li>Precio total: <span>30,99€/mes(IVA incl). Dto durante 12 meses. Después 42,99€/mes</span></li>
+						<li>Con posibilidad de 3 meses de desconexión temporal</li>
+					</ul><button aria-hidden="false"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px">
+                        <title>Close</title>
+                        <use xlink:href="#icon3-close"></use>
+                    </svg></button><h1>Tu paquete  <span>Vodafone Ilimitada Súper</span> incluye</h1><ul>
+						<li> <span>Datos ilimitados:</span> 10Mbps de velocidad para ver vídeos y escuchar música en alta calidad.
+						</li>
+						<li> <span>¿Qué puedes hacer con datos ilimitados?</span> Ya no tienes que buscar WiFi. Ahora con datos ilimitados podrás tener siempre abiertas las redes sociales, escuchar música sin parar y pasar las horas que quieras en Internet.
+						</li>
+						<li>Con Móvil ilimitada tendrás una velocidad de <span>descarga y subida de datos de 10Mbps.</span>
+						</li>
+						<li>Te recomendamos esta tarifa para:
+							<ul>
+								<li>Chat</li>
+								<li>Redes Sociales</li>
+								<li>Música</li>
+								<li>Uso avanzado redes sociales</li>
+								<li>Vídeos de alta calidad</li>
+								<li>Música de alta calidad</li>
+								<li>Aplicación de navegación</li>
+							</ul>
+						</li>
+						<li><span>Llamadas ilimitadas:</span>  Llamadas ilimitadas a fijos y móviles.
+						</li>
+						<li><span>Roaming:</span> Roaming incluido en Europa y EEUU.
+						</li>
+						<li><span>Secure Net:</span> Secure Net para usar tu Smartphone con seguridad, gratis 3 meses, después 1€/mes.
+						</li>
+
+					</ul><button aria-hidden="false"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px">
+                        <title>Close</title>
+                        <use xlink:href="#icon3-close"></use>
+                    </svg></button><h1>Política de privacidad</h1><p>Los datos que nos facilitas en el registro formarán parte de una base de datos de Vodafone España. S.A.U., con domicilio en Avda. América 115, 28042 de Madrid y serán tratados para facilitarte la información solicitada y poder contactar contigo en el futuro para llevar a cabo acciones comerciales, en caso de que nos hayas proporcionado tu consentimiento marcando el check habilitado al efecto.</p><p>Podrás ejercitar los derechos de acceso, rectificación, cancelación, oposición, limitación dirigiéndote a Vodafone España a la dirección antes indicada. Mantendremos tus datos mientras no ejerzas tu derecho de cancelación. Podrás ponerte en contacto con el Delegado de Protección de Datos (DPO) a través de: <a href="mailto:DPO-SPAIN@vodafone.com" title="DPO-SPAIN@vodafone.com" target="_blank">DPO-SPAIN@vodafone.com</a></p>

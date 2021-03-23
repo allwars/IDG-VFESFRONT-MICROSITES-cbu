@@ -1,0 +1,49 @@
+// CSS del microsite
+.vfes-ms-content {
+    @media screen and (min-width: 970px) {
+        margin-bottom: 32px;
+    }
+
+    .vfms-flex-info {
+        display: flex;
+        align-items: center;
+        margin: 10px 5px;
+        .vfms-space {
+            margin-right: 20px;
+        }
+        .vfms-tv {
+            margin-right: 10px;
+            height: 24px;
+            @media screen and (min-width: 970px) {
+                height: 30px;
+            }
+        }
+
+        .logo-hbo {
+            width: 50px;
+        }
+    }
+    // .vfes-card-rate__accordion-price {
+    //     margin: 10px -10px;
+    // }
+    .vfms-flex-container {
+        display: flex;
+        justify-content: space-around;
+        margin: 20px 15px;
+        @media screen and (min-width: 648px) {
+            margin: 20px 10px 20px 40px;
+            justify-content: space-between;
+        }
+        @media screen and (min-width: 970px) {
+            margin: 20px 30px 20px 50px;
+        }
+    }
+
+    .vfes-card-rate__accordion-price {
+        margin-left: 10px;
+
+        @media all and (min-width: 648px) {
+            margin-left: 0;
+        }
+    }
+}

@@ -1,0 +1,298 @@
+// CSS del microsite
+.vfes-ms-content {
+    a {
+        text-decoration: none;
+    }
+    .vfms-banner-info-img {
+        display: none;
+        @media screen and (min-width: 770px) {
+            display: block;
+            position: absolute;
+            left: -4rem;
+        }
+    }
+    // Walmeric form styles
+    .vfes-layout.vfms-banner {
+        padding: 30px 0;
+        .vfms-banner-form {
+            @media screen and (min-width: 768px) {
+                padding-right: 20px;
+            }
+            @media screen and (min-width: 1280px) {
+                padding-right: 0px;
+            }
+            .vfms-banner-form-container {
+                border-radius: 6px;
+                @media screen and (min-width: 1280px) {
+                    width: 231px;
+                    margin-left: auto;
+                }
+                form {
+                    padding: 16px;
+                    border-radius: 6px;
+                    border: solid 1px #ffffff;
+                    .vfes-modal__head-form {
+                        .vfms-modal__head-form-clain {
+                            font-size: 16px;
+                        }
+                    }
+                    .vfes-box--form {
+                        margin: 16px 0;
+                        .vfes-form__input {
+                            margin: 5px 0;
+                            font-size: 14px;
+                        }
+                        .vfms-form__checks-space {
+                            margin-bottom: 15px;
+                            label {
+                                font-size: 12px;
+                                #condiciones {
+                                    margin-left: 2px;
+                                    text-decoration: underline;
+                                }
+                            }
+                        }
+                        input[type="submit"] {
+                            font-size: 16px;
+                            box-shadow: none;
+                            @media screen and (min-width: 768px) {
+                                width: 100%;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+    /*Banner One Ilimitada Súper*/
+    .vfes-layout.vfms-banner.one.ilimitada-super {
+        background-image: linear-gradient(to bottom, #910900, #c41005);
+        background: #000;
+        @media screen and (min-width: 1024px) {
+            background-image: url(../img/imgs-background/home-tv.png);
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position-x: 0;
+        }
+        .vfms-banner-info {
+            .vfms-bolus {
+                display: none;
+                position: absolute;
+                border-radius: 50%;
+                color: #fff;
+                @media screen and (min-width: 770px) {
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                    width: 250px;
+                    height: 250px;
+                    left: 16px;
+                    top: 100px;
+                }
+                &__main {
+                    display: flex;
+                    align-items: baseline;
+                }
+                &__percentage {
+                    font-size: 180px;
+                }
+                &__percentage-simbol {
+                    font-size: 95px;
+                }
+                &__extra {
+                    font-size: 50px;
+                    margin-top: -35px;
+                }
+            }
+            .vfms-banner-info-container {
+                background: #fff;
+                border-radius: 6px;
+                margin-bottom: 25px;
+                padding: 16px;
+                box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);
+                @media screen and (min-width: 1024px) {
+                    margin-left: auto;
+                    width: 60%;
+                }
+                .vfms-banner-copy {
+                    display: flex;
+                    flex-direction: column;
+                    text-align: center;
+                    margin-bottom: 24px;
+                    font-size: 20px;
+                    @media screen and (min-width: 768px) {
+                        text-align: left;
+                        font-size: 26px;
+                    }
+                }
+                .vfms-rate-features {
+                    position: relative;
+                    .vfms-rate-features-item {
+                        display: flex;
+                        margin-bottom: 14px;
+                        .vfms-features-icon {
+                            svg {
+                                use {
+                                    color: #e60000;
+                                }
+                            }
+                        }
+                        .vfms-rate-feature-description {
+                            padding-left: 8px;
+                            .vfms-feature-description-title {
+                                margin-bottom: 0;
+                                font-size: 20px;
+                            }
+                            .vfms-feature-description-text {
+                                font-size: 14px;
+                                margin-bottom: 0;
+                                @media screen and (min-width: 768px) {
+                                    font-size: 16px;
+                                }
+                            }
+                        }
+                    }
+                    .bolus-discount.extra {
+                        background: #e60000;
+                        color: #fff;
+                        width: 110px;
+                        height: 110px;
+                        position: absolute;
+                        right: 0;
+                        bottom: -59px;
+                        border-radius: 50%;
+                        display: flex;
+                        flex-wrap: wrap;
+                        justify-content: center;
+                        .dto {
+                            margin-bottom: 0;
+                            line-height: 1.05;
+                            align-self: flex-end;
+                        }
+                        .dto-md {
+                            font-size: 45px;
+                            vertical-align: bottom;
+                        }
+                        .dto-percentage-content {
+                            display: flex;
+                            flex-direction: column;
+                            align-self: flex-end;
+                            .dto-percentage {
+                                font-size: 30px;
+                            }
+                            .dto-text {
+                                font-size: 9px;
+                            }
+                        }
+                        .dto-sm {
+                            font-size: 18px;
+                            width: 100%;
+                            text-align: center;
+                        }
+                    }
+                }
+                .vfms-offer-details {
+                    text-align: right;
+                    .vfms-offer-details-link {
+                        text-decoration: underline;
+                    }
+                }
+                .vfms-offer-price-container {
+                    .vfms-offer-price-old {
+                        display: inline-flex;
+                        flex-direction: column;
+                        margin-top: 16px;
+                        .vfms-offer-price-old-text {
+                            font-size: 14px;
+                        }
+                        .vfms-offer-price-old-number {
+                            font-size: 20px;
+                            .vfms-month {
+                                font-size: 18px;
+                            }
+                        }
+                    }
+                    .vfms-offer-price-new {
+                        display: flex;
+                        flex-direction: column;
+                        margin: 0 0 16px 0;
+                        .vfms-offer-price-new-text {
+                            font-size: 14px;
+                        }
+                        .vfms-offer-price-new-number {
+                            font-size: 60px;
+                            .vfms-month {
+                                font-size: 24px;
+                            }
+                        }
+                        .vfms-offer-price-new-features {
+                            font-size: 14px;
+                            display: flex;
+                            flex-direction: column;
+                            // .vfms-iva {
+                            //     margin-right: 8px;
+                            // }
+                        }
+                    }
+                }
+            }
+        }
+    }
+    // Estilos para los modales
+    .vfms-modal-title {
+        padding-bottom: 10px;
+        border-bottom: solid #333 1px;
+    }
+    .vfms-fibraMovil {
+        .vfms-offer-details-features-container {
+            display: flex;
+            flex-wrap: wrap;
+            .vfms-offer-details-features-item {
+                @media screen and (min-width: 768px) {
+                    width: 50%;
+                }
+                .vfms-feature-header {
+                    display: flex;
+                    align-items: center;
+                    .vfms-feature-icon {
+                        display: none;
+                        @media screen and (min-width: 768px) {
+                            display: block;
+                        }
+                    }
+                    .vfms-feature-title {
+                        margin-bottom: 0;
+                        // align-self: flex-end;
+                        margin-left: 16px;
+                    }
+                }
+                .vfms-feature-content {
+                    list-style: disc;
+                    padding: 14px 50px;
+                    font-size: 14px;
+                    line-height: 1.3;
+                }
+            }
+        }
+        .vfms-offer-details-conditions {
+            .vfms-feature-title {
+                margin-bottom: 0;
+                border-top: #333 solid 1px;
+                padding-top: 10px;
+            }
+            .vfms-offer-details-conditions-container {
+                list-style: none;
+                font-size: 14px;
+                margin-top: 10px;
+                margin-left: 10px;
+                &__item {
+                    margin-bottom: 8px;
+                }
+                &__item-features {
+                    list-style: disc;
+                    padding: 10px 30px;
+                }
+            }
+        }
+    }
+}

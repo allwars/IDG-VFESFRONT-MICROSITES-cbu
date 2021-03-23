@@ -1,0 +1,368 @@
+.vfes-carousel__bullets-bullet::after {
+    background-color: #AFAFAF!important;
+    
+}
+.vfms-use-margin {
+    margin-top: 0 !important;
+}
+.vfms-width {
+    max-width: 80px;
+}
+.vfes-tabs--group .vfes-tabs__tab, .vfes-tabs--group.vfes-tabs__tab {
+    border: none!important;
+    width: 250px;
+}
+.vfes-list--checkmarks li {
+    padding-left: 18px!important;
+    margin-left: 12px!important;
+}
+
+.vfes-ms-content .vfms-rates__layout .icon-corner {
+    top:-11px!important;
+}
+
+.vfes-card-rate__accordion .vfes-paragraph {
+    margin-bottom: 0!important;
+}
+
+@media only screen and (max-width: 60.625rem){
+    .only-Desktop{
+        display:none;
+    }
+}
+
+@media only screen and (max-width: 40rem){
+.vfes-tabs--group-close>.vfes-tabs__content-open {
+     display: block; 
+}
+}
+
+
+
+
+.vfes-ms-content{
+    .vfms-hero {
+        padding: 15px;
+        background-image: url('../img/cabecera/bg-mobile.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position-x: center;
+        min-height: 300px;
+        @media screen and (min-width: 768px) {
+            padding: 25px 25px 0 25px;
+            background-image: url('../img/cabecera/bg-tablet.png');
+        }
+        @media screen and (min-width: 1024px) {
+            max-width: none;
+            background-image: url('../img/cabecera/bg-desktop.png');
+        }
+        &__img {
+            display: none;
+            max-width: 145px;
+            @media screen and (min-width: 768px) {
+                display: block;
+                max-width: 150px;
+            }
+            @media screen and (min-width: 1024px) {
+                max-width: 329px;
+            }
+        }
+        &__img--container {
+            margin-top: -30px;
+            @media screen and (min-width: 768px) {
+                margin-top: 0;
+            }
+            @media screen and (min-width: 1024px) {
+                top: 20px;
+            }
+        }
+        &__title {
+            max-width: 90%;
+            font-size: 24px;
+            @media screen and (min-width: 768px) {
+                max-width: 396px;
+                font-size: 34px;
+            }
+            @media screen and (min-width: 1024px) {
+                max-width: 750px;
+                font-size: 40px;
+            }
+        }
+        &__subtitle {
+            max-width: 168px;
+            margin-top: 47px;
+            @media screen and (min-width: 768px) {
+                max-width: 265px;
+                margin-top: 20px;
+                font-size: 24px;
+            }
+            @media screen and (min-width: 1024px) {
+                max-width: none;
+                font-size: 28px;
+            }
+        }
+    }
+    .vfms-client{
+        &__wrapper{
+            height:84px;
+            background-color:#ffffff;
+        }
+        &__text{
+            font-size: 18px;
+            margin-bottom:0;
+            @media screen and (max-width: 968px) {
+            
+                margin-bottom:15px;
+       
+            }
+
+        }
+        a{
+            margin-left:20px;
+            @media screen and (max-width: 968px) {
+                margin-left:0;
+                width: 300px;     
+            }
+        }
+        @media screen and (max-width: 968px) {
+            margin-top:20px;
+            margin-bottom:20px;
+   
+        }
+    }
+    .vfes-paragraph--large {
+        @media screen and (min-width: 768px) {
+            font-size: 20px;
+        }
+    }
+    .vfms-tabs {
+        &__container {
+            padding: 0;
+            margin-left: 0;
+            margin-right: 0;
+
+            .vfes-tabs__tab {
+                padding: 0;
+                margin-bottom: 40px;
+            }
+        }
+        &__content {
+            padding: 0;
+        }
+    }
+    .vfes-button.vfes-tabs__tab-button.js-tab.vfes-tabs__tab-active {
+        background-color: #E60000;
+        color: #fff;
+    }
+    .vfes-tabs__tab-active:hover {
+        background-color: #E60000;
+        color: #fff;
+    }
+    .vfes-carousel__bullets-bullet {
+        background-color: transparent;
+        border: 0;
+        display: inline-block;
+        font-size: 0;
+        margin: 0;
+        padding: 0.75rem;
+        position: relative;
+        vertical-align: middle;
+    }
+    .vfes-carousel__bullets-bullet::after {
+        border: 0;
+    }
+    .vfms-wrapper__container {
+        @media screen and (min-width: 768px) {
+            padding: 0;
+        }
+        @media screen and (min-width: 1024px) {
+            max-width: none;
+        }
+    }
+    .vfes-tabs__content {
+        @media screen and (min-width: 1024px) {
+            padding: 0;
+        }
+    }
+    .vfms-devices {
+        padding-bottom: 0;
+        @media screen and (min-width: 768px) {
+            padding-top: 30px;
+        }
+        &__wrapper {
+            padding: 0;
+            @media screen and (min-width: 1024px) {
+                max-width: none;
+            }
+        }
+    }
+    .vfms-carousel{
+        &__title {
+            margin-bottom: 0;
+            &--container {
+                @media screen and (min-width: 1024px) {
+                    min-height: 100px;
+                }
+            }
+        }
+        .vfes-carousel__list {
+            padding-top: 40px;
+        }
+        .li.vfes-carousel__list-element {
+            min-height: 515px;
+            @media screen and (min-width: 1024px) {
+                min-height: 637px;
+            }
+        }
+        .vfes-tag-label {
+            .vfes-card {
+                margin-bottom: 0;
+                border-top-left-radius: 0;
+            }
+        }
+        .vfes-card.vfes-card__product {
+            min-height: 515px;
+            margin-bottom: 0;
+            @media screen and (min-width: 768px) {
+                min-height: 545px;
+            }
+            // @media screen and (min-width: 1024px) {
+            //     min-height: 617px;
+            // }
+        }
+    }
+    .vfms-packs {
+
+        
+      
+        //padding: 32px 15px;
+        @media screen and (min-width: 1024px) {
+           
+        }
+        &__layout {
+            padding: 0;
+        }
+        &__card {
+            margin-bottom: 0;
+            border-top-left-radius: 0;
+        }
+        &__text {
+            @media screen and (min-width: 768px) {
+                min-height: 100px;
+            }
+        }
+       
+    }
+    .vfms-item__price {
+        font-size: 28px;
+    }
+    .vfms-rates__layout {
+        .icon-corner {
+            @media screen and (min-width: 1024px) {
+                top: -20px;
+            }
+        }
+    }
+   
+    .vfms-permanence{
+        margin-top:10px;
+    }
+    .vfms-hbo{
+        align-items: center;
+        justify-content: center;
+    }
+    .vfms-outstanding {
+        color: white;
+        background: #666;
+    }
+    .vfms-carousel {
+        padding-top: 0;
+    }
+    .vfms-rates {
+        padding: 45px 0;
+ 
+        &__layout {
+            padding: 0;
+        }
+        &__offer {
+            min-width: 80px;
+            margin-right: 10px;
+        }
+        &__wrapper {
+            padding: 0;
+            @media screen and (min-width: 1024px) {
+                max-width: none;
+            }
+        }
+        &__icon {
+            position: relative !important;
+            display: flex;
+            align-items: center;
+        }
+        &--checkmarks {
+            margin-top: 0;
+        }
+        
+    }
+    .vfes-list {
+        margin-top: 0;
+    }
+    .vfms-container {
+
+        padding: 25px 0;
+
+        @media screen and (min-width: 1024px) {
+            position: relative;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 45px 0;
+        }
+    }
+    .vfms-mr {
+        margin-right: 7px;
+    }
+    .vfms-s__visible {
+        @media screen and (min-width: 768px) {
+            display: none;
+        }
+    }
+    .vfms-m__visible {
+        display: none;
+        @media screen and (min-width: 768px) {
+            display: block;
+        }
+        @media screen and (min-width: 1024px) {
+            display: none;
+        }
+    }
+    .vfms-l__visible {
+        display: none;
+        @media screen and (min-width: 1024px) {
+            display: block;
+        }
+    }
+
+    .vfms-title-ilimitable{
+        margin-top:45px;
+    }
+    .vfms-balls-text{
+        display: block;
+    }
+    .vfms-uses-block{
+        @media screen and (max-width: 640px) {
+            margin-top:20px;
+        }
+
+    }
+    .vfms-modulo {
+        background-image: url('../img/modulo/bg-mobile.png');
+        background-size: cover;
+        background-position: center;
+        &__width {
+            max-width: 80px;
+            @media screen and (min-width: 768px) {
+                max-width: 100px;
+            }
+        }
+    }
+}

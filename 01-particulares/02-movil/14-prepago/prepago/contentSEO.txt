@@ -1,0 +1,20 @@
+<h2>Recargar online,
+                ahora más sencillo</h2><button data-modal="modal-confirm-on-close" data-modal-close="" aria-haspopup="dialog">Recarga aquí tu
+                saldo
+            </button><a href="https://m.vodafone.es/mves/publicTopup?isMobile=false" aria-label="abre en nueva pestaña">
+                Recarga aquí tu saldo
+            </a><button aria-hidden="false">
+                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px">
+                        <title>Close</title>
+                        <use xlink:href="#icon3-close"></use>
+                    </svg>
+                </button><div data-vfms-fill="false"></div><button data-confirm="cancel" aria-hidden="false">
+                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px">
+                        <title>Close</title>
+                        <use xlink:href="#icon3-close"></use>
+                    </svg>
+                </button><path data-name="Bounding Box" fill="none" d="M0 0h192v192H0z"></path><path data-name="<Pfad>" d="M168.43 140.26c8.36 14.8 1.52 27.74-15.2 27.74H38.77c-16.72 0-23.57-12.94-15.2-27.74L80.8 35.05c8.33-14.35 22-15.11 30.41 0z" fill="#ebebeb"></path><path d="M153.23 166H38.77c-11.42 0-18.23-6-18.74-14.58C19.53 161 26.48 168 38.77 168h114.46c12.29 0 19.24-7 18.74-16.58-.51 8.58-7.32 14.58-18.74 14.58z" opacity=".06"></path><path data-name="<Pfad>" fill="none" stroke="#e60000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8" d="M96 64v56.5"></path><circle data-name="<Pfad>" cx="96" cy="139.89" r="6" fill="#e60000"></circle><h4>¿Estás seguro de que quieres
+                    salir?</h4><button type="button" data-confirm="cancel">Continuar en recarga
+                    </button><button type="button" data-confirm="accept">Salir de
+                        recargas
+                    </button>

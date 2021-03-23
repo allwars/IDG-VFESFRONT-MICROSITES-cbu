@@ -1,0 +1,28 @@
+// CSS del microsite
+.vfes-ms-content{
+    .vfes-tabs__container {
+        margin-left: 0;
+        margin-right: 0;
+        @media screen and (min-width: 640px) {
+            margin-left: auto;
+            margin-right: auto;
+        }
+    }
+    .vfms-title {
+        font-size: 24px;
+        @media screen and (min-width: 640px) {
+            font-size: 36px;
+        }
+        @media screen and (min-width: 970px) {
+            font-size: 44px;
+        }
+    }
+    .vfms-text {
+        @media screen and (min-width: 640px) {
+            font-size: 20px;
+        }
+    }
+    .vfes-colours-bg-white {
+        background-color: white;
+    }
+}

@@ -1,0 +1,9 @@
+.vf-sticky {
+  position: fixed;
+  z-index: 1;
+  bottom: 0;
+  width: 100%;
+  @media screen and (min-width: 970px) {
+    display: none;
+  }
+}

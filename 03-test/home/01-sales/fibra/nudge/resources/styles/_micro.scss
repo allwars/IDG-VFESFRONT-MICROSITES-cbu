@@ -1,0 +1,65 @@
+// CSS del microsite
+.vfes-ms-content{
+    .vfms-banner{
+        background-image: url('https://www.vodafone.es/c/statics/imagen/Fondo_Fibra_mobile.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 500px;
+        @media screen and (min-width: 768px) {
+            background-image: url('https://www.vodafone.es/c/statics/imagen/Fondo_Fibra_Tablet.jpg');
+            height: 425px;
+        }
+        @media screen and (min-width: 1024px) {
+            background-image: url('https://www.vodafone.es/c/statics/imagen/Fondo_Fibra_Desktop.jpg');
+            height: 350px;
+        }
+
+        &-content{
+            padding: 20px;
+
+            .vfms-text{
+
+                &-block{
+                    display: block;
+                    font-size: 24px;
+                }
+
+                &__size {
+                    font-size: 24px;
+                }
+                &-itemblock{
+                    font-size: 36px;
+                }
+
+                &__bold {
+                    font-family: "VodafoneRegularBold", Helvetica, Arial, sans-serif;
+                }
+
+                &__width {
+                    max-width: 270px;
+                    margin: 0 auto;
+                    @media screen and (min-width: 768px){
+                        max-width: 365px;
+                    }
+                }
+
+                .vfes-title{
+                    margin-bottom: 20px;
+                }
+            }
+            .vfms-main__text {
+                margin-bottom: 0;
+            }
+            .vfms-button{
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                
+                .vfes-button{
+                    margin-bottom: 10px;
+                }
+            }
+        }
+
+    }
+}

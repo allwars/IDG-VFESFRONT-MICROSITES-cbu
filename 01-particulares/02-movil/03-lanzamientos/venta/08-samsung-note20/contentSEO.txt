@@ -1,0 +1,596 @@
+<main>
+			<section>
+				<div> 
+					<h3>Nuevos Samsung Galaxy Note20 | Note20 Ultra 5G y Galaxy Watch3</h3>
+					<p>Elige el Samsung Galaxy Note20 que más se adapta a ti y descubre su poder combinado con el nuevo Samsung Galaxy Watch3.</p>
+					<div>
+						<div>
+							<ul>
+								<li>
+									<button data-option="1" role="tab" aria-controls="simpletab1" title="tarifa movil + fibra" aria-label="tarifa movil + fibra" aria-selected="true">Móvil + Fibra</button>
+								</li>
+								<li>
+									<button data-option="2" role="tab" aria-controls="simpletab2" title="tarifa movil" aria-label="tarifa movil" aria-selected="false">Móvil</button>
+								</li>
+							</ul>
+							<div data-tab="1" role="tabpanel">
+								<div>
+									<div>
+
+										<div>
+											<div>
+												<p>Samsung Galaxy Note 20 Ultra</p>
+												
+												<div>
+													<ul>
+														<li>
+															<div> 
+																<span>Samsung Galaxy Note 20 Ultra Negro</span>
+															</div>
+														</li>
+														<li>
+															<div> 
+																<span>Samsung Galaxy Note 20 Ultra Rosa</span>
+															</div>
+														</li>
+													</ul>
+												</div>
+												<div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Pantalla</p>
+														</div>
+														<div>
+															<p>6.9”</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Cámara</p>
+														</div>
+														<div>
+															<p>108MP F1.8</p>
+															<p>12MP F2.2</p>
+															<p>12MP 5x  F3.0</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Memoria</p>
+														</div>
+														<div>
+															<p>256GB + Micro SD</p>
+															<p>RAM 12GB</p>
+														</div>
+													</div>
+												</div>
+												<div>
+													<p><span><strong>25,50€/mes</strong></span> en 36 meses</p>
+													<p><span><strong>+0€</strong></span> de pago inicial </p>
+													<p>con tu tarifa One Ilimitada Total</p>
+													<a target="_parent" title="Lo quiero" style="cursor: pointer;" onclick="window.parent.document.ws_popup.open3('Samsung Galaxy Note 20 Ultra', '25,50€/mes en 36 meses');" data-analytics-id="-1576234121433">Lo quiero
+														<span>: Comprar Samsung Galaxy Note20 Ultra</span>
+													</a>
+												</div>
+											</div>
+										</div>
+										<div>
+											<div>
+												<p>Samsung Galaxy Note 20 5G</p>
+												
+												<div>
+													<ul>
+														<li>
+															<div> 
+																<span>Samsung Galaxy Note 20 5G Verde</span>
+															</div>
+														</li>
+													</ul>
+												</div>
+												<div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Pantalla</p>
+														</div>
+														<div>
+															<p>6.7”</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Cámara</p>
+														</div>
+														<div>
+															<p>12 MP F1.8</p>
+															<p>12 MP F2.2</p>
+															<p>64MP 3x F2.1</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Memoria</p>
+														</div>
+														<div>
+															<p>256GB</p>
+															<p>RAM 8GB</p>
+														</div>
+													</div>
+												</div>
+												<div>
+													<p><span><strong>22€/mes</strong></span> en 36
+														meses</p>
+													<p><span><strong>+0€</strong></span> de pago inicial
+													</p>
+													<p>con tu tarifa One Ilimitada Total</p>
+													<a target="_parent" title="Lo quiero" style="cursor: pointer;" onclick="window.parent.document.ws_popup.open3('Samsung Galaxy Note 20 5G', '22€/mes en 36 meses');" data-analytics-id="-5789097729725">Lo quiero
+														<span>: Comprar Samsung Galaxy Note 20 5G</span>
+													</a>
+												</div>
+											</div>
+										</div>
+										<div>
+											<div>
+												<p>Samsung Galaxy Watch3 4G (41mm)</p>
+												
+												<div>
+													<ul>
+														<li>
+															<div> 
+																<span>Samsung Galaxy Watch3 4G (41mm)</span>
+															</div>
+														</li>
+													</ul>
+												</div>
+												<div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Esfera</p>
+														</div>
+														<div>
+															<p>41 mm</p>
+															<p>pantalla 1.2’’</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Batería</p>
+														</div>
+														<div>
+															<p>247 mAh</p>
+															<p>43 horas</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Conectividad</p>
+														</div>
+														<div>
+															<p>4G</p>
+														</div>
+													</div>
+												</div>
+												<div>
+													<p><span><strong>10€/mes</strong></span> en 36
+														meses</p>
+													<p><span><strong>+0€</strong></span> de pago inicial
+													</p>
+													<p>con tu tarifa One Ilimitada Total</p>
+													<a target="_parent" title="Lo quiero" onclick="window.parent.document.ws_popup.open3('Samsung Galaxy Watch3 4G (41mm)', '10€/mes en 36 meses');" style="cursor:pointer" data-analytics-id="-0056497289321">Lo quiero
+														<span>: Comprar Samsung Galaxy Watch3 4G (41mm)</span>
+													</a>
+												</div>
+											</div>
+										</div>
+										<div>
+											<div>
+												<p>Samsung Galaxy Watch3 4G (45mm)</p>
+												
+												<div>
+													<ul>
+														<li>
+															<div> 
+																<span>Samsung Galaxy Watch3 Black</span>
+															</div>
+														</li>
+													</ul>
+												</div>
+												<div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Esfera</p>
+														</div>
+														<div>
+															<p>45 mm</p>
+															<p>pantalla 1.4’’</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Batería</p>
+														</div>
+														<div>
+															<p>340 mAh</p>
+															<p>56 horas</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Conectividad</p>
+														</div>
+														<div>
+															<p>4G</p>
+														</div>
+													</div>
+												</div>
+												<div>
+													<p><span><strong>10,50€/mes</strong></span> en 36
+														meses</p>
+													<p><span><strong>+0€</strong></span> de pago inicial
+													</p>
+													<p>con tu tarifa One Ilimitada Total</p>
+													<a target="_parent" title="Lo quiero" onclick="window.parent.document.ws_popup.open3('Samsung Galaxy Watch3 4G (45mm)', '10,50€/mes en 36 meses');" style="cursor:pointer" data-analytics-id="-3090830203416">Lo quiero
+														<span>: Comprar Samsung Galaxy Watch3 4G (45mm)</span>
+													</a>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div data-tab="2" role="tabpanel">
+								<div>
+									<div>
+										<div>
+											<div>
+												<p>Samsung Galaxy Note 20 Ultra</p>
+												
+												<div>
+													<ul>
+														<li>
+															<div> 
+																<span>Samsung Galaxy Note 20 Ultra Negro</span>
+															</div>
+														</li>
+														<li>
+															<div> 
+																<span>Samsung Galaxy Note 20 Ultra Rosa</span>
+															</div>
+														</li>
+													</ul>
+												</div>
+												<div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Pantalla</p>
+														</div>
+														<div>
+															<p>6.9”</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Cámara</p>
+														</div>
+														<div>
+															<p>108MP F1.8</p>
+															<p>12MP F2.2</p>
+															<p>12MP 5x  F3.0</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Memoria</p>
+														</div>
+														<div>
+															<p>256GB + Micro SD</p>
+															<p>RAM 12GB</p>
+														</div>
+													</div>
+												</div>
+												<div>
+													<p><span><strong>25,50€/mes</strong></span> en 36 meses</p>
+													<p><span><strong>+0€</strong></span> de pago inicial </p>
+													<p>con tu tarifa Ilimitada Total</p>
+													<a href="https://www.vodafone.es/c/tienda-online/particulares/catalogo-moviles/samsung-galaxy-note20-ultra-5g-bronce-256gb-313904/" target="_parent" title="Lo quiero" style="cursor:pointer" data-analytics-id="-4293563850619">Lo quiero
+														<span>: Comprar Samsung Galaxy Note20 Ultra</span>
+													</a>
+												</div>
+											</div>
+										</div>
+										<div>
+											<div>
+												<p>Samsung Galaxy Note 20 5G</p>
+												
+												<div>
+													<ul>
+														<li>
+															<div> 
+																<span>Samsung Galaxy Note 20 5G Verde</span>
+															</div>
+														</li>
+													</ul>
+												</div>
+												<div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Pantalla</p>
+														</div>
+														<div>
+															<p>6.7”</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Cámara</p>
+														</div>
+														<div>
+															<p>12 MP F1.8</p>
+															<p>12 MP F2.2</p>
+															<p>64MP 3x F2.1</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Memoria</p>
+														</div>
+														<div>
+															<p>256GB</p>
+															<p>RAM 8GB</p>
+														</div>
+													</div>
+												</div>
+												<div>
+													<p><span><strong>22€/mes</strong></span> en 36
+														meses</p>
+													<p><span><strong>+0€</strong></span> de pago inicial
+													</p>
+													<p>con tu tarifa Ilimitada Total</p>
+													<a href="https://www.vodafone.es/c/tienda-online/particulares/catalogo-moviles/samsung-galaxy-note20-5g-verde-256gb-313902/" target="_parent" title="Lo quiero" style="cursor:pointer" data-analytics-id="-5842247340369">Lo quiero
+														<span>: Comprar Samsung Galaxy Note 20 5G</span>
+													</a>
+												</div>
+											</div>
+										</div>
+										<div>
+											<div>
+												<p>Samsung Galaxy Watch3 4G (41mm)</p>
+												
+												<div>
+													<ul>
+														<li>
+															<div> 
+																<span>Samsung Galaxy Watch3 Bronze</span>
+															</div>
+														</li>
+													</ul>
+												</div>
+												<div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Esfera</p>
+														</div>
+														<div>
+															<p>41 mm</p>
+															<p>pantalla 1.2’’</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Batería</p>
+														</div>
+														<div>
+															<p>247 mAh</p>
+															<p>43 horas</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Conectividad</p>
+														</div>
+														<div>
+															<p>4G</p>
+														</div>
+													</div>
+												</div>
+												<div>
+													<p><span><strong>10,50€/mes</strong></span> en 36
+														meses</p>
+													<p><span><strong>+0€</strong></span> de pago inicial
+													</p>
+													<p>con tu tarifa Ilimitada Total</p>
+													<a target="_parent" title="Lo quiero" onclick="window.parent.document.ws_popup.open3('Samsung Galaxy Watch3 4G (41mm)', '10,50€/mes en 36 meses');" style="cursor:pointer" data-analytics-id="-6284669631633">Lo quiero
+														<span>: Comprar Samsung Galaxy Watch3 4G (41mm)</span>
+													</a>
+												</div>
+											</div>
+										</div>
+										<div>
+											<div>
+												<p>Samsung Galaxy Watch3 4G (45mm)</p>
+												
+												<div>
+													<ul>
+														<li>
+															<div> 
+																<span>Samsung Galaxy Watch3 Black</span>
+															</div>
+														</li>
+													</ul>
+												</div>
+												<div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Esfera</p>
+														</div>
+														<div>
+															<p>45 mm</p>
+															<p>pantalla 1.4’’</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Batería</p>
+														</div>
+														<div>
+															<p>340 mAh</p>
+															<p>56 horas</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Conectividad</p>
+														</div>
+														<div>
+															<p>4G</p>
+														</div>
+													</div>
+												</div>
+												<div>
+													<p><span><strong>11,50€/mes</strong></span> en 36
+														meses</p>
+													<p><span><strong>+0€</strong></span> de pago inicial
+													</p>
+													<p>con tu tarifa Ilimitada Total</p>
+													
+													<a target="_parent" title="Lo quiero" onclick="window.parent.document.ws_popup.open3('Samsung Galaxy Watch3 4G (45mm)', '11,50€/mes en 36 meses');" style="cursor:pointer" data-analytics-id="-3090830203716">Lo quiero
+														<span>: Comprar Samsung Galaxy Watch3 4G (45mm)</span>
+													</a>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div> 
+				</div>
+				<div>
+					<div>
+						<div>
+							<div>
+								
+							</div>
+							<p>Un ordenador en tu bolsillo</p>
+							<p>Con el <span>S Pen</span>, el lápiz <span>más potente de Galaxy</span>, convierte lo que escribes en texto que luego puedes copiar, pegar y exportar a un archivo para compartirlo fácilmente.</p>
+						</div>
+						<div>
+							<div>
+								
+							</div>
+							<p>Vídeo con calidad de cine</p>
+							<p>Haz los mejores vídeos con los nuevos Galaxy Note20 | Note20 Ultra 5G: <span>calidad 8K</span> y con cuatro veces más resolución que UHD 4K. Conviértete en un director de cine tomando el control de las opciones que te ofrece la cámara con efectos de cine profesional.</p>
+						</div>
+						<div>
+							<div>
+								
+							</div>
+							<p>El reloj que te cuida</p>
+							<p>El nuevo Smartwatch combina la productividad de un Smartphone con la <span>tecnología de salud más avanzada</span>. Control de presión sanguínea, seguimiento del ritmo cardíaco, detección de caída, medición de la calidad del sueño… Todo esto y mucho más al alcance tu muñeca.</p>
+						</div>
+						<div>
+							<div>
+								
+							</div>
+							<p>Deja tu teléfono en casa</p>
+							<p>Conecta el nuevo Samsung Galaxy Watch3 con <span>Vodafone OneNumber</span> y podrás realizar y recibir llamadas, consultar tu email, escuchar música en streaming y utilizar todas tus apps preferidas sin necesidad de tener el móvil cerca.</p>
+						</div>
+					</div>
+				</div>
+			</section>
+		</main>

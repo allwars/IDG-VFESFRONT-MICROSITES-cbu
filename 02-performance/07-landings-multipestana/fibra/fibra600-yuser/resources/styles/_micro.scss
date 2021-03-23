@@ -1,0 +1,327 @@
+// CSS del microsite
+.vfes-ms-content {
+    a {
+        text-decoration: none;
+    }
+    // Walmeric form styles
+    .vfes-layout.vfms-banner {
+        padding-top: 20px;
+        padding-bottom: 0;
+        .vfms-banner-form {
+            @media screen and (min-width: 768px) {
+                padding-right: 20px;
+            }
+            @media screen and (min-width: 1280px) {
+                padding-right: 0px;
+            }
+            .vfms-banner-form-container {
+                border-radius: 6px;
+                @media screen and (min-width: 1280px) {
+                    width: 231px;
+                    margin-left: auto;
+                }
+                form {
+                    padding: 16px;
+                    .vfes-box--form {
+                        margin: 16px 0;
+                        .vfes-form__input {
+                            margin: 5px 0;
+                        }
+                        .vfms-form__checks-space {
+                            margin-bottom: 15px;
+                            label {
+                                font-size: 14px;
+                                @media screen and (min-width: 768px) {
+                                    font-size: 13px;
+                                }
+                                #condiciones {
+                                    margin-left: 2px;
+                                    text-decoration: underline;
+                                }
+                            }
+                        }
+                        input[type="submit"] {
+                            font-size: 16px;
+                            box-shadow: none;
+                            @media screen and (min-width: 768px) {
+                                width: 100%;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        // countdown
+        .vfms-countdown-text {
+            margin-bottom: 0;
+            margin-top: 24px;
+            @media screen and (min-width: 768px) {
+                width: 231px;
+                margin-left: auto;
+            }
+        }
+    }
+    /*Banner Fibra 600Mbps*/
+    .vfes-layout.vfms-banner.fibra600mb {
+        background-image: url(../img/imgs-background/fibra/yuser/desktop.png);
+        background-size: cover;
+        padding-top: 40px;
+        padding-bottom: 0;
+        .vfms-banner-info {
+            .vfms-banner-info-container {
+                background: #fff;
+                border-radius: 6px;
+                margin-bottom: 25px;
+                padding: 16px;
+                @media screen and (min-width: 1024px) {
+                    margin-left: auto;
+                    width: 60%;
+                    padding: 25px 36px;
+                }
+                .vfms-banner-info-copy {
+                    display: flex;
+                    justify-content: space-between;
+                    margin-bottom: 16px;
+                    p {
+                        font-size: 18px;
+                        @media screen and (min-width: 1280px) {
+                            font-size: 25px;
+                        }
+                    }
+                    img {
+                        width: 100px;
+                        @media screen and (min-width: 1280px) {
+                            width: 150px;
+                        }
+                    }
+                }
+                .vfms-banner-info-clain {
+                    margin-bottom: 0;
+                }
+                .vfms-rate-features {
+                    border: solid 4px #e60000;
+                    display: flex;
+                    justify-content: space-around;
+                    padding: 12px 0;
+                    margin: 35px 0 20px 0;
+                    .vfms-rate-features-item {
+                        display: flex;
+                        flex-direction: column;
+                        padding: 0 16px;
+                        .vfms-rate-features-item-big {
+                            font-size: 24px;
+                            @media screen and (min-width: 1280px) {
+                                font-size: 40px;
+                            }
+                            .vfms-month {
+                                font-size: 20px;
+                            }
+                        }
+                        &:first-child {
+                            border-right: solid 2px #333333;
+                        }
+                    }
+                }
+                .vfms-offer-details {
+                    display: flex;
+                    flex-direction: column;
+                    .vfms-offer-details-link {
+                        align-self: flex-end;
+                        text-decoration: underline;
+                    }
+                }
+            }
+        }
+    }
+    .vfms-coverage {
+        padding: 0;
+        background-image: url(../img/coverage/section-check-coverage.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        .vfms-coverage-wrapper {
+            .vfms-coverage-item {
+                display: flex;
+                padding: 16px 8px;
+                align-items: center;
+                @media screen and (min-width: 1280px) {
+                    width: 80%;
+                    margin: 0 auto;
+                }
+                .vfms-coverage-text {
+                    display: flex;
+                    flex-direction: column;
+                    width: 60%;
+                    margin: 0 auto;
+                    @media screen and (min-width: 768px) {
+                        width: 100%;
+                        flex-direction: row;
+                        justify-content: space-around;
+                        align-items: center;
+                    }
+                    .vfms-check-coverage__text {
+                        font-size: 16px;
+                        @media screen and (min-width: 1024px) {
+                            font-size: 24px;
+                            margin-bottom: 0;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    // Estilos para los modales
+    .vfms-modal-title {
+        padding-bottom: 10px;
+        border-bottom: solid #333 1px;
+    }
+    .vfms-fibraMovil {
+        .vfms-offer-details-features-container {
+            display: flex;
+            flex-wrap: wrap;
+            .vfms-offer-details-features-item {
+                @media screen and (min-width: 768px) {
+                    width: 50%;
+                }
+                .vfms-feature-header {
+                    display: flex;
+                    align-items: center;
+                    .vfms-feature-title {
+                        margin-bottom: 0;
+                        // align-self: flex-end;
+                        // margin-left: 16px;
+                        &:last-child {
+                            padding-left: 20px;
+                        }
+                    }
+                }
+                .vfms-feature-content {
+                    list-style: disc;
+                    padding: 20px 50px;
+                }
+            }
+        }
+        .vfms-offer-details-conditions {
+            .vfms-feature-title {
+                margin-bottom: 0;
+                border-top: #333 solid 1px;
+                padding-top: 10px;
+            }
+            .vfms-offer-details-conditions-container {
+                list-style: disc;
+                padding: 20px 50px;
+            }
+        }
+    }
+    .vfms-tarifaMovil {
+        .vfms-modal-title {
+            margin-bottom: 20px;
+        }
+        .vfms-offer-details-features-container {
+            list-style: disc;
+            padding-left: 20px;
+            line-height: 1.5;
+            .vfms-offer-details-features-item {
+                .vfms-rate-features-container {
+                    list-style: disc;
+                    padding-left: 50px;
+                }
+            }
+        }
+    }
+    // Coverage Modal
+    .vfms-check-coverage {
+        display: flex;
+        flex-direction: column;
+        padding: 0;
+        overflow: hidden;
+        padding: 32px;
+        @media screen and (min-width: 768px) {
+            flex-direction: row;
+        }
+        .vfms-text--container {
+            background: url(../img/coverage/check-coverage-layer.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+            border-radius: 6px;
+            box-shadow: 0rem 0rem 8px rgba(0, 0, 0, 0.6);
+            display: flex;
+            align-items: center;
+            padding: 0 20px;
+            min-height: 250px;
+            .vfms-icon-container {
+                width: 80px;
+            }
+        }
+        .vfms-form--container {
+            padding: 20px;
+            border: 1px solid #111;
+            border-radius: 6px;
+            box-shadow: 0rem 0rem 8px rgba(0, 0, 0, 0.6);
+            .vfms-check-box-container {
+                margin-top: 20px;
+                .vfes-form__label {
+                    font-size: 14px;
+                    #condiciones {
+                        margin-left: 2px;
+                        text-decoration: underline;
+                        color: #fff;
+                    }
+                }
+            }
+            .vfms-large {
+                width: 100%;
+            }
+            input[type="submit"] {
+                box-shadow: none;
+            }
+        }
+    }
+    // Countdown
+    .vfms-countdown {
+        width: 95%;
+        margin: 20px auto;
+        text-align: center;
+        border-top: 1px solid #333;
+        padding: 6px 0;
+        position: relative;
+        @media screen and (min-width: 1280px) {
+            // margin-left: 16px;
+            // margin-top: 16px;
+            width: 231px;
+            margin-left: auto;
+            margin-right: 0;
+        }
+        .vfms-tiles {
+            display: flex;
+            span {
+                width: 92px;
+                max-width: 92px;
+                font: bold 35px 'Droid Sans', Arial, sans-serif;
+                text-align: center;
+                color: #333;
+                padding: 8px 0;
+                display: inline-block;
+                position: relative;
+                margin-bottom: 0;
+                &:not(:nth-child(4)) {
+                    border-right: 1px solid #333333;
+                }
+            }
+        }
+        .vfms-labels {
+            width: 100%;
+            height: 25px;
+            text-align: center;
+            display: flex;
+            justify-content: space-around;
+            .vfms-labels-item {
+                text-align: center;
+                flex: 1;
+                text-shadow: none;
+                @media screen and (min-width: 768px) {
+                    font-size: 13px;
+                }
+            }
+        }
+    }
+}

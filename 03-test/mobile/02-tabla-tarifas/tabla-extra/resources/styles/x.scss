@@ -1,0 +1,375 @@
+.vfms-container {
+
+
+
+	tbody {
+
+		@media screen and (max-width: 414px) {
+			width: 100%;
+		}
+		.vfms-body {
+			width: 1500px;
+			display: flex;
+			transform: translateX(0);
+
+			.vfms-info__mobile {
+				@media screen and (max-width: 414px) {
+					display: flex;
+					justify-content: space-between;
+				}
+			}
+			.vfms-text__mobile {
+				text-align: right;
+			}
+			.vfms-cell {
+				width: 300px;
+				padding: 10px 0;
+				@media screen and (max-width: 768px) {
+					width: 230px;
+				}
+				@media screen and (max-width: 414px) {
+					width: 100%;
+					max-width: 300px;
+					margin-right: 20px;
+				}
+				.vfms-align__right {
+					text-align: right;
+				}
+				.vfms-flex__adjustment {
+					flex-direction: column;
+					@media screen and (max-width: 414px) {
+						flex-direction: row;
+						align-items: flex-start;
+						justify-content: space-between;
+					}
+				}
+				.vfes-card-shop__price {
+					font-size: 40px;
+				}
+				.vfes-link {
+					text-decoration: underline;
+					font-size: 18px;
+					margin-bottom: 16px;
+					display: block;
+					@media screen and (max-width: 414px) {
+						margin-top: 10px;
+					}
+				}
+				.vfms-price {
+					font-size: 40px;
+					@media screen and (max-width: 414px) {
+						line-height: inherit;
+					}
+				}
+				.vfms-button {
+					margin-bottom: 15px;
+				}
+				.vfms-check-bg {
+					width: 24px;
+					height: 24px;
+					background: #009900;
+					border-radius: 50%;
+					margin: 0 auto;
+					@media screen and (max-width: 414px) {
+						display: inline-block;
+						margin: 0;
+					}
+					span {
+						color: white;
+					}
+				}
+				.vfms-check-bg:after {
+					content: '';
+					border: 2px solid white;
+					border-top: 0;
+					border-right: 0;
+					display: block;
+					height: 5px;
+					transform: rotate(-45deg);
+					width: 10px;
+					@media screen and (max-width: 414px) {
+						margin-top: 7px;
+						margin-left: 6px;
+					}
+				}
+
+			}
+			.vfms-cell::before {
+				@media screen and (max-width: 414px) {
+					content: attr(data-content);
+					width: 60%;
+				}
+			}
+			.vfms-text__align {
+				text-align: center;
+				@media screen and (max-width: 414px) {
+					text-align: left;
+				}
+			}
+			.vfms-cell--grey {
+				padding-top: 20px;
+			}
+		}
+		.vfms-body:first-child {
+			@media screen and (max-width: 414px) {
+				height: 170px;
+				border-bottom: 1px solid #ebebeb;
+			}
+		}
+	}
+	.vfms-arrow--button {
+		width: 46px;
+		height: 46px;
+		position: absolute;
+		border-radius: 50%;
+		@media screen and (max-width: 414px) {
+			width: 40px;
+			height: 40px;
+		}
+	}
+	.vfms-prev {
+		top: 50%;
+		left: 300px;
+		z-index: 2;
+		@media screen and (max-width: 768px) {
+			left: 240px;
+		}
+		@media screen and (max-width: 414px) {
+			left: -20px;
+			top: 60px;
+		}
+	}
+	.vfms-prev:after {
+		content: '';
+		left: 50%;
+		position: absolute;
+		top: 50%;
+		border-top: 0.0625rem solid #333333;
+		border-right: 0.0625rem solid #333333;
+		border-width: 0.0625rem;
+		display: block;
+		width: 0.75rem;
+		height: 0.75rem;
+		z-index: 1;
+		transform: translate(-45%, -50%) rotate(225deg);
+	}
+	.vfms-next {
+		top: 50%;
+		right: -20px;
+		@media screen and (max-width: 414px) {
+			top: 60px;
+		}
+	}
+	.vfms-next:after {
+		content: '';
+		left: 50%;
+		position: absolute;
+		top: 50%;
+		border-top: 0.0625rem solid #333333;
+		border-right: 0.0625rem solid #333333;
+		border-width: 0.0625rem;
+		display: block;
+		width: 0.75rem;
+		height: 0.75rem;
+		z-index: 1;
+		transform: translate(-50%, -50%) rotate(45deg);
+	}
+
+
+
+
+.vfms-container {
+	width: 90%;
+	padding: 0 20px;
+
+	.vfms-table {
+		display: flex;
+		overflow: hidden;
+
+		&-header {
+			position: absolute;
+			left: 0;
+			z-index: 2;
+			background: #fff;
+			height: 100%;
+			padding: 20px;
+			width: 320px;
+
+		}
+
+		&-body {
+			transition: transform .4s ease-in;
+		}
+	}
+
+	thead {
+		width: 25%;
+		border-right: 1px solid #ebebeb;
+		display: none;
+
+		.vfms-head--item {
+			padding: 3px 0;
+
+			.vfms-games {
+				height: 20px;
+			}
+		}
+
+		.vfms-head {
+			display: flex;
+			flex-direction: column;
+			justify-content: flex-end;
+			height: 100%;
+		}
+
+		.vfms-height {
+			height: 40px;
+		}
+
+		.vfms-price {
+			margin-bottom: 120px;
+		}
+
+		.vfms-icon--bg {
+			width: 30px;
+			height: 30px;
+			border-radius: 10px;
+			margin-right: 16px;
+
+			svg {
+				width: 100%;
+				height: 20px;
+			}
+		}
+	}
+
+	tbody {
+		width: 100%;
+
+		.vfms-body {
+			width: 1500px;
+			display: flex;
+			transform: translateX(0);
+
+			.vfms-info__mobile {
+					display: flex;
+					justify-content: space-between;
+				}
+			}
+			.vfms-text__mobile {
+				text-align: right;
+			}
+			.vfms-cell {
+					width: 100%;
+					max-width: 300px;
+					margin-right: 20px;
+				}
+			.vfms-align__right {
+				text-align: right;
+			}
+			.vfms-flex__adjustment {
+					flex-direction: row;
+					align-items: flex-start;
+					justify-content: space-between;
+				}
+			}
+				.vfes-card-shop__price {
+					font-size: 40px;
+				}
+				.vfes-link {
+					text-decoration: underline;
+					font-size: 18px;
+					margin-bottom: 16px;
+					display: block;
+						margin-top: 10px;
+					}
+				}
+				.vfms-price {
+					font-size: 40px;
+
+				}
+				.vfms-button {
+					margin-bottom: 15px;
+				}
+				.vfms-check-bg {
+					width: 24px;
+					height: 24px;
+					background: #009900;
+					border-radius: 50%;
+					margin: 0 auto;
+
+					span {
+						color: white;
+					}
+				}
+				.vfms-check-bg:after {
+					content: '';
+					border: 2px solid white;
+					border-top: 0;
+					border-right: 0;
+					display: block;
+					height: 5px;
+					transform: rotate(-45deg);
+					width: 10px;
+
+				}
+
+			.vfms-cell::before {
+					content: attr(data-content);
+					width: 60%;
+				}
+
+			.vfms-text__align {
+				text-align: center;
+					text-align: left;
+				}
+
+			.vfms-cell--grey {
+				padding-top: 20px;
+			}
+
+		.vfms-body:first-child {
+				height: 170px;
+				border-bottom: 1px solid #ebebeb;
+			}
+
+	@media screen and (min-width: 640px) {
+		.vfms-container {
+			padding-right: 0;
+			width: 95%;
+
+			thead {
+
+				width: 45%;
+			}
+
+			.vfms-cell {
+
+				width: 230px;
+			}
+
+		}
+	}
+	@media screen and (min-width: 970px) {
+		.vfms-container {
+			padding: 0 20px;
+		}
+
+		thead {
+			width: 25%;
+			border-right: 1px solid #ebebeb;
+		}
+
+		.vfms-cell {
+
+			width: 300px;
+		}
+
+
+	}
+
+
+
+}
+
+

@@ -1,0 +1,21 @@
+<h1>Smartphones Vodafone, los tenemos</h1><span>
+						<h3>
+							<span>¡Te regalamos un Smartphone!</span>
+							<span>Llámanos y descubre las ofertas que</span>
+							<span>tenemos para ti</span>
+						</h3>
+					</span><button aria-hidden="false"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px">
+						<title>Close</title>
+						<use xlink:href="#icon3-close"></use>
+					</svg></button><div></div><div></div><p>¡Gracias!</p><button aria-hidden="false"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px">
+						<title>Close</title>
+						<use xlink:href="#icon3-close"></use>
+					</svg></button><p>
+					Uno de nuestros asesores se pondrá en contacto contigo lo antes posible<br>
+					<strong>Nuestro horario de atención es de lunes a sábado de 9:00 a 22:00h</strong>
+				</p><div></div><p>Política de Privacidad</p><button aria-hidden="false"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px">
+						<title>Close</title>
+						<use xlink:href="#icon3-close"></use>
+					</svg></button><p>
+				Los datos que nos facilitas en el registro formarán parte de una base de datos de Vodafone España. S.A.U., con domicilio en Avda. América 115, 28042 de Madrid y serán tratados para facilitarte la información solicitada y poder contactar contigo en el futuro para llevar a cabo acciones comerciales, en caso de que nos hayas proporcionado tu consentimiento marcando el check habilitado al efecto, en caso de que no seas cliente Vodafone, o a través de tu Área de Clientes de Mi Vodafone, si ya eres cliente. Podrás ejercitar los derechos de acceso, rectificación, cancelación, oposición, limitación dirigiéndote a Vodafone España a la dirección antes indicada. Mantendremos tus datos mientras no ejerzas tu derecho de cancelación. Podrás ponerte en contacto con el Delegado de Protección de Datos (DPO) a través de: DPO-SPAIN@vodafone.com
+				</p><div></div>

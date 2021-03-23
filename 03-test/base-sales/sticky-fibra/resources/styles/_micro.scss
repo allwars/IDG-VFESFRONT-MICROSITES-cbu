@@ -1,0 +1,49 @@
+// CSS del microsite
+.vf-bs{
+  display: flex;
+  justify-content: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 99999;
+  @media screen and (min-width: 970px) {
+    top: 72px;
+    z-index: initial;
+
+  }
+
+  .vf-sticky {
+    box-shadow: 0 0 14px 0 rgba(0, 0, 0, 0.4);
+    max-width: 810px;
+    flex-direction: column;
+    position: relative;
+    padding: 20px 10px;
+    &__content {
+      padding: 10px 0;
+      @media screen and (min-width: 760px) {
+      padding: 0;
+      }
+    }
+    @media screen and (min-width: 760px) {
+      flex-direction: row;
+    }
+  }
+  .close-sticky{
+    background: none;
+    border: none;
+    position: absolute;
+    left: 10px;
+    top: 10px;
+
+    .icon-close{
+      width: 20px;
+      height: 20px;
+    }
+  }
+  .vf-text-banner{
+    @media screen and (min-width: 970px) {
+      padding: 0 100px 0 10px;
+    }
+  }
+}

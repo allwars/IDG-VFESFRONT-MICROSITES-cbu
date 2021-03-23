@@ -1,0 +1,158 @@
+<h3>Landing preventa</h3><picture>
+						<source media="(min-width: px)" srcset="">
+						<source media="(min-width: px)" srcset="">
+						
+					</picture><h3>Title goes here</h3><p>Lorem ipsum dolor sit amet, consect etur adipiscing elit.</p><p>
+							<span>
+								<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+									<title>Icono Móvil</title>
+									<use xlink:href="#icon-mobile"></use>
+								</svg>
+							</span>
+							<strong>Pantalla</strong>
+						</p><span>6.5”</span><p>
+							<span>
+								<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+									<title>Icono Cámara</title>
+									<use xlink:href="#icon-camera"></use>
+								</svg>
+							</span>
+							<strong>Cámara</strong>
+						</p><span>
+							<span>12MP F2.2</span>
+							<span>12MP F1.8</span> 
+							<span>8MP 3x  F2.4</span>
+						</span><p>
+							<span>
+								<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+									<title>Icono Nube</title>
+									<use xlink:href="#icon-cloud-upload"></use>
+								</svg>
+							</span>
+							<strong>Memoria</strong>
+						</p><span>
+							<span>128GB</span>
+							<span>RAM 6GB</span> 
+						</span><p><span><strong>XX</strong></span>/mes en xx meses</p><p><strong>+X€</strong> de pago inicial</p><button data-backdrop="simple" data-backdrop-close="" aria-haspopup="dialog" data-device-name="Samsung Galaxy xx">Abrir Modal</button><picture>
+						<source media="(min-width: px)" srcset="">
+						<source media="(min-width: px)" srcset="">
+						
+					</picture><h3>Title goes here</h3><p>Lorem ipsum dolor sit amet, consect etur adipiscing elit.</p><p>
+							<span>
+								<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+									<title>Icono Móvil</title>
+									<use xlink:href="#icon-mobile"></use>
+								</svg>
+							</span>
+							<strong>Pantalla</strong>
+						</p><span>6.5”</span><p>
+							<span>
+								<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+									<title>Icono Cámara</title>
+									<use xlink:href="#icon-camera"></use>
+								</svg>
+							</span>
+							<strong>Cámara</strong>
+						</p><span>
+							<span>12MP F2.2</span>
+							<span>12MP F1.8</span> 
+							<span>8MP 3x  F2.4</span>
+						</span><p>
+							<span>
+								<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+									<title>Icono Nube</title>
+									<use xlink:href="#icon-cloud-upload"></use>
+								</svg>
+							</span>
+							<strong>Memoria</strong>
+						</p><span>
+							<span>128GB</span>
+							<span>RAM 6GB</span> 
+						</span><p><span><strong>XX</strong></span>/mes en xx meses</p><p><strong>+X€</strong> de pago inicial</p><button data-backdrop="simple" data-backdrop-close="" aria-haspopup="dialog" data-device-name="Samsung Galaxy xx2">Abrir Modal</button><picture>
+						<source media="(min-width: px)" srcset="">
+						<source media="(min-width: px)" srcset="">
+						
+					</picture><h3>Title goes here</h3><p>Lorem ipsum dolor sit amet, consect etur adipiscing elit.</p><p>
+							<span>
+								<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+									<title>Icono Móvil</title>
+									<use xlink:href="#icon-mobile"></use>
+								</svg>
+							</span>
+							<strong>Pantalla</strong>
+						</p><span>6.5”</span><p>
+							<span>
+								<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+									<title>Icono Cámara</title>
+									<use xlink:href="#icon-camera"></use>
+								</svg>
+							</span>
+							<strong>Cámara</strong>
+						</p><span>
+							<span>12MP F2.2</span>
+							<span>12MP F1.8</span> 
+							<span>8MP 3x  F2.4</span>
+						</span><p>
+							<span>
+								<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+									<title>Icono Nube</title>
+									<use xlink:href="#icon-cloud-upload"></use>
+								</svg>
+							</span>
+							<strong>Memoria</strong>
+						</p><span>
+							<span>128GB</span>
+							<span>RAM 6GB</span> 
+						</span><p><span><strong>XX</strong></span>/mes en xx meses</p><p><strong>+X€</strong> de pago inicial</p><button data-backdrop="simple" data-backdrop-close="" aria-haspopup="dialog" data-device-name="Samsung Galaxy xx3">Abrir Modal</button><picture>
+						<source media="(min-width: px)" srcset="">
+						<source media="(min-width: px)" srcset="">
+						
+					</picture><h3>Title goes here</h3><p>Lorem ipsum dolor sit amet, consect etur adipiscing elit.</p><p>
+							<span>
+								<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+									<title>Icono Móvil</title>
+									<use xlink:href="#icon-mobile"></use>
+								</svg>
+							</span>
+							<strong>Pantalla</strong>
+						</p><span>6.5”</span><p>
+							<span>
+								<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+									<title>Icono Cámara</title>
+									<use xlink:href="#icon-camera"></use>
+								</svg>
+							</span>
+							<strong>Cámara</strong>
+						</p><span>
+							<span>12MP F2.2</span>
+							<span>12MP F1.8</span> 
+							<span>8MP 3x  F2.4</span>
+						</span><p>
+							<span>
+								<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+									<title>Icono Nube</title>
+									<use xlink:href="#icon-cloud-upload"></use>
+								</svg>
+							</span>
+							<strong>Memoria</strong>
+						</p><span>
+							<span>128GB</span>
+							<span>RAM 6GB</span> 
+						</span><p><span><strong>XX</strong></span>/mes en xx meses</p><p><strong>+X€</strong> de pago inicial</p><button data-backdrop="simple" data-backdrop-close="" aria-haspopup="dialog" data-device-name="Samsung Galaxy xx4">Abrir Modal</button><button aria-hidden="false">
+						<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+							<title>Close</title>
+							<use xlink:href="#icon-close"></use>
+						</svg>
+					</button><h4><strong><span>¡Solo te queda un paso!</span></strong></h4><p>Déjanos tus datos y nos pondremos en contacto contigo para finalizar compra.</p><input type="hidden" name="preventa" value="Samsung XX"><input style="display:none;" value="NO" name="verifyLeadId"><input name="wg-return" value="gracias" type="hidden"><input type="hidden" style="display:none;" name="phone-model" placeholder="Modelo Teléfono"><input type="radio" name="esCliente" data-wg-validation="required" value="si"><label for="cliente">Soy Cliente</label><input type="radio" name="esCliente" data-wg-validation="required" value="no"><label for="noCliente">No soy cliente</label><input type="hidden"><input type="text" name="name" aria-labelledby="labelinput1" data-wg-validation="required"><label for="name">Nombre</label><button type="button" title="Borrar" aria-hidden="true">
+								<span>Borrar contenido</span>
+								<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32px" height="32px">
+									<title>icono para borrar contenido</title>
+									<use xlink:href="#icon-close"></use>
+								</svg>
+							</button><input type="hidden"><input name="phone" aria-labelledby="labelinput1" type="phone" inputmode="numeric" pattern="[0-9]*" maxlength="9" data-wg-validation="required,phone" oninput="javascript: if (this.value.length > this.maxLength) this.value = this.value.slice(0, this.maxLength);"><label for="phone">Nº teléfono</label><button type="button" title="Borrar" aria-hidden="true">
+								<span>Borrar contenido</span>
+								<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32px" height="32px">
+									<title>icono para borrar contenido</title>
+									<use xlink:href="#icon-close"></use>
+								</svg>
+							</button><input type="hidden"><input type="checkbox" name="checkbox" value="privacy" data-wg-validation="required"><label for="privacy"><p>Acepto la Política de Privacidad</p></label><input type="hidden"><input type="checkbox" name="checkbox1" value="comercial"><label for="comercial"><p>Acepto recibir comunicaciones comerciales de Vodafone</p></label><input type="hidden"><input type="button" name="cta" title="Enviar" value="Enviar">

@@ -1,0 +1,331 @@
+// CSS del microsite
+.vfes-ms-content{
+  img{
+    max-width: 100%;
+  }
+  .ws10-c-cards-discovery-standard__image-holder{
+    overflow: hidden;
+
+  }
+  .vfms-addons-img{
+    padding-bottom: 0!important;
+  }
+  // Breadcrumbs
+  .vf-breadcrumbs{
+    & li {
+      list-style: none;
+
+      &:last-child {
+        display: none;
+        @media screen and (min-width: 970px) {
+          display: block;
+        }
+      }
+
+      &:first-child {
+        & a{
+          &:before{
+            border-width: .0625rem;
+            border-right: .0625rem solid #333;
+            border-top: .0625rem solid #333;
+            display: block;
+            width: .75rem;
+            height: .75rem;
+            transform: rotate(-135deg);
+            content: "";
+            display: inline-block;
+            vertical-align: baseline;
+            position: relative;
+
+            @media screen and (min-width: 970px) {
+              display: none;
+            }
+
+          }
+
+        }
+      }
+    }
+
+    &__link {
+      display: flex;
+      align-items: center;
+      @media screen and (min-width: 970px){
+        &:after{
+          border-width: .0625rem;
+          border-right: .0625rem solid #333;
+          border-top: .0625rem solid #333;
+          display: block;
+          width: .75rem;
+          height: .75rem;
+          transform: rotate(45deg);
+          content: "";
+          display: inline-block;
+          vertical-align: baseline;
+          position: relative;
+        }
+      }
+
+    }
+
+  }
+  .vfms-video-container{
+    height: auto;
+    max-height: 350px;
+    display:block;
+  
+    @media screen and (max-width: 768px) {      
+      display:none;   
+    }
+
+  }
+  .vfms-content{
+    width: 100%;
+    display: flex;
+  }
+  .vfms-container{
+    position: absolute;
+    z-index: 5;
+    width: 100%;
+    top: 100px;
+    left:0;
+    padding-left:40px;
+    right: 0;
+    @media screen and (max-width: 768px) {      
+      position: relative; 
+      padding:10px 10px;
+      top: 0;
+      left: 0;
+      right: 0;
+      padding-left:0;
+    }
+    
+  }
+
+  .vf-banner{
+    background: url('../img/bg-banner.jpg') no-repeat center;
+    background-size: cover;
+    position: relative;
+
+    &__title{
+      @media screen and (min-width: 970px){
+        padding-right: 110px;
+      }
+    }
+
+    &__container{
+      position: relative;
+    }
+  }
+  .vfms-banner-container{
+    background-color:#f4f4f4 ;
+    background: url('https://www.vodafone.es/c/statics/imagen/bg-banner.jpg') no-repeat center;
+    background-size:cover;
+    position:absolute;
+    z-index:-1;
+    width: 100%;
+    height:470px; 
+
+    @media screen and (max-width:768px) {      
+      height:470px;  
+    }
+  }
+  .vfms-banner-title{
+    width: 50%;
+    position: relative;
+    @media screen and (max-width:768px) {
+      width: 100%;
+    }
+
+    /*&__bolo{
+      width:100px;
+      height:auto;
+      position: absolute;
+      right: 0;
+      display: none;
+      @media screen and (min-width:768px) {
+        display: block;
+      }
+    }*/
+  }
+  .vfms__banner-mobile{
+   display:none;
+
+    @media screen and (max-width: 768px) {      
+      display:block;
+      text-align: center;
+      margin: 0 auto;
+      overflow: hidden;
+    }
+
+  }
+  //animation 
+  .vfms-animation {
+
+    width: 50%;
+    position: relative;
+  
+
+   
+    @media screen and (max-width: 768px) {      
+      display:none; 
+    }
+    &--element{
+      position: absolute;
+      overflow: hidden;
+    }
+    &--1{
+      z-index:2; 
+      animation: float 6s ease-in-out infinite;
+      right: 30px;
+      bottom: 0;
+      @media screen and (max-width: 769px) {    
+        margin-top:0;  
+        right: -80px;    
+      }
+      img{
+        @media screen and (max-width: 640px) {      
+          width: 140px;     
+        }
+      }
+    }
+    &--2{
+      z-index:2;
+      animation: float 4.5s ease-in-out infinite;
+      right: 45%;
+      top: 0;
+      margin-top: 60px;
+    }
+    &--3{
+      z-index:2;
+      transform: translatey(0px);
+      animation: float 4s ease-in-out infinite;
+      right: 30%;
+      top: -10%;
+      margin-top: 30px;
+    }
+    &--4{
+      z-index:2;
+      transform: translatey(0px);
+      animation: float 4.5s ease-in-out infinite;
+      right: 78%;
+      top: 0;
+      margin-top: 100px;
+    }
+    &--5{
+      z-index:2;
+      //transform: translatey(0px);
+      //animation: float 4.5s ease-in-out infinite;
+      width: 100px;
+      height: auto;
+      right: 100%;
+      top:0;
+     
+      @media screen and (max-width: 769px) {    
+        right: 99%;  
+      }  
+    }
+    &--6{
+      z-index:2;
+      //transform: translatey(0px);
+      //animation: float 4.5s ease-in-out infinite;
+      width:190px;
+      height: auto;
+      right: 69%;
+      top:-30px;
+    
+      transform:scale(.8, .8);
+      @media screen and (max-width: 1025px) {    
+        right: 85%;  
+      } 
+      
+      @media screen and (max-width: 769px) {    
+        top:0;
+        right: 70%;  
+      }
+      
+      img{
+
+        @media screen and (max-width: 769px) {    
+          width:100px;
+        }
+      }
+    }
+  }
+  
+  @keyframes float {
+    0% {
+      -webkit-filter: drop-shadow(0px 25px 15 0px rgba(151,145,145,0.6));
+      filter: drop-shadow(5px 50px 5px rgba(151,145,145,0.6));
+      transform: translatey(0px);
+    }
+    50% {
+      -webkit-filter: drop-shadow(0px 55px -15px  0px rgba(151,145,145,0.2));
+      filter: drop-shadow(-15px 75px 15px rgba(151,145,145,0.2));
+      transform: translatey(-20px);
+    }
+    100% {
+      -webkit-filter: drop-shadow(0px 25px 15 0px rgba(151,145,145,0.6));
+      filter: drop-shadow(5px 50px 5px rgba(151,145,145,0.6));
+      transform: translatey(0px);
+    }
+  }
+  .vfms-video {
+    width: 100%;
+}
+
+  .ws10-c-form__radio:checked+.ws10-c-form__label::after {
+    background-color: #007c92;
+  }
+
+  .vf-bold{
+    font-family: "Vodafone";
+    src: local("Vodafone Rg Bold"),url("https://www.vodafone.es/c/statics/fonts/vodafonergbd-webfont.woff") format("woff"),url(fonts/vodafone-bold.woff) format("woff");
+    font-style: "normal";
+    font-weight: 700;
+    font-display: swap
+  }
+  .vf-form{
+    padding:10px 0 0 24px;
+    &__box{
+      width: initial;
+      &:first-child{
+        padding-right: 20px;
+      }
+    }
+  }
+
+  .vf-rates{
+    &__container{
+      @media screen and (min-width: 768px){
+        align-items: start;
+        align-items: start;
+      }
+      @media screen and (min-width: 970px){
+        align-items: flex-end;
+        align-items: flex-end;
+      }
+    }
+  }
+
+  .vf-banner50{
+    &__img{
+      max-width: 100%;
+      @media screen and (min-width: 970px){
+        max-width: 100%;
+      }
+    }
+
+    &__container1{
+      @media screen and (min-width: 970px) {
+        order: 2;
+      }
+    }
+
+    &__container2{
+      @media screen and (min-width: 970px) {
+        order: 1;
+      }
+    }
+  }
+}

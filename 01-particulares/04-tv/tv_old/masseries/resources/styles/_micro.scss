@@ -1,0 +1,817 @@
+// CSS del microsite
+html{scroll-behavior: smooth;}
+.vfes-ms-content{
+  @import "tabsws10";
+
+  //STYLES BANNER
+
+  .vfms-colormix{
+    background-image: linear-gradient(to right, #9c2aa0, #912795, #87248a, #7c2180, #721e75);
+    &__seriefans{
+      background-image: linear-gradient(to right, #9c2aa0, #a43ca7, #ab4daf, #b35cb6, #ba6abd);
+    }
+  }
+  .vfms-hide{
+    display: none;
+  }
+
+  .vfms-icon-banner{
+    position: relative;
+    z-index: 2;
+  }
+  .vfms-banner {
+    background-image: url("../img/bg-masseries-mobile.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    position: relative;
+
+
+    &-prices{
+      margin-bottom: 10px;
+    }
+
+    .vfms-blur {
+      width: 100%;
+      background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(74, 74, 74, 0)), color-stop(56%, rgba(64, 64, 64, .4)), to(#333));
+      background-image: linear-gradient(180deg, rgba(74, 74, 74, 0), rgba(64, 64, 64, .4) 56%, #333);
+      height: 300px;
+      position: absolute;
+      bottom: 0;
+    }
+
+    .vfms-card {
+      padding-top: 20px;
+      border-radius: 6px;
+      position: relative;
+      overflow: hidden;
+      z-index: 1;
+
+      &-flex{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 10px;
+      }
+
+      &-logos{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        .vfms-img{
+          width: 85px;
+        }
+      }
+      .vfms-line-decorative{
+        position: absolute;
+        top: 0;
+        width: 100%;
+        padding: 8px;
+      }
+
+
+
+    }
+
+    &__title{
+      span{
+        display: block;
+      }
+    }
+
+
+    .vfms-decorative-line{
+      height: 1px;
+      width: 120px;
+      background-color: #333;
+    }
+
+    .vfms-plus{
+      width: 100%;
+    }
+  }
+
+
+  //STYLES BREADCRUMS
+
+  .vfes-breadcrumbs{
+    border: none;
+  }
+
+  //STYLES INFO TEXT
+
+  .vfms-info{
+    .vfms-icon-flex{
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+
+    li{
+      text-align: center;
+      img{
+        max-width: 80px;
+      }
+    }
+
+    li:nth-child(8){
+      text-align: right;
+      padding-right: 10px;
+    }
+    li:last-child{
+      text-align: left;
+      padding-left: 10px;
+    }
+  }
+    &__text{
+      font-size: 18px;
+    }
+  }
+
+
+
+  // CHOOSE YOUR RATE
+
+  .vfms-choose-rate{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    @media screen and (min-width: 970px) {
+      flex-direction: row;
+    }
+
+    &__module{
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin-bottom: 20px;
+      @media screen and (min-width: 970px) {
+        flex-direction: row;
+        align-items: center;
+      }
+
+
+      &-img-mobile{
+        width: 100%;
+        @media screen and (min-width: 970px) {
+          display: none;
+        }
+      }
+      &-img-desktop{
+        display: none;
+        width: 100%;
+        @media screen and (min-width: 970px) {
+          display: block;
+        }
+      }
+      &--text{
+        padding: 20px;
+      }
+
+    }
+  }
+
+  //READY CLIENT
+
+  .vfms-client{
+    margin-bottom: 17px;
+
+    p{
+      margin-bottom: 0;
+    }
+
+    &-box{
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      border-top: 1px solid #fff;
+      border-bottom: 1px solid #fff;
+      align-items: center;
+      justify-content: space-around;
+      padding: 18px 0;
+
+      &-svg{
+        background: white;
+        width: 36px;
+        height: 36px;
+        border-radius: 50%;
+
+        .icon-v3{
+          color: #E60000;
+        }
+      }
+    }
+  }
+
+  //CARRUSEL
+
+  .vfms-carousel{
+    padding: 30px 0;
+  }
+  .carousel {
+    &.carousel-slider {
+      top: 0;
+      left: 0;
+
+      .carousel-fixed-item {
+        &.with-indicators {
+          bottom: 68px;
+        }
+
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: 20px;
+        z-index: 1;
+      }
+
+      .carousel-item {
+        width: 100%;
+        height: 100%;
+        min-height: 463px;
+        position: absolute;
+        top: 0;
+        left: 0;
+
+
+        p {
+          font-size: 15px;
+        }
+      }
+    }
+
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    height: 463px;
+    perspective: 500px;
+    transform-style: preserve-3d;
+    transform-origin: 0% 50%;
+
+    .carousel-item {
+      visibility: hidden;
+      width: 274px;
+      height: 423px;
+      position: absolute;
+      top: 0;
+      left: 0;
+      opacity: 1 !important;
+
+      & > img {
+        width: 100%;
+      }
+    }
+
+    .indicators {
+      position: absolute;
+      text-align: center;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      margin: 0;
+
+      .indicator-item {
+        &.active {
+          background-color: #fff;
+        }
+
+        display: inline-block;
+        position: relative;
+        cursor: pointer;
+        height: 8px;
+        width: 8px;
+        margin: 24px 4px;
+        background-color: rgba(255,255,255,.5);
+
+        transition: background-color .3s;
+        border-radius: 50%;
+      }
+    }
+
+    // Materialbox compatibility
+    &.scrolling .carousel-item .materialboxed,
+    .carousel-item:not(.active) .materialboxed {
+      pointer-events: none;
+    }
+  }
+
+
+  //STYLES CARDS TV + ONE
+
+  .vfms-logos{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    .line-decorative{
+      display: none;
+    }
+    &-channel{
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: space-around;
+      align-items: center;
+      width: 100%;
+      img{
+        width: 70px;
+      }
+    }
+  }
+  .vfms-cardone{
+    &-icons{
+      display: flex;
+      flex-direction: row;
+      flex-flow: wrap;
+      justify-content: space-around;
+      align-items: center;
+
+      .vfms-icon{
+        width: 100px;
+      }
+    }
+    &-content{
+      position: relative;
+      width: 100%;
+      padding: 10px 10px 10px 10px;
+      z-index: 2;
+    }
+    &-items{
+      background-size: cover;
+      background-repeat: no-repeat;
+      position: relative;
+      border-radius: 6px;
+      overflow: hidden;
+
+      &:hover .vfms-cardone-items-bg-animation{
+        width: 140%;
+        filter: blur(0);
+        transition: 0.5s;
+      }
+
+      &-bg{
+        position: absolute;
+        z-index: 0;
+        width: 100%;
+        left: 0;
+
+        & .vfms-icon-channel{
+          position: absolute;
+          top:0;
+          right: 0;
+        }
+      }
+
+      &-icon{
+        position: absolute;
+        right: 10px;
+        width: 95px;
+      }
+
+    }
+    &-pack{
+      padding: 0 15px 0 15px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+
+      .vfms-title-card{
+        margin: 0;
+        padding: 15px 0;
+      }
+
+      &-flex{
+        display: flex;
+        flex-direction: row;
+        border-top: 1px solid #fff;
+        padding-top: 10px;
+      }
+
+      & .vfes-form__box{
+        flex-direction: column;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 15px;
+      }
+
+      & .vfes-form__checkbox+.vfes-form__label, .vfes-form__radio+.vfes-form__label{
+        flex-direction: column;
+        padding-left: initial;
+      }
+
+      & .vfes-form__checkbox+.vfes-form__label::before, .vfes-form__radio+.vfes-form__label::before{
+        position: relative;
+        flex-direction: column;
+        display: flex;
+        top: 0.125rem;
+        border: 0.0625rem solid #fff;
+        background-color: transparent;
+        left: 0;
+        box-sizing: border-box;
+        box-shadow: none;
+
+      }
+
+      & .vfes-form__radio:checked+.vfes-form__label::after{
+        left: 50%;
+        transform: translateX(-100%);
+        background-color: #fff;
+      }
+
+
+    }
+
+
+    &-icon{
+      display: block;
+      position: relative;
+      margin: 0 auto;
+    }
+
+
+    &-box{
+      border: 1px solid #fff;
+
+      &-ajust{
+        padding: 8px 10px 0 10px;
+        border-radius: 6px;
+      }
+
+      &-content{
+        display: flex;
+        flex-flow: wrap;
+        justify-content: flex-start;
+
+      }
+
+      .vfes-title{
+        margin: 0 0 10px 0;
+      }
+
+      &-dates{
+        display: flex;
+        align-items: center;
+
+        & .one-icon{
+          width: 24px;
+        }
+
+      }
+
+      &-quantity{
+        display: flex;
+        flex-direction: column;
+      }
+    }
+
+
+    &-price{
+      display: flex;
+      justify-content: center;
+      align-items: flex-end;
+      margin-top: 0;
+      align-items: flex-end;
+
+      &-cost{
+        font-size: 42px;
+        line-height: normal;
+      }
+
+      &-coin{
+        font-size: 28px;
+      }
+
+
+      &-end{
+        justify-content: flex-end;
+        align-items: center;
+
+        .vfms-cardone-price-big{
+          margin-right: 10px;
+        }
+      }
+
+      .vfms-text-litle{
+        font-size: 14px;
+        padding: 0;
+        margin: 0;
+      }
+
+    }
+
+    .vfms-button{
+      width: 100%;
+    }
+
+
+    .vfms-link{
+      display: block;
+      margin: 0 auto;
+      position: relative;
+      text-align: center;
+      padding-top: 5px;
+      text-decoration: underline;
+    }
+    .vfms-title-discount{
+      margin-bottom: 0;
+    }
+    .vfms-dates-card{
+      display: flex;
+      align-items: center;
+    }
+  }
+
+  .vfms-legal{
+    .vfes-link:hover{
+      color: #fff;
+    }
+  }
+
+  .vfms-flex {
+    flex-direction: column;
+  }
+
+  .vfms-nodeco-text {
+    order: 2;
+  }
+
+  .vfms-nodeco-img {
+    order: 1;
+  }
+
+  // MODALES
+  .vfes-modal-channel {
+    background-color: rgba(0, 0, 0, 0.7);
+
+    .vfes-modal__head {
+      padding-top: 14px;
+    }
+
+    .vfes-modal__close {
+      padding-top: 14px;
+    }
+
+    .vfes-modal__item {
+      margin-top: 60px;
+    }
+
+    .vfes-modal__content {
+      margin-top: -2px;
+      height: 100%;
+
+      .vfes-title {
+        text-align: center;
+        font-size: 28px;
+        line-height: 36px;
+        margin-bottom: 20px;
+
+
+      }
+
+      .vfes-list {
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+        padding: 0 10px 0 10px;
+      }
+
+      .channels {
+        &__channel {
+          display: inline-block;
+          text-align: center;
+          vertical-align: top;
+          width: 68px;
+
+          .img {
+            width: 68px;
+          }
+
+          .vfes-paragraph {
+            text-align: center;
+          }
+
+          &:last-of-type {
+            .vfes-paragraph {
+              margin-bottom: 40px;
+            }
+          }
+        }
+
+        &__common {
+          .channels__channel:last-of-type {
+            .vfes-paragraph {
+              margin-bottom: 0px;
+            }
+          }
+        }
+      }
+    }
+  }
+
+
+
+  // CARDS
+  .vfms-card {
+    transition: all .2s ease-in-out;
+
+    &:hover {
+      transform: scale(1.02);
+    }
+  }
+
+
+  .vfms-decoration-live {
+    position: relative;
+    display: block;
+  }
+
+  .vfms-decoration-live::after {
+    content: '';
+    background: rgb(251, 251, 251);
+    background: linear-gradient(90deg, rgba(251, 251, 251, 0) 0%, rgba(236, 236, 236, 0.43461134453781514) 48%, rgba(255, 255, 255, 0) 100%);
+    position: absolute;
+    width: 300px;
+    height: 100%;
+    left: -300px;
+    top: 0;
+
+  }
+
+
+  &:hover .vfms-decoration-live:after {
+    animation: 1s moveDecoration infinite;
+  }
+
+  @keyframes moveDecoration {
+    0% {
+      left: 0;
+    }
+
+    100% {
+      left: 100%;
+    }
+
+
+  }
+
+
+
+  // MEDIAQUERY QUE ATACA TAMAÑOS SUPERIORES A MÓVIL
+  @media screen and (min-width: 640px) {
+
+    .vfms-icon-banner{
+      position: absolute;
+      z-index: 2;
+      text-align: left;
+    }
+
+    //STYLES BANNER
+    .vfms-banner{
+      background-image: url("../img/bg-masseries-desktop.jpg");
+      background-size: cover;
+
+      &__container {
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+      }
+    }
+
+    .vfms-flex {
+      flex-direction: row;
+    }
+
+    //STYLES CARDS TV + ONE
+    .vfms-cardone {
+      &-box-ajust {
+        padding: 8px 5px 0 5px;
+      }
+
+      .vfms-title-discount {
+        font-size: 30px;
+      }
+
+      .vfms-minidates-card {
+        font-size: 13px;
+      }
+
+    }
+  }
+
+  // MEDIAQUERY QUE ATACA TAMAÑOS SUPERIORES A TABLET
+  @media screen and (min-width: 970px) {
+    //STYLES BANNER
+    .vfms-banner{
+      &__container{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+      }
+
+      .vfms-card{
+        width: 380px;
+        &-logos{
+          .vfms-img{
+            width: 110px;
+          }
+        }
+      }
+    }
+    .vfms-carousel-maxwidth{
+      max-width: 390px;
+    }
+
+    .vfms-flex {
+      flex-direction: row;
+    }
+
+    //STYLES INFO TEXT
+    .vfms-info {
+      &__container {
+        display: flex;
+        align-items: baseline;
+      }
+      &__text{
+        text-align: left;
+      }
+      .vfms-icon-flex{
+        padding: 0 80px 30px 80px;
+        li{
+          padding-bottom: 20px;
+        }
+        li img{
+          max-width: 100px;
+        }
+        li:nth-child(8){
+          text-align: center;
+          padding-right: initial;
+        }
+        li:last-child{
+          text-align: center;
+          padding-right: initial;
+        }
+      }
+
+      .vfms-canales-column{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+    }
+
+    //STYLES CARDS TV + ONE
+
+    .vfms-logos{
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+      .line-decorative{
+        display: block;
+        height: 2px;
+        background: #fff;
+        width: 30%;
+      }
+      &-channel{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        align-items: center;
+        width: 30%;
+        img{
+          width: 95px;
+        }
+      }
+    }
+    .vfms-cardone{
+      &-box-ajust{
+        padding: 8px 10px 0 10px;
+      }
+      &-box{
+        &-dates{
+          & .one-icon{
+            width: 36px;
+          }
+        }
+      }
+    }
+    .vfms-nodeco-text {
+      order: 1;
+    }
+    .vfms-nodeco-img {
+      order: 2;
+    }
+  }
+
+
+}
+
+.vfms-popup-img{
+  width: 110px;
+}

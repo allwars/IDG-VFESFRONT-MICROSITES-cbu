@@ -1,0 +1,102 @@
+// CSS del microsite
+.vfes-ms-content{
+  .vfms-img{
+    width: 450px;
+  }
+
+  .vfms-banner{
+    background-image: url("../img/fondo-mobile.jpg");
+
+    .vfms-cintillo{
+      border-radius: 0 6px 6px 0;
+    }
+
+    .vfms-title{
+      text-align: center;
+      justify-content: center;
+
+      &-middle{
+        padding: 0 5px;
+      }
+    }
+      .vfms-price{
+        align-items: center;
+      }
+
+      .vfms-button__call{
+        text-align: center;
+        border: 0;
+        text-decoration: none;
+        cursor: pointer;
+        display: inline-block;
+        box-sizing: border-box;
+        border-radius: .375rem;
+        padding: .5rem 1.25rem;
+        font-size: 1rem;
+        line-height: 1.25;
+        width: 100%;
+        margin-right: 0;
+        margin-left: 0;
+        background-color: #666666;
+        color: #ffffff;
+        font-size: 20px;
+      }
+
+    .vfms-container--banner{
+      display: flex;
+      flex-direction: column;
+    }
+  }
+
+  @media screen and (min-width: 760px) {
+    .vfms-banner{
+
+      .vfms-title{
+        justify-content: start;
+      }
+      .vfms-container--banner{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+      }
+      .vfms-price{
+        align-items: start;
+      }
+
+      .vfms-button__call{
+        text-align: left;
+        border: 0;
+        text-decoration: none;
+        border-radius: 0;
+        padding: 0;
+        font-size: 1rem;
+        line-height: 1.25;
+        width: 100%;
+        margin-right: 0;
+        margin-left: 0;
+        background-color: transparent;
+        color: #000;
+        font-size: 20px;
+      }
+
+    }
+
+  }
+  @media screen and (min-width: 970px) {
+    .vfms-banner{
+      background-image: url("../img/fondo-cabecera.jpg");
+      background-size: cover;
+
+      .vfms-cintillo{
+        font-size: 20px;
+        text-align: center;
+      }
+
+      .vfms-title{
+        flex-direction: column;
+        text-align: left;
+      }
+    }
+
+  }
+}

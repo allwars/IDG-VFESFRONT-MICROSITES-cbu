@@ -1,0 +1,206 @@
+<h3>Teléfonos móviles
+                        Samsung</h3><h5>Nuevos Samsung Galaxy S20 | S20 Plus | S20 Ultra 5G</h5><h5>Cómpralo ya y empieza a disfrutar de la experiencia 5G</h5><a href="https://www.vodafone.es/c/tienda-online/particulares/catalogo-moviles-samsung/" title="CTA" target="_new">
+                           Lo quiero
+                        </a><ul>
+                    <li><a title="Inicio" target="_self" href="https://www.vodafone.es/c/particulares/es/"> Inicio</a></li>
+                    <li><a title="Samsung" target="_self" href="#"> Samsung</a></li>
+                </ul><ul>
+
+                    <li>
+						<div>
+							<section>
+								<div>
+									<h2 aria-hidden="true">
+										<a href="https://www.vodafone.es/c/tienda-online/particulares/catalogo-moviles/samsung-galaxy-s20-5g-gris-128gb-313808/" target="_self" title="Samsung Galaxy S20+ 5G">
+											<strong>Samsung Galaxy S20 5G</strong>
+										</a>
+									</h2>
+									<p>El Smartphone que cambiará la fotografía</p>
+									
+								</div>
+								<div>
+									<div aria-hidden="true">
+										<ul>
+											<li>S.O Android</li>
+											<li>Pantalla 6,7"</li>
+											<li>Velocidad 5G</li>
+											<li>Cámara Triple 12Mp + 64Mp + 12Mp</li>
+										</ul>
+									</div>
+									<button aria-expanded="false" aria-controls="card-shop-accordion1" title="Ver características">Ver características</button>
+								</div>
+								<div>
+									<a href="https://www.vodafone.es/c/tienda-online/particulares/catalogo-moviles/samsung-galaxy-s20-5g-gris-128gb-313808/" target="_self" title="Samsung Galaxy S20 5G">Más información</a>
+								</div>
+							</section>
+						</div>
+					</li>
+                    
+					<!-- Terminal nº 1 -->
+                    <li>
+						<div>
+							<section>
+								<div>
+									<h2 aria-hidden="true">
+										<a href="https://www.vodafone.es/c/tienda-online/particulares/catalogo-moviles/samsung-galaxy-s20-plus-5g-gris-128gb-313810/" target="_self" title="Samsung Galaxy S20+ 5G">
+											<strong>Samsung Galaxy S20+ 5G</strong>
+										</a>
+									</h2>
+									<p>La experiencia del 5G</p>
+									
+								</div>
+								<div>
+									<div aria-hidden="true">
+										<ul>
+											<li>S.O Android</li>
+											<li>Pantalla 6,9"</li>
+											<li>Velocidad 5G</li>
+											<li>Cámara Triple 12Mp + 48Mp + 108Mp</li>
+										</ul>
+									</div>
+									<button aria-expanded="false" aria-controls="card-shop-accordion1" title="Ver características">Ver características</button>
+								</div>
+								<div>
+									<a href="https://www.vodafone.es/c/tienda-online/particulares/catalogo-moviles/samsung-galaxy-s20-plus-5g-gris-128gb-313810/" target="_self" title="Samsung Galaxy S20+ 5G">Más información</a>
+								</div>
+							</section>
+						</div>
+					</li>
+
+					<li>
+						<div>
+							<section>
+								<div>
+									<h2 aria-hidden="true">
+										<a href="https://www.vodafone.es/c/tienda-online/particulares/catalogo-moviles/samsung-galaxy-note10-lite-negro-128gb-313806/" target="_self" title="Samsung Note10 Lite">
+											<strong>Samsung Note10 Lite</strong>
+										</a>
+									</h2>
+									<p>S Pen con control remoto</p>
+									
+								</div>
+								<div>
+									<div aria-hidden="true">
+										<ul>
+											<li>S.O Android 10</li>
+											<li>Pantalla 6,7"</li>
+											<li>Velocidad 4G</li>
+											<li>Cámara Triple 12Mp + 12Mp + 12Mp</li>
+										</ul>
+									</div>
+									<button aria-expanded="false" aria-controls="card-shop-accordion1" title="Ver características">Ver características</button>
+								</div>
+								<div>
+									<a href="https://www.vodafone.es/c/tienda-online/particulares/catalogo-moviles/samsung-galaxy-note10-lite-negro-128gb-313806/" target="_self" title="Samsung Note10 Lite">Más información</a>
+								</div>
+							</section>
+						</div>
+					</li>
+                    
+                    <!-- Terminal nº 3 -->
+                
+                    <li>
+                        <div>
+                            <!--<div class="vfes-tag-label__outstanding">Ahorra 575€</div>-->
+                            <section>
+                                <div>
+                                    <h2 aria-hidden="true">
+                                        <a href="https://www.vodafone.es/c/tienda-online/particulares/catalogo-moviles/samsung-galaxy-s10-plus-negro-512gb-313606/" target="_self" title="Samsung Galaxy S10+">
+                                            <strong>Samsung Galaxy S10+ 512GB</strong>
+                                        </a>
+                                    </h2>
+                                    <p>Guarda todos tus momentos</p>
+                                    
+                                </div>
+                                <div>
+                                    <div aria-hidden="true">
+                                        <ul>
+                                            <li>S.O Android</li>
+                                            <li>Pantalla 6,4"</li>
+                                            <li>Velocidad 4G+</li>
+                                            <li>Cámara Triple 12Mp + 12Mp + 16Mp</li>
+                                        </ul>
+                                    </div>
+                                    <button aria-expanded="false" aria-controls="card-shop-accordion1" title="Ver características">Ver características</button>
+                                </div>
+                                <div>
+                                    <a href="https://www.vodafone.es/c/tienda-online/particulares/catalogo-moviles/samsung-galaxy-s10-plus-negro-512gb-313606/" target="_self" title="Samsung Galaxy S10+">Más información</a>
+                                </div>
+                            </section>
+                        </div>
+                    </li>
+
+
+                    <!-- Terminal nº 4 -->
+
+                    <li>
+                        <div>
+                            <!--<div class="vfes-tag-label__outstanding">Ahorra 395€</div>-->
+                            <section>
+                                <div>
+                                    <h2 aria-hidden="true">
+                                        <a href="https://www.vodafone.es/c/tienda-online/particulares/catalogo-moviles/samsung-galaxy-s10-plus-negro-128gb-313594/" target="_self" title="Samsung Galaxy S10+">
+                                            <strong>Samsung Galaxy S10+ 128GB</strong>
+                                        </a>
+                                    </h2>
+                                    <p>Pantalla infinita</p>
+                                    
+                                </div>
+                                <div>
+                                    <div aria-hidden="true">
+                                        <ul>
+                                            <li>S.O Android 8.1</li>
+                                            <li>Pantalla 6,1"</li>
+                                            <li>Velocidad 4G+</li>
+                                            <li>Cámara Dual 12Mp</li>
+                                        </ul>
+                                    </div>
+                                    <button aria-expanded="false" aria-controls="card-shop-accordion2" title="Ver características">Ver características</button>
+                                </div>
+                                <div>
+                                    <a href="https://www.vodafone.es/c/tienda-online/particulares/catalogo-moviles/samsung-galaxy-s10-plus-negro-128gb-313594/" target="_self" title="Samsung Galaxy S10+ 128GB">Más información</a>
+                                </div>
+                            </section>
+                        </div>
+                    </li>
+
+                    <!-- Terminal nº 5 -->
+
+                    <li>
+                        <section>
+                            <div>
+                                <h2 aria-hidden="true">
+                                    <a href="https://www.vodafone.es/c/tienda-online/particulares/catalogo-moviles/samsung-galaxy-a90-5g-negro-128gb-313764/" target="_self" title="Samsung Galaxy A90">
+                                        <strong>Samsung Galaxy A90</strong>
+                                    </a>
+                                </h2>
+                                <p>Pack ilimitables 5G</p>
+                                
+                            </div>
+                            <div>
+                                <div aria-hidden="true">
+                                    <ul>
+                                        <li>S.O Android</li>
+                                        <li>Pantalla 6,1"</li>
+                                        <li>Velocidad 4G</li>
+                                        <li>Cámara triple 13Mp + 13Mp</li>
+                                    </ul>
+                                </div>
+                                <button aria-expanded="false" aria-controls="card-shop-accordion3" title="Ver características">Ver características</button>
+                            </div>
+                            <div>
+                                <p>Llévatelo con Hatch premium al precio de la tarifa móvil ilimitada total.</p>
+                                <a href="https://www.vodafone.es/c/tienda-online/particulares/catalogo-moviles/samsung-galaxy-a90-5g-negro-128gb-313764/" target="_self" title="Samsung Galaxy a90">Más información</a>
+                            </div>
+                            
+                        </section>
+                    </li>
+                </ul><a href="https://www.vodafone.es/c/tienda-online/particulares/catalogo-moviles-samsung/" title="Ver todos los Smartphones: No soy cliente y quiero un móvil" target="_parent" tabindex="0">Ver todos los Smartphones</a><p>Conoce los Smartphones de otras marcas:</p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/moviles/sony/" title="Smartphones Sony" target="_self">
+                        
+                    </a><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/moviles/lg/" title="Smartphones LG" target="_self">
+                        
+                    </a><a href="#" title="Smartphones Samsung" target="_self">
+                        
+                    </a><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/moviles/huawei/" title="Smartphones Huawei" target="_self">
+                        
+                    </a>

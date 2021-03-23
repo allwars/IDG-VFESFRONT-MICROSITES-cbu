@@ -1,0 +1,42 @@
+.vfes-ms-content-mobON15 {
+  .vfms-button {
+      font-family: VodafoneRegular,Helvetica,Arial,sans-serif;
+      text-align: center;
+      text-decoration: none;
+      cursor: pointer;
+      display: inline-block;
+      box-sizing: border-box;
+      border-radius: .375rem;
+      line-height: 1.25;
+      padding: .5625rem .875rem .6875rem;
+      width: 100%;
+      margin-right: 0;
+      margin-left: 0;
+  }
+  .vfms-button--tertiary{
+    border: none;
+    background-color: #fff;
+    color: #666;
+    font-size: 1.25rem;
+  }
+  .vfms-button--tertiary:hover{
+    border: none;
+  }
+  .vfms-banner-container{
+    background-image: url("https://www.vodafone.es/c/statics/imagen/background_ON15.jpg");
+    background-size: cover;
+    padding: 2.5rem 0;
+  }
+  .vfms-title--4 {
+    font-size: 1.25rem;
+    line-height: 1.23;
+  }
+  .vfms-title--1 {
+    font-size: 2rem;
+    margin-bottom: 2.25rem;
+    line-height: 1.1;
+  }
+  @media screen and (min-width: 640px) {
+    display: none;
+  }
+}

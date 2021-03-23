@@ -1,0 +1,335 @@
+// CSS del microsite
+.vfms-decreto{
+  font-size: 14px;
+  line-height: 16px;
+}
+.vfms-faq{
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+/* Banner why */
+.vfms-banner__why{
+  flex-direction: row;  
+
+  @media screen and (max-width: 767px) {      
+    flex-direction: column;  
+  } 
+  img{
+    padding-top:0px;
+    padding-bottom: 0px;
+    padding-left: 15px;
+
+    @media screen and (max-width: 767px) {      
+      padding-top:10px;
+      padding-bottom: 10px;
+      padding-left: 0;
+      width: 95%;
+      height: auto;
+    } 
+  }
+}
+.vfes-ms-content {
+  .vfes-tabs__tab-button {
+    width: 200px;
+    @media screen and (max-width: 972px) {      
+      width: 120px;   
+    } 
+  }
+
+  .vfes-tabs--group .vfes-tabs__tab {
+    width: 200px;
+    @media screen and (max-width: 972px) {      
+      width: 150px; 
+    } 
+  }
+  /*@media only screen and (max-width: 768px){
+    .vfes-tabs--group-close>.vfes-tabs__content {
+        display: block;
+    }
+  }*/
+  .vfms-tab-text{
+    max-width: 540px;
+  }
+  .vfms-banner-seo-container{
+    position:relative;
+  }
+
+  .vfms-banner-seo-img{
+    position: absolute;
+    left: 0;
+    @media screen and (max-width: 972px) {      
+      position:absolute;
+      width: auto;
+      top:0;
+      max-height: 600px;
+      margin: 0 auto;
+      left: auto;
+    }   
+  }
+  .vfms-banner-seo-text{
+    order: 2!important;
+    padding-left: 24px;
+    width: 45%;
+    margin-left: 50%;
+    align-self:end;
+    @media screen and (max-width: 972px) {      
+      padding-left: 0; 
+      width: 100%;
+      margin-left:0;
+      margin-top: 550px;  
+    }
+    @media screen and (max-width: 640px) {      
+      margin-top: 550px; 
+    }
+  }
+  .vfms-title-animation{
+    opacity: 0;
+    transform:scale(1.1, 1.1);
+  }
+  .vfms-content-container{
+    padding-top:0;
+    padding-bottom: 0;
+    @media screen and (max-width: 640px) {      
+      padding-top:0;  
+    }
+  }
+  .vfms-icon-rate {
+    min-width:40px;
+  }
+  .vfms-wave{
+    line-height:0;
+    z-index:8;
+    margin-top:-15px;
+    position:relative;
+    @media screen and (max-width: 1024px) {
+      margin-top:-30px;
+    }
+
+  }
+  .vfms-banner-container{
+    background-color:#f4f4f4 ;
+    background: url('https://www.vodafone.es/c/statics/imagen/bg-banner.jpg') no-repeat center;
+    background-size:cover;
+    position:relative;
+    z-index:-1;
+    width: 100%;
+    height:260px;
+    @media screen and (max-width: 1024px) {      
+      height:290px;
+    }
+
+    @media screen and (max-width: 640px) {      
+      height:450px;
+    }
+  }
+
+  .vfms__banner-mobile{
+    text-align: center;
+    margin: 0 auto;
+  }
+  .vfms-banner-title {
+    padding-bottom: 0;
+    margin-bottom: 10px;
+    div{
+      display: block;
+    }
+  }
+  .vfms-blur {
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(74, 74, 74, 0)), color-stop(56%, rgba(64, 64, 64, 0.4)), to(#333));
+    background-image: linear-gradient(180deg, rgba(74, 74, 74, 0), rgba(64, 64, 64, 0.4) 56%, #333);
+    height: 18.75rem;
+    position: absolute;
+    bottom: 0;
+    height: 200px;
+    width: 100%;
+    top: 240px;
+    z-index: -1;
+
+    @media screen and (max-width: 640px) {      
+      top: 340px;
+    }
+  }
+  //animation 
+  .vfms-animation {
+    z-index: 2;
+    top:-20px; 
+    &--element{
+      position: absolute;
+      overflow: hidden;
+    }
+    &--1{
+      z-index:2;
+      transform: translatey(0px);
+      animation: float 6s ease-in-out infinite;
+      right: 10%;
+      bottom: -600px;
+      @media screen and (max-width: 769px) {    
+        margin-top:90px;  
+        right: 10px;    
+      }
+      img{
+        @media screen and (max-width: 640px) {      
+          width: 140px;     
+        }
+      }
+    }
+    &--2{
+      z-index:3;
+      transform: translatey(0px);
+      //animation: float 4.5s ease-in-out infinite;
+      right: 30%;
+      top: 400px;
+      margin-top: 60px;
+    }
+    &--3{
+      z-index:2;
+      transform: translatey(0px);
+     animation: float 4s ease-in-out infinite;
+      right: 63%;
+      top: 400px;
+      margin-top: 30px;
+    }
+    &--4{
+      z-index:0;
+      transform: translatey(0px);
+      animation: float 4.5s ease-in-out infinite;
+      right: 53%;
+      top: 400px;
+      margin-top: 25px;
+    }
+    &--5{
+      z-index:2;
+      transform: translatey(0px);
+      //animation: float 4.5s ease-in-out infinite;
+      width: 100px;
+      height: auto;
+      right: 90%;
+      top:0;
+      opacity: 0;
+      @media screen and (max-width: 769px) {    
+        right: 99%;  
+      }  
+    }
+    &--7{
+      z-index:2;
+      transform: translatey(0px);
+      //animation: float 4.5s ease-in-out infinite;
+      width: 100px;
+      height: auto;
+      right: 90%;
+      top:140px;
+      opacity: 0;
+      @media screen and (max-width: 769px) {    
+        right: 99%;  
+      }  
+    }
+    &--6{
+      z-index:2;
+      transform: translatey(0px);
+      animation: float 4.5s ease-in-out infinite;
+      width:127px;
+      height: auto;
+      right: 25%;
+      top:40px; 
+      opacity: 0;
+      transform:scale(.4, .4);
+      @media screen and (max-width: 1025px) {    
+        right: 15%;  
+      } 
+      
+      @media screen and (max-width: 769px) {    
+        top:165px;
+        right: 15%;  
+      }
+      
+      img{
+
+        @media screen and (max-width: 769px) {    
+          width:100px;
+        }
+      }
+    }
+  }
+   //banner YU
+   .vfms-yu{
+    a{
+      min-width: 250px; 
+    }
+    @media screen and (max-width: 967px) {  
+      margin-bottom: 30px; 
+    }
+  }
+  @keyframes float {
+    0% {
+      -webkit-filter: drop-shadow(0px 25px 15 0px rgba(151,145,145,0.6));
+      filter: drop-shadow(5px 50px 5px rgba(151,145,145,0.6));
+      transform: translatey(0px);
+    }
+    50% {
+      -webkit-filter: drop-shadow(0px 55px -15px  0px rgba(151,145,145,0.2));
+      filter: drop-shadow(-15px 75px 15px rgba(151,145,145,0.2));
+      transform: translatey(-20px);
+    }
+    100% {
+      -webkit-filter: drop-shadow(0px 25px 15 0px rgba(151,145,145,0.6));
+      filter: drop-shadow(5px 50px 5px rgba(151,145,145,0.6));
+      transform: translatey(0px);
+    }
+  }
+
+  .vfms-banner-offers {
+    &__img {
+      &-container {
+        @media screen and (min-width: 640px) {
+          display: none;
+        }
+      }
+      &-device {
+        height: 230px;
+      }
+    }
+    &__mpv {
+      position: absolute;
+    }
+    &__tv {
+      background-image: url('../img/banner-hbo-mobile.jpg');
+      background-repeat: no-repeat;
+      background-size: contain; 
+      min-height: 400px;
+      background-position: 0 180px;
+
+      @media screen and (min-width: 768px) {
+        background-image: url('../img/banner-hbo.png');
+        background-position:430px;   
+        min-height: 0;
+      }
+      @media screen and (min-width: 971px) {
+        background-position:right;   
+      }
+      
+
+
+
+    }
+    &__tv-text{
+      max-width: 600px;
+      left: 0;
+      @media screen and (max-width: 768px) {
+        max-width: 500px;
+        left: 0;    
+      }
+    }
+    &__prepago{
+      &-container {
+        @media screen and (min-width: 970px) {
+          min-height: 145px;
+        }
+      }
+    } 
+    .vfes-link::after {
+      top: 2px;
+    }
+  }
+
+}

@@ -1,0 +1,85 @@
+<a href="http://www.vodafone.es" target="_new"></a><p>Llama<span> Gratis</span> al</p><p><strong><a href="tel:900 920 161"><span></span>900 920 161</a></strong></p><div>
+					
+				</div><div>
+					
+				</div><ul role="list">
+					<li>
+						<div>
+							<h1>Contrata la <span>Fibra Yuser</span></h1>
+							<h2>Esta fibra es un <span>hit</span></h2>
+							<div>
+								<ul>
+									<li>600Mbps<span>Fibra simétrica</span></li>
+									<li>30,99€ <span>/mes</span><span>¡Sin permanencia!</span></li>
+								</ul>
+							</div>
+						</div>
+						<div>
+							<p>
+								<a href="#" target="_self" data-modal="ilimitada" data-modal-close="" aria-haspopup="dialog">Detalles de la oferta</a>
+							</p>
+						</div>
+					</li>
+					<li>
+						<div>
+							<form>
+								<div>
+									<p>¿Quieres contratar <strong>Fibra Yuser?</strong></p>
+									<p>¡Te llamamos!</p>
+								</div>
+								<div>
+									<input style="display:none;" value="NO" name="verifyLeadId">
+									<input name="wg-return" value="gracias" type="hidden">
+									<input type="text" name="nombre" data-wg-validation="required" placeholder="Nombre">
+									<input type="phone" name="phone" inputmode="numeric" pattern="[0-9]*" maxlength="9" data-wg-validation="required,phone" placeholder="Nº teléfono" oninput="javascript: if (this.value.length > this.maxLength) this.value = this.value.slice(0, this.maxLength);">
+								</div>
+								<div>
+									<div>
+										<input data-wg-validation="required" type="checkbox" value="on" name="check">
+										<label for="privacy">Acepto la <a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/movil/catalogo-clientes/politica-privacidad/" title="Vodafone One" target="_blank" data-modal="legales" rel="nofollow">Política de Privacidad</a>
+										</label>
+									</div>
+									<div>
+										<input type="checkbox" name="gdpr" value="on">
+										<label for="comunication"><span>Acepto recibir comunicaciones comerciales de Vodafone</span> </label>
+									</div>
+										<input type="submit" value="ENVIAR">
+								</div>
+							</form>
+						</div>
+
+						<div>
+
+							<button aria-hidden="false"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px">
+									<title>Close</title>
+									<use xlink:href="#icon3-close"></use>
+								</svg></button>
+							<p>Gracias, nos
+								pondremos en contacto contigo en menos de 24h. </p>
+
+						</div>
+					</li>
+				</ul><button data-modal="legal-conditions" data-modal-close="" aria-haspopup="dialog">
+						<span>Ver más información sobre la tarifa One.
+							Abre ventana modal.</span>
+						Condiciones legales
+					</button><a href="tel:900 920 161" title="Llama gratis al 900 920 161">
+						<svg>
+							<title>Llama gratis al 900 920 161</title>
+							<use xlink:href="#icon3-landline-or-call"></use>
+						</svg>
+						<p>Llama gratis al <span>900 920 161</span></p>
+					</a><p>©2019 Vodafone España S.A.U.</p><p>Avda. América 115, 28042 Madrid</p><button aria-hidden="false"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px">
+						<title>Close</title>
+						<use xlink:href="#icon3-close"></use>
+					</svg></button><h3>
+					Condiciones legales</h3><p>
+				Fibra yuser: Promoción válida solo para estudiantes que se den de alta en el servicio de fibra de Vodafone desde el 1 de agosto hasta el 30 de noviembre ambos incluidos. Disponible para nuevas altas y portabilidades en Vodafone Fibra que se ofrece con dos (2) velocidades de Fibra (600Mbps o 1Gbps). Servicio de llamadas Fijo incluido con Llamadas nacionales ilimitadas a fijos y móviles. Si la Fibra requiere el envío de un técnico para instalación se cargará un coste de 70 € en la primera factura. En caso de autoinstalación no hay coste asociado. Precios con cuota de línea incluida. Oferta no compatible con otras promociones de fibra. descuentos. El cliente podrá solicitar 3 meses de desactivación temporal del servicio de fibra sin ningún cargo adicional por ello. Si el cliente cambia a una velocidad inferior de fibra o a un paquete convergente perderá las condiciones de esta promoción. Sin compromiso de permanencia. Tras 12 meses, el precio de Fibra Yuser pasará a ser de 42,99€ /mes. Fibra simétrica sujeta a disponibilidad geográfica.<br><br>+ info. <a href="http://yu.vodafone.es/" target="_new">yu.vodafone.es</a> </p><button aria-hidden="false"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px"><title>Close</title><use xlink:href="#icon3-close"></use></svg></button><p>Tu tarifa <span>YUSER incluye:</span></p><ul>
+				<li><p>Conecta hasta 15 dispositivos.</p></li>
+				<li><p>Fijo con llamadas ilimitadas a fijos y móviles.</p></li>
+				<li><p>Con fibra autoinstalable, coste 0€. Si requiere instalación coste 70€.</p></li>
+				<li><p>Sin permanencia</p></li>
+				<li><p>Precio Total: <span>30,99€/mes(IVA incl). Dto durante 12 meses. Después 42,99€/mes</span></p></li>
+				<li><p>Con posibilidad de 3 meses de desconexión temporal</p></li>
+				
+			</ul>

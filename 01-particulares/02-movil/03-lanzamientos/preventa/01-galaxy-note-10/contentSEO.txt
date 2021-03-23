@@ -1,0 +1,192 @@
+<div>
+			</div><ul>
+
+						<li>
+							<div>
+								<h3>Samsung Galaxy
+									Note10
+								</h3>
+								
+								<div>
+									<div>
+										<div>
+											<div>
+												
+											</div>
+											<p>
+												Pantalla</p>
+										</div>
+										<div>
+											<p>Tamaño 6.3"</p>
+											<p>Resolución 2280x1080</p>
+										</div>
+									</div>
+									<div>
+										<div>
+											<div>
+												
+											</div>
+											<p>
+												Cámara</p>
+										</div>
+										<div>
+											<p>Frontal 10Mp</p>
+											<p>Trasera 16+12+12Mp</p>
+										</div>
+									</div>
+									<div>
+										<div>
+											<div>
+												
+											</div>
+											<p>
+												Memoria</p>
+										</div>
+										<div>
+											<p>Interna 256GB</p>
+											<p>RAM 8GB</p>
+										</div>
+									</div>
+								</div>
+								<div>
+									<p><span><strong>23,50€/mes</strong></span> en 36
+										meses</p>
+									<p><span><strong>+0€</strong></span> de pago inicial
+									</p>
+
+									<button data-device-name="Samsung Galaxy Note10" data-modal="info" data-modal-close="" aria-haspopup="dialog">Reservar</button>
+									<span>: Samsung Galaxy Note10</span>
+								</div>
+							</div>
+						</li>
+
+
+
+
+						<li>
+							<div>
+								<h3>Samsung Galaxy
+									Note10+</h3>
+								
+								<div>
+									<div>
+										<div>
+											<div>
+												
+											</div>
+											<p>
+												Pantalla</p>
+										</div>
+										<div>
+											<p>Tamaño 6.8"</p>
+											<p>Resolución 3040x1440</p>
+										</div>
+									</div>
+									<div>
+										<div>
+											<div>
+												
+											</div>
+											<p>
+												Cámara</p>
+										</div>
+										<div>
+											<p>Frontal 10Mp</p>
+											<p>Trasera 16+12+12Mp</p>
+										</div>
+									</div>
+									<div>
+										<div>
+											<div>
+												
+											</div>
+											<p>
+												Memoria</p>
+										</div>
+										<div>
+											<p>Interna 256GB</p>
+											<p>RAM 12GB</p>
+										</div>
+									</div>
+								</div>
+								<div>
+									<p><span><strong>27€/mes</strong></span> en 36 meses
+									</p>
+									<p><span><strong>+0€</strong></span> de pago inicial
+									</p>
+									<button data-modal="info" data-modal-close="" aria-haspopup="dialog" data-device-name="Samsung Galaxy Note10+">Reservar</button><span>:
+										Samsung Galaxy Note10+ </span>
+									
+								</div>
+							</div>
+						</li>
+
+
+
+
+						<li>
+							<div>
+								<h3>Samsung Galaxy
+									Note10+ 5G</h3>
+								
+								<div>
+									<div>
+										<div>
+											<div>
+												
+											</div>
+											<p>
+												Pantalla</p>
+										</div>
+										<div>
+											<p>Tamaño 6.8”</p>
+											<p>Resolución 3040x1440</p>
+										</div>
+									</div>
+									<div>
+										<div>
+											<div>
+												
+											</div>
+											<p>
+												Cámara</p>
+										</div>
+										<div>
+											<p>Frontal 10Mp</p>
+											<p>Trasera 16+12+12Mp</p>
+										</div>
+									</div>
+									<div>
+										<div>
+											<div>
+												
+											</div>
+											<p>
+												Memoria</p>
+										</div>
+										<div>
+											<p>Interna 512GB</p>
+											<p>RAM 12GB</p>
+										</div>
+									</div>
+								</div>
+								<div>
+									<p><span><strong>28,99€/mes</strong></span> en 36
+										meses</p>
+									<p><span><strong>+0€</strong></span> de pago inicial
+									</p>
+    
+									<button data-modal="info" data-modal-close="" aria-haspopup="dialog" data-device-name="Samsung Galaxy Note10+ 5G">Reservar</button>
+									<span>: Samsung Galaxy Note10+ 5G</span>
+
+								</div>
+							</div>
+						</li>
+					</ul><button aria-hidden="false"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px">
+						<title>Close</title>
+						<use xlink:href="#icon3-close"></use>
+					</svg></button><p></p><p>¡Solo te queda un paso!</p><p>Déjanos tus datos y nos pondremos en contacto
+						contigo para finalizar la reserva.</p><input style="display:none;" value="NO" name="verifyLeadId"><input name="wg-return" value="gracias" type="hidden"><input type="radio" name="esCliente" data-wg-validation="required" value="si"><label for="radio1">Soy cliente</label><input type="radio" name="esCliente" data-wg-validation="required" value="no"><label for="radio2">No soy
+									cliente</label><input type="hidden" style="display:none;" name="phone-model" placeholder="Modelo Teléfono"><input type="text" name="nombre" data-wg-validation="required" placeholder="Nombre"><input type="phone" name="phone" inputmode="numeric" pattern="[0-9]*" maxlength="9" data-wg-validation="required,phone" placeholder="Nº teléfono" oninput="javascript: if (this.value.length > this.maxLength) this.value = this.value.slice(0, this.maxLength);"><input data-wg-validation="required" type="checkbox" value="on" name="check"><label for="privacy">Acepto la <a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/movil/catalogo-clientes/politica-privacidad/" title="Vodafone One" target="_blank" data-modal="legales" rel="nofollow"> Política de
+									Privacidad</a></label><input type="checkbox" name="gdpr" value="on"><label for="comunication">Acepto recibir comunicaciones
+								comerciales de Vodafone </label><input type="submit" value="Enviar">

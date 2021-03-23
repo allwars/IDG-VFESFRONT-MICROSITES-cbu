@@ -1,0 +1,296 @@
+<span>Tarifa Móvil ilimitada<strong> 50% dto. 3 meses</strong></span><p>Navega <strong>a velocidad 5G</strong> y llama, <strong>no pongas límites a nada</strong></p><span data-test="control"><span>Mejor Precio Vodafone</span></span><h2>Tarifa Móvil ilimitada Total</h2><ul>
+                                                <li>
+                                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                                        <use xlink:href="#icon-mobile"></use>
+                                                    </svg>
+                                                    <div>
+                                                        <p>
+                                                            Datos y minutos ilimitados
+                                                        </p>
+                                                        <p>
+                                                            Velocidad máxima
+                                                             <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                                                <use xlink:href="#icon-thunder-3"></use>
+                                                            </svg>
+                                                        </p>
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                                        <use xlink:href="#icon-tv"></use>
+                                                    </svg>
+                                                    <div>
+                                                        <p>
+                                                            Pack TV Seriefans GRATIS 1 año
+                                                        </p>
+                                                        <p>
+                                                            Incluye HBO España y 60 canales más
+                                                        </p>
+                                                    </div>
+                                                </li>
+                                            </ul><legend>
+                                                        ¿Cómo quieres la línea móvil?
+                                                    </legend><input type="radio" name="rate-1-card-rate" checked=""><label for="rate-1-card-rate-option-1" data-js-vf="_buttonTypeLine">
+                                                                Portabilidad
+                                                            </label><input type="radio" name="rate-1-card-rate"><label for="rate-1-card-rate-option-2" data-js-vf="_buttonTypeLine" data-js-vf-value="newNumber">
+                                                                Nuevo Número
+                                                            </label><p>
+                                                                50% dto. 3 meses
+                                                            </p><p data-test="control">
+                                                                Permanencia 1 año
+                                                            </p><p data-test="alternativa">
+                                                                Sin permanencia
+                                                            </p><p>
+                                                                <del>47,99€/mes</del>
+                                                            </p><p>
+                                                                23,99€<sub>/mes</sub>
+                                                            </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1251714&amp;tcli=0&amp;tta=2" type="submit" name="cta" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart)" data-analytics-product="movil;tarifa movil ilimitada total" data-analytics-id="1500089062107-4725875109883" data-test="control">
+                                                        Lo quiero
+                                                    </a><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1297756&amp;tcli=0&amp;tta=2" type="submit" name="cta" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart)" data-analytics-product="movil;tarifa movil ilimitada total" data-analytics-id="1500089062107-4725875409883" data-test="alternativa">
+                                                        Lo quiero
+                                                    </a><p>
+                                                                        50% dto. 3 meses
+                                                                    </p><p data-test="control">
+                                                                        Permanencia 1 año
+                                                                    </p><p data-test="alternativa">
+                                                                        Sin permanencia
+                                                                    </p><p>
+                                                                        <del>47,99€/mes</del>
+                                                                    </p><p>
+                                                                        23,99€<sub>/mes</sub>
+                                                                    </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1251396&amp;tcli=0&amp;tta=2" type="submit" name="cta" title="Lo quiero" data-analytics-product="movil;tarifa movil ilimitada total" data-analytics-id="1500089062107-4725602977766" onmousedown="addtocart(utag_data.plans_add2cart)" data-test="control">
+                                                        Lo quiero
+                                                    </a><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1297752&amp;tcli=0&amp;tta=2" type="submit" name="cta" title="Lo quiero" data-analytics-product="movil;tarifa movil ilimitada total" data-analytics-id="1500089062107-4725622977766" onmousedown="addtocart(utag_data.plans_add2cart)" data-test="alternativa">
+                                                        Lo quiero
+                                                    </a><h3>Móvil</h3><h3><strong>Datos ilimitados en tu móvil para TODO</strong></h3><div>
+                        </div><p>Datos ilimitados a máxima velocidad <strong>(1Gbps de bajada y de subida)</strong>.</p><div>
+                                
+                            </div><p><strong>Juega sin límites los juegos online con una calidad extrema y sin cortes.</strong></p><p>Descarga y sube todos los archivos que quieras.</p><p>Disfruta de streaming sin necesidad de conectarte al WiFi, tú y tus datos.</p><p>Todo con la nueva <strong>velocidad 5G.</strong></p><p> <strong>Llamadas y SMS ilimitados</strong> con
+                                cualquier operador nacional las 24 horas, establecimiento incluido.</p><p> <strong>Roaming incluido en Europa, Reino Unido y
+                                    EEUU.</strong> Disfruta con las mismas condiciones de tu tarifa, sin preocupaciones
+                                también en EEUU.</p><h3>Televisión sin deco en tus dispositivos</h3><h3><strong>Pack TV Seriefans GRATIS 1 año</strong></h3><p>incluye HBO y 60 canales más
+                    </p><ul>
+                            <li>
+                                
+                            </li>
+                            <li>
+                                
+                            </li>
+                            <li>
+                                
+                            </li>
+                            <li>
+                                
+                            </li>
+                            <li>
+                                
+                            </li>
+                            <li>
+                                
+                            </li>
+                            <li>
+                                
+                            </li>
+                            <li>
+                                
+                            </li>
+                            <li>
+                                
+                            </li>
+
+                        </ul><p>Disfruta ahora del <strong>Pack Seriefans GRATIS 1 año</strong>, este Pack incluye todas las temporadas de las series de <strong>HBO España, FOXNOW, AXN Now</strong> y muchos más canales especializados en series para verlas cuando tú quieras.</p><ul>
+                            <li>
+                                
+                            </li>
+                            <li>
+                                
+                            </li>
+                            <li>
+                                
+                            </li>
+                        </ul><p>
+                            <a data-backdrop="seriefans" data-backdrop-close="" aria-haspopup="dialog" data-analytics-id="-6241792886380">
+                                Ver todos los canales incluidos
+                            </a>
+                        </p><p>(*) En el proceso de completa tu pedido podrás modificar el pack de tv por el que más se ajuste a tus necesidades. Recuerda que este regalo es un descuento de 10€ en la tv, podrás obtener el Pack Serielovers con HBO España y Amazon Prime por 4€ (14€/mes sin promo).</p><h3><strong>¿Cómo es la experiencia de TV sin deco?</strong></h3><p>Vodafone TV con <strong>Vodafone TV con calidad HD en tu Smart TV (a través de la App Vodafone TV) y en tus dispositivos como móvil, tablet, PC, Fire TV Stick y Chromecast</strong> para disfrutar de una experiencia online.</p><p>
+                            <a data-backdrop="dispositivos-compatibles" data-backdrop-close="" aria-haspopup="dialog" data-analytics-id="-9996268453132">
+                                Consultar dispositivos compatibles
+                            </a>
+                        </p><p>Más de <strong>50.000 contenidos disponibles</strong> bajo demanda.</p><p>No te pierdas nada, todo el <strong>contenido desde el principio</strong> y con control del directo.</p><p>Los contenidos <strong>siempre disponibles</strong> con Últimos 7 días, Grabación, Ver Ahora.</p><p><strong>2 reproducciones simultáneamente</strong> en diferentes dispositivos.</p><p><strong>Descarga tus contenidos</strong> para verlos estés donde estés y cuando quieras.</p><h3><strong>También incluido en la Tarifa Móvil Ilimitada Total</strong></h3><ul aria-labelledby="idList">
+                            <li>
+                                <div>
+                                    <div>
+                                        <div>
+                                            
+                                            <h3><strong>SecureNet</strong></h3>
+                                        </div>
+                                        <p>Mantén seguro
+                                            completamente tu smartphone ante amenazas externas con el antivirus
+                                            integrado en el servicio Secure Net. Navega sin preocupaciones en todos tus
+                                            dispositivos.</p>
+                                        <p><strong>GRATIS</strong> durante 3
+                                            meses, después 1€/mes.</p>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div>
+                                    <div>
+                                        <div>
+                                            
+                                            <h3><strong>Tidal</strong></h3>
+                                        </div>
+                                        <p>Plataforma de música en
+                                            streaming para que disfrutes de tu música con la mejor calidad de audio.</p>
+                                        <p><strong>GRATIS</strong>
+                                            durante 3 meses, después 7,99€/mes.</p>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div>
+                                    <div>
+                                        <div>
+                                            
+                                            <h3><strong>OneNumber</strong></h3>
+                                        </div>
+                                        <p><strong>Mismo número y misma tarifa de voz y datos en todos tus dispositivos</strong> sin tener que cambiar la SIM con OneNumber.
+                                        </p><p><strong>GRATIS</strong> 1 mes, después 5€/mes.</p>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul><span style="left: 0">(*)Todos los
+                            servicios podrás gestionarlos en la App Mi Vodafone</span><h3>
+                        <span><strong>Sin sorpresas.</strong></span>
+                        <span><strong>No escondemos nada</strong></span>
+                    </h3><p>Impuestos y cuota de línea incluidos.</p><p>Envío de SIM gratuito.</p><p>Pack Seriefans GRATIS 1 año.</p><p>Después de 3 meses 47,99€/mes.</p><p>Después de 1 año desde la contratación pagarás 57,99€/mes.
+                    </p><p data-test="control">Permanencia 1 año.</p><p data-test="alternativa"><strong>Sin permanencia.</strong></p><a target="_blank" href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/movil/contrato/tarifas-contrato/legales/" title="Ver condiciones legales" data-analytics-id="1500089062107-0542767592125" data-test="control">Ver condiciones legales</a><a target="_blank" href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/movil/contrato/tarifas-contrato/legales/sin-permanencia/" title="Ver condiciones legales" data-analytics-id="1500089062107-0544767592125" data-test="alternativa">Ver condiciones legales</a><h3><strong>¿Cómo contrato la Tarifa Móvil Ilimitada Total?</strong></h3><ul>
+                        <li>
+                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
+                                <title>Icono carrito</title>
+                                <use xlink:href="#icon-shopping-trolley-mid"></use>
+                            </svg>
+                            <p>Compra online</p>
+                            <p>Recibirás un email de confirmación con el detalle de tu pedido y próximos pasos.</p>
+                        </li>
+                        <li>
+                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
+                                <title>Icono portabilidad</title>
+                                <use xlink:href="#icon-business-mid"></use>
+                            </svg>
+                            <p>Portabilidad</p>
+                            <p>Eliges la fecha y lugar de entrega de tu nueva SIM y sabrás el día exacto del cambio. Nos aseguraremos que no te quedas sin línea.</p>
+                        </li>
+                        <li>
+                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
+                                <title>Icono envío</title>
+                                <use xlink:href="#icon-bundles-mid"></use>
+                            </svg>
+                            <p>Recibe la SIM</p>
+                            <p>El envío puede tardar entre 2-3 días laborables (en la penisula) y 5-7 (a Baleares y Canarias, Ceuta o Melilla).</p>
+                        </li>
+                        <li>
+                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
+                                <title>Business</title>
+                                <use xlink:href="#icon-unified-communication-mid"></use>
+                            </svg>
+                            <p>Mi Vodafone</p>
+                            <p>Podrás registrarte y hacer el seguimiento de tu pedido y gestionar tus servicios desde la app de Vodafone.</p>
+                        </li>
+                    </ul><del>47,99€/mes</del><span>
+                        <span>23,99€</span>
+                        <span>/mes</span>
+                    </span><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1251714&amp;tcli=0&amp;tta=2" name="cta" title="lo quiero" data-analytics-product="movil;tarifa movil ilimitada total" data-analytics-id="1500089062107-7254816844484" onmousedown="addtocart(utag_data.plans_add2cart)" data-test="control">
+                    Lo quiero
+                </a><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1297752&amp;tcli=0&amp;tta=2" name="cta" title="lo quiero" data-analytics-product="movil;tarifa movil ilimitada total" data-analytics-id="1500089062107-7254816864484" onmousedown="addtocart(utag_data.plans_add2cart)" data-test="alternativa">
+                    Lo quiero
+                </a><del>47,99€/mes</del><span>
+                        <span>23,99€</span>
+                        <span>/mes</span>
+                    </span><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1251396&amp;tcli=0&amp;tta=2" name="cta" title="lo quiero" data-analytics-product="movil;tarifa movil ilimitada total" data-analytics-id="1500089062107-8360881605994" data-test="control">
+                    Lo quiero
+                </a><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1297752&amp;tcli=0&amp;tta=2" name="cta" title="lo quiero" data-analytics-product="movil;tarifa movil ilimitada total" data-analytics-id="1500089062107-8360881607394" data-test="alternativa">
+                    Lo quiero
+                </a><button aria-hidden="false">
+                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <title>Close</title>
+                        <use xlink:href="#icon-close"></use>
+                    </svg>
+                </button><p>Canales Pack Seriefans</p><ul>
+                    <li>
+                        
+                        <p>FOXNOW</p>
+                    </li>
+                    <li>
+                        
+                        <p>HBO España</p>
+                    </li>
+                    <li>
+                        
+                        <p>AXN Now</p>
+                    </li>
+                    <li>
+                        
+                        <p>TNT</p>
+                    </li>
+                    <li>
+                        
+                        <p>FOX</p>
+                    </li>
+                    <li>
+                        
+                        <p>SYFY</p>
+                    </li>
+                    <li>
+                        
+                        <p>Calle 13</p>
+                    </li>
+                    <li>
+                        
+                        <p>AXN</p>
+                    </li>
+                    <li>
+                        
+                        <p>AXN White</p>
+                    </li>
+                </ul><button aria-hidden="false">
+                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <title>Close</title>
+                        <use xlink:href="#icon-close"></use>
+                    </svg>
+                </button><p>
+                    Dispositivos compatibles</p><ul>
+                    <li>
+                        <svg style="width: 60px; height: 60px;">
+                            <title>icon-tv-mid</title>
+                            <use xlink:href="#icon-mobile-mid"></use>
+                        </svg>
+                        <p>Móvil / Tablet iOS y Android.</p>
+                    </li>
+                    <li>
+                        <svg style="width: 60px; height: 60px;">
+                            <title>icon-tv-mid</title>
+                            <use xlink:href="#icon-tv-mid"></use>
+                        </svg>
+                        <p>Modelos de smart TV Samsung (a partir de 2017). Modelos de smart TV Sony (desde 2015) , Philips (desde 2018) y Xiaomi y TCL con Android TV.
+                        </p>
+                    </li>
+                    <li>
+                        <svg style="width: 60px; height: 60px;">
+                            <title>icon-connected-devices-mid</title>
+                            <use xlink:href="#icon-connected-devices-mid"></use>
+                        </svg>
+                        <p>Chromecast.</p>
+                    </li>
+                    <li>
+                        <svg style="width: 60px;height: 60px;">  
+                            <title>icon-desktop-mid</title>
+                            <use xlink:href="#icon-desktop-mid"></use>
+                        </svg>
+                        <p>PC/Mac.</p>
+                    </li>
+                    <li>
+                        
+                        <p>Fire TV Stick.</p>
+                    </li>
+                </ul>

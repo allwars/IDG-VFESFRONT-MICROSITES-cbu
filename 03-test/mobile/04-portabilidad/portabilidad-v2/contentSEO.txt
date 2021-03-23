@@ -1,0 +1,32 @@
+<article>
+		<div>
+			<div>
+				<button type="button" name="cta" title="Quiero esta tarifa" data-common-function="dropdown" aria-controls="card-content0">
+					<span>Quiero esta tarifa
+						<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" height="16px">
+							<title>Tick</title>
+							<use xlink:href="#icon3-chevron-down"></use>
+						</svg>
+					</span>
+					<span>Quiero esta tarifa 
+						<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" height="16px">
+							<title>Tick</title>
+							<use xlink:href="#icon3-chevron-up"></use>
+						</svg>
+					</span>
+				</button>
+			</div>
+		</div>
+		<div aria-hidden="false">
+			<a href="#">
+				<div>
+					<p>Portabilidad</p>
+				</div>
+			</a>
+			<a href="#">
+				<div>
+					<p>Nuevo número</p>
+				</div>
+			</a>
+		</div>
+	</article>

@@ -1,0 +1,36 @@
+<div>
+			
+			
+		</div><p> Nunca has visto un reloj así</p><a target="_parent" title="Comprar" onclick="window.parent.document.ws_popup.open2tftm('Apple Watch Series 5', 'desde 13,50€/mes', 'Tarifa Móvil Ilimitada Total', '24,99€/mes');" style="cursor:pointer">Comprar</a><span>:Apple Watch Series 5</span><p><span>Para empezar, su pantalla no se apaga.</span> </p><p> Con la pantalla Retina siempre activa, la esfera del reloj te muestra la hora y se mantiene visible segundo a segundo.</p><div>
+				
+				
+			</div><p><span>Tiene apps que cuidan tu corazón.</span>  </p><p>Gracias a la app ECG, puedes comprobar tu frecuencia cardiaca en cualquier momento.<sup>1</sup></p><div>
+				
+			</div><p><span>Y tus oídos.</span></p><p> Si el nivel de decibelios a tu alrededor sube más de lo aconsejable, la app Ruido te avisa. En silencio. </p><div>
+				
+			</div><p><span>Te ayuda a controlar tu ciclo con un toque.</span></p><p>Con la app Control de Ciclos puedes hacer un seguimiento de tu menstruación.</p><div>
+				
+			</div><p><span>Y alcanzar todas tus metas. </span></p><p>Ve calentando. Tienes entrenos para cada tipo de ejercicio y mediciones avanzadas, sea cual sea tu invel.</p><div>
+				
+			</div><p><span>Te anima a levantarte, moverte y hacer ejercicio. </span></p><p>Los anillos de Actividad siguen tu progreso y te dan el empujoncito que necesitas para estar menos tiempo sentado y hacer ejercicio todos los días. Puedes incluso retar a tus amigos.</p><div>
+				
+				
+			</div><p><span>Y te pone tus 50 millones de canciones favoritas.</span></p><p>No hay mejor compañía que la música. Por eso, vayas donde vayas, tendrás toda la biblioteca de Apple Music contigo.<sup>2</sup> Por no hablar de un sinfín de podcasts y audiolibros.</p><div>
+				
+			</div><p><span>Con este reloj, nunca perderás el norte. </span></p><p>Da igual las vueltas que dé la vida, con la brújula y el indicador de altitud, siempre encontrarás tu camino.</p><div>
+				
+			</div><p><span>Podrás bajarte apps al instante. </span> </p><p>Ahora tienes el App Store también en tu muñeca, para que encuentres y descargues tus apps favoritas en segundos.</p><div>
+				
+			</div><p><span>Dejar en casa el teléfono. </span></p><p>La conexión de datos móviles te permite hacer llaadas en medio de la montaña, mandar un mensaje desde la tabla de surf o escuchar música mientras esquías. Solo con tu reloj.</p><div>
+				
+			</div><p><span>Pagar como si nada. </span> </p><p>Invita a una ronda o paga la compra del súper. Con Apple Pay es rápido y seguro.</p><div>
+				
+			</div><p><span>Por cierto, ¿te hemos dicho que también da la hora?</span></p><p>Con más de cien esferas y opciones infinitas para personalizarlas, es oficial: nunca has visto un reloj así.</p><div>
+				
+				
+				
+				
+			</div><ol>
+					<li>La app ECG está disponible con las últimas versiones de iOS y watchOS en el Apple Watch Series 4 o posterior. Consulta la compatibilidad en <a target="_blank" href="https://www.apple.com/es/watch/">apple.com/es/watch</a> . El uso de la app ECG no está recomendado para menores de 22 años.</li>
+					<li>Apple Music requiere una suscripción.</li> 
+				</ol><p>Algunas correas se venden por separado</p><p>El Apple Watch Series 5 y el Apple Watch Series 3 requieren un iPhone 6s o posterior con iOS 13 o posterior.</p><p>Las prestaciones están sujetas a cambios. Algunas prestaciones, aplicaciones y servicios no están disponibles en todos los países o idiomas. Consulta la lista completa en <a target="_blank" href="https://www.apple.com/es/watchos/feature-availability/">apple.com/es/watchos/feature-availability</a>.</p>

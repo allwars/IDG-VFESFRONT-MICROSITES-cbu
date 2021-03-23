@@ -1,0 +1,721 @@
+<link href="css/ws2r.v15.css" rel="stylesheet"  />
+<link href="css/styles.css" rel="stylesheet" data-microcss  />
+<div class="vfes-ms-content" id="xsell-convergente-movil" style="display: none">
+    <header class="performance-header">
+		<div id="envios" class="vfes-ms-content-filete vfes-color--vodafone-white vfes-color-bg-turqoise">
+			<div class="vfes-layout vfes-layout__nopadding">
+				<div class="vfes-layout__wrapper">
+					<div class="vfes-layout__item vfms-flex">
+						<p class="vfes-paragraph vfes-ms-content-filete__notice">
+							<strong>Debido al Real Decreto tras el estado de alarma, todo operador está obligado a cesar toda la
+								actividad que implique portabilidad fija o móvil por el momento.</strong>
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="performance-header__content">
+			<img class="performance-header__logo" src="img/header-logo-vf.png" alt="Vodafone"> 
+			<h1 class="performance-header__title">Añade <span class="vfes-title--bold vfs-margin-flex-right vfs-margin-flex-left">Móvil ilimitado </span>a tu Fibra ¡Todo al <span class="vfes-title--bold vfs-margin-flex-left">50%!</span>
+			</h1>
+			<button class="wg-form-trigger vfes-button vfes-button--green" data-role="form-trigger">
+				<svg><title>Te llamamos gratis</title><use xlink:href="#icon3-landline-or-call" class="icon-v3"></use></svg> Te llamamos gratis 
+			</button>
+
+			<button class="wg-form-trigger wg-form-trigger--circle" data-role="form-trigger">
+				<img src="img/call-or-minutes-hi-dark.png" alt="Te llamamos gratis">
+			</button>
+
+			<div class="wg-form-sticky">
+				<div class="wg-form-sticky__overlay">
+					<div class="wg-form-sticky__wrapper">
+
+						{{!-- <div class="wg-form-sticky__collapsable"> --}}
+							<button class="wg-form-sticky__close-btn" data-role="wg-form-sticky-close" aria-hidden="false">
+								<svg class="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px">
+									<title>Close</title>
+									<use class="icon-v3" xlink:href="#icon3-close"></use>
+								</svg>
+							</button>
+							<p class="vfes-paragraph--center" id="container" data-call="scheduleCall"> Llama gratis al <strong class="phone-number">
+									<svg>
+										<title>Te llamamos gratis</title>
+										<use xlink:href="#icon3-landline-or-call" class="icon-v3"></use>
+									</svg>
+									<a href="tel:900920230" class="drp-phone">900 920 230</a>
+								</strong>
+							</p>
+							<p class="vfes-paragraph--center"  data-msg="scheduleMsg" style="display:none;">Déjanos tus datos y te llamamos lo antes posible
+							</p>
+							<form class="wg-form vfes-form">
+								<hr>
+								<p class="vfes-paragraph--center" data-call-bottom="scheduleCallBottom">O si lo prefieres te llamamos</p>
+								<p class="vfes-paragraph--center" data-msg-bottom="scheduleMsgBottom" style="display:none;">Nuestro horario de atención es de 9:00 a 22:00 hrs</p>
+								<div class="vfes-form__box">
+									<label for="phone" class="visually-hidden"> Nº de teléfono</label>
+									<input type="tel" name="phone" id="phone" pattern="(6|7|8|9)[ -]*([0-9][ -]*){8}" maxlength="9" data-wg-validation="required,phone" placeholder="Nº Teléfono" class="vfes-form__input wg-input" required />
+								</div>
+								<div class="vfes-form__box vfms-form__checks-space">
+										<input class="vfes-form__checkbox vfms-form__checkbox_bg-transparent wg-input"
+											data-wg-validation="required" type="checkbox" id="privacy" value="on"
+											type="checkbox" name="check" />
+										<label class="vfes-form__label" target="_self" for="privacy"> 
+											<a href="#"
+												id="condiciones" data-modal="privacy" data-modal-close
+												aria-haspopup="dialog" class="button-privacy vfes-color--silver"
+												title="Vodafone One" target="_new" rel="nofollow">Acepto la  Política de
+												Privacidad</a>
+										</label>
+									</div>
+									<div class="vfes-form__box vfms-form__checks-space">
+										<input class="vfes-form__checkbox wg-input" type="checkbox" id="comunication"
+											name="gdpr" value="on" />
+										<label class="vfes-form__label" for="comunication"><span
+												class="vfes-cta-box__span">Acepto recibir comunicaciones comerciales de Vodafone</span> </label>
+									</div>
+								<input type="hidden" class="wg-return wg-input" value="DCL_gracias">
+								<div class="dcl-gracias" style="display:none"> Gracias </div>
+								<input type="submit" class="vfes-button vfes-button--green wg-submit" value="Te llamamos gratis">
+							</form>
+							<button style="display: none;" data-role="response-opener" data-overlay="callme-response" data-overlay-close aria-haspopup="dialog">Te llamamos</button>
+						{{!-- </div> --}}
+					</div>
+					<button class="wg-form-sticky__collapse-btn" data-role="wg-form-sticky-collapse"></button>
+				</div>
+			</div>
+
+		</div>
+	</header>
+	<section class="vfes-layout performance-hero">
+		<div class="vfes-layout__wrapper vfms-one-wrapper">
+			<div class="vfes-layout__item">
+				{{!-- <div class="performance-hero__bolus vfes-flex vfes-flex__direction--column vfes-flex__align-items--center">
+					<div class="vfes-flex vfes-flex__direction--row vfes-flex__align-items--base">
+						<span class="vfes-title--regular vfes-title--bold performance-hero__bolus__percentage">50</span>
+						<span class="vfes-title--regular vfes-title--bold performance-hero__bolus__percentage-simbol">%</span>
+					</div>
+					<div class="performance-hero__bolus__extra">
+						<span class="vfes-title--bold performance-hero__bolus__extra-big">descuento</span>
+					</div>
+				</div> --}}
+				<h1 class="performance-hero__title vfes-color--vodafone-dark-grey">
+					Añade <span class="vfes-title--bold vfs-margin-flex-right vfs-margin-flex-left">Móvil ilimitado </span>a tu Fibra ¡Todo al <span class="vfes-title--bold vfs-margin-flex-left">50%!</span></h1>
+				<div class="performance-card">
+					<div class="performance-card__content">
+						<div class="performance-card__maincol">
+							<h3 class="performance-card__title vfes-title--light">
+								<span>Móvil + Fibra</span>
+							</h3>
+							{{!-- <h3 class="performance-card__title vfes-title--bold">
+								<span class="vfes-colours--vodafone-red">Suma una línea móvil a tu Fibra y llévate la TV gratis.</span>
+							</h3> --}}
+							<ul class="performance-card__list">
+								<li class="performance-card__list-item">
+							<span class="performance-card__list-item-icon">
+								<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+									<g fill="none" fill-rule="evenodd">
+										<path fill="#D8D8D8" fill-opacity="0" d="M0 0h30v30H0z" />
+										<g stroke-linecap="round" stroke-linejoin="round" stroke-width=".85">
+											<path fill="#FFF" stroke="#666"
+												d="M15.052 24.556a1.925 1.925 0 0 1-1.925-1.926V5.026c0-1.063.862-1.925 1.925-1.925h8.802c1.064 0 1.926.862 1.926 1.925V22.63a1.925 1.925 0 0 1-1.926 1.926h-8.802z" />
+											<path stroke="#333" d="M17.803 22.355h3.301" />
+										</g>
+										<g stroke-linecap="round" stroke-linejoin="round" stroke-width=".85">
+											<path fill="#FFF" stroke="#666"
+												d="M6.146 27.056A1.925 1.925 0 0 1 4.22 25.13V7.526c0-1.063.862-1.925 1.926-1.925h8.802c1.063 0 1.925.862 1.925 1.925V25.13a1.925 1.925 0 0 1-1.925 1.926H6.146z" />
+											<path stroke="#333" d="M8.897 24.855h3.3" />
+										</g>
+									</g>
+								</svg>
+							</span>
+							<span class="performance-card__list-item-description">
+								<h3 class="list-item-description__title vfes-title--bold">Datos y llamadas ilimitadas</h3>
+								<p class="list-item-description__text">1ª: Datos y llamadas ilimitadas</p>
+								<p class="list-item-description__text">2ª:4GB de datos y 200 minutos</p>
+							</span>
+						</li>
+								{{!-- <li class="performance-card__list-item">
+							<span class="performance-card__list-item-icon">
+								<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="35" height="35" viewBox="0 0 192 192"><defs><symbol id="b72c2309-f081-4476-80d3-91b0b45ddd67" data-name="Mobile_ic_mid" viewBox="0 0 192 192"><line x1="84" y1="158" x2="108" y2="158" fill="none" stroke="#e60000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/><rect width="192" height="192" fill="none"/><rect x="50" y="18" width="92" height="156" rx="14" ry="14" fill="none" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/></symbol></defs><title>mobile-mid</title><g id="ab6a2f1a-4b94-4c55-8a77-5cb818d7cf46" data-name="ICON"><use id="be6cc9c3-70cf-4b16-93e1-a8b0b018c97e" data-name="Mobile_ic_mid" width="192" height="192" transform="translate(0 0)" xlink:href="#b72c2309-f081-4476-80d3-91b0b45ddd67"/></g></svg>
+							</span>
+							<span class="performance-card__list-item-description">
+								<h3 class="list-item-description__title vfes-title--bold">Tarifa Móvil</h3>
+								<p class="list-item-description__text">
+									<span class="vfes-title--bold">Datos ilimitados </span>y llamadas ilimitadas  <span class="vfes-title--bold">2Mbps de velocidad</span> móvil para: Redes Sociales y música online.</p>
+							</span>
+						</li> --}}
+								<li class="performance-card__list-item">
+							<span class="performance-card__list-item-icon">
+								<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+									<g fill="none" fill-rule="evenodd">
+										<path fill="#D8D8D8" fill-opacity="0" d="M0 0H24V24H0z" />
+										<rect width="17" height="6" x="3.5" y="14.5" stroke="#333" stroke-linecap="round"
+											stroke-linejoin="round" rx="1.5" />
+										<path stroke="#333" stroke-linecap="round" stroke-linejoin="round"
+											d="M12.489 5.16c2.211-2.211 5.796-2.211 8.007 0h0M14.071 6.487c.645-.645 1.52-1.007 2.432-1.007.912 0 1.787.362 2.432 1.007h0" />
+										<circle cx="16.509" cy="7.979" r="1" stroke="#333" stroke-linecap="round" stroke-linejoin="round" />
+										<path stroke="#333" stroke-linecap="round" stroke-linejoin="round" d="M16.5 8L16.5 14.5" />
+									</g>
+								</svg>
+							</span>
+							<span class="performance-card__list-item-description">
+								<h3 class="list-item-description__title list-item-description__title--align"><span class="vfes-title--bold"> Fibra
+									300Mbps </span>simétricos</h3>
+							</span>
+						</li>
+								{{!-- <li class="performance-card__list-item">
+									<span class="performance-card__list-item-icon">
+										<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+											<g fill="none" fill-rule="evenodd">
+												<path fill="none" d="M0 0h30v30H0z" />
+												<path stroke="#6D6968" stroke-linecap="round" stroke-linejoin="round"
+													stroke-width=".85" d="M8.75 24.688h12.5" />
+												<path stroke="#6D6968" stroke-linejoin="round" stroke-width=".85"
+													d="M15 24.688v-2.5" />
+												<path stroke="#6D6968" stroke-linecap="round" stroke-linejoin="round"
+													stroke-width=".85"
+													d="M5 6.563h20c1.208 0 2.188.979 2.188 2.187V20c0 1.208-.98 2.188-2.188 2.188H5A2.187 2.187 0 0 1 2.812 20V8.75c0-1.208.98-2.188 2.188-2.188z" />
+												<path fill="#E60000" fill-rule="nonzero"
+													d="M15 19.375a.625.625 0 1 0 0 1.25.625.625 0 0 0 0-1.25z" />
+											</g>
+										</svg>
+									</span>
+									<span class="performance-card__list-item-description">
+										<h3
+											class="vfes-title--bold  list-item-description__title list-item-description__title--align">
+											Pack Seriefans GRATIS</h3>
+										<p class="list-item-description__text">Con HBO España incluido</p>
+									</span>
+								</li> --}}
+							</ul>
+							<div class="performance-card__details-button">
+								<a href="#" title="Más información" class="vfms-offer-details-link" target="_self"
+									data-modal="offer-details-one-ilimitada" data-modal-close aria-haspopup="dialog"
+									data-analytics-element="mas informacion"
+									data-analytics-product="movil+fibra;vodafone one ilimitada" data-analytics-category="link"
+									data-analytics-context="particulares:oferta:one ilimitada">Más información</a>
+								{{!-- <button class="performance-card__details-button" data-overlay="detalles-oferta" data-overlay-close aria-haspopup="dialog">Conoce la oferta en detalle</button> --}}
+							</div>
+						</div>
+						<div class="performance-card__details performance-card__detailscol">
+							<div class="performance-card__price-old">
+								{{!-- <span class="performance-card__price-old-text">Por solo</span> --}}
+								<span class="performance-card__price-old-text vfes-colours--turqoise vfes-title--bold">50% dto. 6 meses</span>
+								<span class="performance-card__price-old-text vfes-colours--anthracite">IVA incluido. Permanencia 1 año</span>
+								<span class="performance-card__price-old-number vfes-title--regular ">
+								<span class="vfes-text--strikethrough-turqoise">54,99€<span class="vfms-month">/mes</span></span>	
+								</span>
+							</div>
+							<div class="performance-card__price-new">
+								<span class="performance-card__price-new-number">
+									<span class="vfes-title--regular vfes-title--bold performance-card__price">26,99€<span
+											class="performance-card__text-small">/mes</span></span>
+								</span>
+								{{!-- <span class="performance-card__price-new-number">
+									<span class="vfes-title--regular vfes-title--bold performance-card__price">64,99€<span
+											class="performance-card__text-small">/mes</span></span>
+								</span> --}}
+								{{!-- <span class="performance-card__price-new-features">
+									<span class="performance-card__deadline">
+										<span class="performance-card__deadline-item">IVA incluido.</span> 
+										<span class="performance-card__deadline-item">Permanencia 5 meses</span>
+									</span>
+								</span> --}}
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	{{!-- <section class="vfes-layout performance-carousel">
+		<div class="vfes-layout__wrapper vfms-one-wrapper">
+			<div class="vfes-layout__item">
+				<div class='vfes-carousel' data-vfes-js='_carousel'
+					data-config='{"responsive":{"0":{"breakpoint":0,"elements":1},"1":{"breakpoint":640,"elements":2},"2":{"breakpoint":970,"elements":3}},"build":{"arrows":true,"bullets":true,"clickable_bullets":true}}'>
+					<ul class='vfes-carousel__list js-carousel-list'>
+						<li class='vfes-carousel__list-element js-carousel-list-element'>
+							<div style='background: #cccccc'>
+								<section class="vfes-card-rate vfes-box-shadow" data-vfes-js="card-box" data-sticky="item">
+									<ul class="vfes-card-rate__datalist">
+										<li class="vfes-card-rate__dataitem vfes-card-rate__dataitem-info-rate  vfes-2/3" data-card="title">
+											<h3 class="vfes-title vfes-title--regular">Vodafone One Mini</h3>
+										</li>
+										<li class="vfes-card-rate__dataitem vfes-card-rate__dataitem-info-price  vfes-1/3">
+											<p class="vfes-card-rate__dataitem-price vfes-paragraph vfes-align--right"><strong>47,99€</strong></p>
+										</li>
+										<li class="vfes-card-rate__dataitem vfes-card-rate__dataitem-info-device vfes-colours-bg-light-grey">
+											<svg class="icon" xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+												<title>Datos</title>
+												<use class="icon-v3" xlink:href='#icon-mobile-mid'></use>
+											</svg>
+											<p class="vfes-paragraph">
+												<span class="span">3GB</span>
+												<span class="span">Chat Pass</span>
+												<span class="vfes-paragraph--small span">y 200 minutos</span>
+											</p>
+										</li>
+										<li
+											class="vfes-card-rate__dataitem vfes-card-rate__dataitem-info-signal vfes-colours-bg-light-grey vfes-align--right">
+											<svg class="icon" xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+												<title>Fibra</title>
+												<use class="icon-v3" xlink:href='#icon-broadband-or-wifi-mid'></use>
+											</svg>
+											<p class="vfes-paragraph">
+												<span class="span">100Mps</span>
+												<span class="vfes-paragraph--small span">Fibra simétrica</span>
+											</p>
+										</li>
+									</ul>
+									<div class="vfes-card-rate__accordion" data-card="accordion" aria-expanded="true">
+										<p class="vfes-card-rate__accordion-price">47,99€/<span class="span">mes durante los 6 primeros meses,
+												después XX,XX€/mes</span></p>
+										<button type="button" class="vfes-button vfes-button--primary"
+											onclick="window.parent.document.ws_popup.open2('Vodafone One Mini', '47,99€/mes');"
+											data-analytics-context="one mini" data-analytics-element="compra facil" data-analytics-category="cta"
+											title="Compra fácil">Compra fácil<span class="visually-hidden">:One Mini</span>
+										</button>
+										<a class="vfes-link vfes-link--no-chevron" data-analytics-context="one mini"
+											data-analytics-element="mas informacion" data-analytics-category="link" target="_parent" href="#"
+											title="Más información: Tarifa One Mini" linkmodified="yes">Más información <span
+												class="visually-hidden">:One Mini</span>
+										</a>
+									</div>
+								</section>
+							</div>
+						</li>
+						<li class='vfes-carousel__list-element js-carousel-list-element'>
+							<div style='background: #dddddd'>
+									<section class="vfes-card-rate vfes-box-shadow" data-vfes-js="card-box" data-sticky="item">
+									<ul class="vfes-card-rate__datalist">
+										<li class="vfes-card-rate__dataitem vfes-card-rate__dataitem-info-rate  vfes-2/3" data-card="title">
+											<h3 class="vfes-title vfes-title--regular">Vodafone One Mini</h3>
+										</li>
+										<li class="vfes-card-rate__dataitem vfes-card-rate__dataitem-info-price  vfes-1/3">
+											<p class="vfes-card-rate__dataitem-price vfes-paragraph vfes-align--right"><strong>47,99€</strong></p>
+										</li>
+										<li class="vfes-card-rate__dataitem vfes-card-rate__dataitem-info-device vfes-colours-bg-light-grey">
+											<svg class="icon" xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+												<title>Datos</title>
+												<use class="icon-v3" xlink:href='#icon-mobile-mid'></use>
+											</svg>
+											<p class="vfes-paragraph">
+												<span class="span">3GB</span>
+												<span class="span">Chat Pass</span>
+												<span class="vfes-paragraph--small span">y 200 minutos</span>
+											</p>
+										</li>
+										<li
+											class="vfes-card-rate__dataitem vfes-card-rate__dataitem-info-signal vfes-colours-bg-light-grey vfes-align--right">
+											<svg class="icon" xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+												<title>Fibra</title>
+												<use class="icon-v3" xlink:href='#icon-broadband-or-wifi-mid'></use>
+											</svg>
+											<p class="vfes-paragraph">
+												<span class="span">100Mps</span>
+												<span class="vfes-paragraph--small span">Fibra simétrica</span>
+											</p>
+										</li>
+									</ul>
+									<div class="vfes-card-rate__accordion" data-card="accordion" aria-expanded="true">
+										<p class="vfes-card-rate__accordion-price">47,99€/<span class="span">mes durante los 6 primeros meses,
+												después XX,XX€/mes</span></p>
+										<button type="button" class="vfes-button vfes-button--primary"
+											onclick="window.parent.document.ws_popup.open2('Vodafone One Mini', '47,99€/mes');"
+											data-analytics-context="one mini" data-analytics-element="compra facil" data-analytics-category="cta"
+											title="Compra fácil">Compra fácil<span class="visually-hidden">:One Mini</span>
+										</button>
+										<a class="vfes-link vfes-link--no-chevron" data-analytics-context="one mini"
+											data-analytics-element="mas informacion" data-analytics-category="link" target="_parent" href="#"
+											title="Más información: Tarifa One Mini" linkmodified="yes">Más información <span
+												class="visually-hidden">:One Mini</span>
+										</a>
+									</div>
+								</section>
+							</div>
+						</li>
+						<li class='vfes-carousel__list-element js-carousel-list-element'>
+							<div style='background: #eeeeee'>
+									<section class="vfes-card-rate vfes-box-shadow" data-vfes-js="card-box" data-sticky="item">
+									<ul class="vfes-card-rate__datalist">
+										<li class="vfes-card-rate__dataitem vfes-card-rate__dataitem-info-rate  vfes-2/3" data-card="title">
+											<h3 class="vfes-title vfes-title--regular">Vodafone One Mini</h3>
+										</li>
+										<li class="vfes-card-rate__dataitem vfes-card-rate__dataitem-info-price  vfes-1/3">
+											<p class="vfes-card-rate__dataitem-price vfes-paragraph vfes-align--right"><strong>47,99€</strong></p>
+										</li>
+										<li class="vfes-card-rate__dataitem vfes-card-rate__dataitem-info-device vfes-colours-bg-light-grey">
+											<svg class="icon" xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+												<title>Datos</title>
+												<use class="icon-v3" xlink:href='#icon-mobile-mid'></use>
+											</svg>
+											<p class="vfes-paragraph">
+												<span class="span">3GB</span>
+												<span class="span">Chat Pass</span>
+												<span class="vfes-paragraph--small span">y 200 minutos</span>
+											</p>
+										</li>
+										<li
+											class="vfes-card-rate__dataitem vfes-card-rate__dataitem-info-signal vfes-colours-bg-light-grey vfes-align--right">
+											<svg class="icon" xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+												<title>Fibra</title>
+												<use class="icon-v3" xlink:href='#icon-broadband-or-wifi-mid'></use>
+											</svg>
+											<p class="vfes-paragraph">
+												<span class="span">100Mps</span>
+												<span class="vfes-paragraph--small span">Fibra simétrica</span>
+											</p>
+										</li>
+									</ul>
+									<div class="vfes-card-rate__accordion" data-card="accordion" aria-expanded="true">
+										<p class="vfes-card-rate__accordion-price">47,99€/<span class="span">mes durante los 6 primeros meses,
+												después XX,XX€/mes</span></p>
+										<button type="button" class="vfes-button vfes-button--primary"
+											onclick="window.parent.document.ws_popup.open2('Vodafone One Mini', '47,99€/mes');"
+											data-analytics-context="one mini" data-analytics-element="compra facil" data-analytics-category="cta"
+											title="Compra fácil">Compra fácil<span class="visually-hidden">:One Mini</span>
+										</button>
+										<a class="vfes-link vfes-link--no-chevron" data-analytics-context="one mini"
+											data-analytics-element="mas informacion" data-analytics-category="link" target="_parent" href="#"
+											title="Más información: Tarifa One Mini" linkmodified="yes">Más información <span
+												class="visually-hidden">:One Mini</span>
+										</a>
+									</div>
+								</section>
+							</div>
+						</li>
+						<li class='vfes-carousel__list-element js-carousel-list-element'>
+							<div style='background: #eeeeee'>
+									<section class="vfes-card-rate vfes-box-shadow" data-vfes-js="card-box" data-sticky="item">
+									<ul class="vfes-card-rate__datalist">
+										<li class="vfes-card-rate__dataitem vfes-card-rate__dataitem-info-rate  vfes-2/3" data-card="title">
+											<h3 class="vfes-title vfes-title--regular">Vodafone One Mini</h3>
+										</li>
+										<li class="vfes-card-rate__dataitem vfes-card-rate__dataitem-info-price  vfes-1/3">
+											<p class="vfes-card-rate__dataitem-price vfes-paragraph vfes-align--right"><strong>47,99€</strong></p>
+										</li>
+										<li class="vfes-card-rate__dataitem vfes-card-rate__dataitem-info-device vfes-colours-bg-light-grey">
+											<svg class="icon" xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+												<title>Datos</title>
+												<use class="icon-v3" xlink:href='#icon-mobile-mid'></use>
+											</svg>
+											<p class="vfes-paragraph">
+												<span class="span">3GB</span>
+												<span class="span">Chat Pass</span>
+												<span class="vfes-paragraph--small span">y 200 minutos</span>
+											</p>
+										</li>
+										<li
+											class="vfes-card-rate__dataitem vfes-card-rate__dataitem-info-signal vfes-colours-bg-light-grey vfes-align--right">
+											<svg class="icon" xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+												<title>Fibra</title>
+												<use class="icon-v3" xlink:href='#icon-broadband-or-wifi-mid'></use>
+											</svg>
+											<p class="vfes-paragraph">
+												<span class="span">100Mps</span>
+												<span class="vfes-paragraph--small span">Fibra simétrica</span>
+											</p>
+										</li>
+									</ul>
+									<div class="vfes-card-rate__accordion" data-card="accordion" aria-expanded="true">
+										<p class="vfes-card-rate__accordion-price">47,99€/<span class="span">mes durante los 6 primeros meses,
+												después XX,XX€/mes</span></p>
+										<button type="button" class="vfes-button vfes-button--primary"
+											onclick="window.parent.document.ws_popup.open2('Vodafone One Mini', '47,99€/mes');"
+											data-analytics-context="one mini" data-analytics-element="compra facil" data-analytics-category="cta"
+											title="Compra fácil">Compra fácil<span class="visually-hidden">:One Mini</span>
+										</button>
+										<a class="vfes-link vfes-link--no-chevron" data-analytics-context="one mini"
+											data-analytics-element="mas informacion" data-analytics-category="link" target="_parent" href="#"
+											title="Más información: Tarifa One Mini" linkmodified="yes">Más información <span
+												class="visually-hidden">:One Mini</span>
+										</a>
+									</div>
+								</section>
+							</div>
+						</li>
+						<li class='vfes-carousel__list-element js-carousel-list-element'>
+							<div style='background: #eeeeee'>
+									<section class="vfes-card-rate vfes-box-shadow" data-vfes-js="card-box" data-sticky="item">
+									<ul class="vfes-card-rate__datalist">
+										<li class="vfes-card-rate__dataitem vfes-card-rate__dataitem-info-rate  vfes-2/3" data-card="title">
+											<h3 class="vfes-title vfes-title--regular">Vodafone One Mini</h3>
+										</li>
+										<li class="vfes-card-rate__dataitem vfes-card-rate__dataitem-info-price  vfes-1/3">
+											<p class="vfes-card-rate__dataitem-price vfes-paragraph vfes-align--right"><strong>47,99€</strong></p>
+										</li>
+										<li class="vfes-card-rate__dataitem vfes-card-rate__dataitem-info-device vfes-colours-bg-light-grey">
+											<svg class="icon" xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+												<title>Datos</title>
+												<use class="icon-v3" xlink:href='#icon-mobile-mid'></use>
+											</svg>
+											<p class="vfes-paragraph">
+												<span class="span">3GB</span>
+												<span class="span">Chat Pass</span>
+												<span class="vfes-paragraph--small span">y 200 minutos</span>
+											</p>
+										</li>
+										<li
+											class="vfes-card-rate__dataitem vfes-card-rate__dataitem-info-signal vfes-colours-bg-light-grey vfes-align--right">
+											<svg class="icon" xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+												<title>Fibra</title>
+												<use class="icon-v3" xlink:href='#icon-broadband-or-wifi-mid'></use>
+											</svg>
+											<p class="vfes-paragraph">
+												<span class="span">100Mps</span>
+												<span class="vfes-paragraph--small span">Fibra simétrica</span>
+											</p>
+										</li>
+									</ul>
+									<div class="vfes-card-rate__accordion" data-card="accordion" aria-expanded="true">
+										<p class="vfes-card-rate__accordion-price">47,99€/<span class="span">mes durante los 6 primeros meses,
+												después XX,XX€/mes</span></p>
+										<button type="button" class="vfes-button vfes-button--primary"
+											onclick="window.parent.document.ws_popup.open2('Vodafone One Mini', '47,99€/mes');"
+											data-analytics-context="one mini" data-analytics-element="compra facil" data-analytics-category="cta"
+											title="Compra fácil">Compra fácil<span class="visually-hidden">:One Mini</span>
+										</button>
+										<a class="vfes-link vfes-link--no-chevron" data-analytics-context="one mini"
+											data-analytics-element="mas informacion" data-analytics-category="link" target="_parent" href="#"
+											title="Más información: Tarifa One Mini" linkmodified="yes">Más información <span
+												class="visually-hidden">:One Mini</span>
+										</a>
+									</div>
+								</section>
+							</div>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</section> --}}
+				
+		{{!-- 
+				
+				$$\      $$\  $$$$$$\  $$$$$$$\   $$$$$$\  $$\       $$$$$$$$\  $$$$$$\  
+				$$$\    $$$ |$$  __$$\ $$  __$$\ $$  __$$\ $$ |      $$  _____|$$  __$$\ 
+				$$$$\  $$$$ |$$ /  $$ |$$ |  $$ |$$ /  $$ |$$ |      $$ |      $$ /  \__|
+				$$\$$\$$ $$ |$$ |  $$ |$$ |  $$ |$$$$$$$$ |$$ |      $$$$$\    \$$$$$$\  
+				$$ \$$$  $$ |$$ |  $$ |$$ |  $$ |$$  __$$ |$$ |      $$  __|    \____$$\ 
+				$$ |\$  /$$ |$$ |  $$ |$$ |  $$ |$$ |  $$ |$$ |      $$ |      $$\   $$ |
+				$$ | \_/ $$ | $$$$$$  |$$$$$$$  |$$ |  $$ |$$$$$$$$\ $$$$$$$$\ \$$$$$$  |
+				\__|     \__| \______/ \_______/ \__|  \__|\________|\________| \______/ 
+				                                                                         
+				                                                                         
+				                                                                         
+				 --}}
+
+
+	{{!-- Modals Section --}}
+
+		{{!-- Offer Details --}}
+
+		{{!-- One Ilimitada --}}
+
+	<div class="vfes-modal js-modal" data-vfes-js="_modal" aria-hidden="true">
+
+        <section id="offer-details-one-ilimitada" class="vfes-modal-channel vfes-modal__item js-modal-item vfms-fibraMovil" aria-hidden="true"
+            role="dialog">
+            <div class="vfes-modal__head">
+                <button class="vfes-modal__close js-modal-close" aria-hidden="false"><svg
+                        class="icon vfes-color--vodafone-gray" xmlns="http://www.w3.org/2000/svg"
+                        xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px">
+                        <title>Close</title>
+                        <use class="icon-v3" xlink:href="#icon3-close"></use>
+                    </svg></button>
+            </div>
+            <div class="vfes-modal__content js-modal-content">
+
+				<h1 class="vfes-title vfes-title--4 vfes-title--regular vfms-modal-title">Tu paquete  <span class="vfes-title--bold">Vodafone One Ilimitada</span> incluye</h1>
+
+				<div class="vfms-offer-details-features">
+					<ul class="vfms-offer-details-features-container">
+						<li class="vfms-offer-details-features-item">
+							<div class="vfms-feature-header">
+								<span class="vfms-feature-icon">
+									<svg class="js-icon-tv js-icon-desktop" height="30" width="30"
+										xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+										<title>INTERNET</title>
+										<use class="icon3-desktop" xlink:href="#icon3-desktop"></use>
+									</svg>
+								</span>
+								<h2 class="vfes-title vfes-title--5 vfes-color--vodafone-red vfms-feature-title">Internet</h2>
+							</div>
+							<ul class="vfms-feature-content">
+								<li>300Mbps Fibra simétrica.</li>
+								<li>Conecta más de 7 dispositivos a la vez con la mejor conexión.</li>
+							</ul>
+						</li>
+						<li class="vfms-offer-details-features-item">
+							<div class="vfms-feature-header">
+								<span class="vfms-feature-icon">
+									<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+									<g fill="none" fill-rule="evenodd">
+										<path fill="#D8D8D8" fill-opacity="0" d="M0 0h30v30H0z" />
+										<g stroke-linecap="round" stroke-linejoin="round" stroke-width=".85">
+											<path fill="#FFF" stroke="#333"
+												d="M15.052 24.556a1.925 1.925 0 0 1-1.925-1.926V5.026c0-1.063.862-1.925 1.925-1.925h8.802c1.064 0 1.926.862 1.926 1.925V22.63a1.925 1.925 0 0 1-1.926 1.926h-8.802z" />
+											<path stroke="#333" d="M17.803 22.355h3.301" />
+										</g>
+										<g stroke-linecap="round" stroke-linejoin="round" stroke-width=".85">
+											<path fill="#FFF" stroke="#333"
+												d="M6.146 27.056A1.925 1.925 0 0 1 4.22 25.13V7.526c0-1.063.862-1.925 1.926-1.925h8.802c1.063 0 1.925.862 1.925 1.925V25.13a1.925 1.925 0 0 1-1.925 1.926H6.146z" />
+											<path stroke="#333" d="M8.897 24.855h3.3" />
+										</g>
+									</g>
+								</svg>
+								</span>
+								<h2 class="vfes-title vfes-title--5 vfes-color--vodafone-red vfms-feature-title">Datos y llamadas ilimitadas</h2>
+							</div>
+							<ul class="vfms-feature-content">
+								<li>1ª: Datos y llamadas ilimitadas.</li>
+								<li>2ª:4GB de datos y 200 minutos</li>
+								<li>Roaming incluido en Europa, Reino Unido y EEUU.</li>
+							</ul>
+						</li>
+						{{!-- <li class="vfms-offer-details-features-item">
+							<div class="vfms-feature-header">
+								<span class="vfms-feature-icon">
+									<svg class="js-icon-mobile js-icon-business-phone" height="35" width="35" xmlns="http://www.w3.org/2000/svg"
+										xmlns:xlink="http://www.w3.org/1999/xlink">
+										<title>Icono de teléfono móvil</title>
+										<use class="icon3-mobile" xlink:href="#icon3-mobile"></use>
+									</svg>
+								</span>
+								<h2 class="vfes-title vfes-title--5 vfes-color--vodafone-red vfms-feature-title">Móvil</h2>
+							</div>
+							<ul class="vfms-feature-content">
+								<li>Datos ilimitados con velocidad de descarga y subida de datos de 2Mbps.</li>
+								<li>Llamadas ilimitadas a fijos y a móviles.</li>
+								<li>Roaming incluido en Europa, Reino Unido y EEUU.</li>
+							</ul>
+						</li> --}}
+						<li class="vfms-offer-details-features-item">
+							<div class="vfms-feature-header">
+								<span class="vfms-feature-icon">
+									<svg class="js-icon-tv js-icon-business-phone" height="35" width="35" xmlns="http://www.w3.org/2000/svg"
+										xmlns:xlink="http://www.w3.org/1999/xlink">
+										<title>TV</title>
+										<use class="icon3-business-phone" xlink:href="#icon3-business-phone"></use>
+									</svg>
+								</span>
+								<h2 class="vfes-title vfes-title--5 vfes-color--vodafone-red vfms-feature-title">Fijo</h2>
+							</div>
+							<ul class="vfms-feature-content">
+								<li>Llamadas nacionales ilimitadas a fijos y móviles.</li>
+							</ul>
+						</li>
+						{{!-- <li class="vfms-offer-details-features-item">
+							<div class="vfms-feature-header">
+								<span class="vfms-feature-icon">
+									<svg class="js-icon-mobile" height="30" width="30"
+										xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+										<title>MOVIL</title>
+										<use class="icon3-sim" xlink:href="#icon3-sim"></use>
+									</svg>
+								</span>
+								<h2 class="vfes-title vfes-title--5 vfes-color--vodafone-red vfms-feature-title">Línea adicional incluida</h2>
+							</div>
+							<ul class="vfms-feature-content">
+								<li>Línea adicional mini con 4GB y 200min</li>
+							</ul>
+						</li> --}}
+						{{!-- <li class="vfms-offer-details-features-item">
+							<div class="vfms-feature-header">
+								<span class="vfms-feature-icon">
+									<svg class="js-icon-tv js-icon-business-phone" height="35" width="35" xmlns="http://www.w3.org/2000/svg"
+										xmlns:xlink="http://www.w3.org/1999/xlink">
+										<title>TV</title>
+										<use class="icon3-tv" xlink:href="#icon3-tv"></use>
+									</svg>
+								</span>
+								<h2 class="vfes-title vfes-title--5 vfes-color--vodafone-red vfms-feature-title">Televisión</h2>
+							</div>
+							<ul class="vfms-feature-content">
+								<li>Pack Seriefans GRATIS con HBO España.</li>
+							</ul>
+						</li> --}}
+						
+						<li class="vfms-offer-details-features-item">
+							<div class="vfms-feature-header">
+								<h2 class="vfes-title vfes-title--5 vfes-color--vodafone-red vfms-feature-title">Y además:</h2>
+							</div>
+							 <ul class="vfms-feature-content">
+								<li>3 meses GRATIS de navegación segura con el Servicio Secure Net. Después 1 euro al mes.</li>
+								<li>1 mes GRATIS de OneNumber: mismo número y misma tarifa de voz y datos en todos tus dispositivos sin tener que cambiar la SIM. Después 5€/mes.</li>
+							</ul>
+						</li>
+						
+
+					</ul>
+				</div>
+				{{!-- <div class="vfms-offer-details-conditions">
+					<div class="vfms-offer-details-conditions-item">
+						<h2 class="vfes-title vfes-title--5 vfes-color--vodafone-red vfms-feature-title">Condiciones:</h2>
+						<ul class="vfms-offer-details-conditions-container">
+							<li class="vfms-offer-details-conditions-container__item">Móvil + Fibra + TV (Pack Seriefans GRATIS) tiene <span class="vfes-title--regular vfes-title--bold">todo un año de descuentos:</span>
+								Móvil + Fibra por 28,99€/mes durante 3 meses de descuento. Del mes 4 al mes 12 57,99€/mes. Y a partir del mes 13 por 67,99€/mes.
+								<ul class="vfms-offer-details-conditions-container__item-features">
+									<li >Tres primeros meses: 31,99 €/mes.</li>
+									<li >Después, hasta completar el año: 64,99€/mes</li>
+								</ul>
+							</li>
+							<li class="vfms-offer-details-conditions-container__item">Permanencia: un año</li>
+							<li class="vfms-offer-details-conditions-container__item">Tarifa <span class="vfes-colours--vodafone-red">después del primer año</span>: 74,99 €/mes.</li>
+						</ul>
+					</div>
+				</div> --}}
+				<div class="vfms-offer-details-conditions">
+					<div class="vfms-offer-details-conditions-item">
+						<h2 class="vfes-title vfes-title--5 vfes-color--vodafone-red vfms-feature-title">Condiciones:</h2>
+						<ul class="vfms-offer-details-conditions-container">
+							{{!-- <li class="vfms-offer-details-conditions-container__item">Móvil + Fibra + TV (Pack Seriefans GRATIS) por solo 64,99€/mes.</li> --}}
+							<li class="vfms-offer-details-conditions-container__item">Móvil + Fibra por solo 26,99€/mes. A partir del séptimo mes 54,99€/mes y después del primer año 64,99 €/mes.</li>
+							<li class="vfms-offer-details-conditions-container__item">IVA incluido.</li>
+							{{!-- <li class="vfms-offer-details-conditions-container__item">Sin permanencia.</li> --}}
+							<li class="vfms-offer-details-conditions-container__item">Permanencia: 1 año.</li>
+						</ul>
+					</div>
+				</div>
+            </div>
+        </section>
+		{{!-- End One Ilimitada --}}
+							{{!-- Política de Privacidad--}}
+	
+	
+			<section id="privacy" class="vfes-modal-channel vfes-modal__item js-modal-item vfms-tarifaMovil"
+				aria-hidden="true" role="dialog">
+				<div class="vfes-modal__head">
+					<button class="vfes-modal__close js-modal-close" aria-hidden="false"><svg
+							class="icon vfes-color--vodafone-gray" xmlns="http://www.w3.org/2000/svg"
+							xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px">
+							<title>Close</title>
+							<use class="icon-v3" xlink:href="#icon3-close"></use>
+						</svg></button>
+				</div>
+				<div class="vfes-modal__content js-modal-content">
+	
+					<h4 class="vfes-title vfes-title--regular vfes-title--bold vfms-modal-title">Política de Privacidad</h4>
+	
+					<div class="vfms-offer-details-features">
+						<p>
+							Los datos que nos facilitas en el registro formarán parte de una base de datos de Vodafone
+							España. S.A.U., con domicilio en Avda. América 115, 28042 de Madrid y serán tratados para
+							facilitarte la información solicitada y poder contactar contigo en el futuro para llevar a cabo
+							acciones comerciales, en caso de que nos hayas proporcionado tu consentimiento marcando el check
+							habilitado al efecto.
+						</p>
+						<p>
+							Podrás ejercitar los derechos de acceso, rectificación, cancelación, oposición, limitación
+							dirigiéndote a Vodafone España a la dirección antes indicada. Mantendremos tus datos mientras no
+							ejerzas tu derecho de cancelación. Podrás ponerte en contacto con el Delegado de Protección de
+							Datos (DPO) a través de: DPO-SPAIN@vodafone.com
+						</p>
+					</div>
+				</div>
+			</section>
+			{{!-- End Política de Privacidad --}}
+    </div>
+</div>
+<script src="js/ws2r.v15.js"></script>
+<script src="js/main.js"></script>

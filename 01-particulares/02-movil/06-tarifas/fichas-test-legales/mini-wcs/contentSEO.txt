@@ -1,0 +1,413 @@
+<div data-spritesheet="svg/sprite.mid.svg"></div><main>
+        <!-- CONTENT + TICKET -->
+        <!-- BANNER AND CARD RATE -->
+        <section>
+            <div>
+                <div>
+                    <div>
+                        <p>Tarifa Móvil contrato</p>
+                        <h2>
+                            <span>Disfruta
+                                de la<span> mejor red</span> para navegar y<span> chatear sin límite</span></span>
+                        </h2>
+                        <div>
+                            
+                            <p>Mejor precio Vodafone</p>
+                        </div>
+                    </div>
+                </div>
+                <div data-vfes-inject-module="vfms-ticket"></div>
+            </div>
+        </section>
+        <div>
+            <!-- CONTENT -->
+            <div>
+                <!-- ILIMITATED GB-->
+                <section vfms-data-show="sticky">
+                    <div>
+                        <div>
+                            <h2>Móvil</h2>
+                            <h3>
+                                <span>4GB
+                                    para navegar con velocidad 5G</span>
+                            </h3>
+                        </div>
+                        <div>
+                            <ul>
+                                <li>
+                                    <div>
+                                        
+                                    </div>
+                                    <p><span>4GB</span> para que
+                                        los uses en lo que prefieras: redes sociales, música, juegos, descargas…</p>
+                                </li>
+                                <li>
+                                    <div>
+                                        <svg width="40" height="40">
+                                            <title>icon-5G_esp-mid</title>
+                                            <use xlink:href="#icon-5G_esp-mid"></use>
+                                        </svg>
+                                    </div>
+                                    <p>Todo con la nueva <span>conexión 5G.</span></p>
+                                </li>
+
+                                <li>
+                                    <div>
+                                        <svg width="40" height="40">
+                                            <title>icon-unified-communication-mid</title>
+                                            <use xlink:href="#icon-unified-communication-mid"></use>
+                                        </svg>
+                                    </div>
+                                    <p><span>200 minutos</span>
+                                        con cualquier operador nacional las 24 horas.</p>
+                                </li>
+                                <li>
+                                    <div>
+                                        <svg width="40" height="40">
+                                            <title>icon-sms-or-text-mid</title>
+                                            <use xlink:href="#icon-sms-or-text-mid"></use>
+                                        </svg>
+                                    </div>
+                                    <p><span>SMS
+                                            ilimitados</span> con cualquier operador nacional.</p>
+                                </li>
+                                <li>
+                                    <div>
+                                        <svg width="40" height="40">
+                                            <title>icon-roaming-mid</title>
+                                            <use xlink:href="#icon-roaming-mid"></use>
+                                        </svg>
+                                    </div>
+                                    <p><span>Roaming incluido en
+                                            Europa, Reino Unido y EEUU.</span> Disfruta con las mismas condiciones de tu
+                                        tarifa, sin preocupaciones también en EEUU.</p>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </section>
+                <!-- ALSO INCLUDED -->
+                <section>
+                    <div>
+                        <h3>
+                            <span>También incluido en Tarifa Móvil Mini</span>
+                        </h3>
+                    </div>
+                    <div data-config="{&quot;responsive&quot;:{&quot;0&quot;:{&quot;breakpoint&quot;:0,&quot;elements&quot;:1},&quot;1&quot;:{&quot;breakpoint&quot;:640,&quot;elements&quot;:2},&quot;2&quot;:{&quot;breakpoint&quot;:970,&quot;elements&quot;:2}},&quot;build&quot;:{&quot;arrows&quot;:true,&quot;bullets&quot;:true,&quot;clickable_bullets&quot;:true}}">
+                        <ul>
+                            <li>
+                                <div>
+                                    <div>
+                                        <svg style="width: 44px; height: 44px;">
+                                            <title>icon-security-mid</title>
+                                            <use xlink:href="#icon-security-mid"></use>
+                                        </svg>
+                                        <h4><span>Secure
+                                                Net</span></h4>
+                                    </div>
+                                    <p>Mantén seguro completamente tu Smartphone ante amenazas externas con el <span>antivirus integrado</span> en el servicio Secure
+                                        Net. Navega sin preocupaciones en todos tus dispositivos.</p>
+                                    <p><span>GRATIS</span> durante 3 meses, después 1€/mes.</p>
+                                </div>
+                            </li>
+                            <li>
+                                <div>
+                                    <div>
+                                        
+                                        <h4><span>TIDAL</span>
+                                        </h4>
+                                    </div>
+                                    <p>Plataforma de música en streaming para que disfrutes de tu música con la mejor
+                                        calidad de audio.</p>
+                                    <p><span>GRATIS</span> durante 3 meses, después 7,99€/mes.
+                                    </p>
+                                </div>
+                            </li>
+                            <li>
+                                <div>
+                                    <div>
+                                        
+                                        <p><span>OneNumber</span></p>
+                                    </div>
+                                    <p><span>Mismo número y misma tarifa de voz y datos en
+                                            todos tus dispositivos</span> sin tener que cambiar la SIM con OneNumber.
+                                    </p>
+                                    <p><span> GRATIS </span>durante 1 mes, después 5€/mes.</p>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                    <p>(*) Todos los servicios podrás gestionarlos en la App de Mi Vodafone</p>
+                </section>
+                <!-- NO SURPRISES -->
+                <section>
+                    <div>
+                        <h3>
+                            <span>Sin sorpresas.</span>
+                            <span>No escondemos nada</span>
+                        </h3>
+                        <p>Impuestos y cuota de línea incluidos.</p>
+                        <p>Sin permanencia.</p>
+                        <a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/movil/contrato/tarifas-contrato/legales/" target="_new" data-analytics-id="1500065153978-0542767590285">Ver Condiciones Legales</a>
+                    </div>
+                </section>
+                <!-- STEPS -->
+                <section>
+                    <h3>
+                        <span>¿Cómo contrato la Tarifa Móvil Mini?</span>
+                    </h3>
+                    <div>
+                        <ul>
+                            <li>
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="68px" height="68px">
+                                    <title>icon-shopping-trolley-mi</title>
+                                    <use xlink:href="#icon-shopping-trolley-mid"></use>
+                                </svg>
+                                <h4><span>Compra online</span></h4>
+                                <p>Recibirás un email de confirmación con el detalle de tu
+                                    pedido y próximos pasos para disfrutar de tu Tarifa Móvil Mini de Vodafone.</p>
+                            </li>
+                            <li>
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="68px" height="68px">
+                                    <title>icon-business-mid</title>
+                                    <use xlink:href="#icon-business-mid"></use>
+                                </svg>
+                                <h4><span>Portabilidad</span></h4>
+                                <p>Eliges la fecha y lugar de entrega de tu nueva SIM y
+                                    sabrás el día exacto del cambio. Nos aseguraremos que no te quedas sin línea.</p>
+                            </li>
+                            <li>
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="68px" height="68px">
+                                    <title>icon-bundles-mid</title>
+                                    <use xlink:href="#icon-bundles-mid"></use>
+                                </svg>
+                                <h4><span>Recibe la SIM</span></h4>
+                                <p> El envío puede tardar entre 2-3 días laborables (en la
+                                    penisula) y 5-7 (a Baleares y Canarias, Ceuta o Melilla).</p>
+                            </li>
+                            <li>
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="68px" height="68px">
+                                    <title>icon-unified-communication-mid</title>
+                                    <use xlink:href="#icon-unified-communication-mid"></use>
+                                </svg>
+                                <h4><span>Mi Vodafone</span></h4>
+                                <p>Podrás registrarte y hacer el seguimiento de tu pedido
+                                    y gestionar tus servicios desde la app de Vodafone.</p>
+                            </li>
+                        </ul>
+                    </div>
+                </section>
+                <div>
+                    <div vfms-data-js="_typeButtons">
+                        <button data-analytics-id="1500065153978-0260383921121" vfms-data-js="_newNumber" data-new-number="portability">Portabilidad</button>|
+                        <button data-analytics-id="1500065153978-6278299540032" vfms-data-js="_newNumber" data-new-number="newNumber">Nuevo
+                            Número</button>
+                    </div>
+                    <div>
+                        <h2>Tarifa Móvil Mini</h2>
+                        <ul>
+                            <li>
+                                <div>
+                                    <svg style="width: 28px; height: 60px;">
+                                        <title>icon3-mobile</title>
+                                        <use xlink:href="#icon3-mobile"></use>
+                                    </svg>
+                                </div>
+                                <div>
+                                    <p><span>4GB y 200
+                                            minutos</span></p>
+                                    <p>
+                                        + SMS ilimitados</p>
+                                </div>
+                            </li>
+                            <li>
+                                <div>
+
+                                    <p>Sin permanencia
+                                    </p>
+                                    <p><span>19,99€/mes</span>
+                                    </p>
+                                </div>
+                                <div>
+                                    <a data-overlay="popup-deco-porta" data-overlay-close="" aria-haspopup="dialog" data-analytics-product="movil;tarifa movil mini" data-analytics-id="1500065153978-1500065163087" vfms-data-js="_linkPortability" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1250861&amp;tcli=0&amp;tta=2" target="_parent">Lo quiero</a>
+
+
+                                    <a data-overlay="popup-deco-nuevo" data-overlay-close="" aria-haspopup="dialog" data-analytics-product="movil;tarifa movil mini" data-analytics-id="1500065153978-1500065163679" vfms-data-js="_linkNewNumber" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1250855&amp;tcli=0&amp;tta=2" target="_parent">Lo
+                                        quiero</a>
+                                </div>
+
+                            </li>
+                            <li>
+                                <a data-overlay="modal-legal" data-overlay-close="" aria-haspopup="dialog" data-analytics-id="1500065153978-2568880438230">Ver condiciones legales</a>
+
+                            </li>
+
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- STICKY TICKET MOBILE-->
+        <section vfms-data-show="show">
+            <div>
+                <div>
+                    <div>
+                        <span>32,99€<span>/mes</span></span>
+                    </div>
+                    <div>
+                        <a data-overlay="popup-deco-porta" data-overlay-close="" aria-haspopup="dialog" data-analytics-product="movil;tarifa movil mini" data-analytics-id="1500065153978-1500065163097" vfms-data-js="_linkPortability" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1250861&amp;tcli=0&amp;tta=2" target="_parent">Lo quiero</a>
+
+
+                        <a data-overlay="popup-deco-nuevo" data-overlay-close="" aria-haspopup="dialog" data-analytics-product="movil;tarifa movil mini" data-analytics-id="1500065153978-1500065163779" vfms-data-js="_linkNewNumber" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1250855&amp;tcli=0&amp;tta=2" target="_parent">Lo
+                            quiero</a>
+
+                    </div>
+                </div>
+        </div></section>
+    </main><button aria-hidden="false"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <title>Close</title>
+                        <use xlink:href="#icon3-close"></use>
+                    </svg></button><p>Condiciones Legales</p><h3>
+                    Condiciones de las tarifas móviles
+                </h3><p>Tarifas disponibles para nuevas altas, portabilidades, migración de
+                    prepago a contrato y cambios de tarifa tanto para Clientes particulares, como microempresas.
+                </p><table border="0" cellpadding="0" cellspacing="0" style="width:0px">
+                    <tbody>
+                        <tr>
+                            <td><strong>Mini</strong></td>
+                            <td>19,99€</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Ilimitada</strong></td>
+                            <td>32,99€</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Ilimitada Maxi</strong></td>
+                            <td>36,99€</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Ilimitada Total</strong></td>
+                            <td>47,99€</td>
+                        </tr>
+                    </tbody>
+                </table><h4>CONDICIONES DE LA PROMOCIÓN EN ILIMITADA
+                    MAXI E ILIMITADA TOTAL</h4><p>Oferta válida para altas nuevas de contrato, portabilidades de
+                    contrato y cambios de prepago a contrato móvil hasta el 13/10/2020. Descuento de 15€/mes durante 6
+                    meses en cuota de la tarifa de móvil ilimitada Maxi y descuento de 24€/mes durante 12 meses en cuota
+                    de la tarifa móvil Ilimitada Total.</p><p>Compromiso tarifa Ilimitada Maxi: de 6 meses en Vodafone con penalización por
+                    baja anticipada por importe máximo de hasta 90 euros en función del descuento aplicado y el tiempo
+                    que reste para el cumplimiento del compromiso. Compromiso Tarifa Ilimitada Total: 12 meses en
+                    Vodafone con penalización por baja anticipada por importe máximo de hasta 288 euros en función del
+                    descuento aplicado y el tiempo que reste para el cumplimiento del compromiso. Oferta no aplicable a
+                    clientes con una tarifa de contrato en Vodafone y no acumulable a otras ofertas de fijo o móvil.</p><p>Precio después de promoción: Tarifa móvil Ilimitada Maxi 36.99€, y Tarifa
+                    móvil Ilimitada Total 47.99€</p><h4>CONDICIONES DE LA PROMOCION DE PACKS DE TV EN TARIFA
+                    MÓVIL ILIMITADA TOTAL</h4><p>Oferta válida para altas nuevas, portabilidades, y clientes existentes de
+                    móvil sin Vodafone Televisión hasta el 13/10/2020 en tarifa móvil Ilimitada Total. Condiciones de la
+                    promoción: Descuento de 10€/mes durante 12 meses en cuota de Pack Seriefans, Pack Serielovers o Pack
+                    Cinefans al contratarlo junto con la tarifa de móvil Ilimitada Total. Sin compromiso de permanencia.
+                    En caso de baja del pack de TV no se aplicará penalización alguna, pero dejará de aplicarse el
+                    descuento de 10€ a partir del mes siguiente a la baja del pack de TV. Precio packs TV con promoción:
+                    Seriefans 0€/mes, Serielovers 4€/mes, Cinefans 2€/mes. Precio de los Packs fuera de promoción: Pack
+                    Seriefans 10€/mes, Pack Serielovers 14€/mes y Pack Cinefans 12€/mes.</p><p>Condiciones de los Packs de TV: Sin cuota de alta. HBO España incluido en
+                    Seriefans y Serielovers y Amazon Prime solamente incluido en Serielovers. Filmin incluido en
+                    Cinefans. Una vez dado de alta los paquetes de TV es necesario activar HBO España, Amazon Prime y
+                    Filmin en vodafone.es/entretenimiento. La baja de cualquiera de los packs de TV implica la
+                    cancelación del servicio de HBO España, Amazon Prime y/o Filmin respectivamente. Amazon Prime tiene
+                    un precio de 3,99€/mes (sujeto a cambios) fuera de pack. Amazon.com, Inc. y sus afiliados no son
+                    sponsor de esta promoción. Todas las marcas Amazon ®, TM &amp; © son propiedad intelectual de
+                    Amazon.com, Inc. o de sus afiliados. ©2020 Home Box Office, Inc. Todos los derechos reservados. HBO®
+                    y sus canales y servicios asociados a su marca son propiedad de Home Box Office, Inc.</p><p><span>La tarifa Vodafone Mini incluye:</span></p><ul>
+                    <li>200 minutos con cualquier operador nacional las 24horas.Consumidos los 200 min, aplica el precio
+                        de 0,25€/min y 0,30€ de establecimiento de llamada.</li>
+                    <li>SMS ilimitados con cualquier operador nacional</li>
+                    <li>4GB de navegación.</li>
+                    <li>Roaming incluido en Europa, Reino Unido y EE.UU con las mismas condiciones de la tarifa.</li>
+                    <li>Servicio Secure Net para usar tu Smartphone con seguridad navegar sin riesgos en Internet en la
+                        red móvil y WiFi de Vodafone, 1 euro al mes por línea (gratis los 3 primeros meses).</li>
+                </ul><p><span>La tarifa Vodafone Ilimitada incluye:</span></p><ul>
+                    <li>Llamadas y SMS ilimitados con cualquier operador nacional las 24 horas.</li>
+                    <li>Datos ilimitados de navegación a una velocidad de 2Mbps.</li>
+                    <li>Roaming incluido en Europa, Reino Unido y EE.UU: llamadas y SMS ilimitados y 16GB de navegación.
+                    </li>
+                    <li>Servicio Secure Net para usar tu Smartphone con seguridad navegar sin riesgos en Internet en la
+                        red móvil y WiFi de Vodafone, 1 euro al mes por línea (gratis los 3 primeros meses).</li>
+                </ul><p><span>La tarifa Vodafone Ilimitada Maxi incluye:</span></p><ul>
+                    <li>Llamadas y SMS ilimitados con cualquier operador nacional las 24 horas.</li>
+                    <li>Datos ilimitados de navegación a una velocidad de 10Mbps</li>
+                    <li>Roaming incluido en Europa, Reino Unido y EE.UU: llamadas y SMS ilimitados y 18GB de navegación.
+                    </li>
+                    <li>Servicio Secure Net para usar tu Smartphone con seguridad navegar sin riesgos en Internet en la
+                        red móvil y WiFi de Vodafone, 1 euro al mes por línea (gratis los 3 primeros meses).</li>
+                </ul><p><span>La tarifa Vodafone Ilimitada Total incluye:</span></p><ul>
+                    <li>Llamadas y SMS ilimitados con cualquier operador nacional las 24 horas.</li>
+                    <li>Datos ilimitados de navegación a máxima velocidad 5G.</li>
+                    <li>Roaming incluido en Europa, Reino Unido y EE.UU: llamadas y SMS ilimitados y 23GB de navegación.
+                    </li>
+                    <li>Servicio Secure Net para usar tu Smartphone con seguridad navegar sin riesgos en Internet en la
+                        red móvil y WiFi de Vodafone, 1 euro al mes por línea (gratis los 3 primeros meses).</li>
+                </ul><h4>CARACTERISTICAS COMUNES A TODAS LAS TARIFAS
+                    COMUNICADAS: </h4><ul>
+                    <li>Todos los servicios de llamadas contarán con calidad de voz HD siempre que la línea destinataria
+                        de la llamada sea también Vodafone.</li>
+                    <li>El servicio móvil permite Voz sobre IP.</li>
+                    <li>Excluidos del precio de la tarifa los servicios Dicta SMS, Rellamada, MMS y SMS/MMS Premium.
+                    </li>
+                    <li>Los minutos incluidos en todas las tarifas excluyen las llamadas a numeraciones especiales de
+                        tarificación adicional (como los 700, 901 o 902), llamadas a inteligencia de red, llamadas
+                        internacionales, llamadas a números guía (como los 118) y las llamadas no utilizadas para la
+                        identificación de usuarios finales.</li>
+                    <li>Roaming incluido en UE, EE.UU, Islandia, Noruega, Liechtenstein, Suiza, Turquía, Vaticano,
+                        Kosovo y Mónaco (Zona1).Las llamadas en roaming realizadas y recibidas, SMS enviados y GB
+                        consumidos en estos destinos se contabilizan en la tarifa nacional sin coste adicional.
+                        Incluidas las llamadas realizadas con origen y destino en cualquier país de los indicados.
+                        Llamadas realizadas desde zona 1 a cualquier destino, fuera de zona 1 ,se tarifica según la
+                        tarifa Vodafone World. Más información y política de uso razonable en Vodafone.es/roaming.</li>
+                    <li>Superados los GB incluidos en Roaming para las tarifas ilimitada, Maxi y Total el precio de cada
+                        Giga adicional es de 4,24€/GB.</li>
+                    <li>Roaming en zona 2: Las tarifas de móvil tienen activada la Tarifa de Viaje Mundo con la que los
+                        clientes de la tarifa Mini disfrutará de 20 minutos, 20 SMS y 2GB al día en Roaming en sus
+                        viajes en Zona 2 por 15€/día de uso. Los clientes de las tarifas Ilimitada, Ilimitada Maxi e
+                        Ilimitada Total disfrutarán de los minutos y SMS ilimitados y 2GB al día en roaming en sus
+                        viajes en zona 2 por 15€/día de uso. Incluye las llamadas y sms realizados desde zona 2 a
+                        cualquier destino de cualquier zona.</li>
+                    <li>En la tarifa Mini, superados los datos de la tarifa, se podrá seguir navegando a máxima
+                        velocidad activando el servicio +megas, por 4€ cada 200MB adicionales que consuma (hasta un
+                        máximo de 1GB/mes, 20€), después la velocidad se reduce. Si el cliente no dispone de este
+                        servicio, superados los datos de la tarifa, la velocidad se reduce. Si el cliente dispone de
+                        este servicio y se cambia a una tarifa Mini o Extra el mismo se mantiene activado. Baja del
+                        servicio +Megas a través de Mi Vodafone o llamando al 22123.</li>
+                    <li>Las Condiciones de uso del servicio Secure Net están disponibles en: <a href="www.vodafone.es/tycsecurenet" target="_new">Securenet</a>. El cliente se puede dar de
+                        baja en la suscripción de Secure Net en el momento que desee desde la app de Mi Vodafone o
+                        llamando al 22123.Se podrá disfrutar una única vez de la promoción de Secure Net 3 meses gratis.
+                    </li>
+                    <li>Los servicios que incluyen todas las tarifas están sujetos a la política de uso razonable de
+                        Vodafone que comprende el uso no abusivo o para fines razonables teniendo en cuenta la causa y/o
+                        fin por el que Vodafone pone a disposición de los servicios en el mercado.(disponible en <a href="www.vodafone.es/conocenos.es/Vodafone-españa/quienes-somos/legal-y-regulatorio/política-de-uso/">www.vodafone.es/conocenos.es/Vodafone-españa/quienes-somos/legal-y-regulatorio/política-de-uso/.
+                        </a>".</li>
+                    <li>Cuotas mensuales prorrateables en el alta y en la baja.</li>
+                    <li>En el caso de las tarifas Vodafone Mini e Ilimitada Total la navegación 5G es a una velocidad de
+                        bajada de hasta 1Gbps y con una velocidad de subida de hasta 150Mbps. La velocidad está
+                        condicionada al acceso a tecnología 5G para lo que será necesario disponer de una tarifa
+                        comercializable de contrato con terminal móvil compatible con 5G dentro de las zonas de
+                        cobertura Vodafone 5G (actualmente en estas ciudades: Madrid, Barcelona, Valencia, Sevilla,
+                        Málaga, Bilbao, Zaragoza, Pamplona, Vitoria, San Sebastián, Santander, Logroño, A Coruña, Vigo,
+                        Gijón, Badajoz, Murcia, Valladolid, Alicante, Palma, y Benidorm). En caso contrario, la
+                        velocidad máxima será la que permita la tecnología correspondiente.</li>
+                    <li>Condiciones de permanencia: si existiera y el cliente se da de baja dentro de un periodo de
+                        compromiso, deberá pagar a Vodafone en concepto de penalización por incumplimiento la cantidad
+                        que corresponda en función del tiempo que reste para cumplir el compromiso adquirido hasta el
+                        máximo del beneficio obtenido por el cliente. Compatible con resto de Vodafone Pass.</li>
+                </ul><h4>VODAFONE ONENUMBER: CONDICIONES DEL SERVICIO
+                </h4><p>Para las tarifas Mini, Ilimitada, Ilimitada Maxi, Ilimitada Total, One
+                    Ilimitada, One Ilimitada Maxi y One Ilimitada Total, el precio es de 5€/mes por cada dispositivo que
+                    tenga activado el servicio, con el primer mes gratis. El servicio incluye la emisión y recepción de
+                    llamadas, mensajes y navegación desde cualquiera de los dispositivos adicionales (Máx 4). Para los
+                    dispositivos que permitan navegación, esta podrá llevarse a cabo hasta alcanzar los Gigas incluidos
+                    en la tarifa contratada por el cliente en caso de que estos sean menos de 10GB y con un máximo de
+                    10GB por dispositivo y mes para el resto de tarifas.</p><p>Consulta el resto de condiciones legales en: <a href="https://www.vodafone.es/c/particulares/es/mas-con-vodafone/objetos-conectados/vodafone-onenumber/" target="_new">https://www.vodafone.es/c/particulares/es/mas-con-vodafone/objetos-conectados/vodafone-onenumber/</a>.
+                </p><p>Vodafone TV sin decodificador</p><p>Más información de condiciones legales en: <a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/television/" target="_new">https://www.vodafone.es/c/particulares/es/productos-y-servicios/television/</a>.
+                </p><p>Líneas adicionales</p><p>Más información de condiciones legales en: <a href="www.vodafone.es/c/particulares/es/productos-y-servicios/movil/contrato/mas-lineas/www.vodafone.es/c/particulares/es/productos-y-servicios/movil/contrato/mas-lineas/" target="_new">www.vodafone.es/c/particulares/es/productos-y-servicios/movil/contrato/mas-lineas/www.vodafone.es/c/particulares/es/productos-y-servicios/movil/contrato/mas-lineas/</a>.
+                </p><p>Nota: Los precios recogidos en esta comunicación están expresados con el IVA
+                    aplicable en Península y Baleares. En Canarias, Ceuta y Melilla, los precios resultarán de aplicar
+                    el porcentaje impositivo correspondiente a los precios sin IVA incluidos en esta comunicación.</p><div>
+            </div>

@@ -1,0 +1,49 @@
+// CSS del microsite
+.vfes-ms-content{
+    .vfms-popup{
+        width: 91%;
+        background-image: url('https://www.vodafone.es/c/statics/imagen/01-fondo-pop-up-mobile.png');
+        background-size: cover;
+        background-position: bottom;
+        background-repeat: no-repeat;
+        border-radius: 6px 6px 0 0;
+        padding: 0 15px;
+        height: 500px;
+        position: fixed;
+        bottom: 0;
+
+        .vfms-close{
+            position: absolute;
+            right: 20px;
+            top: 20px;
+        }
+
+        .vfes-layout {
+            padding-top: 30px;
+        }
+
+        &-itemblock{
+            font-size: 32px;
+        }
+
+        .vfes-button{
+            height: 44px;
+            font-size: 18px;
+        }
+
+    }
+    @media all and (min-width: 640px) {
+        display: none;
+    }
+}
+.vfms-overlay {
+    background-color: rgba(0, 0, 0, 0.85);
+    height: 100vh;
+    position: fixed;
+    min-height: 100vh;
+    width: 100%;
+    z-index: 3;
+    @media all and (min-width: 640px) {
+        display: none;
+    }
+}

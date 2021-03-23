@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="84px" height="84px" viewBox="0 0 84 84" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>connection-icon</title>
+    <g id="Landing-Venta" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="LP_Venta-Note20+Watch3---Móvil---Desktop" transform="translate(-1048.000000, -1429.000000)">
+            <g id="Group-2" transform="translate(50.000000, 1406.000000)">
+                <g id="1" transform="translate(899.000000, 0.000000)">
+                    <g id="Group" transform="translate(76.000000, 0.000000)">
+                        <g id="broadband-or-wifi-hi-dark" transform="translate(23.000000, 23.000000)">
+                            <rect id="Rectangle" x="0" y="0" width="84" height="84"></rect>
+                            <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="7" y="7" width="70" height="70" rx="35"></rect>
+                            <g id="fa4a42bd-b59d-43ff-8dce-28a6df31c2d2" transform="translate(38.500000, 48.125000)" fill="#4A4D4E" fill-rule="nonzero">
+                                <circle id="042280e8-da1c-4a0b-be37-c1481f633cb8" cx="3.5" cy="3.5" r="3.5"></circle>
+                            </g>
+                            <path d="M23.699375,34.724375 C28.5514902,29.867899 35.1349886,27.1391923 42,27.1391923 C48.8650114,27.1391923 55.4485098,29.867899 60.300625,34.724375" id="d969ffd8-428f-47e6-88e9-3e3e607e29f4" stroke="#E60000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M28.9975,39.375 C32.4643386,35.9059001 37.1677381,33.9567899 42.0721875,33.9567899 C46.9766369,33.9567899 51.6800364,35.9059001 55.146875,39.375" id="370c27c9-583f-45c0-a022-02c3e872fbb5" stroke="#E60000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M34.44,43.39125 C38.638026,39.2007905 45.436349,39.2007905 49.634375,43.39125" id="7b9c047b-d52e-4d6e-9d4e-dc33ed15caf6" stroke="#E60000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M42,76.125 L42,76.125 C22.8618648,76.0723835 7.29333407,60.6984594 7,41.5625 C7,41.706875 7,41.85125 7,42 L7,42 C7.05765902,61.3060327 22.6939673,76.942341 42,77 L42,77 C61.3060327,76.942341 76.942341,61.3060327 77,42 L77,42 C77,41.85125 77,41.706875 77,41.5625 C76.7066659,60.6984594 61.1381352,76.0723835 42,76.125 Z" id="Path" fill="#000000" fill-rule="nonzero" opacity="0.06"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

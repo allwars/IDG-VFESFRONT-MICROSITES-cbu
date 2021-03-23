@@ -1,0 +1,326 @@
+// CSS del microsite
+.vfes-ms-content{
+    .vfms-faqs-link{
+        text-decoration: underline;
+    }
+    .vfes-layout__item {
+        color: #333;
+    }
+    .vfms-banner{
+        background-image: url("../img/bg-preventa.jpg");
+        background-size: cover;
+        padding: 38px 0;
+        .vfes-title--1{
+            font-size: 28px;
+        }
+        .vfes-title--4{
+            font-size: 20px;
+            margin-bottom: 5px;
+        }
+    }
+
+    .vfms-text{
+        padding-bottom: 0;
+
+
+        .vfes-title{
+            padding-bottom: 17px;
+        }
+    }
+    .vfms-large {
+        width: 100%;
+    }
+    .vfms-mobile{
+        padding-top: 0;
+        &-card{
+            padding: 20px;
+        }
+
+        .vfes-tag-label__outstanding{
+            left:0;
+            display: flex;
+
+            .vfms-icon{
+                width: 20px;
+                height: 20px;
+            }
+        }
+
+        .vfes-tag-label::after {
+            left: 0;
+        }
+        
+        .vfes-link{
+            text-align: right;
+            font-size: 18px;
+        }
+
+        &-img{
+            position: relative;
+            display: block;
+            margin: 0 auto;
+            padding: 0 0 21px 0;
+            max-width: 200px;
+        }
+
+        &-prices{
+            text-align: center;
+            padding: 15px 0px;
+
+            &-big{
+                font-size: 20px;
+            }
+        }
+
+
+        .vfms-flex{
+            display: flex;
+            width: 100%;
+            border-top: 1px solid #ccc;
+            padding: 12px 0 16px 0;
+            justify-content: space-around;
+
+            &:nth-child(3){
+                border-bottom: 1px solid #ccc;
+            }
+
+            &-left{
+                display: flex;
+                &__title{
+                    padding-left: 9px;
+                }
+            }
+            &-right{
+
+                p{
+                    margin-bottom: 0;
+                }
+                display: flex;
+                flex-direction: column;
+                text-align: right;
+            }
+
+    
+        }
+
+        .vfms-link{
+            padding-top: 12px;
+            font-size: 16px;
+            display: block;
+        }
+
+        
+    }
+    
+    .vfms-5g{
+        background-color: #000;
+
+        .vfes-title{
+            padding: 25px 0 25px 0;
+        }
+
+    }
+
+    .vfms-faqs{
+        .vfes-title{
+            padding: 0 0 20px 0;
+        }
+    }
+
+    @media screen and (min-width: 640px) {
+        .vfms-banner{
+            padding: 50px 0;
+            .vfes-title--1{
+                font-size: 40px;
+            }
+
+            .vfes-title--4{
+                font-size: 24px;
+            }
+        }
+        .vfms-text{
+            .vfes-title{
+                font-size: 34px;
+            }
+        }
+        .vfms-mobile{
+            &-img{
+                max-width: 200px;
+            }
+
+            &-prices{
+                &-big{
+                    font-size: 23px;
+                }
+            }
+    
+            .vfms-flex{
+                justify-content: space-between;
+            }
+        }
+
+        .vfes-layout {
+            padding-top: 10px;
+        }
+        
+        .vfms-5g{
+            .vfms-5g-mobiles{
+                margin: 0 auto;
+                display: block;
+                position: relative;
+            }
+
+            .vfes-title{
+                font-size: 24px;
+                padding: 25px 0 20px 0;
+            }
+
+            .vfes-button{
+                margin: 32px 0;
+            }
+        }
+    }
+    
+    @media screen and (min-width: 970px) {
+        .vfms-banner{
+            padding: 50px 0;
+            .vfes-title--1{
+                font-size: 56px;
+            }
+
+            .vfes-title--4{
+                font-size: 28px;
+            }
+        }
+        .vfms-text{
+
+            &-large{
+                font-size: 20px;
+            }
+            .vfes-title{
+                font-size: 40px;
+            }
+
+            .vfes-paragraph{
+                max-width: 880px;
+                margin: 0 auto;
+                display: block;
+            }
+        }
+        .vfms-mobile{
+            &-img{
+                min-width: 87px;
+            }
+
+            &-prices{
+                min-height: 185px;
+                &-big{
+                    font-size: 23px;
+                }
+            }
+
+            .vfms-flex{
+                justify-content: space-between;
+            }
+    
+        }
+
+      .vfes-layout {
+          padding-top: 10px;
+      }
+
+        .vfms-5g{
+            padding: 20px 0 0 0;
+
+            .vfms-5g-mobiles{ 
+                position: absolute;
+                bottom: 0;
+            }
+
+            .vfes-title{
+                font-size: 24px;
+                padding: 25px 0 20px 0;
+            }
+
+            .vfes-button{
+                margin: 32px 0;
+            }
+
+            &-flex{
+                display: flex;
+            }
+        }
+    }
+
+}
+
+.vfes-modal {
+    height: auto;
+    background-color: rgba(0,0,0,0.25);
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+
+    &__content {
+        margin-top: -5px;
+    }
+    .vfms-form--container {
+    width: 90%;
+    margin: 0 auto;
+    }
+    .vfms-text--container {
+        width:90%;
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+    .button-privacy{
+        display: block;
+    }
+    .vfms-input{  
+        margin-bottom:15px;
+    }
+    .vfms-input-left{
+        margin-left:10px;
+    }
+
+    .vfms-device-title{
+        margin-bottom: 5px;
+    }
+    .vfms-flex {
+        display: flex;
+        margin-left:10px;
+        padding:0;
+        
+    }
+    .vfms-large {
+        width: 100%;
+    }
+    @media screen and (min-width: 640px) {
+         &__content {
+            margin-top: 0;
+        }
+        .vfes-modal__item {
+            max-width: 500px;
+        }
+        .vfes-modal__head {
+            padding-top: 30px;
+            margin-bottom: -10px;
+        }   
+        .vfms-form--container {
+            max-width: 300px;
+        }
+    }
+    @media screen and (min-width: 970px) {
+        .vfes-modal__item {
+            max-width: 700px;
+        }
+    }
+}
+
+
+
+    

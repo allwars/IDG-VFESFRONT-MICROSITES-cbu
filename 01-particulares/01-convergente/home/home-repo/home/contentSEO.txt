@@ -1,0 +1,257 @@
+<h1>Móvil + Fibra</h1><h2>Los únicos con <span>GB
+                        ilimitados</span> y <span>la TV con más contenidos</span></h2><div>
+                
+            </div><path fill="#f4f4f4" d="M 0 85.2514 C 315.313 86.2845 443.806 157.51 881.113 50.7109 C 1317.15 -55.9125 1318.42 33.4285 1536.31 69.3087 C 1818.67 115.154 2156.92 186.209 2560 85.2515 V 231.253 L 0 231.252 V 85.2514 Z"><animate repeatCount="indefinite" fill="freeze" attributeName="d" dur="10s" values="M0 25.9086C277 84.5821 433 65.736 720 25.9086C934.818 -3.9019 1214.06 -5.23669 1442 8.06597C2079 45.2421 2208 63.5007 2560 25.9088V171.91L0 171.91V25.9086Z; M0 86.3149C316 86.315 444 159.155 884 51.1554C1324 -56.8446 1320.29 34.1214 1538 70.4063C1814 116.407 2156 188.408 2560 86.315V232.317L0 232.316V86.3149Z; M0 53.6584C158 11.0001 213 0 363 0C513 0 855.555 115.001 1154 115.001C1440 115.001 1626 -38.0004 2560 53.6585V199.66L0 199.66V53.6584Z; M0 25.9086C277 84.5821 433 65.736 720 25.9086C934.818 -3.9019 1214.06 -5.23669 1442 8.06597C2079 45.2421 2208 63.5007 2560 25.9088V171.91L0 171.91V25.9086Z"></animate></path><ul>
+                        <li>
+                            <div>
+                                <svg style="width: 28px; height: 68px;">
+                                    <title>icon3-mobile</title>
+                                    <use xlink:href="#icon3-mobile"></use>
+                                </svg>
+                            </div>
+                            <div>
+                                <p><span>GB y minutos ilimitados</span></p>
+                                <p>
+                                    Velocidad media </p>
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <svg style="width: 40px; height: 68px;">
+                                    <title>icon3-router</title>
+                                    <use xlink:href="#icon3-router"></use>
+                                </svg>
+                            </div>
+                            <div>
+                                <p><span>100Mbps Fibra</span></p>
+                                <p>+ llamadas ilimitadas en fijo
+                                </p>
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <svg style="width: 28px; height: 68px;">
+                                    <title>icon3-tv</title>
+                                    <use xlink:href="#icon3-tv"></use>
+                                </svg>
+                            </div>
+                            <div>
+                                <p><span>Pack TV Seriefans GRATIS</span></p>
+                                <p>con HBO España y 98 canales
+                                </p>
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <p><span>50% dto. 3 meses.</span></p>
+                                <p>Permanencia 12 meses</p>
+                                <p><span>64,99€/mes</span></p>
+                                <p><span>31,99€/mes</span></p>
+                            </div>
+                            <div>
+                                <a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/2/vodafone-one/paquete-3/" target="_parent" data-analytics-product="movil+fibra;vodafone one ilimitada">Más info <span>Más info </span></a>
+                            </div>
+                        </li>
+                    </ul><ul>
+                        <li>
+                            <div>
+                                <svg style="width: 28px; height: 68px;">
+                                    <title>icon3-mobile</title>
+                                    <use xlink:href="#icon3-mobile"></use>
+                                </svg>
+                            </div>
+                            <div>
+                                <p><span>GB y minutos ilimitados</span></p>
+                                <p>
+                                    Velocidad alta </p>
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <svg style="width: 40px; height: 68px;">
+                                    <title>icon3-router</title>
+                                    <use xlink:href="#icon3-router"></use>
+                                </svg>
+                            </div>
+                            <div>
+                                <p><span>600Mbps Fibra</span></p>
+                                <p>+ llamadas ilimitadas en fijo
+                                </p>
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <svg style="width: 28px; height: 68px;">
+                                    <title>icon3-tv</title>
+                                    <use xlink:href="#icon3-tv"></use>
+                                </svg>
+                            </div>
+                            <div>
+                                <p><span>Pack TV Seriefans GRATIS</span></p>
+                                <p>con HBO España y 98 canales
+                                </p>
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <p><span>50% dto. 3 meses.</span></p>
+                                <p>Permanencia 12 meses</p>
+                                <p><span>84,99€/mes</span></p>
+                                <p><span>41,99€/mes</span></p>
+                            </div>
+                            <div>
+                                <a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/2/vodafone-one/paquete-4/" target="_parent" data-analytics-product="movil+fibra;vodafone one ilimitada super">Más info <span>Más info </span></a>
+                            </div>
+                        </li>
+                    </ul><ul>
+                        <li>
+                            <div>
+                                <svg style="width: 28px; height: 68px;">
+                                    <title>icon3-mobile</title>
+                                    <use xlink:href="#icon3-mobile"></use>
+                                </svg>
+                            </div>
+                            <div>
+                                <p><span>GB y minutos ilimitados</span></p>
+                                <p>
+                                    Velocidad máxima </p>
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <svg style="width: 40px; height: 68px;">
+                                    <title>icon3-router</title>
+                                    <use xlink:href="#icon3-router"></use>
+                                </svg>
+                            </div>
+                            <div>
+                                <p><span>1Gbps Fibra</span></p>
+                                <p>+ llamadas ilimitadas en fijo
+                                </p>
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <svg style="width: 28px; height: 68px;">
+                                    <title>icon3-tv</title>
+                                    <use xlink:href="#icon3-tv"></use>
+                                </svg>
+                            </div>
+                            <div>
+                                <p><span>Pack TV Seriefans GRATIS</span></p>
+                                <p>con HBO España y 98 canales
+                                </p>
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <p><span>50% dto. 3 meses.</span></p>
+                                <p>Permanencia 12 meses</p>
+                                <p><span>109,99€/mes</span></p>
+                                <p><span>54,99€/mes</span></p>
+                            </div>
+                            <div>
+                                <a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/2/vodafone-one/paquete-5/" target="_parent" data-analytics-product="movil+fibra;vodafone one ilimitada total">Más info <span>Más info </span></a>
+                            </div>
+                        </li>
+                    </ul><h2>Si no quieres Móvil + Fibra ilimitado</h2><h3><span>Descubre nuestras tarifas básicas</span></h3><ul>
+                            <li>
+                                <div>
+                                    <svg style="width: 28px; height: 68px;">
+                                        <title>icon3-mobile</title>
+                                        <use xlink:href="#icon3-mobile"></use>
+                                    </svg>
+                                </div>
+                                <div>
+                                    <p><span>8GB y minutos ilimitados</span></p>
+                                </div>
+                            </li>
+                            <li>
+                                <div>
+                                    <svg style="width: 40px; height: 68px;">
+                                        <title>icon3-router</title>
+                                        <use xlink:href="#icon3-router"></use>
+                                    </svg>
+                                </div>
+                                <div>
+                                    <p><span>100Mbps Fibra</span></p>
+                                    <p>+ llamadas ilimitadas en fijo
+                                    </p>
+                                </div>
+                            </li>
+                            <li>
+                                <div>
+                                    <p><span>50% dto. 3 meses.</span></p>
+                                    <p>Permanencia 12 meses</p>
+                                    <p><span>57,99€/mes</span></p>
+                                    <p><span>28,99€/mes</span></p>
+                                </div>
+                                <div>
+                                    <a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/2/vodafone-one/paquete-2/" target="_parent" data-analytics-product="movil+fibra;vodafone one extra">Más info <span>Más info</span></a>
+                                </div>
+                            </li>
+                        </ul><ul>
+                            <li>
+                                <div>
+                                    <svg style="width: 28px; height: 68px;">
+                                        <title>icon3-mobile</title>
+                                        <use xlink:href="#icon3-mobile"></use>
+                                    </svg>
+                                </div>
+                                <div>
+                                    <p><span>4GB y 200 minutos</span></p>
+                                </div>
+                            </li>
+                            <li>
+                                <div>
+                                    <svg style="width: 40px; height: 68px;">
+                                        <title>icon3-router</title>
+                                        <use xlink:href="#icon3-router"></use>
+                                    </svg>
+                                </div>
+                                <div>
+                                    <p><span>100Mbps Fibra</span></p>
+                                    <p>+ llamadas ilimitadas en fijo
+                                    </p>
+                                </div>
+                            </li>
+                            <li>
+                                <div>
+                                    <p>Sin permanencia</p>
+                                    <p><span>47,99€/mes</span></p>
+                                </div>
+                                <div>
+                                    <a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/2/vodafone-one/paquete-1/" target="_parent" data-analytics-product="movil+fibra;vodafone one mini">Más info <span>Más info</span></a>
+                                </div>
+                            </li>
+                        </ul><h3>Tráete tus líneas a Vodafone al 50% dto</h3><p>Añade una o más líneas adicionales a tu contrato y disfruta del descuento</p><h2>Vodafone One: tarifas con Móvil y Fibra</h2><ul>
+                    <li>
+                        
+                        <h3>Red 5G</h3>
+                        <p>Navega a máxima velocidad con 5G. Descarga una serie en segundos, juega online a tiempo real y disfruta de una calidad mayor de vídeo y voz.</p>
+                    </li>
+                    <li>
+                        
+                        <h3>Vodafone One</h3>
+                        <p>Móvil, fibra y fijo incluido. Y el pack de TV aparte para que puedas configurar tu televisión eligiendo tu contenido favorito.</p>
+                    </li>
+                    <li>
+                        
+                        <h3>Fibra óptica</h3>
+                        <p>La instalación al igual que el módem, es gratuita y rápida pero no tanto como la fibra con la que podrán conectarse sin perder velocidad varios dispositivos a la vez. Además, al ser fibra óptica simétrica tendrás los mismos megas de subida que de bajada.</p>
+                    </li>
+                    <li>
+                        
+                        <h3>Paquetes Vodafone</h3>
+                        <p>Configura tu paquete para que incluya fibra, móvil y televisión. Añade las líneas que necesites y elige el pack de televisión que se adapte a tus gustos.</p>
+                    </li>
+                </ul><h2>¡Con Vodafone One tendrás acceso a las mejores <span>ofertas de tarifas de fibra y móvil!</span></h2><p>Habla, navega o disfruta de vídeos en streaming sin ataduras y a la máxima velocidad con nuestras tarifas de <span>datos ilimitados.</span> Con la instalación de nuestro modem, gratuita y rápida, podrás conectar varios dispositivos al mismo tiempo.
+                            En Vodafone hemos incluído el <span>5G en todas nuestras tarifas</span> para que toda la familia pueda disfrutar del mejor entretenimiento con la máxima velocidad y estabilidad. ¡Descubre nuestras ofertas y disfruta de un <span>50% de descuento durante 3 meses</span> en la mayoría de nuestras tarifas!
+                            Además, <span>de regalo el Pack Seriefans con HBO España</span> con nuestras tarifas ilimitadas.</p><h3>Preguntas Frecuentes</h3><button aria-expanded="false" aria-controls="accordion-content-0">Cuando hablan de datos ilimitados, ¿existe algún límite? ¿y en Roaming?</button><p>
+                                            No existe un límite siempre que el uso comprenda en primer lugar el uso personal para fines del uso particular y para fines razonables. Así mismo, el uso responsable y no fraudulento En Roaming; Las tarifas ilimitadas en datos disfrutaran de minutos y mensajes ilimitados y Gigas limitados cuando viajen por Europa, Reino Unido y EE.UU. sin coste adicional. Los Gigas serán diferentes en función del tipo de tarifa. La tarifa Vodafone Ilimitada incluirá 16 GB, la tarifa Vodafone Ilimitada Súper incluirá 17 GB y la Vodafone Ilimitada Total de 19 GB. Superados los Gigas incluidos en roaming el precio del Giga será de 5,4€/GB.
+                                        </p><button aria-expanded="false" aria-controls="accordion-content-0">¿Cómo puedo disfrutar del 5G? </button><p>La conexión 5G ya es una realidad en España para clientes Vodafone, para ello solo necesitarás un teléfono móvil 5G.
+                                        </p><button aria-expanded="false" aria-controls="accordion-content-0">¿Qué es el 5G?</button><p>
+                                            La red 5G o red de quinta generación, es una tecnología de red inalámbrica evolución de la red 4G+ LTE cuyas principales ventajas son alcanzar mayor velocidad y cobertura además de un menor uso de batería y latencia.
+                                        </p><button aria-expanded="false" aria-controls="accordion-content-0">¿La nueva oferta tiene una permanencia asociada? ¿Si un cliente actualiza sus servicios Vodafone a la nueva oferta, adquiere algún tipo de permanencia? </button><p>
+                                            Las tarifas no incluyen ningún compromiso de permanencia en Vodafone. A menos que el cliente realice alguna contratación adicional vinculada a la adquisición de un dispositivo móvil o tenga alguna política especial de descuento. Los clientes que contraten algún producto convergente que requiera de instalación de fibra, esta instalación será gratuita si el cliente permanece en Vodafone 6 meses. Si se da de baja antes tendrá un coste de 150€.
+                                        </p>

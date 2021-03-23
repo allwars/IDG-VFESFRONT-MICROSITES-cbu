@@ -1,0 +1,9 @@
+<div data-spritesheet="sprite.v3.svg"></div><div data-spritesheet="sprite.mid"></div><p>BLACK FRIDAY </p><p>¡Hazte Súper Ilimitable al <span>50% de descuento</span>!</p><p>y disfruta de <span> datos</span> y <span> llamadas ilimitadas</span></p><div>
+					
+				</div><ul>
+			<li><a title="Item 1" target="_blank" href="https://www.vodafone.es/c/particulares/es/"> Home</a></li>
+			<li><a title="Item 2" target="_self" href="#"> Black Friday</a></li>
+		</ul><p>Llévate Móvil + Fibra + TV al <span> 50% dto. 6 meses</span></p><p>con <span> HBO España y Amazon Prime Video</span></p><p>Datos ilimitados 5G</p><p>Con tu móvil podrás conectarte todo el mes a la misma velocidad con gigas ilimitados.</p><p>100Mbps simétricos</p><p>Fibra sin cortes ni interrupciones. Es simétrica, misma velocidad de subida y descarga de archivos.</p><p>Pack Serielovers</p><p>Con HBO España, Amazon Prime Video y mucho más…</p><p><span> 40,99€</span>/mes</p><p>durante 6 meses, después 84,99€/mes</p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?tti=7&amp;tta=1&amp;tcli=0&amp;tcon=0&amp;ec=0&amp;tal=2&amp;sap=11111&amp;m=0&amp;tar=168444494" target="_blank" title="lo quiero">
+													Lo quiero
+													<span>: Lo quiero: Móvil + Fibra + TV al 50% dto. 6 meses</span>
+												</a><a href="https://www.vodafone.es/c/black-friday-condiciones-legales/" title="Ver condiciones legales" target="_blank" tabindex="0">Ver condiciones legales</a>

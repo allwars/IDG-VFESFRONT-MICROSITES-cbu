@@ -1,0 +1,265 @@
+// CSS del microsite
+
+.vfes-carousel{
+    opacity:1!important;
+}
+.vfes-card-shop__offer{
+    a{
+        text-decoration: none;
+    }
+}
+
+.vfes-ms-content{
+    .vfms-nomargin {
+        @media screen and (min-width: 2014px) {
+            height: 300px;
+        }
+    }
+    .vfms-align--text {
+        text-align: center;
+        @media screen and (min-width: 1024px) {
+            text-align: left;
+        }
+    }.measurec2c {
+        text-decoration: none;
+    }
+    .vfms-button {
+        margin: 20px 0;
+    }
+    .breadcrumbs-layout {
+        padding: 0;
+    }
+    .vfes-card-shop__offer {
+        h2 {
+            margin-bottom: 0;
+        }
+    }
+    .vfms-carousel {
+        padding-top: 40px;
+    }
+    .header-background {
+        background-color: #000;
+        color: #fff;
+
+        & img {
+            vertical-align: bottom;
+        }
+
+        .hide--sm {
+            vertical-align: middle;
+
+            .brand-logo {
+                margin-bottom: 18px;
+                width: 140px;
+
+
+            }
+
+            .vfes-1\/2 {
+                vertical-align: middle;
+                padding-left: 24px;
+            }
+
+            .vfes-layout__item:last-of-type {
+                vertical-align: middle;
+                padding-top: 48px;
+            }
+        }
+
+        .hide--lrg {
+            .brand-logo {
+                margin-top: 24px;
+                width: 100px;
+            }
+            .vfes-title {
+                margin-top: 16px;
+            }
+            .vfes-paragraph {
+                max-width: 600px;
+                margin: auto auto 24px auto;
+            }
+        }
+        .vfms-width {
+            @media screen and (min-width: 1024px) {
+                max-width: 550px;
+            }
+        }
+        .vfms-container {
+            @media screen and (min-width: 1024px) {
+                height: 235px;
+                padding: 30px 0 10px 0;
+            }
+        }
+        .vfms-lg {
+            height: 40px;
+            margin: 0 10px 0 10px;
+            vertical-align: top;
+        }
+        .vfms-tidal {
+            height: 30px;
+            margin: 0 10px 0 10px;
+            vertical-align: top;
+            margin-top: 10px;
+        }
+    }
+
+    .section-disp {
+        padding-top: 24px;
+        padding-bottom: 48px;
+        .vfes-link {
+            font-size: 14px;
+        }
+        .vfes-layout__item:last-of-type {
+            margin-top: 24px;
+        }
+    }
+
+    .vfes-carousel {
+        a:hover {
+            color: #333;
+        }
+        .vfes-button:hover {
+            color: #fff;
+        }
+        .vfes-title--4 {
+            font-size: 20px;
+            line-height: 24px;
+            color: #333;
+        }
+        .vfes-paragraph {
+            font-size: 16px;
+            line-height: 18px;
+            margin-bottom: 15px;
+        }
+        .vfes-card-shop__accordion-button {
+            margin-top: 16px;
+            margin-bottom: 16px;
+            &::after {
+                -ms-transform: rotate(135deg);
+                border-right: .1rem solid #e60000;
+                border-top: .1rem solid #e60000;
+            }
+        }
+        .vfes-card-shop__bottom {
+            padding-top: 0;
+            margin-top: 0;
+            .vfes-paragraph {
+                padding: 0;
+                margin: 0;
+            }
+            .vfes-title--5 {
+                margin-bottom: 12px;
+                font-size: 20px;
+                &:last-of-type {
+                    margin-bottom: 24px;
+                }
+            }
+        }
+        .lazyload {
+            padding-top: 12px;
+            padding-bottom: 12px;
+        }
+
+        .vfes-card-shop__accordion.open .vfes-card-shop__accordion-content {
+            padding-bottom: 18px;
+        }
+    }
+
+    .box-companias {
+        display: flex;
+        flex-direction: column;
+        .logo-link {
+            color: transparent;
+            margin-right: 48px;
+            &:last-of-type {
+                margin: 0;
+            }
+        }
+    }
+
+    .logo {
+        
+        &--disabled {
+            -webkit-filter: grayscale(100%);
+            filter: grayscale(100%);
+            opacity: 0.3;
+            -webkit-transition: all 0.3s;
+            transition: all 0.3s;
+        }
+        &--disabled:hover {
+            -webkit-filter: grayscale(0%);
+            filter: grayscale(0%);
+            opacity: 1;
+        }
+    }
+    .vfms-banner {
+        background: url('../img/fondo-banner-tidal-mobile.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        border-radius: 6px;
+        padding: 10px;
+    }
+    
+    @media only screen and (min-width: 640px) {
+        .box-companias {
+            display: block;
+        }
+        .vfms-banner {
+            background: url('../img/fondo-banner-tidal-tablet.png');
+            min-height: 210px;
+            background-repeat: no-repeat;
+            background-size: cover;
+            border-radius: 10px;
+            padding: 20px;
+        }
+        .vfm-info__container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .vfm-bottom__container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            text-align: left;
+        }
+        .vfms_align__text {
+            text-align: left;
+            padding-left: 20px;
+        }
+    }
+
+    @media only screen and (min-width: 970px) {
+        .header-background {
+            background-image: url('../img/cabecera-landing-lg-fondo.png');
+            background-size: contain;
+            background-position: center;
+            background-repeat: no-repeat;
+            padding: 10px;
+        }
+        .section-disp {
+            .vfes-layout__item:last-of-type {
+                margin-top: 0px;
+            }
+        }
+        .vfms-banner {
+            background: url('../img/fondo-banner-tidal-desktop.png');
+            background-repeat: no-repeat;
+            background-size: cover;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            padding: 30px;
+        }
+        .vfm-bottom__container {
+            justify-content: flex-end;
+            margin-top: -70px;
+        }
+        .vfms-buttondsk {
+            margin-left: 270px;
+        }
+        .vfm-info__container {
+            align-items: flex-start;
+        }
+    }
+}

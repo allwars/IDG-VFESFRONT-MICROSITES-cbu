@@ -1,0 +1,30 @@
+.vfms-dropdown {
+    .vfes-card-shop__dropdown:not(.vfes-card-shop__dropdown-open):hover {
+        background: transparent;
+    }
+    .vfes-card-shop__dropdown-content {
+        background: #fff;
+    }
+    .vfes-card-shop__dropdown-title::after {
+        right: 90px;
+        border-right: 0.0625rem solid #fff;
+        border-top: 0.0625rem solid #fff;
+    }
+    #card-shop-dropdown1 {
+        border-top: 1px solid #999;
+        padding: 0;
+    }
+    .vfes-card-shop__dropdown-content li {
+        padding: 10px 0;
+        border-bottom: 1px solid #999;
+    }
+    .vfes-card-shop__dropdown-content li:hover {
+        background: #f4f4f4;
+    }
+    .vfes-card-shop__dropdown {
+        border: none;
+    }
+}
+
+
+   

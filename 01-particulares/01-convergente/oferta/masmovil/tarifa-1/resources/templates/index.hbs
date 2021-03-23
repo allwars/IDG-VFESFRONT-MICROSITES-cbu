@@ -1,0 +1,51 @@
+<link href="css/ws10.css" rel="stylesheet"  />
+<link href="css/styles.css" rel="stylesheet" data-ws10-microcss  />
+<script>
+    utag_data.default_plan = "vodafone one ilimitada"
+    utag_data.plans_list = [{
+        "product_name": "vodafone one ilimitada",
+        "product_category": "movil+fibra",
+        "product_variant": "datos y minutos ilimitados+300Mbps Fibra",
+        "promotion_price_name": "promo mas movil monolinea",
+        "promotion_gift_name": "",
+        "product_id": "168445702",
+        "product_detail": "",
+        "product_sale_type": "yes:transactional"
+    }]
+    utag_data.plans_add2cart =[{
+        "product_name": "vodafone one ilimitada",
+        "product_category": "movil+fibra",
+        "product_variant": "datos y minutos ilimitados+300Mbps Fibra",
+        "promotion_price_name": "promo mas movil monolinea",
+        "promotion_gift_name": "",
+        "product_id": "168445702",
+        "product_detail": "",
+        "product_sale_type": "yes:transactional",
+    }]
+</script>
+<div class="vfes-ms-content ws10-u-color--bg-light-grey" id="tarifa-1-mm" style="visibility: hidden;opacity: 0">
+
+    <!-- BANNER & DIV TICKET QUE INYECTA WCS -->
+    {{> banner }}
+    <!-- CONTENIDO EN 2/3 DE LA PÁGINA -->
+    <div class="ws10-o-wrapper">
+        <div class="ws10-o-layout">
+            <div class="ws10-o-layout__item ws10-u--2/3@desktop ws10-u--3/5@tablet">
+                <!-- MÓVIL -->
+                {{> movil }}
+                <!-- FIBRA -->
+                {{> fiber }}
+                <!-- TAMBIÉN INCLUIDO -->
+                {{> alsoIncluded }}
+                <!-- SIN SORPRESAS -->
+                {{> notSurprises }}
+                <!-- TIMELINE  -->
+                {{> timeline }}
+            </div>
+        </div>
+    </div>
+    <!-- STICKY BOTTOM -->
+    {{> sticky }}
+</div>
+<script src="js/ws10.js"></script>
+<script src="js/main.js"></script>

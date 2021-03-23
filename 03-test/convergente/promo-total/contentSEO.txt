@@ -1,0 +1,88 @@
+<p>Con cine y series GRATIS 1 año</p><ul>
+                            <li data-card="title">
+                                <h3><span></span>
+                                </h3>
+                            </li>
+                            <li>
+                                <p>
+                                    <strong><span></span>€</strong>
+                                </p>
+                            </li>
+                            <li>
+                                
+                                <p>
+                                    <span><strong>GB <span></span></strong></span>
+                                    <span>Llamadas ilimitadas</span>
+                                </p>
+                            </li>
+                            <li>
+                                
+                                <p>
+                                    <span>
+                                        100Mbps
+                                    </span>
+                                    <span>Fibra simétrica</span>
+                                </p>
+                            </li>
+                        </ul><button type="button" data-card="accordion-button"><span>Ver
+                                detalles</span></button><p><svg height="16" width="25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                    <title>Velocidad</title>
+                                    <use xlink:href="#icon3-thunder-2"></use>
+                                </svg>10Mbps de velocidad en tu móvil</p><button title="Más información" data-modal="one-ilimitada-super" data-modal-close="" aria-haspopup="dialog">
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                    <use xlink:href="#icon3-info-circle"></use>
+                                </svg>
+                            </button><p><strong>Pack Serielovers y Cinefans GRATIS</strong></p><div>
+                                
+                                
+                                
+                            </div><p><strong>75
+                                        €/mes</strong> durante 1 año. Después 96,99€/mes
+                                </p><p>Mejor Precio Vodafone</p><a target="_parent" href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/paquete-one-4/">Más
+                                información<span>: <span></span></span></a><button type="button" onclick="window.parent.document.ws_popup.open3('Vodafone One Ilimitada Super', '75€/mes');" title="Compra facil: One Ilimitada Super">Compra fácil <span>:<span></span></span></button><p>Con cine y series GRATIS 1 año</p><ul>
+                            <li data-card="title">
+                                <h3><span></span>
+                                </h3>
+                            </li>
+                            <li>
+                                <p>
+                                    <strong><span></span>€</strong>
+                                </p>
+                            </li>
+                            <li>
+                                <!--<svg class="icon" xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'><title>Datos</title><use class="icon-v3" xlink:href='#icon-mobile-mid'></use></svg>-->
+                                
+
+                                <p>
+                                    <span><strong>GB <span></span></strong></span>
+                                    <span>Llamadas ilimitadas</span>
+                                </p>
+                            </li>
+                            <li>
+                                <!--<svg class="icon" xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'><title>Fibra</title><use class="icon-v3" xlink:href='#icon-broadband-or-wifi-mid'></use></svg>-->
+                                
+
+
+                                <p>
+                                    <span>600Mbps
+                                    </span>
+                                    <span>Fibra simétrica</span>
+                                </p>
+                            </li>
+                        </ul><button type="button" data-card="accordion-button"><span>Ver
+                                detalles</span></button><p><svg height="16" width="33" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                    <title>Velocidad</title>
+                                    <use xlink:href="#icon3-thunder-3"></use>
+                                </svg>Máxima velocidad en tu móvil</p><button title="Más información" data-modal="one-ilimitada-total" data-modal-close="" aria-haspopup="dialog">
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                    <use xlink:href="#icon3-info-circle"></use>
+                                </svg>
+                            </button><p><strong>Pack Serielovers y Cinefans GRATIS</strong></p><div>
+                                
+                                
+                                
+                            </div><p><strong>100
+                                        €/mes</strong> durante 1 año. Después 121,99€/mes
+                                </p><p>Mejor Precio Vodafone</p><a target="_parent" href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/paquete-one-5/"> Más información<span>: <span></span></span></a><button type="button" onclick="window.parent.document.ws_popup.open3('Vodafone One Ilimitada Total', '100€/mes');" title="Compra facil: Tarifa One Ilimitada total">Compra
+                                fácil <span>: <span></span></span></button><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/legales/" title="Ver condiciones legales" target="_blank" tabindex="0">Ver condiciones
+                        legales</a>

@@ -1,0 +1,65 @@
+<div data-spritesheet="svg/sprite.mid.svg"></div><video src="media/vfes-porsertu.mp4" muted="" autoplay="" loop="" width="100%"></video><p>La nueva forma <strong>de estar a tu lado</strong></p><h2>De tú a tú</h2><a type="button" href="https://youtu.be/yS4jCA18ZYo" target="_parent" name="cta" title="CTA" data-analytics-id="1435669254112-4998013080">
+                Ver vídeo completo
+            </a><a href="#porsertu-content"><svg style="width: 80px"><title>icon-chevron-down</title><use xlink:href="#icon-chevron-down"></use></svg></a><span></span><h3>Queremos estar más cerca de ti y hacerte saber que <strong>estamos contigo siempre</strong> que nos necesites.</h3><p>Llega <strong>De tú a tú</strong>, el nuevo <strong>servicio de atención</strong> para todos nuestros clientes.</p><p>Una forma diferente y única de estar a tu lado, tal y como habías imaginado.</p><h2>¿Qué significa <strong>De tú a tú?</strong></h2><p><strong>Seguimiento personalizado</strong></p><p>Siempre que esté <strong>disponible</strong>, podrás contactar con el <strong>mismo asesor</strong> por <strong>llamada o SMS.</strong></p><p><strong>Asesores especializados</strong></p><p>A partir de ahora <strong>todas tus gestiones</strong> podrán ser atendidas por un <strong>mismo grupo de asesores.</strong></p><p>Se acabó el contar las cosas una y otra vez. Tu asesor <strong>estará al día</strong> de todas tus peticiones de forma proactiva, tanto las que hayas solicitado como las nuevas que necesites hacer. Y así, <strong>no tendrás que preocuparte</strong> por nada.</p><p><strong>Gestión de principio a fin</strong></p><p>
+                                Solo tendrás que llamar una vez.<strong>Tu equipo de asesores especializados</strong> hará un seguimiento de tu gestión y <strong>te mantendrá informado</strong>. Déjalo en nuestras manos y <strong>olvídate de estar pendiente.</strong>
+                            </p><div>
+                                
+                            </div><p><strong>Este servicio</strong> de atención está <strong>disponible tanto en Call Center</strong> como en <strong>nuestras tiendas De tú a tú</strong></p><h2>¿Dónde <strong>encontrar una tienda</strong> Vodafone <strong>De tú a tú?</strong></h2><p><strong>Madrid</strong></p><p>C/ Marqués de Urquijo 1 (28008)</p><p><strong>Barcelona</strong></p><p>C/ Pelayo 48 (08007)</p><p><strong>Bilbao</strong></p><p>C/ Ercilla 32 (48011)</p><p><strong>Sevilla</strong></p><p>C/ Luis de Morales 24 (41018)</p><p><strong>Valencia</strong></p><p>C/ Colón 50 (46004)</p><p>Nuestro <strong>compromiso</strong> en <strong>De tú a tú</strong> es <strong>ayudar a nuestros clientes</strong> a <strong>resolver sus gestiones</strong> de la <strong>mejor manera posible</strong>, a través de la <strong>cercanía y la confianza.</strong></p><p><strong>Porque conocerte es la mejor manera de estar a tu lado.</strong></p><div>
+                 
+            </div><h2>Preguntas Frecuentes</h2><details>
+                    <summary>
+                        <h3>¿Qué es De tú a tú?</h3>
+                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px">
+                            <title>Deploy</title>
+                            <use xlink:href="#icon-chevron-down"></use>
+                        </svg>
+                    </summary>
+                    <article>
+                        <p>De tú a tú es nuestro nuevo servicio de atención al cliente.</p>
+                    </article>
+                </details><details>
+                    <summary>
+                        <h3>¿A qué número de teléfono tengo que llamar?</h3>
+                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px">
+                            <title>Deploy</title>
+                            <use xlink:href="#icon-chevron-down"></use>
+                        </svg>
+                    </summary>
+                    <article>
+                        <p>Debes llamar al 22123.</p>
+                    </article>
+                </details><details>
+                    <summary>
+                        <h3>¿Qué significa que mis llamadas serán atendidas por un mismo grupo de asesores?
+                        </h3>
+                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px">
+                            <title>Deploy</title>
+                            <use xlink:href="#icon-chevron-down"></use>
+                        </svg>
+                    </summary>
+                    <article>
+                        <p>Se te asignará un equipo de asesores para que cuando llames siempre seas atendido por personas de este mismo equipo.</p>
+                    </article>
+                </details><details>
+                    <summary>
+                        <h3>¿Qué quiere decir que solo tendré que llamar una vez?</h3>
+                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px">
+                            <title>Deploy</title>
+                            <use xlink:href="#icon-chevron-down"></use>
+                        </svg>
+                    </summary>
+                    <article>
+                        <p>Nosotros nos ocupamos de solucionártelo en la misma llamada. Y si tu consulta no puede resolverse inmediatamente y requiere acciones posteriores, te damos un plazo de resolución, te informamos de los próximos pasos y te mantendremos informado a lo largo de todo el proceso por el canal que elijas (teléfono, mail). Y por supuesto si hiciera falta, te enviamos un técnico a tu dirección.</p>
+                    </article>
+                </details><details>
+                    <summary>
+                        <h3>¿Cómo me mantendrá informado mi asesor especializado?</h3>
+                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px">
+                            <title>Deploy</title>
+                            <use xlink:href="#icon-chevron-down"></use>
+                        </svg>
+                    </summary>
+                    <article>
+                        <p>Te enviamos un SMS de seguimiento para que, si tienes dudas sobre lo tratado, para tu comodidad nos contestes y nosotros nos pondremos en contacto contigo sin necesidad de que nos vuelvas a llamar.</p>
+                    </article>
+                </details>

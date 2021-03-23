@@ -1,0 +1,45 @@
+<button data-js="_openShoppingCart">
+            <div><span>1</span></div>
+            
+        </button><ul>
+            <li>
+                <div>
+                    
+                    <p>Tarifa Móvil + Fibra + Tv</p>
+                </div>
+                <div>
+                    <b>El precio ha cambiado</b>
+                </div>
+            </li>
+            <li>
+                <div>
+                    
+                    <p>Fibra 100Mbps</p>
+                </div>
+                <div>
+                    <b>El precio ha cambiado</b>
+                </div>
+            </li>
+            <li>
+                <div>
+                    
+                    <p>Tarifa Móvil + Tv</p>
+                </div>
+                <div>
+                    <b>El precio ha cambiado</b>
+                </div>
+            </li>
+            <li>
+                <div>
+                    
+                    <p>Tarifa Móvil datos ilimitados</p>
+                </div>
+                <div>
+                    <b>El precio ha cambiado</b>
+                </div>
+            </li>
+            <li>
+                <p>Total: <span><span>00,00</span><span>€/mes</span></span></p>
+                <a>Continuar compra</a>
+            </li>
+        </ul>

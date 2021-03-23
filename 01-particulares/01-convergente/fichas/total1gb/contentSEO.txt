@@ -1,0 +1,586 @@
+<span>Fibra + Móvil <strong>50% dto. 3 meses</strong></span><h2><strong>Todo lo que
+                            necesitas</strong> para estar <strong>conectado fuera y dentro</strong> de tu casa</h2><span><span>Mejor Precio Vodafone</span></span><h2>Vodafone One Ilimitada Total 1Gbps</h2><ul data-vfes-seo-empathy-promoperiod="50% dto. 3 meses Permanencia 1 año" data-vfes-seo-empathy-promoprice="46,99" data-vfes-seo-empathy-price="94,99">
+                                        <li>
+                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                                <use xlink:href="#icon-mobile"></use>
+                                            </svg>
+                                            <div>
+                                                <p>
+                                                    Datos y minutos ilimitados
+                                                </p>
+                                                <p>
+                                                    Velocidad máxima
+                                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                                        <use xlink:href="#icon-thunder-3"></use>
+                                                    </svg>
+                                                </p>
+                                            </div>
+                                        </li>
+                                        <li data-js-vf="_secondLine">
+                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                                <use xlink:href="#icon-sim"></use>
+                                            </svg>
+                                            <div>
+                                                <p>
+                                                    4GB y 200 minutos GRATIS
+                                                </p>
+                                                <p>
+                                                    línea adicional GRATIS 1 año
+                                                </p>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                                <use xlink:href="#icon-broadband-or-wifi"></use>
+                                            </svg>
+                                            <div>
+                                                <p>
+                                                    Fibra Óptica 1Gbps
+                                                </p>
+                                                <p>
+                                                    + llamadas ilimitadas en fijo
+                                                </p>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                                <use xlink:href="#icon-tv"></use>
+                                            </svg>
+                                            <div>
+                                                <p>
+                                                    Pack TV Serielovers GRATIS 1 año
+                                                </p>
+                                                <p style="font-size: 17px;">
+                                                    con HBO España, Amazon Prime y 60 canales más
+                                                </p>
+                                            </div>
+                                        </li>
+                                    </ul><legend>
+                                                ¿Cómo quieres la línea móvil principal?
+                                            </legend><input type="radio" name="rate-1-card-rate" checked=""><label for="rate-1-card-rate-option-1" data-js-vf="_buttonTypeLine">
+                                                        Portabilidad
+                                                    </label><input type="radio" name="rate-1-card-rate"><label for="rate-1-card-rate-option-2" data-js-vf="_buttonTypeLine" data-js-vf-value="newNumber">
+                                                        Nuevo Número
+                                                    </label><p>
+                                                        50% dto. 3 meses
+                                                    </p><p>
+                                                        Permanencia 1 año
+                                                    </p><p>
+                                                        <del>94,99€/mes</del>
+                                                    </p><p>
+                                                        46,99€<sub>/mes</sub>
+                                                    </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1255065&amp;tcli=0&amp;tta=1 " type="submit" name="cta" title="CTA" data-analytics-id="-3304768980252" onmousedown="addtocart(utag_data.plans_add2cart)">
+                                                Lo quiero
+                                            </a><p>
+                                                        50% dto. 3 meses
+                                                    </p><p>
+                                                        Permanencia 1 año
+                                                    </p><p>
+                                                        <del>94,99€/mes</del>
+                                                    </p><p>
+                                                        46,99€<sub>/mes</sub>
+                                                    </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1250800&amp;tcli=0&amp;tta=1" type="submit" name="cta" title="CTA" data-analytics-id="-3365613187314" onmousedown="addtocart(utag_data.plans_add2cart)">
+                                                Lo quiero
+                                            </a><p>Móvil</p><p><strong>Datos ilimitados en tu móvil para TODO</strong></p><div>
+                        </div><picture>
+                            <source srcset="img/section-mobile/mobile-apps.webp" type="image/webp">
+                            <source srcset="img/section-mobile/mobile-apps.png" type="image/png">
+                            
+                        </picture><p>Datos ilimitados a <strong>máxima velocidad (1Gbps de
+                                    bajada y de subida).</strong></p><p> <strong>Llamadas y SMS ilimitados</strong> con
+                                cualquier operador nacional las 24 horas, establecimiento incluido.</p><p>Juega sin límites los juegos online con una calidad
+                                extrema y sin cortes.</p><p>Descarga y sube todos los archivos que quieras.</p><p>Disfruta de streaming sin necesidad de conectarte al
+                                WiFi, tú y tus datos.</p><p> Todo con la nueva red 5G.</p><p> <strong>Roaming incluido en la Unión Europea, Reino
+                                    Unido y
+                                    EEUU.</strong> Disfruta con las mismas condiciones de tu tarifa, sin preocupaciones
+                                también en EEUU.</p><p><strong>Llévate la 2ª Línea GRATIS 1 año</strong></p><p><strong>4GB de datos</strong> para navegar a la
+                                máxima velocidad.</p><p><strong>200 minutos</strong> en llamadas a fijos y
+                                móviles </p><p><strong>Chatea y usa tus redes sociales</strong> con
+                                la conexión 5G.</p><p>(*)Podrás añadir más Líneas adicionales en el proceso de compra
+                    </p><h3>
+                        <span>Televisión</span>
+                        <span><strong>Pack de TV Serielovers GRATIS 1
+                                año</strong></span>
+                    </h3><p>incluye HBO España, Amazon Prime y 60 canales más
+                    </p><ul>
+                            <li>
+                                <picture>
+                                    <source srcset="img/section-tv/01.webp" type="image/webp">
+                                    <source srcset="img/section-tv/01.jpg" type="image/jpg">
+                                    
+                                </picture>
+                            </li>
+                            <li>
+                                <picture>
+                                    <source srcset="img/section-tv/02.webp" type="image/webp">
+                                    <source srcset="img/section-tv/02.jpg" type="image/jpg">
+                                    
+                                </picture>
+                            </li>
+                            <li>
+                                <picture>
+                                    <source srcset="img/section-tv/03.webp" type="image/webp">
+                                    <source srcset="img/section-tv/03.jpg" type="image/jpg">
+                                    
+                                </picture>
+                            </li>
+                            <li>
+                                <picture>
+                                    <source srcset="img/section-tv/04.webp" type="image/webp">
+                                    <source srcset="img/section-tv/04.jpg" type="image/jpg">
+                                    
+                                </picture>
+                            </li>
+                            <li>
+                                <picture>
+                                    <source srcset="img/section-tv/05.webp" type="image/webp">
+                                    <source srcset="img/section-tv/05.jpg" type="image/jpg">
+                                    
+                                </picture>
+                            </li>
+                            <li>
+                                <picture>
+                                    <source srcset="img/section-tv/06.webp" type="image/webp">
+                                    <source srcset="img/section-tv/06.jpg" type="image/jpg">
+                                    
+                                </picture>
+                            </li>
+                            <li>
+                                <picture>
+                                    <source srcset="img/section-tv/07.webp" type="image/webp">
+                                    <source srcset="img/section-tv/07.jpg" type="image/jpg">
+                                    
+                                </picture>
+                            </li>
+                            <li>
+                                <picture>
+                                    <source srcset="img/section-tv/08.webp" type="image/webp">
+                                    <source srcset="img/section-tv/08.jpg" type="image/jpg">
+                                    
+                                </picture>
+                            </li>
+                            <li>
+                                <picture>
+                                    <source srcset="img/section-tv/09.webp" type="image/webp">
+                                    <source srcset="img/section-tv/09.jpg" type="image/jpg">
+                                    
+                                </picture>
+                            </li>
+                        </ul><p><strong>Pack Serielovers</strong>, este Pack incluye todas las temporadas de
+                        las series de
+                        <strong>HBO España, FOXNOW, AXN Now y Amazon Prime</strong> con todas las series de
+                        <strong>Amazon Prime Video</strong>, además de las ventajas de ser Prime y muchos más canales
+                        especializados en series para verlas cuando tú quieras.
+                    </p><ul>
+                            <li>
+                                
+                            </li>
+                            <li>
+                                
+                            </li>
+                            <li>
+                                
+                            </li>
+                            <li>
+                                
+                            </li>
+                        </ul><p>
+                            <a data-backdrop="serielovers" data-backdrop-close="" aria-haspopup="dialog" data-analytics-id="-0003391249299">
+                                Ver todos los canales incluidos
+                            </a>
+                        </p><p><strong>¿Cómo es la experiencia de TV sin decodificador?</strong></p><picture>
+                        <source srcset="img/section-deco/contenido-tv.webp" type="image/webp">
+                        <source srcset="img/section-deco/contenido-tv.png" type="image/png">
+                        
+                    </picture><p>Vodafone TV con&nbsp;<strong>calidad HD en tu Smart TV (a través de la App Vodafone TV) y en tus
+                            dispositivos como&nbsp;móvil, tablet, PC, Fire TV Stick y Chromecast</strong>&nbsp;para disfrutar de
+                        una experiencia online.
+                        Consultar dispositivos compatibles
+                    </p><p>
+                            <a data-backdrop="dispositivos-compatibles" data-backdrop-close="" aria-haspopup="dialog" data-analytics-id="-6670080873935">
+                                Consultar dispositivos compatibles
+                            </a>
+                        </p><p>Más de <strong>50.000 contenidos disponibles</strong>
+                                bajo demanda.</p><p>No te pierdas nada, todo el <strong>contenido desde
+                                    el principio</strong> y con control del directo.</p><p>Los contenidos <strong>siempre disponibles</strong>
+                                con Últimos 7 días, Grabación, Ver Ahora y Descarga.</p><p><strong>2 reproducciones simultáneas</strong> en
+                                diferentes dispositivos.</p><p><strong>Descarga tus contenidos</strong> para verlos
+                                estés donde estés y cuando quieras.</p><h3>Fibra óptica simétrica</h3><h3><strong>1Gbps de velocidad para tu hogar</strong></h3><picture>
+                            <source srcset="img/section-fiber/fiber-vf.webp" type="image/webp">
+                            <source srcset="img/section-fiber/fiber-vf.png" type="image/png">
+                            
+                        </picture><div>
+                                    
+                                </div><p><strong>1Gbps de fibra óptica simétrica</strong>
+                                    podrás conectar más de 35 dispositivos a la vez.</p><p><strong>Fijo con llamadas ilimitadas a fijos y
+                                        móviles.</strong> </p><h3><strong>También incluido en Vodafone One ilimitada total
+                            1Gbps</strong>
+                    </h3><ul aria-labelledby="idList">
+                              <li>
+                                <div>
+                                    <div>
+                                        <div>
+                                            
+                                            <h3><strong>Secure Net</strong></h3>
+                                        </div>
+                                        <p>Para que <strong>navegues
+                                                sin riesgos en Internet por la red móvil y de acceso fijo de
+                                                Vodafone</strong>, protegiéndote de virus (malware) y páginas
+                                            fraudulentas (phishing).</p>
+                                        <p><strong>GRATIS</strong>
+                                            durante 3 meses, después 1€/mes por línea.</p>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div>
+                                    <div>
+                                        <div>
+                                            
+                                            <h3><strong>OneNumber</strong></h3>
+                                        </div>
+                                        <p><strong>Mismo número de
+                                                teléfono y misma tarifa de voz y datos en todos tus
+                                                dispositivos</strong> sin necesidad de tener el móvil cerca y sin
+                                            cambiar la SIM.
+                                        </p><p><strong>GRATIS</strong> durante 1 mes,
+                                            después 5€/mes para smartwatch, Tablet o teléfono secundario y 1€/mes para
+                                            Smart speaker con Alexa.</p>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div>
+                                    <div>
+                                        <div>
+                                            
+                                            <h3><strong>Secure Net Family</strong></h3>
+                                        </div>
+                                        <p><strong>Secure Net Family</strong> te protege de <strong>virus (malware) y páginas fraudulentas (phishing)</strong>, 
+                                            permitiendo además aplicar políticas de control parental en todos los dispositivos de tu hogar.</p>
+                                        <p><strong>GRATIS</strong>
+                                            durante 3 meses, después 5€/mes (IVA incluido).</p>
+                                    </div>
+                                </div>
+                            </li>
+                          
+                            <li>
+                                <div>
+                                    <div>
+                                        <div>
+                                            
+                                            <h3><strong>TIDAL</strong></h3>
+                                        </div>
+                                        <p>Plataforma de música en
+                                            streaming para que disfrutes de tu música con la mejor calidad de audio.</p>
+                                        <p><strong>GRATIS</strong>
+                                            durante 3 meses, después 7,99€/mes.</p>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul><span style="left: 0;">(*)Todos los servicios
+                            podrás gestionarlos en la App Mi Vodafone</span><p>
+                        <span><strong>Sin sorpresas.</strong></span>
+                        <span><strong>No escondemos nada</strong></span>
+                    </p><p>Impuestos y cuota de línea incluidos.</p><p>Permanencia 1 año</p><p>Precio después de 3 meses 94,99€/mes. Después de 1 año desde la contratación pagarás 118,98€/mes
+                    </p><p>La instalación del servicio de fibra, salvo que sea autoinstalable, tiene un coste para el
+                        cliente de 150 euros. Vodafone renuncia al cobro de este coste si el cliente se mantiene activo
+                        en el servicio durante, al menos, 1 año desde la fecha de instalación.</p><a target="_blank" href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/legales/" title="Ver condiciones legales">Ver condiciones legales</a><h3><strong>¿Cómo contrato Vodafone One Ilimitada Total?</strong></h3><ul>
+                        <li>
+                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
+                                <title>Business</title>
+                                <use xlink:href="#icon-shopping-trolley-mid"></use>
+                            </svg>
+                            <p>Compra online</p>
+                            <p>Recibirás un email de confirmación con el detalle de
+                                tu pedido y próximos pasos.</p>
+                        </li>
+                        <li>
+                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
+                                <title>Business</title>
+                                <use xlink:href="#icon-engineer-mid"></use>
+                            </svg>
+                            <p>Cita de instalación</p>
+                            <p>Una vez contratado, un experto se pondrá en contacto
+                                contigo para concretar la fecha de instalación que más te convenga. ¡Tú eliges!.</p>
+                        </li>
+                        <li>
+                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
+                                <title>Business</title>
+                                <use xlink:href="#icon-calendar-mid"></use>
+                            </svg>
+                            <p>Día de instalación</p>
+                            <p>El técnico llevará el router y el decodificador si lo
+                                has contratado con TV. Lo tendrás todo listo en unas 2h (WiFi y TV).</p>
+                        </li>
+                        <li>
+                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
+                                <title>Business</title>
+                                <use xlink:href="#icon-business-mid"></use>
+                            </svg>
+                            <p>Portabilidad</p>
+                            <p>Recibirás un SMS con la fecha y lugar de tu nueva SIM
+                                del móvil, así sabrás el día exacto del cambio. Nos aseguramos de que no te quedas sin
+                                línea.</p>
+                        </li>
+                        <li>
+                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
+                                <title>Business</title>
+                                <use xlink:href="#icon-unified-communication-mid"></use>
+                            </svg>
+                            <p>Mi Vodafone</p>
+                            <p>Podrás registrarte y hacer seguimiento de tu pedido y
+                                gestionar tus servicios de Vodafone.</p>
+                        </li>
+                    </ul><del>94,99€/mes</del><span>
+                        <span>46,99€</span>
+                        <span>/mes</span>
+                    </span><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1255065&amp;tcli=0&amp;tta=1" name="cta" title="CTA" data-analytics-id="-3714178276013" onmousedown="addtocart(utag_data.plans_add2cart)">
+                    Lo quiero
+                </a><del>94,99€/messss</del><span>
+                        <span>46,99€</span>
+                        <span>/mes</span>
+                    </span><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1250800&amp;tcli=0&amp;tta=1" name="cta" title="CTA" data-analytics-id="-3035021623084" onmousedown="addtocart(utag_data.plans_add2cart)">
+                    Lo quiero
+                </a><button aria-hidden="false">
+                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <title>Close</title>
+                        <use xlink:href="#icon-close"></use>
+                    </svg>
+                </button><p>Canales
+                    Pack Serielovers</p><ul>
+                    <li>
+                        
+                        <p>Prime Video</p>
+                    </li>
+                    <li>
+                        
+                        <p>HBO España</p>
+                    </li>
+
+                    <li>
+                        
+                        <p>FOXNOW</p>
+                    </li>
+                    <li>
+                        
+                        <p>AXN Now</p>
+                    </li>
+                    <li>
+                        
+                        <p>TNT</p>
+                    </li>
+                    <li>
+                        
+                        <p>FOX</p>
+                    </li>
+                    <li>
+                        
+                        <p>SYFY</p>
+                    </li>
+                    <li>
+                        
+                        <p>Calle 13</p>
+                    </li>
+                    <li>
+                        
+                        <p>AXN</p>
+                    </li>
+                    <li>
+                        
+                        <p>AXN White</p>
+                    </li>
+                    <li>
+                        
+                        <p>AMC Series</p>
+                    </li>
+                </ul><p>Y además todos los Packs incluyen estos canales:</p><ul>
+                    <li>
+                        
+                        <p>AMC</p>
+                    </li>
+                    <li>
+                        
+                        <p>FOX LIFE</p>
+                    </li>
+                    <li>
+                        
+                        <p>COSMO</p>
+                    </li>
+                    <li>
+                        
+                        <p>Comedy Central</p>
+                    </li>
+                    <li>
+                        
+                        <p>XTRM</p>
+                    </li>
+                    <li>
+                        
+                        <p>TCM</p>
+                    </li>
+                    <li>
+                        
+                        <p>Sundance TV</p>
+                    </li>
+                    <li>
+                        
+                        <p>National Geographic</p>
+                    </li>
+                    <li>
+                        
+                        <p>National Geographic Now</p>
+                    </li>
+                    <li>
+                        
+                        <p>Cocina</p>
+                    </li>
+                    <li>
+                        
+                        <p>Decasa</p>
+                    </li>
+                    <li>
+                        
+                        <p>MTV</p>
+                    </li>
+                    <li>
+                        
+                        <p>MTV Music</p>
+                    </li>
+                    <li>
+                        
+                        <p>SOL Música</p>
+                    </li>
+                    <li>
+                        
+                        <p>HIT Tv</p>
+                    </li>
+                    <li>
+                        
+                        <p>Eurosport 1</p>
+                    </li>
+                    <li>
+                        
+                        <p>Selekt</p>
+                    </li>
+                </ul><button aria-hidden="false">
+                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <title>Close</title>
+                        <use xlink:href="#icon-close"></use>
+                    </svg>
+                </button><p>
+                    Dispositivos compatibles</p><ul>
+                    <li>
+                        <svg style="width: 60px; height: 60px;">
+                            <title>icon-tv-mid</title>
+                            <use xlink:href="#icon-mobile-mid"></use>
+                        </svg>
+                        <p>Móvil / Tablet iOS y Android.</p>
+                    </li>
+                    <li>
+                        <svg style="width: 60px; height: 60px;">
+                            <title>icon-tv-mid</title>
+                            <use xlink:href="#icon-tv-mid"></use>
+                        </svg>
+                        <p>Modelos de smart TV Samsung (a partir de
+                            2017). Modelos de smart TV Sony (desde 2015) , Philips (desde 2018) y Xiaomi y TCL con
+                            Android TV.
+                        </p>
+                    </li>
+                    <li>
+                        <svg style="width: 60px; height: 60px;">
+                            <title>icon-connected-devices-mid</title>
+                            <use xlink:href="#icon-connected-devices-mid"></use>
+                        </svg>
+                        <p>Chromecast.</p>
+                    </li>
+                    <li>
+                        <svg style="width: 60px;">
+                            <title>icon-desktop-mid</title>
+                            <use xlink:href="#icon-desktop-mid"></use>
+                        </svg>
+                        <p>PC/Mac.</p>
+                    </li>
+                    <li>
+                        
+                        <p>Fire TV Stick.</p>
+                    </li>
+                </ul><button aria-hidden="false">
+                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <title>Close</title>
+                        <use xlink:href="#icon-close"></use>
+                    </svg>
+                </button><p>Samsung Galaxy A20</p><ul>
+                    <li>Sistema Operativo Android 9</li>
+                    <li>Procesador Exynos 7884B</li>
+                    <li>Seguridad con Sensor de huella</li>
+                    <li>Red Móvil 4G</li>
+                    <li>WIFI 802.11 b/g/n</li>
+                    <li>Bluetooth 4.1</li>
+                    <li>Con GPS y NFC</li>
+                    <li>Pantalla Tamaño HD+ 5.8¨ y Resolución 720 x 1560</li>
+                    <li>Cámara Frontal de 8 Mp y Trasera de 13 Mp</li>
+                    <li>Memoria Interna 32 GB</li>
+                    <li>Máxima memoria ampliable 512 GB</li>
+                    <li>RAM de 3 GB</li>
+                    <li>Batería con capacidad 3000 mAh</li>
+                    <li>Medidas del dispositivo:
+                        <ul>
+                            <li>Peso 140.0 gr</li>
+                            <li>Alto 147.2 mm</li>
+                            <li>Ancho 69.5 mm</li>
+                            <li>Grosor 8.3 mm</li>
+                        </ul>
+                    </li>
+                </ul><button aria-hidden="false">
+                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <title>Close</title>
+                        <use xlink:href="#icon-close"></use>
+                    </svg>
+                </button><p>LG K30</p><ul>
+                    <li>Sistema Operativo Android 9</li>
+                    <li>Procesador 4x1,4GHz</li>
+                    <li>Red Móvil 4G</li>
+                    <li>WIFI 802.11 b/g/n</li>
+                    <li>Bluetooth 5</li>
+                    <li>Con GPS y NFC</li>
+                    <li>Pantalla 5,45” y Resolución 11400 x 720</li>
+                    <li>Cámara Frontal de 5 Mp y Trasera de 8 Mp</li>
+                    <li>Memoria Interna 16 GB</li>
+                    <li>Máxima memoria ampliable 32 GB</li>
+                    <li>RAM de 2 GB</li>
+                    <li>Batería con capacidad 3000 mAh</li>
+                    <li>Medidas del dispositivo:
+                        <ul>
+                            <li>Peso 147 gr</li>
+                            <li>Alto 147 mm</li>
+                            <li>Ancho 71.5 mm</li>
+                            <li>Grosor 8.2 mm</li>
+                        </ul>
+                    </li>
+                </ul><button aria-hidden="false">
+                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <title>Close</title>
+                        <use xlink:href="#icon-close"></use>
+                    </svg>
+                </button><p>Alcatel 3L</p><ul>
+                    <li>Sistema Operativo Android 10</li>
+                    <li>Procesador Octa-Core MT6762</li>
+                    <li>Seguridad Lector de huellas</li>
+                    <li>Reconocimiento facial</li>
+                    <li>Red Móvil 4G</li>
+                    <li>Tamaño 622" y Resolución 1520 x 720px</li>
+                    <li>Cámara Frontal 8 Mp, Trasera 48 Mp y Extras Triple cámara 48MP + 5MP + 2MP</li>
+                    <li>Memoria Interna 64 GB</li>
+
+                    <li>RAM 4 GB</li>
+                    <li>Batería con capacidad 4000 mA</li>
+                    <li>Medidas del dispositivo:
+                        <ul>
+                            <li>Peso 165 gr</li>
+                            <li>Alto 74.6 mm</li>
+                            <li>Ancho 158.7 mm</li>
+                            <li>Grosor 8.45 mm</li>
+                        </ul>
+                    </li>
+                </ul>

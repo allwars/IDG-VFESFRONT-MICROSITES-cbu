@@ -1,0 +1,203 @@
+<h2>Teléfonos móviles Huawei</h2><div>
+				
+			</div><p>Reescribe las reglas de la fotografía</p><p>Con 4 cámaras y zoom de 10 aumentos.</p><ul>
+				<li><a title="Inicio" target="_self" href="https://www.vodafone.es/c/particulares/es/"> Inicio</a></li>
+				<li><a title="Huawei" target="_self" href="#"> Huawei</a></li>
+			</ul><ul>
+					<!-- Terminal nº 5 -->
+					<li>
+						<section>
+								<div>
+									<h2 aria-hidden="true">
+										<a href="https://www.vodafone.es/c/tienda-online/particulares/catalogo-moviles/huawei-y5-2019-negro-16gb-313688/" target="_self" title="Huawei Y5 2019"><strong>Huawei Y5 2019</strong></a>
+									</h2>
+									<p>Ilumina tus momentos</p>
+									
+								</div>
+								<div>
+									<div aria-hidden="true">
+										<ul>
+											<li>S.O Android</li>
+											<li>Pantalla 5,71"</li>
+											<li>Velocidad 4G</li>
+											<li>Cámara 13Mp</li>
+										</ul>
+									</div>
+									<button aria-expanded="false" aria-controls="card-shop-accordion4" title="Ver características">Ver características</button>
+								</div>
+								<div>
+									<a href="https://www.vodafone.es/c/tienda-online/particulares/catalogo-moviles/huawei-y5-2019-negro-16gb-313688/" name="cta" title="CTA" target="_self">
+										Más información <span>: Huawei Y5 2019</span>
+									</a>
+								</div>
+							
+						</section>
+					</li>
+					<!-- Terminal -->
+					<li>
+						<div>
+							<!--<div class="vfes-tag-label__outstanding">Ahorra 435€</div>-->
+							<section>
+								<div>
+									<h2 aria-hidden="true"><a href="https://www.vodafone.es/c/tienda-online/particulares/catalogo-moviles/huawei-p30-pro-negro-256gb-313621/" target="_self" title="Huawei P30 Pro"><strong>Huawei P30 Pro</strong></a>
+									</h2>
+									<p>Reescribe las reglas de la fotografía</p>
+									
+								</div>
+								<div>
+									<div aria-hidden="true">
+										<ul>
+											<li>S.O Android</li>
+											<li>Pantalla 6,4"</li>
+											<li>Velocidad 4G+</li>
+											<li>Cámara 40Mp + 20Mp + 8Mp</li>
+										</ul>
+									</div>
+									<button aria-expanded="false" aria-controls="card-shop-accordion4" title="Ver características">Ver características</button>
+								</div>
+								<div>
+									<a href="https://www.vodafone.es/c/tienda-online/particulares/catalogo-moviles/huawei-p30-pro-negro-256gb-313621/" name="cta" title="CTA" target="_self">
+										Más información <span>: Huawei P30 Pro</span>
+									</a>
+								</div>
+							</section>
+						</div>
+					</li>
+					<!-- Terminal -->
+					<li>
+						<div>
+							<!--<div class="vfes-tag-label__outstanding">Ahorra 129€</div>-->
+							<section>
+								<div>
+									<h2 aria-hidden="true"><a href="https://www.vodafone.es/c/tienda-online/particulares/catalogo-moviles/huawei-p-smart-z-negro-64gb-313795/" target="_self" title="Huawei P Smart Z"><strong>Huawei P Smart Z</strong></a></h2>
+									<p>Lo que buscas y mucho más</p>
+									
+								</div>
+								<div>
+									<div aria-hidden="true">
+										<ul>
+											<li>S.O Android</li>
+											<li>Pantalla 6,6"</li>
+											<li>Velocidad 4G+</li>
+											<li>Cámara 16Mp + 16Mp</li>
+										</ul>
+									</div>
+									<button aria-expanded="false" aria-controls="card-shop-accordion4" title="Ver características">Ver características</button>
+								</div>
+								<div>
+									<a href="https://www.vodafone.es/c/tienda-online/particulares/catalogo-moviles/huawei-p-smart-z-negro-64gb-313795/" name="cta" title="CTA" target="_self">
+										Más información <span>: Huawei P Smart Z</span>
+									</a>
+								</div>
+							</section>
+						</div>
+					</li>
+					<!-- Terminal -->
+					<li>
+						<section>
+							<div>
+								<h2 aria-hidden="true"><a href="https://www.vodafone.es/c/tienda-online/particulares/catalogo-moviles/huawei-p-smart-2019-negro-64gb-313577/" target="_self" title="Huawei P Smart 2019"><strong>Huawei P Smart 2019</strong></a></h2>
+								<p>Ligero y resistente a los arañazos</p>
+								
+							</div>
+							<div>
+								<div aria-hidden="true">
+									<ul>
+										<li>S.O Android</li>
+										<li>Pantalla 6,21"</li>
+										<li>Velocidad 4G+</li>
+										<li>Cámara 13Mp</li>
+									</ul>
+								</div>
+								<button aria-expanded="false" aria-controls="card-shop-accordion4" title="Ver características">Ver características</button>
+							</div>
+							<div>
+								<a href="https://www.vodafone.es/c/tienda-online/particulares/catalogo-moviles/huawei-p-smart-2019-negro-64gb-313577/" name="cta" title="CTA" target="_self">
+									Más información <span>: Huawei P Smart 2019</span>
+								</a>
+							</div>
+						</section>
+					</li>
+					<!-- Terminal -->
+					<li>
+						<section>
+							<div>
+								<h2 aria-hidden="true"><a href="https://www.vodafone.es/c/tienda-online/particulares/catalogo-moviles/huawei-p30-lite-negro-128gb-313620/" target="_self" title="Huawei P30 Lite"><strong>Huawei P30 Lite</strong></a></h2>
+								<p>Reescribe las reglas de
+									la fotografía</p>
+								
+							</div>
+							<div>
+								<div aria-hidden="true">
+									<ul>
+										<li>S.O Android</li>
+										<li>Pantalla 6,15"</li>
+										<li>Velocidad 4G+</li>
+										<li>Cámara 48Mp + 8Mp + 2Mp</li>
+									</ul>
+								</div>
+								<button aria-expanded="false" aria-controls="card-shop-accordion4" title="Ver características">Ver características</button>
+							</div>
+							<div>
+								<a href="https://www.vodafone.es/c/tienda-online/particulares/catalogo-moviles/huawei-p30-lite-negro-128gb-313620/" name="cta" title="CTA" target="_self">
+									Más información <span>: Huawei P30 Lite</span>
+								</a>
+							</div>
+						</section>
+					</li>
+				</ul><a href="https://www.vodafone.es/c/tienda-online/particulares/catalogo-moviles-huawei/" title="Ver todos los Smartphones: No soy cliente y quiero un móvil" target="_parent">Ver todos los
+					Smartphones</a><p>Preguntas frecuentes</p><button aria-expanded="false" aria-controls="accordion-content-0">Condiciones del compromiso entre Huawei y
+							Google</button><p>
+									Gracias al compromiso entre Huawei y Google, la experiencia de Android en tu
+									smartphone o tablet Huawei no cambia. Sigue funcionando como en la actualidad y
+									Android no se va a desinstalar automáticamente, como se había barajado.
+								</p><p>
+									De este modo, los smartphones y tablets Huawei:
+								</p><ul>
+									<li>
+										Siguen recibiendo actualizaciones Android de software y parches de seguridad
+										para garantizar la protección.
+									</li>
+									<li>
+										Acceden al mercado de aplicaciones de la forma habitual, aunque sean nuevos.
+									</li>
+									<li>
+										Siguen recibiendo asistencia técnica de acuerdo con la garantía vigente.
+									</li>
+									<li>
+										Pueden seguir descargando y utilizando las aplicaciones WhatsApp, Facebook e
+										Instagram.
+									</li>
+									<li>
+										Si se restablece su configuración de fábrica, permiten seguir descargando y
+										utilizando los servicios de Android y Google Apps.
+									</li>
+								</ul><p>
+									Además, Huawei está trabajando para que:
+								</p><ul>
+									<li>
+										Los terminales P30 y P30 Pro, los más usados, puedan acceder a Android Q en su
+										momento y recibir sus actualizaciones.
+									</li>
+									<li>
+										Los servicios Google Play y Google Apps, como Gmail, Google Maps, la seguridad
+										de Google Play Protect, etc, sigan funcionando con normalidad en sus
+										dispositivos.
+									</li>
+									<li>
+										Sus teléfonos continúen recibiendo actualizaciones de aplicaciones ya
+										descargadas y puedan seguir descargando las nuevas.
+									</li>
+								</ul><p>
+									Puedes consultar más información de los “Términos y Condiciones del Compromiso de
+									Huawei y Google” en la sección de <a title="enlace a legal y regulatorio" href="https://www.vodafone.es/c/conocenos/es/vodafone-espana/quienes-somos/legal-y-regulatorio/otra-informacion-legal/">
+										Legal y Regulatorio.</a>
+								</p><p>Conoce los Smartphones de otras marcas:</p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/moviles/sony/" title="Smartphones Sony" target="_self">
+						
+					</a><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/moviles/lg/" title="Smartphones LG" target="_self">
+						
+					</a><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/moviles/samsung/" title="Smartphones Samsung" target="_self">
+						
+					</a><a href="#" title="Smartphones Huawei" target="_self">
+						
+					</a>

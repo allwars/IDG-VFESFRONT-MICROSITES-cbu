@@ -1,0 +1,14 @@
+[
+    ".vfes-ms-content*",
+    ".vfes-layout*",
+    ".vfes-carousel*",
+    ".vfes-color-bg-white*",
+    ".vfes-box-shadow*",
+    ".vfes-title*",
+    ".vfes-paragraph*",
+    ".vfes-modal*",
+    ".vfes-mb*",
+    ".vfes-form*",
+    ".vfes-box-input*",
+    ".vfes-button*"
+]

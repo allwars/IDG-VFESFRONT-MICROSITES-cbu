@@ -1,0 +1,33 @@
+<picture>
+            <source media="(min-width: px)" srcset="https://www.vodafone.es/c/statics/imagen/img-family-personalizacion.png">
+            <source media="(min-width: px)" srcset="https://www.vodafone.es/c/statics/imagen/img-family-personalizacion.png">
+            
+        </picture><p>
+            Tarifas Familiares
+        </p><p>
+           Tu hogar conectado para disfrutar de los mejores contenidos con la mayor seguridad
+        </p><p>
+                   2 líneas + Fibra + TV + todo un hogar inteligent
+                </p><span>
+                    <span>47,50</span>
+                    <span>€</span>
+                    <sub>/mes</sub>
+                </span><p>
+                    3 líneas + Fibra + TV + todo un hogar inteligente
+                </p><span>
+                    <span>55</span>
+                    <span>€</span>
+                    <sub>/mes</sub>
+                </span><p>
+                    4 líneas + Fibra + TV + todo un hogar inteligente
+                </p><span>
+                    <span>62,50</span>
+                    <span>€</span>
+                    <sub>/mes</sub>
+                </span><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/tarifas-familiares/" data-analytics-id="-1561317225296">
+            Más info <span>Más info</span>
+            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24">
+                <title>Flecha derecha</title>
+                <use xlink:href="#icon-chevron-right"></use>
+            </svg>
+        </a>

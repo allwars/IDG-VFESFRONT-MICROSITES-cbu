@@ -1,0 +1,62 @@
+// CSS del microsite
+.vfes-ms-content-ficha-movil{
+    scroll-behavior: smooth;
+    .vfms-main {
+        .vfms-title--4 {
+            text-align: center;
+            margin-bottom: 10px;
+            font-size: 1.25rem;
+            line-height: 1.23;
+            font-weight: 400;
+        } 
+        .vfms-paragraph{
+            text-align: center;
+        } 
+        .vfms-title-cta{
+            margin-top: 30px;
+        }  
+        .vfms-button {
+            font-family: "VodafoneRegular",Helvetica,Arial,sans-serif;
+            text-align: center;
+            border: 0;
+            text-decoration: none;
+            cursor: pointer;
+            display: inline-block;
+            box-sizing: border-box;
+            border-radius: 0.375rem;
+            line-height: 1.25;
+            width: 100%;
+            margin-right: 0;
+            margin-left: 0;
+            font-size: 1.125rem;
+            padding: 0.5625rem 0.875rem 0.6875rem;
+        }             
+        .vfms-button--green {
+            background-color: #090;
+            color: #fff;
+        }    
+        @media screen and (min-width: 640px) {
+            .vfms-title--4 {
+                text-align: left;
+                font-size: 1.5rem;
+            }  
+            .vfms-paragraph{
+                text-align: left;
+            }  
+            .vfms-title-cta{
+                margin-top: 0;
+            } 
+            .vfms-button {
+                padding: 0.625rem 1.25rem 0.75rem;
+                font-size: 1.25rem;
+                line-height: 1.75rem;
+                width: auto;
+            }
+        }
+        @media screen and (min-width: 970px) {
+            .vfms-title--4 {
+                font-size: 1.625rem;
+            } 
+        }
+    }
+}

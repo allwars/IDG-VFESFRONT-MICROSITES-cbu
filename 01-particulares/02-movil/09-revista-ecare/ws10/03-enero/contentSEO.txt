@@ -1,0 +1,17 @@
+<h3>Nueva revista de Vodafone</h3><p>Descubre las novedades que tenemos para ti en la Península y Canarias</p><button role="tab" aria-controls="panel-peninsula" type="button">
+					Península
+				</button><button role="tab" aria-controls="panel-canarias" type="button">
+					Canarias
+				</button><a href="https://www.vodafone.es/c/statics/revista-vf-enero-2021-peninsula.pdf" data-analytics-id="1500092837020-7194079303391">
+						<picture>
+							<source srcset="img/revista-peninsula-desktop.webp" type="image/webp">
+							<source srcset="img/revista-peninsula-desktop.jpg" type="image/jpg">
+							
+						</picture>
+						</a><a href="https://www.vodafone.es/c/statics/revista-vf-enero-2021-canarias.pdf" data-analytics-id="1500092837020-5769831909089">
+						<picture>
+							<source srcset="img/revista-canarias-desktop.webp" type="image/webp">
+							<source srcset="img/revista-canarias-desktop.jpg" type="image/jpg">
+							
+						</picture>
+						</a>

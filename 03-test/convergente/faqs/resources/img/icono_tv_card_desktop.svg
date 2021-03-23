@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>icono_tv_desktop</title>
+    <desc>Created with Sketch.</desc>
+    <g id="⚙️Móvil+Fibra---Home---BTS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Listado-Tarifas-Móvil-+-Fibra---ilimitadas---Desktop" transform="translate(-469.000000, -713.000000)">
+            <g id="Tabs-y-Cards" transform="translate(0.000000, 376.000000)">
+                <g id="Cards" transform="translate(0.000000, 54.000000)">
+                    <g id="Cards-/-Card-Shop-/-Desktop-/-Convergent-/-Ilimitada-Super" transform="translate(449.000000, 23.000000)">
+                        <g id="icono-TV" transform="translate(20.000000, 260.000000)">
+                            <g id="Icons+Indicators-/-Mid-Render-Icons-/-tv">
+                                <g id="tv_mid">
+                                    <polygon id="bg" fill-opacity="0" fill="#D8D8D8" points="0 0 30 0 30 30 0 30"></polygon>
+                                    <path d="M8.75,24.6875 L21.25,24.6875" id="edf9beb8_76a7_4542_86a8_3018e99879a7" stroke="#6D6968" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    <path d="M15,24.6875 L15,22.1875" id="Shape" stroke="#6D6968" stroke-width="0.75" stroke-linejoin="round"></path>
+                                    <path d="M5,6.5625 L25,6.5625 C26.2081229,6.5625 27.1875,7.54187711 27.1875,8.75 L27.1875,20 C27.1875,21.2081229 26.2081229,22.1875 25,22.1875 L5,22.1875 C3.79187711,22.1875 2.8125,21.2081229 2.8125,20 L2.8125,8.75 C2.8125,7.54187711 3.79187711,6.5625 5,6.5625 Z" id="Rectangle_path" stroke="#6D6968" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    <path d="M15,19.375 C14.654822,19.375 14.375,19.654822 14.375,20 C14.375,20.345178 14.654822,20.625 15,20.625 C15.345178,20.625 15.625,20.345178 15.625,20 C15.625,19.654822 15.345178,19.375 15,19.375 Z" id="Shape" fill="#E60000" fill-rule="nonzero"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

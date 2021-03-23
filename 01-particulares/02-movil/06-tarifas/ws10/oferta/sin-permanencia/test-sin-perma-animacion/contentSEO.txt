@@ -1,0 +1,7 @@
+<span>Tarifas Móvil</span><h2>Ahora <strong>datos ilimitados 5G</strong> y <strong>sin permanencia </strong>
+                         en las tarifas de contrato
+                        </h2><p><strong>sin permanencia</strong></p><mask x="0" y="0" width="1920" height="1080">
+                                    <rect x="0" y="0" width="1920" height="1080"></rect>
+                                    <text x="960" y="1em">Hello</text>
+                                    <text x="960" y="90%">SVG</text>
+                                    </mask><rect x="0" y="0" width="1920" height="1080"></rect><p><strong>La oferta acaba el 02/11</strong></p>

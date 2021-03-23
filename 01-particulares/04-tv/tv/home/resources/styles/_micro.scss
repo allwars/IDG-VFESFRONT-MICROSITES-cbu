@@ -1,0 +1,315 @@
+
+// CSS del microsite
+.vfes-ms-content{
+  @import "tabsws10";
+
+  // STYLES COLOUR SERIELOVERS
+
+  .vfes-colours-bg-serielovers{
+    background-color: #721e75;
+  }
+
+  .vfms-hide{
+    display: none;
+  }
+
+  .vfms-card-netflix{
+    border-radius: 10px;
+    overflow: hidden;
+  }
+
+  .vfms-card-planet{
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  // BANNER
+  .vfms-banner{
+    background-image: url("../img/home-tvmobile.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    display: block;
+
+    &__content{
+      z-index: 1;
+    }
+
+  }
+
+  .vfms-blur{
+    width: 100%;
+    background-image: -webkit-gradient(linear,left top,left bottom,from(rgba(74,74,74,0)),color-stop(56%,rgba(64,64,64,.4)),to(#333));
+    background-image: linear-gradient(180deg,rgba(74,74,74,0),rgba(64,64,64,.4) 56%,#333);
+    height: 300px;
+    position: absolute;
+    bottom: 0;
+  }
+
+  .vfms-rate__decoration{
+    width: 100%;
+    position: absolute;
+    background: #ba6abd;
+  }
+
+
+  // BREADCRUMBS
+  .vfes-link:after{
+    border-top: 0.0625rem solid #fff;
+    border-right: 0.0625rem solid #fff;
+  }
+
+  // TABS
+  .vfes-tabs--circle>.vfes-tabs__container>.vfes-tabs__tab {
+    margin-right: 20px;
+  }
+
+  .vfes-tabs--circle>.vfes-tabs__container{
+    display: block;
+
+    li{
+      width: 115px;
+      background: transparent;
+    }
+  }
+
+  .vfes-tabs__content-open{
+    display: block;
+  }
+
+  .vfms-nodeco-text{
+    order: 2;
+  }
+
+  .vfms-nodeco-img{
+    order: 1;
+  }
+
+  .vfms-tabs-mobilfiber .vfes-tabs__tab-button.js-tab.vfes-tabs__tab-active:hover{
+    background-color: #e60000;
+  }
+
+  .vfes-tabs--circle .vfes-tabs__tab-button.js-tab{
+    background-color: #f4f4f4;
+  }
+
+  .vfms-flex{
+    flex-direction: column;
+  }
+
+  // CARDS
+  .vfes-card{
+    border-radius: 6px 6px 10px 10px;
+  }
+
+  .vfms-card{
+    border-radius: 6px 6px 10px 10px;
+    transition: all .2s ease-in-out;
+    &__button{
+      position: absolute;
+      bottom: 20px;
+      left: 50%;
+      transform: translate(-50%);
+      -webkit-transform: translate(-50%);
+    }
+
+    .vfms-decoration-live{
+      position: relative;
+      display: block;
+    }
+    .vfms-decoration-live::after{
+      content: '';
+      background: rgb(251,251,251);
+      background: linear-gradient(90deg, rgba(251,251,251,0) 0%, rgba(236,236,236,0.43461134453781514) 48%, rgba(255,255,255,0) 100%);
+      position: absolute;
+      width: 300px;
+      height: 100%;
+      left: -300px;
+      top: 0;
+
+    }
+
+    &:hover{
+        transform: scale(1.02);
+      }
+     &:hover .vfms-decoration-live:after {
+      animation: 1s moveDecoration infinite;
+    }
+
+
+    @keyframes moveDecoration {
+      0%{
+        left: 0;
+      }
+
+      100%{
+        left: 100%;
+      }
+
+
+    }
+  }
+
+  // SECTION ACCORN
+
+  .vfms-section-accorn{
+    &__card{
+      img{
+        width: 100%;
+      }
+      border-radius: 10px;
+      overflow: hidden;
+    }
+  }
+
+  // POPUP
+
+  .vfms-popup{
+    background: #ffffff !important;
+    border-radius: 0px 0px 6px 6px;
+    &__title{
+      margin-bottom: 10px;
+    }
+
+    &__subtitle{
+      padding: 10px 0;
+    }
+
+    &__flex{
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      padding-bottom: 20px;
+      justify-content: center;
+    }
+
+    &__item{
+      padding: 0 0 28px 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    &__name{
+      font-size: 14px;
+    }
+  }
+
+  .vfms-netflix-text{
+    order: 2;
+    text-align: center;
+  }
+
+  .vfms-planet-text{
+    order: 1;
+    text-align: center;
+  }
+
+  .vfms-netflix-img{
+    order: 1;
+  }
+
+  .vfms-planet-img{
+    order: 1;
+  }
+
+  .vfes-netflix-desktop{
+    display: none;
+  }
+
+  .vfes-planet-desktop{
+    display: none;
+  }
+
+  .vfms-card-netflix{
+    flex-direction: column;
+  }
+
+  .vfms-card-planet{
+    flex-direction: column;
+  }
+
+  @media screen and (min-width: 640px) {
+    .vfms-flex{
+      flex-direction: row;
+    }
+
+    .vfes-netflix-desktop{
+      display: none;
+    }
+    .vfes-netflix-tablet{
+      display: block;
+    }
+
+    .vfes-planet-desktop{
+      display: none;
+    }
+    .vfes-planet-tablet{
+      display: block;
+    }
+
+
+  }
+  @media screen and (min-width: 970px) {
+    .vfms-nodeco-text{
+      order: 1;
+    }
+
+    .vfms-banner {
+      background-image: url("../img/home-tvdesktop.jpg");
+      background-attachment: fixed;
+      background-size: cover;
+      background-repeat: no-repeat;
+      position: relative;
+      display: block;
+
+    }
+      .vfms-card-netflix{
+      flex-direction: row;
+    }
+
+    .vfms-netflix-text{
+      order: 1;
+      text-align: left;
+      padding-top: 10px;
+    }
+
+    .vfms-card-planet{
+      flex-direction: row;
+    }
+
+    .vfms-planet-text{
+      order: 2;
+      text-align: left;
+      padding-top: 10px;
+    }
+
+    .vfms-netflix-img{
+      order: 2;
+      text-align: right;
+    }
+
+    .vfms-planet-img{
+      order: 1;
+      text-align: right;
+    }
+
+    .vfms-nodeco-img{
+      order: 2;
+    }
+
+    .vfes-netflix-desktop,
+    .vfes-planet-desktop {
+      display: block;
+    }
+
+    .vfes-netflix-tablet,
+    .vfes-planet-tablet{
+      display: none;
+    }
+
+
+  }
+
+
+}

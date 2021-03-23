@@ -1,0 +1,111 @@
+// CSS del microsite
+.vfes-ms-content{
+    background: #000;
+    height: 525px;
+
+    .vfes-layout__wrapper {
+        padding-top: 30px;
+    }
+    .vfms-logo--iphone {
+        width: 156px;
+        height: 20px;
+    }
+    .vfms-title--iphone {
+        font-family: Helvetica;
+        font-weight: 500;
+        max-width: 280px;
+        margin: 18px auto;
+    }
+    .vfes-flex {
+        display: flex;
+        flex-direction: column;
+    }
+    .vfms-info {
+        width: 155px;
+        height: 44px;
+    }
+    .vfms-device {
+        margin-left: 18%;
+        margin-top: 4%;
+    }
+    .vfms-lsize {
+        font-size: 18px;
+        line-height: 29px;
+    }
+    .vfes-button {
+        font-size: 17px;
+    }
+
+    @media all and (min-width: 768px){
+        background-image: url('../img/HB_Avail_iPhone_tablet.png');
+        background-repeat: no-repeat;
+        background-position: 52% -7%;
+        background-size: 100% ;
+        .vfes-layout__wrapper {
+            height: 387px;
+            margin-top: 130px;
+        }
+        .vfes-ms-content .vfes-flex {
+            align-self: flex-start;
+            margin-right: 70%;
+            margin-top: 5%;
+        }
+        .vfes-layout__wrapper.vfes-flex .vfes-ms-content {
+            margin-top: 230px;
+            padding-right: 10px;
+        }
+        .vfms-device {
+            visibility: hidden;
+        }
+        .vfes-layout__wrapper {
+            display: flex;
+            align-items: center;
+            padding: 25px 0 34px 130px;
+
+            .vfms-title--iphone {
+                font-size: 34px;
+                max-width: 270px;
+            }
+        }
+        .vfms-img__wrapper {
+            display: none;
+        }
+    }
+
+    @media all and (min-width: 1280px) {
+
+        align-items: center;
+        justify-content: center;
+        box-sizing: border-box;
+
+        min-height: 420px;
+        background-image: url('../img/HB_Avail_iPhone_desktop.png');
+        background-size: 127%;
+        background-position: -10% 28%;
+        
+        .vfes-layout__wrapper {
+            height: 420px;
+            margin-left: 20%;
+        }
+    }
+
+    @media all and (min-width: 1902px) {
+        background-size: cover;
+        background-position: -47% 98%;
+        .vfes-ms-content {
+            padding: 0;
+        }
+        .vfms-content__wrapper {
+            align-self: flex-end;          
+        }
+
+        .vfes-flex {
+            margin-top: 0;
+        }
+    }
+
+}
+
+
+
+

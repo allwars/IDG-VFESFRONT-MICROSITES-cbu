@@ -1,0 +1,423 @@
+<h2>Super WiFi Vodafone</h2><p>
+		                    <span><strong>Mejora la cobertura WiFi</strong> y optimiza la señal dentro del hogar</span>
+		                </p><h4>Super WiFi Vodafone</h4><button role="tab" aria-controls="ticket-cliente" type="button">
+		                            Soy cliente
+		                        </button><button role="tab" aria-controls="ticket-noClliente" type="button">
+		                            No soy cliente
+		                        </button><ul>
+		                                <li>
+		                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+		                                        <use xlink:href="#icon-superwifi"></use>
+		                                    </svg>
+		                                    <div>
+		                                        <p>
+		                                            Amplificador de conexión de fibra
+		                                        </p>
+		                                        <p>
+		                                            con 2 extensores de red
+		                                        </p>
+		                                    </div>
+		                                </li>
+		                                    </ul><p>
+		                                                            <span>
+		                                                                00% dto.
+		                                                            </span>
+		                                                        </p><p>
+		                                                            <span>
+		                                                            Sin permanencia
+		                                                            </span>
+		                                                        </p><p>
+		                                                            <del>
+		                                                                <span>00</span>
+		                                                                <span>€</span>
+		                                                                <sub>/mes</sub>
+		                                                            </del>
+		                                                        </p><p>
+		                                                            <span>
+		                                                                <span> desde 6</span>
+		                                                                <span>€</span>
+		                                                                <sub>/mes</sub>
+		                                                            </span>
+		                                                        </p><button type="submit" name="cta" title="CTA">
+		                                                        Más info
+		                                                        </button><ul>
+		                                <li>
+		                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+		                                        <use xlink:href="#icon-superwifi"></use>
+		                                    </svg>
+		                                    <div>
+		                                        <p>
+		                                            Amplificador de conexión de fibra
+		                                        </p>
+		                                        <p>
+		                                            con 2 extensores de red
+		                                        </p>
+		                                    </div>
+		                                </li>
+		                
+		                                <li>
+		                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+		                                        <use xlink:href="#icon-mobile"></use>
+		                                    </svg>
+		                                    <div>
+		                                        <p>
+		                                           2 líneas con datos y min ilimitados
+		                                        </p>
+		                                        <p>
+		                                            Velocidad alta
+		                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+		                                                <use xlink:href="#icon-thunder-3"></use>
+		                                            </svg>
+		                                        </p>
+		                                    </div>
+		                                </li>
+		
+		                                <li>
+		                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+		                                        <use xlink:href="#icon-broadband-or-wifi"></use>
+		                                    </svg>
+		                                    <div>
+		                                        <p>
+		                                           600Mbps Fibra Óptica
+		                                        </p>
+		                                        <p>
+		                                            + llamadas ilimitadas en fijo
+		                                        </p>
+		                                    </div>
+		                                </li>
+		
+		                                <li>
+		                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+		                                        <use xlink:href="#icon-tv"></use>
+		                                    </svg>
+		                                    <div>
+		                                        <p>
+		                                           Pack TV Serielovers 
+		                                        </p>
+		                                        <p>
+		                                            con HBO España y más…
+		                                        </p>
+		                                    </div>
+		                                </li>
+		
+		                                <li>
+		                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+		                                        <use xlink:href="#icon-securenet"></use>
+		                                    </svg>
+		                                    <div>
+		                                        <p>
+		                                          SecureNet Family 
+		                                        </p>
+		                                        <p>
+		                                           protección ante virus
+		                                        </p>
+		                                    </div>
+		                                </li>
+		                            </ul><p>
+		                                        <span>
+		                                            00% dto.
+		                                        </span>
+		                                    </p><p>
+		                                        <span>
+		                                            Sin permanencia
+		                                        </span>
+		                                    </p><p>
+		                                        <del>
+		                                            <span>00</span>
+		                                            <span>€</span>
+		                                            <sub>/mes</sub>
+		                                        </del>
+		                                    </p><p>
+		                                        <span>
+		                                            <span> desde 6</span>
+		                                            <span>€</span>
+		                                            <sub>/mes</sub>
+		                                        </span>
+		                                    </p><button type="submit" name="cta" title="CTA">
+		                                Más info
+		                            </button><h3>Cobertura total y <strong>máximo alcance</strong> en todo el hogar</h3><picture>
+				                    <source media="(min-width: 960px)" srcset="img/conectivity/device-desktop.jpg" type="image/jpg">
+				                    <source media="(min-width: 960px)" srcset="img/conectivity/device-desktop.webp" type="image/webp">
+				                    <source media="(min-width: 768px)" srcset="img/conectivity/device-tablet.jpg" type="image/jpg">
+				                    <source media="(min-width: 768px)" srcset="img/conectivity/device-tabet.webp" type="image/webp">
+				                    
+				                </picture><p>En cualquier tamaño de casa (apartamento, piso, chalet..).</p><p><strong>Garantizando una conexión estable</strong> y una cobertura óptima.</p><p><strong>Soporte 24x7</strong>, monitorizando y optimizando la conexión de forma automática.</p><h3>Red inteligente con <strong>extensores de alta calidad</strong></h3><div>
+				                    
+				                </div><p><strong>Con extensores que se comunican entre si</strong> y con una plataforma en la nube para monitorizar y optimizar la señal continuamente.</p><p><strong>Adaptable a las características</strong> y necesidades <strong>de cada hogar</strong>.</p><p>Un técnico experto realizará medidas para indicar el <strong>número de extensores para obtener la mejor experiencia WiFi posible</strong>. El precio indicado en el producto, incluye la instalación de hasta 2 extensores. </p><h3>Red inteligente con <strong>extensores de alta calidad</strong></h3><picture>
+				                    <source media="(min-width: 960px)" srcset="img/app/app-desktop.png" type="image/png">
+				                    <source media="(min-width: 960px)" srcset="img/app/app-desktop.webp" type="image/webp">
+				                    <source media="(min-width: 768px)" srcset="img/app/app-tablet.png" type="image/png">
+				                    <source media="(min-width: 768px)" srcset="img/app/app-tabet.webp" type="image/webp">
+				                    
+				                </picture><p>Con una <strong>app</strong> en la que podrás ver la topología de la red y los <strong>dispositivos conectados a tu router</strong>.</p><p><strong>Gestión del nombre y la contraseña</strong> de la red WiFi.</p><div>
+				                        
+				                    </div><p>Posibilidad de <strong>compartir</strong> el nombre y la contraseña de <strong>la red WiFi con tus invitados</strong>.</p><ul aria-labelledby="idList" data-ws10-js="tabs-simple">
+				            <div role="tablist" data-ws10-tab="tab-container">
+				                <li>
+				                    <button role="tab" aria-controls="nosurprise-1 includes-1" type="button">  
+				                        <div data-ws10-js="card-rate">
+				                            <div>
+				                                <ul>
+				                                    <li>
+				                                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+				                                            <use xlink:href="#icon-mobile"></use>
+				                                        </svg>
+				                                        <div>
+				                                            <p>
+				                                                2 líneas con datos y min ilimitados
+				                                            </p>
+				                                            <p>
+				                                                Velocidad alta
+				                                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+				                                                    <use xlink:href="#icon-thunder-2"></use>
+				                                                </svg>
+				                                            </p>
+				                                        </div>
+				                                    </li>
+				
+				                                    <li>
+				                                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+				                                            <use xlink:href="#icon-broadband-or-wifi"></use>
+				                                        </svg>
+				                                        <div>
+				                                            <p>
+				                                                600Mbps Fibra Óptica
+				                                            </p>
+				                                            <p>
+				                                            + llamadas ilimitadas en fijo
+				                                            </p>
+				                                        </div>
+				                                    </li>
+				                        
+				                                    <li>
+				                                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+				                                            <use xlink:href="#icon-tv"></use>
+				                                        </svg>
+				                                        <div>
+				                                            <p>
+				                                                Pack TV Serielovers 
+				                                            </p>
+				                                            <p>
+				                                                con HBO España y más…
+				                                            </p>
+				                                        </div>
+				                                    </li>
+				                                </ul>
+				                                <div>
+				                                    <div>
+				                                        <p>
+				                                            <span>50% dto. 3 meses</span>
+				                                            <span>
+				                                                Permanencia 1 año
+				                                            </span>
+				                                            <del>95€/mes</del>
+				                                            <span>
+				                                                <span>47,50</span>
+				                                                <span>€</span>
+				                                                <sub>/mes</sub>
+				                                            </span>
+				                                        </p>
+				                                    </div>
+				                                </div>
+				                            </div>
+				                        </div>
+				                    </button>
+				                </li>  
+				                <li>
+				                    <button role="tab" aria-controls="nosurprise-2 includes-2" type="button">
+				                        <div data-ws10-js="card-rate">
+				                            <div>
+				                                <ul>
+				                                    <li>
+				                                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+				                                            <use xlink:href="#icon-mobile"></use>
+				                                        </svg>
+				                                        <div>
+				                                            <p>
+				                                                3 líneas con datos y min ilimitados
+				                                            </p>
+				                                            <p>
+				                                                Velocidad alta
+				                                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+				                                                    <use xlink:href="#icon-thunder-2"></use>
+				                                                </svg>
+				                                            </p>
+				                                        </div>
+				                                    </li>
+				
+				                                    <li>
+				                                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+				                                            <use xlink:href="#icon-broadband-or-wifi"></use>
+				                                        </svg>
+				                                        <div>
+				                                            <p>
+				                                                600Mbps Fibra Óptica
+				                                            </p>
+				                                            <p>
+				                                            + llamadas ilimitadas en fijo
+				                                            </p>
+				                                        </div>
+				                                    </li>
+				                        
+				                                    <li>
+				                                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+				                                            <use xlink:href="#icon-tv"></use>
+				                                        </svg>
+				                                        <div>
+				                                            <p>
+				                                                Pack TV Serielovers 
+				                                            </p>
+				                                            <p>
+				                                                con HBO España y más…
+				                                            </p>
+				                                        </div>
+				                                    </li>
+				                                </ul>
+				                                <div>
+				                                    <div>
+				                                        <p>
+				                                            <span>50% dto. 3 meses</span>
+				                                            <span>
+				                                                Permanencia 1 año
+				                                            </span>
+				                                            <del>110€/mes</del>
+				                                            <span>
+				                                                <span>55</span>
+				                                                <span>€</span>
+				                                                <sub>/mes</sub>
+				                                            </span>
+				                                        </p>
+				                                    </div>
+				                                </div>
+				                            </div>
+				                        </div>
+				                    </button>
+				                </li>
+				                <li>
+				                    <button role="tab" aria-controls="nosurprise-3 includes-3" type="button">
+				                        <div data-ws10-js="card-rate">
+				                            <div>
+				                                <ul>
+				                                    <li>
+				                                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+				                                            <use xlink:href="#icon-mobile"></use>
+				                                        </svg>
+				                                        <div>
+				                                            <p>
+				                                                4 líneas con datos y min ilimitados
+				                                            </p>
+				                                            <p>
+				                                                Velocidad alta
+				                                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+				                                                    <use xlink:href="#icon-thunder-2"></use>
+				                                                </svg>
+				                                            </p>
+				                                        </div>
+				                                    </li>
+				
+				                                    <li>
+				                                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+				                                            <use xlink:href="#icon-broadband-or-wifi"></use>
+				                                        </svg>
+				                                        <div>
+				                                            <p>
+				                                                600Mbps Fibra Óptica
+				                                            </p>
+				                                            <p>
+				                                            + llamadas ilimitadas en fijo
+				                                            </p>
+				                                        </div>
+				                                    </li>
+				                        
+				                                    <li>
+				                                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+				                                            <use xlink:href="#icon-tv"></use>
+				                                        </svg>
+				                                        <div>
+				                                            <p>
+				                                                Pack TV Serielovers 
+				                                            </p>
+				                                            <p>
+				                                                con HBO España y más…
+				                                            </p>
+				                                        </div>
+				                                    </li>
+				                                </ul>
+				                                <div>
+				                                    <div>
+				                                        <p>
+				                                            <span>50% dto. 3 meses</span>
+				                                            <span>
+				                                                Permanencia 1 año
+				                                            </span>
+				                                            <del>125€/mes</del>
+				                                            <span>
+				                                                <span>62,50</span>
+				                                                <span>€</span>
+				                                                <sub>/mes</sub>
+				                                            </span>
+				                                        </p>
+				                                    </div>
+				                                </div>
+				                            </div>
+				                        </div>
+				                    </button>
+				                </li>
+				            </div>
+				        </ul><h4>La tarifa incluye:</h4><div>
+				                    
+				                  </div><p>2 líneas móviles con llamadas y <strong>datos ilimitados a máxima velocidad en la red 5G.</strong></p><p><strong>600Mbps de fibra óptica simétrica</strong> para tu hogar, podrás conectar más de 25 dispositivos a la vez.</p><p>TV con <strong>+100 canales, +40.000 contenidos bajo demanda, HBO España y Amazon Prime incluidos con decodificador 4K.</strong></p><div>
+				                    
+				                  </div><p>3 líneas móviles con llamadas y <strong>datos ilimitados a máxima velocidad en la red 5G.</strong></p><p><strong>600Mbps de fibra óptica simétrica</strong> para tu hogar, podrás conectar más de 25 dispositivos a la vez.</p><p>TV con <strong>+100 canales, +40.000 contenidos bajo demanda, HBO España y Amazon Prime incluidos con decodificador 4K.</strong></p><p><strong>V-Home Mini</strong> para ver desde el móvil <strong>lo que pasa en tu casa</strong> cuando no estás.</p><p><strong>Mismo número y misma tarifa</strong> de voz y datos en todos tus dispositivos <strong>sin tener que cambiar la SIM</strong> con OneNumber.</p><div>
+				                    
+				                  </div><p>3 líneas móviles con llamadas y <strong>datos ilimitados a máxima velocidad en la red 5G.</strong></p><p><strong>600Mbps de fibra óptica simétrica</strong> para tu hogar, podrás conectar más de 25 dispositivos a la vez.</p><p>TV con <strong>+100 canales, +40.000 contenidos bajo demanda, HBO España y Amazon Prime incluidos con decodificador 4K.</strong></p><p><strong>V-Home Mini</strong> para ver desde el móvil <strong>lo que pasa en tu casa</strong> cuando no estás.</p><p><strong>Mismo número y misma tarifa</strong> de voz y datos en todos tus dispositivos <strong>sin tener que cambiar la SIM</strong> con OneNumber.</p><p>Disfruta de <strong>WiFi en tu coche</strong> con localización, alertas y servicios desde tu móvil <strong>con CarConnect</strong>.</p><h4>La tarifa incluye:</h4><h3><strong>Sin sorpresas. <span>No escondemos nada</span></strong></h3><p>Impuestos y cuota de línea incluidos.</p><p>Permanencia 1 año.</p><p>¿Cuánto voy a pagar?
+				        <span><strong>Super WiFi:</strong> desde 6€/mes</span>  
+				        </p><span><strong>Paquete familiar:</strong> 47,50€/mes durante 3 meses</span><span><strong>Paquete familiar:</strong> 55€/mes durante 3 meses</span><span><strong>Paquete familiar:</strong> 62,50€/mes durante 3 meses</span><p></p><p>El servicio básico de Super WiFi incluye la instalación de 2 extensores (6€/mes), pudiéndose añadir extensores adicionales por +3€/mes (IVA incluido) cada extensor, hasta un máximo de 5.</p><p>Los pedidos no tienen coste adicional por envio.</p><p>Plazo de devolución gratuita de 14 días.</p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/internet-y-fijo/super-wifi/legales/">Ver Condiciones Legales</a><h3><strong>¿Cómo contrato Super WiFi?</strong></h3><ul data-ws10-card-rate-tab="steps">
+				        <li>
+				            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px"><title>Business</title><use xlink:href="#icon-shopping-trolley-mid"></use></svg>
+				            <p>Compra online</p>
+				            <p>Recibirás un email de confirmación con el detalle de tu pedido y próximos pasos.</p>
+				        </li>
+				        <li>
+				            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px"><title>Business</title><use xlink:href="#icon-engineer-mid"></use></svg>
+				            <p>Cita de instalación</p>
+				            <p>Durante el proceso de compra, elegirás la fecha de instalación que más te convenga.</p>
+				        </li>
+				        <li>
+				            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px"><title>Mi Vodafone</title><use xlink:href="#icon-unified-communication-mid"></use></svg>
+				            <p>Mi Vodafone</p>
+				            <p>Podrás registrarte y hacer el seguimiento de tu pedido y gestionar tus servicios de Vodafone.</p>
+				        </li>
+				        <li>
+				            
+				            <p>Descarga la App</p>
+				            <p>Una vez realizada la instalación, el técnico te ayudará a tener descargada la app de Super WiFi.</p>
+				        </li>
+				        <li>
+				            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px"><title>Business</title><use xlink:href="#icon-mobile-mid"></use></svg>
+				            <p>App de Super WiFi</p>
+				            <p>Con la app instalada podrás ver los dispositivos que hacen mayor uso de tu red WiFi, cambiar contraseña, nombre de red y ver los dispositivos conectados, incluso si estás observando fuera de tu red WiFi.</p>
+				        </li>
+				        
+				    </ul><ul data-ws10-card-rate-tab="steps">
+				        <li>
+				            
+				            <p>1.</p>
+				            <p>Solicítalo gratis a través de Mi Vodafone</p>
+				        </li>
+				        <li>
+				            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px"><title>Wifi</title><use xlink:href="#icon-broadband-or-wifi-mid"></use></svg>
+				            <p>2.</p>
+				            <p>Dentro de Mi Vodafone, ve a la sección de Productos y Servicios y selecciona el servicio de Fibra</p>
+				        </li>
+				        <li>
+				            
+				            <p>3.</p>
+				            <p>Dentro de Fibra, baja hasta la sección de Super WiFi y haz clic en "lo quiero"</p>
+				        </li>
+				        <li>
+				            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px"><title>Business</title><use xlink:href="#icon-completed-mid"></use></svg>
+				            <p>4.</p>
+				            <p>Dentro de Super WiFi, haz clic en el botón de "Contratar por 6/mes"</p>
+				        </li>
+				    </ul>

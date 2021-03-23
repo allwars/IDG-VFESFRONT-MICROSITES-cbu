@@ -1,0 +1,77 @@
+<h1>
+						<p "vfes-title--regular"="">Contrata la  <span>Fibra Yuser</span></p>
+						
+					</h1><h2>
+						Ahora <span> más velocidad</span> de fibra <span> por menos</span>
+					</h2><ul>
+						<li>
+							<span>600Mbps</span>
+							<span>Fibra simétrica</span>
+						</li>
+						<li>
+							<span>12,84€ <span>/mes</span></span>
+							<span>+18,15€/mes de cuota de línea</span>
+						</li>
+						
+					</ul><span>¡Sin permanencia!</span><a href="#" title="Detalles de la oferta" target="_self" data-modal="offer-details-fibra600mbp" data-modal-close="" aria-haspopup="dialog">Detalles de la oferta</a><p>¿Quieres contratar <strong>una de nuestras tarifas?</strong></p><input style="display:none;" value="NO" name="verifyLeadId"><input name="wg-return" value="gracias" type="hidden"><input type="phone" name="phone" inputmode="numeric" pattern="[0-9]*" maxlength="9" data-wg-validation="required,phone" placeholder="Nº teléfono" oninput="javascript: if (this.value.length > this.maxLength) this.value = this.value.slice(0, this.maxLength);"><input data-wg-validation="required" type="checkbox" value="on" name="check"><label target="_self" for="privacy">Acepto la <a href="#" data-modal="privacy" data-modal-close="" aria-haspopup="dialog" title="Vodafone One" target="_new" rel="nofollow"> Política de Privacidad</a>
+								</label><input type="checkbox" name="gdpr" value="on"><label for="comunication"><span>Acepto recibir
+										comunicaciones comerciales de Vodafone</span> </label><input title="Te llamamos gratis" type="submit" value="Te llamamos gratis"><div>
+						
+					</div><p>Comprueba si tienes cobertura de Fibra o ADSL en tu domicilio.</p><button type="button" data-modal="check-coverage" data-modal-close="" aria-haspopup="dialog" name="cta" title="Consulta tu cobertura">
+							Consulta tu cobertura
+						</button><button aria-hidden="false"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px">
+                        <title>Close</title>
+                        <use xlink:href="#icon3-close"></use>
+                    </svg></button><h1> <span>Vodafone Fibra Yuser </span>incluye</h1><ul>
+						<li>
+							<div>
+								<span>
+									<svg height="30" width="30" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+										<title>INTERNET</title>
+										<use xlink:href="#icon3-desktop"></use>
+									</svg>
+								</span>
+								<h2>Internet</h2>
+							</div>
+							<ul>
+								<li>Vodafone Fibra 600Mb simétricos.</li>
+								<li>Conecta hasta 15 dispositivos.</li>
+								<li>Con fibra auto instalable, coste 0€. Si requiere instalación coste de 70€.</li>
+							</ul>
+						</li>
+						
+						<li>
+							<div>
+								<span>
+									<svg height="30" width="30" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+										<title>FIJO</title>
+										<use xlink:href="#icon3-business-phone"></use>
+									</svg>
+								</span>
+								<h2>Fijo</h2>
+							</div>
+							<ul>
+								<li>Llamadas nacionales ilimitadas a fijos y móviles.</li>
+							</ul>
+						</li>
+					
+					</ul><h2>Detalles de tu cuota:</h2><ul>
+						<li> <span>Sin Permanencia</span> </li>
+						<li>Precio total: <span>30,99€/mes(IVA incl). Dto durante 12 meses. Después 42,99€/mes</span></li>
+						<li>Con posibilidad de 3 meses de desconexión temporal</li>
+					</ul><button aria-hidden="false"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px">
+                        <title>Close</title>
+                        <use xlink:href="#icon3-close"></use>
+                    </svg></button><h4>Política de Privacidad</h4><p>
+						Los datos que nos facilitas en el registro formarán parte de una base de datos de Vodafone España. S.A.U., con domicilio en Avda. América 115, 28042 de Madrid y serán tratados para facilitarte la información solicitada y poder contactar contigo en el futuro para llevar a cabo acciones comerciales, en caso de que nos hayas proporcionado tu consentimiento marcando el check habilitado al efecto.
+					</p><p>
+						Podrás ejercitar los derechos de acceso, rectificación, cancelación, oposición, limitación dirigiéndote a Vodafone España a la dirección antes indicada. Mantendremos tus datos mientras no ejerzas tu derecho de cancelación. Podrás ponerte en contacto con el Delegado de Protección de Datos (DPO) a través de: DPO-SPAIN@vodafone.com
+					</p><button aria-hidden="false"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px">
+								<title>Close</title>
+								<use xlink:href="#icon3-close"></use>
+							</svg></button><div>
+								
+							</div><p>Consulta tu cobertura</p><p>Comprueba si tienes cobertura de Fibra o ADSL en tu domicilio.</p><input style="display:none;" value="NO" name="verifyLeadId"><input name="wg-return" value="gracias" type="hidden"><div>
+									</div><input type="phone" name="phone" inputmode="numeric" pattern="[0-9]*" maxlength="9" data-wg-validation="required,phone" placeholder="Nº teléfono" oninput="javascript: if (this.value.length > this.maxLength) this.value = this.value.slice(0, this.maxLength);"><input data-wg-validation="required" type="checkbox" value="on" name="check"><label target="_self" data-modal="privacy" data-modal-close="" aria-haspopup="dialog" for="privacy-popup">Acepto la <a href="#" title="Vodafone One" target="_new" rel="nofollow"> Política de Privacidad</a>
+								</label><input type="checkbox" name="gdpr" value="on"><label for="comunication-popup">Acepto recibir comunicaciones
+											comerciales de Vodafone </label><input title="Te llamamos gratis" type="submit" value="Te llamamos gratis">

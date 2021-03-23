@@ -1,0 +1,185 @@
+<div>
+			</div><ul>
+
+						<li>
+							<div>
+								<h3>Samsung Galaxy
+									Note10
+								</h3>
+								
+								<div>
+									<div>
+										<div>
+											<div>
+												
+											</div>
+											<p>
+												Pantalla</p>
+										</div>
+										<div>
+											<p>Tamaño 6.3"</p>
+											<p>Resolución 2280x1080</p>
+										</div>
+									</div>
+									<div>
+										<div>
+											<div>
+												
+											</div>
+											<p>
+												Cámara</p>
+										</div>
+										<div>
+											<p>Frontal 10Mp</p>
+											<p>Trasera 16+12+12Mp</p>
+										</div>
+									</div>
+									<div>
+										<div>
+											<div>
+												
+											</div>
+											<p>
+												Memoria</p>
+										</div>
+										<div>
+											<p>Interna 256GB</p>
+											<p>RAM 8GB</p>
+										</div>
+									</div>
+								</div>
+								<div>
+									<p><span><strong>23,50€/mes</strong></span> en 36
+										meses</p>
+									<p><span><strong>+0€</strong></span> de pago inicial
+									</p>
+
+									<a data-device-name="Samsung Galaxy Note10" href="https://www.vodafone.es/c/tienda-online/particulares/catalogo-moviles/samsung-galaxy-note10-negro-256gb-313701/" aria-haspopup="dialog">Más información</a>
+									<span>: Samsung Galaxy Note10</span>
+								</div>
+							</div>
+						</li>
+
+
+
+
+						<li>
+							<div>
+								<h3>Samsung Galaxy
+									Note10+</h3>
+								
+								<div>
+									<div>
+										<div>
+											<div>
+												
+											</div>
+											<p>
+												Pantalla</p>
+										</div>
+										<div>
+											<p>Tamaño 6.8"</p>
+											<p>Resolución 3040x1440</p>
+										</div>
+									</div>
+									<div>
+										<div>
+											<div>
+												
+											</div>
+											<p>
+												Cámara</p>
+										</div>
+										<div>
+											<p>Frontal 10Mp</p>
+											<p>Trasera 16+12+12Mp</p>
+										</div>
+									</div>
+									<div>
+										<div>
+											<div>
+												
+											</div>
+											<p>
+												Memoria</p>
+										</div>
+										<div>
+											<p>Interna 256GB</p>
+											<p>RAM 12GB</p>
+										</div>
+									</div>
+								</div>
+								<div>
+									<p><span><strong>27€/mes</strong></span> en 36 meses
+									</p>
+									<p><span><strong>+0€</strong></span> de pago inicial
+									</p>
+									<a href="https://www.vodafone.es/c/tienda-online/particulares/catalogo-moviles/samsung-galaxy-note10-plus-negro-256gb-313702/" aria-haspopup="dialog" data-device-name="samsung galaxy note10+">Más información</a><span>:
+										Samsung Galaxy Note10+ </span>
+									
+								</div>
+							</div>
+						</li>
+
+
+
+
+						<li>
+							<div>
+								<h3>Samsung Galaxy
+									Note10+ 5G</h3>
+								
+								<div>
+									<div>
+										<div>
+											<div>
+												
+											</div>
+											<p>
+												Pantalla</p>
+										</div>
+										<div>
+											<p>Tamaño 6.8”</p>
+											<p>Resolución 3040x1440</p>
+										</div>
+									</div>
+									<div>
+										<div>
+											<div>
+												
+											</div>
+											<p>
+												Cámara</p>
+										</div>
+										<div>
+											<p>Frontal 10Mp</p>
+											<p>Trasera 16+12+12Mp</p>
+										</div>
+									</div>
+									<div>
+										<div>
+											<div>
+												
+											</div>
+											<p>
+												Memoria</p>
+										</div>
+										<div>
+											<p>Interna 512GB</p>
+											<p>RAM 12GB</p>
+										</div>
+									</div>
+								</div>
+								<div>
+									<p><span><strong>28,99€/mes</strong></span> en 36
+										meses</p>
+									<p><span><strong>+0€</strong></span> de pago inicial
+									</p>
+    
+									<a href="https://www.vodafone.es/c/tienda-online/particulares/catalogo-moviles/samsung-galaxy-note10-plus-5g-negro-512gb-313703/" aria-haspopup="dialog" data-device-name="samsung galaxy note10+ 5g">Más información</a>
+									<span>: Samsung Galaxy Note10+ 5G</span>
+
+								</div>
+							</div>
+						</li>
+					</ul>

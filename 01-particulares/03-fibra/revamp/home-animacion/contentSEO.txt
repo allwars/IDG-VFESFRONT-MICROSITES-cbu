@@ -1,0 +1,132 @@
+<div data-spritesheet="svg/sprite.mid.svg"></div><p data-animation-element="category">Tarifas de
+                    Fibra Óptica
+                </p><h2>
+                    <div data-animation-element="1sentence">Llévate <span>internet en casa</span> sin <span>caídas
+                            ni interrupciones</span></div>
+                </h2><div data-animation-element="sello">
+                    
+                </div><div data-animation-element="imac">
+                    
+                </div><div data-animation-element="ipad">
+                    
+                </div><div data-animation-element="deco">
+                    
+                </div><div data-animation-element="iphone">
+                    
+                </div><div data-animation-element="joystick">
+                    
+                </div><div>
+            
+        </div><path fill="#f4f4f4" d="M 0 85.2514 C 315.313 86.2845 443.806 157.51 881.113 50.7109 C 1317.15 -55.9125 1318.42 33.4285 1536.31 69.3087 C 1818.67 115.154 2156.92 186.209 2560 85.2515 V 231.253 L 0 231.252 V 85.2514 Z">
+                        <animate repeatCount="indefinite" fill="freeze" attributeName="d" dur="30s" values="M0 25.9086C277 84.5821 433 65.736 720 25.9086C934.818 -3.9019 1214.06 -5.23669 1442 8.06597C2079 45.2421 2208 63.5007 2560 25.9088V171.91L0 171.91V25.9086Z; M0 86.3149C316 86.315 444 159.155 884 51.1554C1324 -56.8446 1320.29 34.1214 1538 70.4063C1814 116.407 2156 188.408 2560 86.315V232.317L0 232.316V86.3149Z; M0 53.6584C158 11.0001 213 0 363 0C513 0 855.555 115.001 1154 115.001C1440 115.001 1626 -38.0004 2560 53.6585V199.66L0 199.66V53.6584Z; M0 25.9086C277 84.5821 433 65.736 720 25.9086C934.818 -3.9019 1214.06 -5.23669 1442 8.06597C2079 45.2421 2208 63.5007 2560 25.9088V171.91L0 171.91V25.9086Z">
+                        </animate>
+                    </path><div></div><div data-vfes-inject-module="vfes-offer-ticket"></div><div data-vfes-inject-module="vfes-offer-ticket"></div><h3>Protocolo de seguridad
+                                    </h3><p>Consulta el protocolo de actuación para las instalaciones de Vodafone Fibra
+                                    </p><a href="https://www.vodafone.es/c/protocolo-seguridad-instalaciones/" target="_self" title="Más información" data-analytics-id="-1153473279456">Más
+                                        información</a><h3>Internet en tu segunda residencia
+                                    </h3><p>Si ya eres cliente de Vodafone One disfruta de internet con datos ilimitados para navegar.</p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/internet-segunda-residencia/" target="_new" title="Más información" data-analytics-id="-3999450051555">Más
+                                        información</a><h2>
+                        ¿Por qué contratar <span>internet en casa</span> con Vodafone?
+                    </h2><h3><span>Siempre
+                                                    conectado</span> a lo que más te importa</h3><p>La tecnología ya está a tu alcance para que no tengas
+                                            que bajar tu ritmo de vida por una mala conexión.</p><p>Disfruta de <span>videollamadas</span> sin fin, <span>películas y series online</span> y de todo el
+                                            contenido de instagram con la conexión en casa de fibra óptica Vodafone.</p><h3><span>Juega sin límites</span> y sin cortes
+                                        </h3><p>No importa si eres más de Fornite o de League of
+                                            Legends. ¡O de ambos!
+                                            Porque con la conexión de fibra óptica Vodafone podrás jugar sin parar y sin
+                                            perder
+                                            latencia. Sin Lag.</p><h3><span>Amplifica
+                                                tu</span> conexión
+                                        </h3><p>Amplifica tu conexión de fibra óptica gracias a
+                                            Super WiFi.
+                                            Tendrás <span>soporte en remoto 24x7 y todo en la
+                                                nube</span> para monitorizar y optimizar la señal ante interferencias o
+                                            movimientos dentro del hogar.</p><h2>¡Con <span>Fibra óptica en casa</span>
+                                    tendrás acceso de forma rápida y segura a <span>todo el
+                                        contenido online que necesitas!</span>
+                                </h2><p>Habla, navega o disfruta de
+                                    vídeos
+                                    en streaming sin ataduras y a la máxima velocidad con nuestras tarifas fibra en
+                                    casa.
+                                    Con la rápida instalación de nuestro router, podrás conectar varios dispositivos al
+                                    mismo tiempo.</p><p>Ya vivas solo, en
+                                    pareja o en
+                                    familia, podrás disfrutar del mejor entretenimiento con la máxima velocidad y
+                                    estabilidad. ¡Descubre nuestras ofertas y disfruta de llamadas a fijo y
+                                    móvil
+                                    en todas nuestras tarifas!</p><h3>
+                            <span>Instalar la fibra óptica en casa es muy fácil</span>
+                        </h3><ul>
+                                <li>
+                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="68px" height="68px">
+                                        <title>icon-location</title>
+                                        <use xlink:href="#icon-location-mid"></use>
+                                    </svg>
+                                    <h4><span>Consulta
+                                            tu cobertura</span></h4>
+                                    <p>Tendrás que introducir tu dirección para asegurarnos de que la fibra de Vodafone llega a tu casa. 
+                                    </p>
+                                </li>
+                                <li>
+                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="68px" height="68px">
+                                        <title>icon-shopping-trolley-mid</title>
+                                        <use xlink:href="#icon-shopping-trolley-mid"></use>
+                                    </svg>
+                                    <h4><span>Compra
+                                            Online</span></h4>
+                                    <p>Una vez contratada la tarifa a través de la web, te enviamos un email de confirmación. </p>
+                                </li>
+                                <li>
+                                  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="68px" height="68px"><title>icon-engineer-mid</title><use xlink:href="#icon-engineer-mid"></use></svg>
+                                  <h4><span>Cita de instalación</span></h4>
+                                  <p>Una vez contratado, un experto se pondrá en contacto contigo para concretar la fecha de instalación que más te convenga. ¡Tú eliges!</p>
+                              </li>
+                              <li>
+                                  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="68px" height="68px"><title>icon-calendar-mid</title><use xlink:href="#icon-calendar-mid"></use></svg>
+                                  <h4><span>Día de instalación</span></h4>
+                                  <p>El día acordado, el técnico llevará el router wifi y lo dejará todo listo en unas dos horas.</p>
+                              </li>
+                            </ul><h2>
+                    Preguntas Frecuentes
+                </h2><button aria-expanded="false" aria-controls="accordion-content-0">
+                                    <h3>
+                                        ¿Se adquiere algún compromiso al contratar Vodafone Fibra?</h3>
+                                </button><p>
+                                            La instalación del servicio de fibra, salvo que sea autoinstalable, tiene un coste para el cliente de 150 euros. Vodafone renuncia al cobro de este coste si el cliente se mantiene activo en el servicio durante, al menos, 12 meses desde la fecha de instalación.
+                                        </p><button aria-expanded="false" aria-controls="accordion-content-0">
+                                    <h3>
+                                        ¿Qué es simetría?</h3>
+                                </button><p>
+                                           La velocidad de la fibra simétrica está sujeta a disponibilidad geográfica y te permite tener la misma velocidad de subida que de bajada.
+                                        </p><button aria-expanded="false" aria-controls="accordion-content-0">
+                                    <h3>
+                                        ¿Qué incluye Vodafone Fibra? ¿Puedo añadir TV de pago u objetos conectados?</h3>
+                                </button><p>
+                                            Vodafone Fibra incluye una conexión a internet, un router e instalación gratuita, una tarifa de fijo con llamadas ilimitadas a fijos y móviles nacionales. Además por defecto tienes activado el Servicio de Identificación de Fijo, por el que se te cargarán +2€/mes.
+                                        </p><p>Si quieres completar tu oferta de Vodafone Fibra con un paquete de Vodafone TV: <a href="http://vodafone.es/c/particulares/es/productos-y-servicios/television/" target="_new">vodafone.es/c/particulares/es/productos-y-servicios/television/</a> Y/o contratar cualquier Objeto Conectado de los que tenemos. Más info:Visita: <a href="http://vodafone.es/c/particulares/es/mas-con-vodafone/objetos-conectados/listado/" target="_new">vodafone.es/c/particulares/es/mas-con-vodafone/objetos-conectados/listado/</a> </p><p>Para contratar cualquier servicio adicional llama gratis al <a href="tel:900921319">900921319</a>.</p><p>Algunos de los paquetes de TV incluyen suscripciones como HBO España, Filmin o Amazon Prime. Para poder disfrutarlas junto al resto de canales del paquete que elijas, es necesario tener contratado con Vodafone al menos una línea móvil.</p><button aria-expanded="false" aria-controls="accordion-content-0">
+                                    <h3>¿Me puedo dar de baja del servicio de identificación de llamadas del fijo? ¿Cómo?</h3>
+                                </button><p>
+                                            Sí. Para dar de baja el servicio hay que llamar al 123. Recuerda que dejarás de visualizar los números que te están llamando al fijo.
+                                        </p><button aria-expanded="false" aria-controls="accordion-content-0">
+                                    <h3>¿Cuáles son los próximos pasos en cuanto a la instalación de la fibra se refiere?</h3>
+                                </button><ul>
+                                            <li>
+                                                <p>
+                                                    Te enviamos un email con toda la información de lo que has contratado, de cuándo estará disponible el servicio y de lo que va a ir pasando en cada momento.
+                                                </p>
+                                            </li>
+                                            <li>
+                                                <p>
+                                                    Acordamos la cita para instalación. Si necesitas cambiarla, no te preocupes, porque nos adaptamos a tu horario. El horario disponible para que el instalador acuda a tu domicilio es de lunes a viernes de 8:00 a 21:00h y los sábados de 8:00h a 15:00h
+                                                </p>
+                                            </li>
+                                            <li>
+                                                <p>
+                                                    Te damos el router y la instalación sin coste adicional. Además, los instaladores te ofrecerán un diagnóstico personalizado de cobertura y velocidad del wifi en las diferentes estancias de tu casa.
+                                                </p>
+                                            </li>
+                                        </ul><button aria-expanded="false" aria-controls="accordion-content-0">
+                                    <h3>¿Qué pasa si tengo una tarifa móvil y quiero contratar Vodafone Fibra?</h3>
+                                </button><p>
+                                            Con tu tarifa móvil siempre puedes contratar la fibra. Contrátalo llamando gratis a  <a href="tel:900921319">900921319</a>.
+                                        </p>

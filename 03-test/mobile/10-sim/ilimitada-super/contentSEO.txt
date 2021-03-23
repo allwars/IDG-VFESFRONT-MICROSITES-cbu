@@ -1,0 +1,261 @@
+<p>La tarifa incluye</p><symbol data-name="Mobile_ic_mid" viewBox="0 0 192 192"><line x1="84" y1="158" x2="108" y2="158" fill="none" stroke="#e60000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"></line><rect width="192" height="192" fill="none"></rect><rect x="50" y="18" width="92" height="156" rx="14" ry="14" fill="none" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"></rect></symbol><h3>Datos ilimitados 5G</h3><p>Navega a Velocidad Máxima para Redes Sociales y música online.</p><a href="#">¿Qué puedes hacer con datos ilimitados?</a><symbol data-name="Landline_or_Call_ic+_mid" viewBox="0 0 192 192"><g data-name="ICON"><line x1="29.16" y1="29.15" x2="62.6" y2="78.87" fill="none" stroke="#e60000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"></line><line x1="116.33" y1="130.04" x2="162.78" y2="162.8" fill="none" stroke="#e60000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"></line></g><path data-name="<Pfad>" d="M116.33,130l13.19-10c3.48-1.79,7.07-2.22,9.23-.89,3.28,2,30.75,20.4,33.07,22s3.38,6.25.13,10.75-18.15,22.26-24.39,22-32.21-1-80.68-49.75S18.13,49.8,18,43.63,36.08,23,40.68,19.89s9.26-1.91,10.87.32c1.82,2.54,19.73,29.93,21.7,33.07,1.34,2.15.81,5.7-1.06,9.12S62.6,78.87,62.6,78.87s5.25,9.05,23.15,27.05C94.26,114.65,116.33,130,116.33,130Z" fill="none" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"></path><rect width="192" height="192" fill="none"></rect><rect width="192" height="192" fill="none"></rect></symbol><h3>Llamadas ilimitadas</h3><p>A fijos y móviles. Roaming incluido en Europa y EE.UU.</p><rect width="80" height="80" fill="#d8d8d8" fill-opacity="0"></rect><rect data-name="Rectangle path" width="80" height="80" fill="none"></rect><path d="M96,125.08H60.76a6.15,6.15,0,0,0-5.77,4L51.69,138a18.24,18.24,0,0,1-17.08,12h0a16.75,16.75,0,0,1-16.44-19.21l9.61-67.42A24.73,24.73,0,0,1,52.16,42h87.68a24.73,24.73,0,0,1,24.38,21.37l9.61,67.42A16.75,16.75,0,0,1,157.39,150h0a18.24,18.24,0,0,1-17.08-12l-3.3-8.91a6.15,6.15,0,0,0-5.77-4Z" transform="translate(0 0)" fill="none" stroke="#666" stroke-linejoin="round" stroke-width="4"></path><line data-name="Shape" x1="62" y1="70" x2="62" y2="102" fill="none" stroke="#e60000" stroke-linecap="round" stroke-width="4"></line><line data-name="Shape" x1="46" y1="85" x2="78" y2="85" fill="none" stroke="#e60000" stroke-linecap="round" stroke-width="4"></line><path data-name="Shape" d="M124,92a4,4,0,1,0,4,4A4,4,0,0,0,124,92Z" transform="translate(0 0)" fill="#e60000"></path><path data-name="Shape" d="M124,68a4,4,0,1,0,4,4A4,4,0,0,0,124,68Z" transform="translate(0 0)" fill="#e60000"></path><path data-name="Shape" d="M136,80a4,4,0,1,0,4,4A4,4,0,0,0,136,80Z" transform="translate(0 0)" fill="#e60000"></path><path data-name="Shape" d="M112,80a4,4,0,1,0,4,4A4,4,0,0,0,112,80Z" transform="translate(0 0)" fill="#e60000"></path><h3>Hatch Premium</h3><p>Plataforma para disfrutar de más de 100 videojuegos premium en tu móvil. Gratis 3 meses, después 6,99€/mes.</p><h3>Secure Net</h3><p>Secure Net para usar tu Smartphone con seguridad, gratis 3 meses, después 1€/mes.</p><h3>¿Cómo ser de Vodafone?</h3><ul>
+						<li>
+							<svg data-name="connectivity_ic_hi" xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 192 192"><rect width="192" height="192" fill="none"></rect><polyline points="169.95 33.95 88 120 50 82" fill="none" stroke="#e60000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"></polyline><path d="M166,66.1v87.55A12.35,12.35,0,0,1,153.65,166H38.35A12.35,12.35,0,0,1,26,153.65V38.35A12.35,12.35,0,0,1,38.35,26H149.87" transform="translate(0 0)" fill="none" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"></path></svg>
+							<p><strong>Elige tu tarifa</strong></p>
+							<p>Elige la tarifa que más se adapte a tus necesidades y una vez contratada a través de la web, te enviaremos un email de confirmción.</p>
+						</li>
+						<li>
+							<svg data-name="ICON" xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 192 192"><rect width="192" height="192" fill="none"></rect><g data-name="Data_ic 2"><polygon points="68 124 44 124 44 68 20 68 70 20 120 68 96 68 96 124 68 124" fill="none" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"></polygon><polygon points="124 68 148 68 148 124 172 124 122 172 72 124 96 124 96 68 124 68" fill="none" stroke="#e60000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"></polygon></g></svg>
+							<p><strong>Trae tu número</strong></p>
+							<p>Si haces una portabilidad de otra compañía, lo gestionamos nosotros. Después de confirmar tu portabilidad, te llegrá la SIM y te avisaremos del día exacto en que el cambio será efectivo.</p>
+						</li>
+						<li>
+							<svg data-name="ICON" xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 192 192"><g data-name="Business_ic_mid"><rect width="192" height="192" fill="none"></rect><polyline points="37.16 74.6 18 102.42 77.45 130.24 96 102.42 114.55 130.24 174 102.42 154.74 74.6" fill="none" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"></polyline><polyline points="96 46.78 76.45 28.04 18 56 37.16 74.6" fill="none" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"></polyline><polyline points="95.62 46.78 115.16 28.04 174 56 154.46 74.6" fill="none" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"></polyline><polyline points="36 112 36 138.08 96.05 166 156 138.08 156 112" fill="none" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"></polyline><line x1="96" y1="102.42" x2="96" y2="164.33" fill="none" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"></line><polygon points="37.16 74.6 96 102.42 154.74 74.6 96 46.78 37.16 74.6" fill="none" stroke="#e60000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"></polygon></g></svg>
+							<p><strong>Recibe la SIM</strong></p>
+							<p>Te enviaremos tu SIM a casa, en una tienda Vodafone o en la dirección que nos indiques. El envío puede tardar entre 2-3 días laborables (en la península) y 5-7 (a Baleares y Canarias, Ceuta o Melilla).</p>
+						</li>
+						<li>
+							<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 192 192"><defs><symbol data-name="Minutes_sms_mid" viewBox="0 0 192 192"><path data-name="<Pfad>" d="M116.36,130l13.19-10c3.48-1.79,7.07-2.22,9.23-.89,3.28,2,30.75,20.4,33.07,22s3.38,6.25.13,10.75-18.15,22.26-24.39,22-32.21-1-80.68-49.75S18.16,49.8,18,43.63,36.11,23,40.71,19.89,50,18,51.58,20.21c1.82,2.54,19.73,29.93,21.7,33.07,1.34,2.15.81,5.7-1.06,9.12s-9.58,16.47-9.58,16.47,5.25,9.05,23.15,27.05C94.29,114.65,116.36,130,116.36,130Z" fill="none" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"></path><rect width="192" height="192" fill="none"></rect><rect width="192" height="192" fill="none"></rect><rect width="192" height="192" fill="none"></rect><g data-name="Text_ic_mid"><path d="M142,78l24.12,24V78H172a14,14,0,0,0,14-14V28a14,14,0,0,0-14-14H108A14,14,0,0,0,94,28V64a14,14,0,0,0,14,14Z" fill="none" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"></path><line data-name="<Pfad>" x1="166.03" y1="34" x2="114.03" y2="34" fill="none" stroke="#e60000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="4"></line><line data-name="<Pfad>" x1="166.03" y1="58" x2="114.03" y2="58" fill="none" stroke="#e60000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="4"></line></g></symbol></defs><g data-name="ICON"><use data-name="Minutes_sms_mid" width="192" height="192" transform="translate(-0.03 0)" xlink:href="#0045bf63-0af4-43af-b81e-be2db26c8204"></use></g></svg>
+							<p><strong>¡Ya eres de Vodafone!</strong></p>
+							<p>Inserta la SIM en tu teléfono y empieza a disfrutar de ls ventajas de ser de Vodafone.</p>
+						</li>
+					</ul><p><a href="#">Condiciones legales</a></p><a href="https://www.vodafone.es/c/tienda-online/particulares/tarifas-moviles/" title="CTA"> Ver más tarifas </a><p>¿Qué puedes hacer con datos ilimitados?</p><p>Ya no tienes que buscar WiFi. Ahora con<span> datos ilimitados</span>podrás, por ejemplo, acceder a apps de juego online, descargar y subir archivos de gran tamaño o ver vídeos en máxima calidad.</p><p>Con la Tarifa Móvil Ilimitada Total disfruta de la máxima velocidad <span> 5G.</span></p><p>Te recomendamos esta tarifa para</p><ul>
+								<li>Uso avanzado de redes sociales</li>
+								<li>Vídeos alta calidad </li>
+								<li>Aplicaciones de mensajería instantánea</li>
+								<li>Redes sociales </li>
+								<li>Música Online</li>
+								<li>Vídeo y música online de alta calidad</li>
+								<li>Aplicaciones que requieren ubicación</li>
+							</ul><p> Condiciones legales </p><p> Condiciones legales de las tarifas móviles de Vodafone </p><p>Tarifas disponibles para nuevas altas, portabilidades, migración de prepago a contrato y Clientes de cartera en modalidad contrato tanto para Clientes particulares, como microempresas.
+				</p><p>Precio(€)/mes</p><p> Condiciones de las tarifas móviles </p><h4>La tarifa Vodafone Mini incluye:</h4><ul>
+					<li>
+					<p>
+						200 minutos con cualquier operador nacional las 24 horas.
+					</p>
+					</li>
+					<li>
+					<p>
+						SMS ilimitados con cualquier operador nacional.
+					</p>
+					</li>
+					<li>
+					<p>
+						4GB de navegación.
+					</p>
+					</li>
+					<li>
+					<p>
+						Roaming incluido en Europa y EE.UU con las mismas condiciones de la tarifa.
+					</p>
+					</li>
+					<li>
+					<p>
+						Servicio Secure Net para usar tu Smartphone con seguridad, 1 euro al mes (gratis los 3 primeros meses).
+					</p>
+					</li>
+				</ul><h4>La tarifa Vodafone Extra incluye:</h4><ul>
+					<li>
+					<p>
+						Llamadas y SMS ilimitados con cualquier operador nacional las 24 horas.
+					</p>
+					</li>
+					<li>
+					<p>
+						8GB de navegación.
+					</p>
+					</li>
+					<li>
+					<p>
+						Roaming incluido en Europa y EE.UU con las mismas condiciones de la tarifa. Servicio Secure Net para usar tu
+						Smartphone con seguridad, 1 euro al mes (gratis los 3 primeros meses).
+					</p>
+					</li>
+				</ul><h4>La tarifa Vodafone Ilimitada incluye:</h4><ul>
+					<li>
+					<p>
+						Llamadas y SMS ilimitados con cualquier operador nacional las 24 horas.
+					</p>
+					</li>
+					<li>
+					<p>
+						Datos ilimitados de navegación a una velocidad de 2Mbps.
+					</p>
+					</li>
+					<li>
+					<p>
+						Roaming incluido en Europa y EE.UU: llamadas y SMS ilimitados y 16GB de navegación.
+					</p>
+					</li>
+					<li>
+					<p>
+						Servicio Secure Net para usar tu Smartphone con seguridad, 1 euro al mes (gratis los 3 primeros meses).
+					</p>
+					</li>
+				</ul><h4>La tarifa Vodafone Ilimitada Súper incluye:</h4><ul>
+					<li>
+					<p>
+						Llamadas y SMS ilimitados con cualquier operador nacional las 24 horas.
+					</p>
+					</li>
+					<li>
+					<p>
+						Datos ilimitados de navegación a una velocidad de 10Mbps.
+					</p>
+					</li>
+					<li>
+					<p>
+						Roaming incluido en Europa y EE.UU: llamadas y SMS ilimitados y 17GB de navegación.
+					</p>
+					</li>
+					<li>
+					<p>
+						Servicio Secure Net para usar tu Smartphone con seguridad, 1 euro al mes (gratis los 3 primeros meses).
+					</p>
+					</li>
+				</ul><h4>La tarifa Vodafone Ilimitada Total incluye:</h4><ul>
+					<li>
+					<p>
+						Llamadas y SMS ilimitados con cualquier operador nacional las 24 horas.
+					</p>
+					</li>
+					<li>
+					<p>
+						Datos ilimitados de navegación a máxima velocidad 5G.
+					</p>
+					</li>
+					<li>
+					<p>
+						Roaming incluido en Europa y EE.UU: llamadas y SMS ilimitados y 19GB de navegación.
+					</p>
+					</li>
+					<li>
+					<p>
+						Servicio Secure Net para usar tu Smartphone con seguridad, 1 euro al mes (gratis los 3 primeros meses).
+					</p>
+					</li>
+				</ul><h4> Características comunes a todas las tarifas comunicadas:</h4><ul>
+					<li>
+					<p>
+						Todos los servicios de llamadas contarán con calidad de voz HD siempre que la línea destinataria de la llamada
+						sea también Vodafone.
+					</p>
+					</li>
+					<li>
+					<p>
+						El servicio móvil permite Voz sobre IP.
+					</p>
+					</li>
+					<li>
+					<p>
+						En la tarifa Mini, consumidos los 200 min, aplica el precio de 0,25€/min y 0,30€ de establecimiento de llamada
+					</p>
+					</li>
+					<li>
+					<p>
+						Excluidos los servicios Dicta SMS, Rellamada, MMS y SMS/MMS Premium.
+					</p>
+					</li>
+					<li>
+					<p>
+						Los minutos incluidos en todas las tarifas excluyen las llamadas a numeraciones especiales de tarificación
+						adicional (como los 700, 901 o 902), llamadas a inteligencia de red, llamadas internacionales, llamadas a
+						números guía (como los 118) y las llamadas no utilizadas para la identificación de usuarios finales.
+					</p>
+					</li>
+					<li>
+					<p>
+						Roaming incluido en UE, EE.UU, Islandia, Noruega, Liechtenstein, Suiza, Turquía, Vaticano, Kosovo y Mónaco
+						(Zona1).Las llamadas en roaming realizadas y recibidas, SMS enviados y GB consumidos en estos destinos se
+						contabilizan en la tarifa nacional sin coste adicional. Incluidas las llamadas realizadas con origen y destino
+						en cualquier país de los indicados. Llamadas realizadas desde zona 1 a cualquier destino, fuera de zona 1 ,se
+						tarifica según la tarifa Vodafone World. Más información y política de uso razonable en <a href="vodafone.es/roaming">vodafone.es/roaming</a>
+					</p>
+					</li>
+					<li>
+					<p>
+						Superados los GB incluidos en Roaming para las tarifas ilimitada, Súper y Total el precio de cada Giga adicional
+						es de 5,4€/GB.
+					</p>
+					</li>
+					<li>
+					<p>
+						Roaming en zona 2: Las tarifas de móvil tienen activada la Tarifa de Viaje Mundo con la que los clientes de la
+						tarifa Mini y Extra disfrutarán de 20 minutos, 20 SMS y 2GB al día en Roaming en sus viajes en Zona 2 por
+						15€/día de uso. Los clientes de las tarifas Extra, Ilimitada, Ilimitada Súper e Ilimitada Total disfrutarán de
+						los
+						minutos y SMS ilimitados y 2GB al día en roaming en sus viajes en zona 2 por 15€/día de uso. Incluye las
+						llamadas y sms realizados desde zona 2 a cualquier destino de cualquier zona Contratado el servicio Más Megas y
+						superados los datos de la tarifa Mini y Extra, podrá navegar por 4€ cada 200MB adicionales que consuma (hasta un
+						máximo de 1GB/mes, 20€), después la velocidad se reduce. Se puede desactivar este servicio en el momento de la
+						contratación o en cualquier otro momento posterior de forma gratuita. Si el cliente no dispone de este servicio,
+						superados los datos de la tarifa, la velocidad se reduce.
+					</p>
+					</li>
+					<li>
+					<p>
+						Roaming en Vodafone Pass: incluido en la UE, Islandia, Noruega, Liechtenstein, Suiza, Turquía, Vaticano, Kosovo
+						y Mónaco y EE.UU sin coste adicional hasta un máximo de 5GB por Pass, después se utilizarán los datos incluidos
+						en la tarifa nacional contratada.
+					</p>
+					</li>
+				</ul><ul>
+					<li>
+					<p>
+						Las Condiciones de uso del servicio Secure Net están disponibles en: <a href="www.vodafone.es/tycsecurenet">www.vodafone.es/tycsecurenet</a>. El cliente se puede dar de baja en la
+						suscripción de Secure Net en el momento que desee desde la app de Mi Vodafone o llamando al 22123.Se podrá
+						disfrutar una única vez de la promoción de Secure Net 3 meses gratis.
+					</p>
+					</li>
+					<li>
+					<p>
+						El disfrute de la promoción está vinculado al mantenimiento de la tarifa.
+					</p>
+					</li>
+					<li>
+					<p>
+						Los servicios que incluyen todas las tarifas están sujetos a la política de uso razonable de Vodafone que
+						comprende el uso no abusivo o para fines razonables teniendo en cuenta la causa y/o fin por el que Vodafone pone
+						a disposición de los servicios en el mercado.(disponible en <a href="www.vodafone.es/conocenos.es/Vodafone-españa/quienes-somos/legal-y-regulatorio/política-de-uso/">www.vodafone.es/conocenos.es/Vodafone-españa/quienes-somos/legal-y-regulatorio/política-de-uso/</a>)
+					</p>
+					</li>
+					<li>
+					<p>
+						Los servicios que incluyen todas las tarifas están sujetos a la política de uso razonable de Vodafone que
+						comprende el uso no abusivo o para fines razonables teniendo en cuenta la causa y/o fin por el que Vodafone pone
+						a disposición de los servicios en el mercado.(disponible en <a href="www.vodafone.es/conocenos.es/Vodafone-españa/quienes-somos/legal-y-regulatorio/política-de-uso/">www.vodafone.es/conocenos.es/Vodafone-españa/quienes-somos/legal-y-regulatorio/política-de-uso/</a>)
+					</p>
+					</li>
+					<li>
+					<p>
+						Cuotas mensuales prorrateables en el alta y en la baja.
+					</p>
+					</li>
+					<li>
+					<p>
+						En el caso de las tarifas Vodafone Mini, Extra e Ilimitada Total la navegación 5G es a una velocidad de bajada
+						de hasta 1Gbps y con una velocidad de subida de hasta 150Mbps. La velocidad está condicionada al acceso a
+						tecnología 5G para lo que será necesario disponer de una tarifa comercializable de contrato y prepago de
+						Vodafone y de Vodafone bit con terminal móvil compatible con 5G dentro de las zonas de cobertura Vodafone 5G
+						(actualmente en estas ciudades: Madrid, Barcelona, Valencia, Sevilla, Málaga, Bilbao, Zaragoza, Pamplona,
+						Vitoria, San Sebastián, Santander, Logroño, A Coruña, Vigo, Gijón). En caso contrario, la velocidad máxima será
+						la que permita la tecnología correspondiente.
+					</p>
+					</li>
+					<li>
+					<p>
+						Condiciones de permanencia: si el cliente se da de baja dentro de un periodo de compromiso, deberá pagar a
+						Vodafone en concepto de penalización por incumplimiento la cantidad que corresponda en función del tiempo que
+						reste para cumplir el compromiso adquirido hasta el máximo del beneficio obtenido por el cliente. Compatible con
+						resto de Vodafone Pass.
+					</p>
+					</li>
+				</ul><h4> Condiciones legales Promoción Hatch Premium 1 año de regalo </h4><p>Promoción “Hatch Premium 1 año de regalo” válida desde el 24/06/2019 hasta el 03/12/2019
+					para clientes de contrato particulares y profesionales con una tarifa: Vodafone One ilimitada Total o Tarifa Móvil
+					Ilimitada Total. La promoción consiste en 1 año de regalo de la suscripción Premium de Hatch. Después el precio de
+					Hatch Premium fuera de promoción es de 6,99€/mes (i.i). Para activar el servicio, gestionar la baja o más
+					información en este enlace: <a href="#">Vodafone.es/entretenimiento</a>.
+				</p><h4> Líneas adicionales </h4><p>Más información de condiciones legales en: <a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/movil/contrato/mas-lineas/">https://www.vodafone.es/c/particulares/es/productos-y-servicios/movil/contrato/mas-lineas/</a>
+				</p><h4> Condiciones Legales Móviles </h4><p>Oferta de terminal ligada a la firma de un contrato de permanencia de 18 meses en tarifa. Los precios de los Smartphones estarán definidos por la tarifa móvil que se elija. Precios en cuotas de terminal reflejados en factura estarán gravados al impuesto aplicable según territorio. Canon digital no incluido. Oferta válida desde el 04/12/2019 al 13/01/2020.
+				</p><h4> Condiciones Legales Samsung Galaxy S10+ 512GB </h4><p>Oferta Samsung Galaxy S10+ 512GB ligada a contratación de una tarifa Vodafone Ilimitada, con un compromiso de permanencia en la misma de 18 meses. Precio terminal oferta: 684€. Canon digital no incluido. PVP fabricante: 1.259€. Oferta válida del 04/12/2019 al 13/01/2020 o límite de unidades (2000 unidades).
+				</p><p>Nota: Los precios recogidos en esta comunicación están expresados con el IVA aplicable en Península y Baleares. En Canarias, Ceuta y Melilla, los precios resultarán de aplicar el porcentaje impositivo correspondiente a los precios sin IVA incluidos en esta comunicación.</p><h4> Términos y Condiciones del Compromiso de Huawei y Google </h4><p>Para más información sobre los términos y condiciones del compromiso de Huawei y Google <a href="https://www.vodafone.es/c/statics/huawei_google.pdf">aquí</a></p>

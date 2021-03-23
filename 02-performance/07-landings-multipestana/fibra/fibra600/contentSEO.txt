@@ -1,0 +1,85 @@
+<div>
+				
+			</div><h2>Vodafone Fibra 600Mbps</h2><ul>
+						<li>
+							<span>
+								<svg height="35" width="35" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+									<title>Fibra</title>
+									<use xlink:href="#icon3-broadband-or-wifi"></use>
+								</svg>
+							</span>
+							<span>
+								<h3>Fibra 600Mbps</h3>
+								<p>Simétricos</p>
+							</span>
+						</li>
+						<li>
+							<span>
+								<svg height="35" width="35" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+									<title>Fijo</title>
+									<use xlink:href="#icon3-business-phone"></use>
+								</svg>
+							</span>
+							<span>
+								<h3>Fijo</h3>
+								<p>Llamadas ilimitadas.</p>
+							</span>
+						</li>
+					</ul><a href="#" title="Conoce la oferta en detalle" target="_self" data-modal="offer-details-fibra600mbp" data-modal-close="" aria-haspopup="dialog" data-analytics-product="fibra;fibra 1gbps">Conoce la oferta en detalle</a><hr><span>
+							Por solo
+						</span><span>
+							 <span>24,84€<span>/mes</span></span>
+						</span><span>
+							<span> <span> +18,15€</span> cuota de línea</span>
+							<span>IVA incluido. </span>
+							 <span>Con compromiso</span>
+						</span><a title="Contratar Online" target="_new" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?tti=7&amp;tta=3&amp;tcli=0&amp;tcon=0&amp;ec=0&amp;tar=168443651" data-analytics-product="fibra;fibra 600mbps">Contrata Online</a><p>O si lo prefieres te llamamos</p><input style="display:none;" value="NO" name="verifyLeadId"><input name="wg-return" value="gracias" type="hidden"><input type="phone" name="phone" inputmode="numeric" pattern="[0-9]*" maxlength="9" data-wg-validation="required,phone" placeholder="Nº teléfono" oninput="javascript: if (this.value.length > this.maxLength) this.value = this.value.slice(0, this.maxLength);"><input data-wg-validation="required" type="checkbox" value="on" name="check"><label target="_self" for="privacy">Acepto la <a href="#" data-modal="privacy" data-modal-close="" aria-haspopup="dialog" title="Vodafone One" target="_new" rel="nofollow"> Política de Privacidad</a>
+								</label><input type="checkbox" name="gdpr" value="on"><label for="comunication"><span>Acepto recibir
+										comunicaciones comerciales de Vodafone</span> </label><input title="Te llamamos gratis" type="submit" value="Te llamamos gratis"><button aria-hidden="false"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px">
+                        <title>Close</title>
+                        <use xlink:href="#icon3-close"></use>
+                    </svg></button><h1>Vodafone Fibra 600Mb</h1><ul>
+						<li>
+							<div>
+								<span>
+									<svg height="30" width="30" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+										<title>INTERNET</title>
+										<use xlink:href="#icon3-desktop"></use>
+									</svg>
+								</span>
+								<h2>Internet</h2>
+							</div>
+							<ul>
+								<li>Vodafone Fibra 600Mb simétricos.</li>
+								<li>Con 24 meses de permanencia.</li>
+							</ul>
+						</li>
+						
+						<li>
+							<div>
+								<span>
+									<svg height="30" width="30" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+										<title>FIJO</title>
+										<use xlink:href="#icon3-business-phone"></use>
+									</svg>
+								</span>
+								<h2>Fijo</h2>
+							</div>
+							<ul>
+								<li>Llamadas nacionales ilimitadas a fijos y móviles.</li>
+							</ul>
+						</li>
+					
+					</ul><h2>Detalles de tu cuota:</h2><ul>
+						<li>Durante el 1º y 2º año: 24,84€/mes + 18,15€ de cuota de línea, total 42,99€/mes.</li>
+						<li>Después del 2º año: 33,84€/mes + 18,15€ de cuota de línea, total 51,99€/mes.</li>
+						<li>Precios con IVA incluido.</li>
+
+					</ul><button aria-hidden="false"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px">
+                        <title>Close</title>
+                        <use xlink:href="#icon3-close"></use>
+                    </svg></button><h4>Política de Privacidad</h4><p>
+						Los datos que nos facilitas en el registro formarán parte de una base de datos de Vodafone España. S.A.U., con domicilio en Avda. América 115, 28042 de Madrid y serán tratados para facilitarte la información solicitada y poder contactar contigo en el futuro para llevar a cabo acciones comerciales, en caso de que nos hayas proporcionado tu consentimiento marcando el check habilitado al efecto.
+					</p><p>
+						Podrás ejercitar los derechos de acceso, rectificación, cancelación, oposición, limitación dirigiéndote a Vodafone España a la dirección antes indicada. Mantendremos tus datos mientras no ejerzas tu derecho de cancelación. Podrás ponerte en contacto con el Delegado de Protección de Datos (DPO) a través de: DPO-SPAIN@vodafone.com
+					</p>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>icono_tv_mobile</title>
+    <desc>Created with Sketch.</desc>
+    <g id="⚙️-Ficha-detalle-Vodafone-One-ilimitada-Súper---BTS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Ficha-detalle---Móvil+Fibra-ilimitada-Súper---Mobile----BTS" transform="translate(-16.000000, -384.000000)">
+            <g id="Hero-banner" transform="translate(0.000000, 48.000000)">
+                <g id="Contenido-Oferta-Hero" transform="translate(15.000000, 12.000000)">
+                    <g id="Precio" transform="translate(1.000000, 226.000000)">
+                        <g id="icono-tv" transform="translate(0.000000, 98.000000)">
+                            <g id="Icons+Indicators-/-Mid-Render-Icons-/-tv">
+                                <g id="tv_mid">
+                                    <polygon id="bg" fill-opacity="0" fill="#D8D8D8" points="0 0 23.6571429 0 23.6571429 23.6571429 0 23.6571429"></polygon>
+                                    <path d="M6.9,19.4678571 L16.7571429,19.4678571" id="edf9beb8_76a7_4542_86a8_3018e99879a7" stroke="#6D6968" stroke-width="0.575" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    <path d="M11.8285714,19.4678571 L11.8285714,17.4964286" id="Shape" stroke="#6D6968" stroke-width="0.575" stroke-linejoin="round"></path>
+                                    <path d="M3.94285714,5.175 L19.7142857,5.175 C20.6669769,5.175 21.4392857,5.94730881 21.4392857,6.9 L21.4392857,15.7714286 C21.4392857,16.7241198 20.6669769,17.4964286 19.7142857,17.4964286 L3.94285714,17.4964286 C2.99016595,17.4964286 2.21785714,16.7241198 2.21785714,15.7714286 L2.21785714,6.9 C2.21785714,5.94730881 2.99016595,5.175 3.94285714,5.175 Z" id="Rectangle_path" stroke="#6D6968" stroke-width="0.575" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    <path d="M11.8285714,15.2785714 C11.5563739,15.2785714 11.3357143,15.4992311 11.3357143,15.7714286 C11.3357143,16.0436261 11.5563739,16.2642857 11.8285714,16.2642857 C12.1007689,16.2642857 12.3214286,16.0436261 12.3214286,15.7714286 C12.3214286,15.4992311 12.1007689,15.2785714 11.8285714,15.2785714 Z" id="Shape" fill="#E60000" fill-rule="nonzero"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

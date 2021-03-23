@@ -1,0 +1,21 @@
+<style data-microcss>.content{position:relative;height:4.6875rem}.dropdown{font-family:"VodafoneRegular",Helvetica,Arial,sans-serif;position:absolute;top:0;left:0;width:12.5rem;z-index:2}.dropdown__switch:checked+.dropdown__options-filter .dropdown__select{transform:scaleY(1)}.dropdown__switch:checked+.dropdown__options-filter .dropdown__filter:after{transform:rotate(-135deg)}.dropdown__options-filter{width:100%;cursor:pointer}.dropdown__filter{font-family:"VodafoneRegular",Helvetica,Arial,sans-serif;display:flex;position:relative;padding:1.25rem;border-radius:.625rem;background-color:#e60000;color:#fff;font-size:.875rem}.dropdown__filter::after,.dropdown__select{position:absolute;transition:.2s ease-in-out}.dropdown__filter::after{right:1.25rem;width:.625rem;height:.625rem;transform:rotate(45deg) translateX(-45%);border-right:.125rem solid #fff;border-bottom:.125rem solid #fff;content:"";top:45%}.dropdown__select,.dropdown__select-option{font-family:"VodafoneRegular",Helvetica,Arial,sans-serif}.dropdown__select{top:100%;left:0;width:100%;margin-top:.3125rem;font-weight:300;box-shadow:0 .3125rem .625rem 0 rgba(152,152,152,.6);transform:scaleY(0);transform-origin:top;overflow:hidden;color:#333}.dropdown__select-option{padding:1.25rem;transition:.3s;background-color:#fff}.dropdown__select-option:first-of-type{border-bottom:.0625rem solid #d6d6d6}.dropdown__select-option:hover{background-color:#f9f9f9}</style>
+<div class="content">
+	<div class="dropdown">
+		<input type="checkbox" class="dropdown__switch" id="filter-switch" hidden />
+		<label for="filter-switch" class="dropdown__options-filter">
+			<div class="dropdown__filter">
+				<span class="vfes-paragraph vfes-paragraph--large vfes-mb0 dropdown__filter-selected">
+					Quiero esta tarifa
+				</span>
+				<ul class="dropdown__select">
+					<li class="vfes-paragraph vfes-paragraph--large vfes-mb0 dropdown__select-option">
+						Portabilidad
+					</li>
+					<li class="vfes-paragraph vfes-paragraph--large vfes-mb0 dropdown__select-option">
+						Nuevo número
+					</li>
+				</ul>
+			</div>			
+		</label>
+	</div>
+</div>

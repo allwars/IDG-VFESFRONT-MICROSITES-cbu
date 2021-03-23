@@ -1,0 +1,684 @@
+                                // CSS del microsite
+                                .vfes-ms-content {
+                                    a {
+                                        text-decoration: none;
+                                    }
+                                    .vfms-landing-content {
+                                        min-height: 100vh;
+                                        display: flex;
+                                        flex-direction: column;
+                                    }
+                                    .vfms-main-content {
+                                        flex-grow: 1;
+                                    }
+                                    // header
+                                    .vfms-header-container {
+                                        padding: 0;
+                                        // box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.16);
+                                        background: #fff;
+                                        height: auto;
+                                        // position: fixed;
+                                        width: 100%;
+                                        z-index: 4;
+                                        .vfms-main-header {
+                                            display: flex;
+                                            // justify-content: space-around;
+                                            align-items: center;
+                                            padding-right: 0;
+                                            padding-left: 0;
+                                            @media screen and (min-width: 768px) {
+                                                justify-content: space-between;
+                                                padding-left: 8px;
+                                            }
+                                        }
+                                        .vfms-main-header__outgoingcall {
+                                            display: flex;
+                                            align-items: center;
+                                            justify-content: flex-start;
+                                            color: #333;
+                                            width: 230px;
+                                            padding: 8px 16px;
+                                            @media screen and (min-width: 375px) {
+                                                margin-left: 40px;
+                                            }
+                                            @media screen and (min-width: 768px) {
+                                                background: #333;
+                                                color: #fff;
+                                                justify-content: center;
+                                                width: 250px;
+                                            }
+                                            @media screen and (min-width: 1024px) {
+                                                margin-right: 6px;
+                                            }
+                                            @media screen and (min-width: 1280px) {
+                                                width: 280px;
+                                                margin-right: 0;
+                                            }
+                                            h3 {
+                                                margin-bottom: 0;
+                                            }
+                                            p {
+                                                margin-bottom: 0;
+                                            }
+                                        }
+                                        .vfms-main-header__outgoingcall-text {
+                                            font-size: 20px;
+                                            p:first-child {
+                                                text-align: center;
+                                            }
+                                            .drp-href {
+                                                font-size: 24px;
+                                                @media screen and (min-width: 768px) {
+                                                    font-size: 28px;
+                                                }
+                                            }
+                                        }
+                                        .vfms-main-header__outgoingcall-icon {
+                                            margin-right: 8px;
+                                        }
+                                    }
+                                    // Walmeric form styles
+                                    .vfes-layout.vfms-banner {
+                                        padding: 0;
+                                        .vfms-banner-form {
+                                            @media screen and (min-width: 768px) {
+                                                padding: 0;
+                                            }
+                                            @media screen and (min-width: 1280px) {
+                                                padding-right: 0px;
+                                            }
+                                            &__call-me {
+                                                border: solid #fff 1px;
+                                                padding: 8px 0;
+                                                @media screen and(min-width: 768px) {
+                                                    display: none;
+                                                }
+                                                .detail {
+                                                    color: white;
+                                                    text-align: center;
+                                                    font-size: 20px;
+                                                    margin-bottom: 0;
+                                                }
+                                                .phone-number {
+                                                    color: white;
+                                                    font-size: 30px;
+                                                }
+                                            }
+                                            .vfms-main-header__outgoingcall-text-alternative {
+                                                font-size: 20px;
+                                                margin-bottom: 0;
+                                            }
+                                            .vfms-banner-form-container {
+                                                // border-radius: 6px;
+                                                @media screen and (min-width: 768px) {
+                                                    width: 250px;
+                                                }
+                                                @media screen and (min-width: 1280px) {
+                                                    width: 280px;
+                                                    margin-left: 20px;
+                                                }
+                                                form {
+                                                    padding: 16px;
+                                                    // border-bottom-left-radius: 6px;
+                                                    // border-bottom-right-radius: 6px;
+                                                    // border: 1px solid #fff;
+                                                    // @media screen and (min-width: 768px) {
+                                                    //     border-radius: 6px;
+                                                    // }
+                                                    .vfes-modal__head-form {
+                                                        @media screen and (min-width: 768px) {
+                                                            border-top: solid white 1px;
+                                                            padding-top: 16px;
+                                                        }
+                                                        .vfms-modal__head-form-clain {
+                                                            font-size: 16px;
+                                                        }
+                                                    }
+                                                    .vfes-box--form {
+                                                        margin: 16px 0;
+                                                        .vfes-form__input {
+                                                            margin: 5px 0;
+                                                            font-size: 14px;
+                                                            color: #000000;
+                                                        }
+                                                        .vfms-form__checks-space {
+                                                            margin-bottom: 15px;
+                                                            label {
+                                                                font-size: 12px;
+                                                                #condiciones {
+                                                                    margin-left: 2px;
+                                                                    text-decoration: underline;
+                                                                }
+                                                            }
+                                                        }
+                                                        input[type="submit"] {
+                                                            font-size: 16px;
+                                                            box-shadow: none;
+                                                            @media screen and (min-width: 768px) {
+                                                                width: 100%;
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                    /*Banner One*/
+                                    .vfes-layout.vfms-banner.one {
+                                        background-image: linear-gradient(to bottom, #851106, #760d04);
+                                        padding-bottom: 30px;
+                                        padding-top: 15px;
+                                        @media screen and(min-width: 768px) {
+                                            padding-bottom: 0;
+                                            padding-top: 0;
+                                        }
+                                        .vfms-banner-info {
+                                            .vfms-banner-copy {
+                                                font-size: 20px;
+                                                padding: 0;
+                                                display: flex;
+                                                flex-direction: column;
+                                                align-items: center;
+                                                line-height: 1.6;
+                                                @media screen and (min-width: 768px) {
+                                                    display: block;
+                                                    text-align: left;
+                                                    font-size: 24px;
+                                                    padding-top: 15px;
+                                                }
+                                                @media screen and (min-width: 1280px) {
+                                                    font-size: 30px;
+                                                }
+                                                &--mobile {
+                                                    @media screen and (min-width: 770px) {
+                                                        display: none;
+                                                    }
+                                                }
+                                                &--desktop {
+                                                    display: none;
+                                                    @media screen and (min-width: 770px) {
+                                                        display: inline-block;
+                                                    }
+                                                }
+                                                &--big {
+                                                    position: relative;
+                                                    z-index: 2;
+                                                }
+                                                &--small {
+                                                    font-size: 20px;
+                                                    position: relative;
+                                                    z-index: 2;
+                                                }
+                                                &--featured {
+                                                    position: relative;
+                                                    top: 10px;
+                                                    padding: 8px;
+                                                    font-size: 24px;
+                                                    margin-left: 3px;
+                                                    @media screen and (min-width: 770px) {
+                                                        margin-left: 0;
+                                                        padding: 0;
+                                                        font-size: 32px;
+                                                        top: 0;
+                                                    }
+                                                }
+                                                &--featured-decoration {
+                                                    position: absolute;
+                                                    top: 0;
+                                                    left: 0;
+                                                    width: 100%;
+                                                    height: 100%;
+                                                    border: 3px solid #fff;
+                                                    border-radius: 6px;
+                                                    box-shadow: 1px 0 16px #C61745, inset 0 0 16px #C61745, 0 0 16px #C61745, inset 0 0 16px #C61745;
+                                                    background: linear-gradient(to bottom, #910900, #c41005);
+                                                    z-index: 1;
+                                                    @media screen and (min-width: 770px) {
+                                                        display: none;
+                                                    }
+                                                }
+                                            }
+                                            .vfms-offer-price-container {
+                                                width: 60%;
+                                                margin: 0 auto 15px;
+                                                padding: 16px;
+                                                color: #fff;
+                                                display: none;
+                                                @media screen and (min-width: 1024px) {
+                                                    position: absolute;
+                                                    top: 30%;
+                                                    width: 35%;
+                                                    margin: 0 auto 52px;
+                                                    display: block;
+                                                }
+                                                .vfms-offer-price {
+                                                    position: relative;
+                                                    padding: 16px 0;
+                                                    transform: translateX(100px);
+                                                    .vfms-offer-price-new-container {
+                                                        position: absolute;
+                                                        top: 0;
+                                                        width: 100%;
+                                                        height: 100%;
+                                                        border: 3px solid #fff;
+                                                        border-radius: 6px;
+                                                        box-shadow: 1px 0 16px #E4293D, inset 0 0 16px #E4293D, 0 0 16px #E4293D, inset 0 0 16px #E4293D;
+                                                        transform: perspective(400px) translateX(-20px) rotateY(45deg);
+                                                        background: linear-gradient(to bottom, #910900, #c41005);
+                                                        ;
+                                                    }
+                                                    .vfms-offer-price-text {
+                                                        font-size: 16px;
+                                                        margin-bottom: 0;
+                                                        transform: translateX(20px);
+                                                        position: relative;
+                                                        z-index: 2;
+                                                        @media screen and (min-width: 1024px) {
+                                                            font-size: 32px;
+                                                        }
+                                                    }
+                                                    .vfms-offer-price-number {
+                                                        display: flex;
+                                                        align-items: center;
+                                                        transform: translateX(20px);
+                                                        position: relative;
+                                                        z-index: 2;
+                                                        &--big {
+                                                            font-size: 50px;
+                                                            @media screen and (min-width: 1024px) {
+                                                                font-size: 100px;
+                                                            }
+                                                        }
+                                                        &--small {
+                                                            display: flex;
+                                                            flex-direction: column;
+                                                            .vfms-number-small-item:nth-child(1) {
+                                                                font-size: 20px;
+                                                                @media screen and (min-width: 1024px) {
+                                                                    font-size: 40px;
+                                                                }
+                                                            }
+                                                            .vfms-number-small-item:nth-child(2) {
+                                                                font-size: 6px;
+                                                                @media screen and (min-width: 1024px) {
+                                                                    font-size: 12px;
+                                                                }
+                                                            }
+                                                            .vfms-number-small-item:nth-child(3) {
+                                                                font-size: 6px;
+                                                                @media screen and (min-width: 1024px) {
+                                                                    font-size: 12px;
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                    .vfms-offer-price-new-features {
+                                                        font-size: 14px;
+                                                        display: flex;
+                                                        flex-direction: column;
+                                                    }
+                                                }
+                                            }
+                                            .vfms-banner-info-container {
+                                                margin: 0 0 20px;
+                                                box-shadow: 1px 0 16px #C61745, inset 0 0 16px #C61745, 0 0 16px #C61745, inset 0 0 16px #C61745;
+                                                background: linear-gradient(to bottom, #910900, #c41005);
+                                                border: 3px solid #fff;
+                                                border-radius: 6px;
+                                                padding: 22px;
+                                                position: relative;
+                                                top: -30px;
+                                                @media screen and (min-width: 1024px) {
+                                                    margin-left: auto;
+                                                    width: 70%;
+                                                    padding: 20px 0 20px 88px;
+                                                    position: static;
+                                                    top: 0;
+                                                }
+                                                .vfms-rate-features {
+                                                    position: relative;
+                                                    .vfms-rate-features-item {
+                                                        margin-bottom: 14px;
+                                                        .vfms-rate-feature-description {
+                                                            padding-left: 8px;
+                                                            .vfms-features-list {
+                                                                list-style: disc;
+                                                                margin-left: 20px;
+                                                            }
+                                                            .vfms-feature-description-title {
+                                                                margin-bottom: 0;
+                                                                font-size: 16px;
+                                                                @media screen and (min-width: 1024px) {
+                                                                    font-size: 20px;
+                                                                }
+                                                            }
+                                                            .vfms-feature-description-text {
+                                                                font-size: 14px;
+                                                                margin-bottom: 0;
+                                                                @media screen and (min-width: 768px) {
+                                                                    font-size: 16px;
+                                                                }
+                                                            }
+                                                        }
+                                                        &--align {
+                                                            margin-top: 5px;
+                                                            @media screen and (min-width: 1024px) {
+                                                                margin-top: 10px;
+                                                            }
+                                                        }
+                                                    }
+                                                    .vfms-features-icon {
+                                                        svg {
+                                                            width: 32px;
+                                                            height: 32px;
+                                                            @media screen and (min-width: 1024px) {
+                                                                width: 50px;
+                                                                height: 50px;
+                                                            }
+                                                        }
+                                                        use {
+                                                            color: #fff;
+                                                        }
+                                                        // &--desktop {
+                                                        //     display: none;
+                                                        //     @media screen and (min-width: 1024px) {
+                                                        //         display: block;
+                                                        //     }
+                                                        // }
+                                                        // &--mobile {
+                                                        //     @media screen and (min-width: 1024px) {
+                                                        //         display: none;
+                                                        //     }
+                                                        // }
+                                                    }
+                                                }
+                                                .vfms-offer-details {
+                                                    text-align: right;
+                                                    @media screen and (min-width: 770px) {
+                                                        margin-right: 35px;
+                                                    }
+                                                    .vfms-offer-details-link {
+                                                        text-decoration: underline;
+                                                        &:hover {
+                                                            color: #333;
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                    // Módulo Terminal
+                                    .vfms-mobile-module {
+                                        background: #333;
+                                        color: #fff;
+                                        padding-top: 13px;
+                                        &__container {
+                                            padding: 0 8px;
+                                            @media screen and (min-width: 768px) {
+                                                width: 64%;
+                                                margin-left: 10px;
+                                            }
+                                            @media screen and (min-width: 1024px) {
+                                                margin-left: 108px;
+                                            }
+                                        }
+                                        &__copy {
+                                            font-size: 24px;
+                                            margin-bottom: 16px;
+                                            @media screen and (min-width: 768px) {
+                                                font-size: 32px;
+                                            }
+                                        }
+                                        &__mobile-info {
+                                            display: grid;
+                                            @media screen {
+                                                grid-template-columns: auto 1fr;
+                                            }
+                                        }
+                                        &__mobile-info-copy {
+                                            font-size: 18px;
+                                            margin-bottom: 10px;
+                                            grid-column: 1/ span 2;
+                                            grid-row: 1;
+                                            @media screen and (min-width: 768px) {
+                                                font-size: 28px;
+                                            }
+                                        }
+                                        &__mobile-img {
+                                            grid-column: 1;
+                                            grid-row: 2 / span 1;
+                                            width: 55px;
+                                            @media screen and (min-width: 768px) {
+                                                grid-row: 2 / span 2;
+                                                width: auto;
+                                                padding-right: 48px;
+                                            }
+                                        }
+                                        &__features {
+                                            grid-column: 2;
+                                            grid-row: 2 / span 1;
+                                            display: flex;
+                                            flex-direction: column;
+                                            justify-content: center;
+                                            margin-left: 25px;
+                                            @media screen and (min-width: 768px) {
+                                                grid-row: 2;
+                                                flex-direction: row;
+                                                justify-content: space-between;
+                                                margin-left: 0;
+                                            }
+                                        }
+                                        &__features-item {
+                                            margin-bottom: 13px;
+                                            @media screen and(min-width: 768px) {
+                                                display: flex;
+                                                align-items: center;
+                                                margin-bottom: 0;
+                                                margin-top: 10px;
+                                            }
+                                        }
+                                        &__features-title {
+                                            margin-bottom: 0;
+                                            font-size: 16px;
+                                            @media screen and (min-width: 768px) {
+                                                margin-bottom: 8px;
+                                            }
+                                        }
+                                        &__features-icon {
+                                            margin-right: 4px;
+                                            @media screen and (min-width: 768px) {
+                                                margin-top: -20px;
+                                            }
+                                            @media screen and (min-width: 1024px) {
+                                                margin-top: 0;
+                                            }
+                                            svg {
+                                                width: 32px;
+                                                height: 32px;
+                                                @media screen and (min-width: 1024px) {
+                                                    width: 72px;
+                                                    height: 72px;
+                                                }
+                                            }
+                                        }
+                                        &__features-description {
+                                            font-size: 16px;
+                                        }
+                                        &__rate-info {
+                                            grid-column: 1 / span 2;
+                                            grid-row: 3;
+                                            @media screen and (min-width: 768px) {
+                                                grid-column: 2;
+                                                margin-top: 52px;
+                                            }
+                                            &--small {
+                                                font-size: 12px;
+                                                @media screen and (min-width: 768px) {
+                                                    font-size: 22px;
+                                                }
+                                            }
+                                            &--full {
+                                                @media screen and (min-width: 768px) {
+                                                    width: 100%;
+                                                    text-align: center;
+                                                }
+                                            }
+                                            &--margin {
+                                                @media screen and (min-width: 768px) {
+                                                    margin-right: 2px;
+                                                }
+                                            }
+                                        }
+                                        &__rate-info-text {
+                                            border-radius: 6px;
+                                            border: solid 1px #009900;
+                                            background-color: #ffffff;
+                                            color: #333;
+                                            padding: 6px 0;
+                                            @media screen and (min-width: 768px) {
+                                                flex-direction: row;
+                                                flex-wrap: wrap;
+                                                justify-content: center;
+                                                font-size: 22px;
+                                            }
+                                        }
+                                    }
+                                    .vfms-legal-conditions {
+                                        text-align: right;
+                                        padding: 0;
+                                        &__container {
+                                            padding: 30px 0;
+                                        }
+                                        .vfms-legal-conditions__link {
+                                            text-decoration: underline;
+                                            color: #333;
+                                        }
+                                    }
+                                    .vfms-footer-item__container {
+                                        .vfms-footer__icon {
+                                            border: #fff solid 1px;
+                                            border-radius: 50%;
+                                            padding: 1em;
+                                            margin-right: 20px;
+                                        }
+                                        .vfms-footer__link {
+                                            border: solid 1px #fff;
+                                            border-radius: 6px;
+                                            padding: 6px;
+                                            text-decoration: none;
+                                        }
+                                        .vfms-footer__copyright {
+                                            margin-top: 48px;
+                                            p {
+                                                margin: 0;
+                                            }
+                                            @media screen and (min-width:768px) {
+                                                margin-top: 0;
+                                                margin-left: 75px;
+                                            }
+                                        }
+                                    }
+                                    // Estilos para los modales
+                                    .vfms-modal-title {
+                                        padding-bottom: 10px;
+                                        margin-bottom: 20px;
+                                        border-bottom: solid #333 1px;
+                                    }
+                                    .vfms-fibraMovil {
+                                        .vfms-offer-details-features-container {
+                                            display: flex;
+                                            flex-wrap: wrap;
+                                            .vfms-offer-details-features-item {
+                                                @media screen and (min-width: 768px) {
+                                                    width: 50%;
+                                                }
+                                                .vfms-feature-header {
+                                                    display: flex;
+                                                    align-items: center;
+                                                    .vfms-feature-icon {
+                                                        display: none;
+                                                        @media screen and (min-width: 768px) {
+                                                            display: block;
+                                                        }
+                                                    }
+                                                    .vfms-feature-title {
+                                                        margin-bottom: 0;
+                                                        // align-self: flex-end;
+                                                        margin-left: 16px;
+                                                    }
+                                                }
+                                                .vfms-feature-content {
+                                                    list-style: disc;
+                                                    padding: 14px 50px;
+                                                    font-size: 14px;
+                                                    line-height: 1.3;
+                                                }
+                                            }
+                                        }
+                                        .vfms-offer-details-conditions {
+                                            display: flex;
+                                            border-top: #333 solid 1px;
+                                            .vfms-feature-title {
+                                                margin-bottom: 0;
+                                                padding-top: 10px;
+                                            }
+                                            .vfms-offer-details-conditions-container {
+                                                list-style: none;
+                                                font-size: 14px;
+                                                margin-top: 10px;
+                                                margin-left: 10px;
+                                                &__item {
+                                                    margin-bottom: 8px;
+                                                }
+                                                &__item-features {
+                                                    list-style: disc;
+                                                    padding: 10px 30px;
+                                                }
+                                            }
+                                        }
+                                    }
+                                    .vfms-tarifaMovil {
+                                        .vfms-offer-details-features-container {
+                                            list-style: disc;
+                                            padding-left: 20px;
+                                            line-height: 1.5;
+                                            .vfms-rate-features-container {
+                                                list-style: disc;
+                                                padding-left: 50px;
+                                            }
+                                        }
+                                    }
+                                    // Modal de "Condiciones Legales"
+                                    .vfms-legal-conditions__modal {
+                                        @media screen and(min-width: 768px) {
+                                            max-width: 80vw;
+                                        }
+                                        .vfms-precios-img {
+                                            margin: 16px 0;
+                                            &:nth-of-type(1) {
+                                                @media screen and(min-width: 768px) {
+                                                    width: 50%;
+                                                }
+                                            }
+                                            &:nth-of-type(2),
+                                            &:nth-of-type(3),
+                                            &:nth-of-type(4) {
+                                                @media screen and(min-width: 768px) {
+                                                    width: 30%;
+                                                }
+                                            }
+                                        }
+                                        .vfms-modal-title {
+                                            margin-bottom: 16px;
+                                        }
+                                        .vfms-features-list {
+                                            list-style: disc;
+                                            margin-left: 20px;
+                                            padding: 16px 0;
+                                        }
+                                        .vfms-rate-features-title {
+                                            text-decoration: underline;
+                                            font-size: 18px;
+                                        }
+                                    }
+                                }

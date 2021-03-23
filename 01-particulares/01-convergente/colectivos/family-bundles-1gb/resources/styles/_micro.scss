@@ -1,0 +1,728 @@
+// CSS del microsite
+
+$desktop:1024px;
+$border-radius: 6px;
+
+html {
+  scroll-behavior: smooth;
+}
+.vf-border-radius{
+  border-radius: 6px;
+}
+
+
+// Breadcrumbs
+.vf-breadcrumbs{
+
+  & li {
+    list-style: none;
+
+    &:first-child {
+      display: none;
+      @media screen and (min-width: 970px) {
+        display: block;
+      }
+    }
+
+    &:last-child {
+      display: none;
+      @media screen and (min-width: 970px) {
+        display: block;
+      }
+    }
+
+    &:nth-child(2n) {
+      & a{
+        &:before{
+          border-width: .0625rem;
+          border-right: .0625rem solid #333;
+          border-top: .0625rem solid #333;
+          display: block;
+          width: .75rem;
+          height: .75rem;
+          transform: rotate(-135deg);
+          content: "";
+          display: inline-block;
+          vertical-align: baseline;
+          position: relative;
+
+          @media screen and (min-width: 970px) {
+            display: none;
+          }
+
+        }
+
+      }
+    }
+  }
+
+  &__link {
+    display: flex;
+    align-items: center;
+    @media screen and (min-width: 970px){
+      &:after{
+        border-width: .0625rem;
+        border-right: .0625rem solid #333;
+        border-top: .0625rem solid #333;
+        display: block;
+        width: .75rem;
+        height: .75rem;
+        transform: rotate(45deg);
+        content: "";
+        display: inline-block;
+        vertical-align: baseline;
+        position: relative;
+      }
+    }
+
+  }
+
+}
+
+// Carril para Ticket
+.vf-container-lane{
+  position: relative;
+}
+
+// Banner & Ticket
+.vf-banner {
+  width: 100%;
+  background-image: url("../img/banner/mobile-cabecera.jpg");
+  background-size: 130%;
+  background-repeat: no-repeat;
+  background-position: right top;
+  @media screen and (min-width: 970px) {
+    background-image: url("../img/banner/desktop-cabecera.jpg");
+    background-size: cover;
+  }
+
+  &__title {
+    padding-top: 20px;
+
+    @media screen and (min-width: 970px) {
+      padding-top: 50px;
+      padding-bottom: 208px;
+    }
+  }
+
+  &__container {
+    @media screen and (min-width: 764px) {
+      padding-top: 40px;
+      padding-bottom: 40px;
+    }
+    @media screen and (min-width: 970px) {
+      padding-top: initial;
+      padding-bottom: initial;
+    }
+  }
+}
+.vf-rate-ticket {
+  position: relative;
+  margin: auto;
+  z-index: 9;
+
+  @media screen and (min-width: 1025px) {
+    position: absolute;
+    right: 16px;
+    padding-top: 30px;
+  }
+  &__stop{
+    @media screen and (min-width: 970px) {
+      position: absolute;
+      bottom: 0;
+    }
+  }
+  &__floating {
+    position: sticky;
+    width: 100%;
+    max-width: 400px;
+    padding-top: .625rem;
+  }
+  &__hidden {
+    display: none;
+    @media screen and (min-width: 1025px) {
+      display: block;
+    }
+  }
+  &__info{
+    &-prices{
+      display: flex;
+      align-items: flex-end;
+      justify-content: space-between;
+      @media screen and (min-width: 970px) {
+        display: initial;
+      }
+    }
+    &-cta{
+      @media screen and (min-width: 970px) {
+        margin-top: 10px;
+      }
+    }
+  }
+}
+
+// Arreglo ticket +/- detalles
+
+
+.ws10-c-rate-features__collapse-btn .less{
+  display: none;
+}
+.ws10-c-rate-features__collapse-btn.ws10-c-rate-features__collapse-btn--active .less{
+  display: block;
+}
+
+.ws10-c-rate-features__collapse-btn.ws10-c-rate-features__collapse-btn--active .plus{
+  display: none;
+}
+
+.vf-sticky_collapse-btn .less{
+  display: none;
+}
+
+.ws10-c-sticky-backdrop--open .vf-sticky_collapse-btn .less{
+  display: block;
+}
+
+.ws10-c-sticky-backdrop--open .vf-sticky_collapse-btn .plus{
+  display: none;
+}
+
+.ws10-c-sticky-backdrop--open .vf-sticky_collapse-btn:after{
+  transform: rotate(-45deg);
+  margin-top: 2px;
+  transition: 0.1s linear;
+}
+
+// CSS Ticket & Sticky (SDK)
+.ws10-x-card-rate {
+  width: 100%;
+  max-height: 100%;
+  display: flex;
+  flex-direction: column;
+
+
+  &__title,
+  &__rate-title {
+    font-size: 1.125rem;
+    font-weight: bold;
+  }
+
+  &__form,
+  &__w-help-btn,
+  &__w-last-btn,
+  &__title {
+    flex-shrink: 0;
+  }
+
+  &__w-help-btn {
+    text-align: center;
+    margin-top: 16px;
+  }
+
+  &__w-last-btn {
+
+    @media screen and (min-width: 640px) {
+      display: flex;
+      justify-content: flex-end;
+    }
+
+  }
+
+  &__last-btn {
+    width: 100%;
+    @media screen and (min-width: 640px) {
+      width: auto;
+    }
+  }
+
+  &__tablist {
+    margin-bottom: 16px;
+    @media screen and (min-width: 640px) {
+      margin-bottom: 20px;
+    }
+  }
+
+  &__w-panels {
+    margin-bottom: 16px;
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  &__w-rate-info {
+    display: grid;
+    grid-template-columns: 60% 40%;
+    grid-template-rows: repeat(2, auto);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+
+    @media screen and (min-width: 970px) {
+      grid-row-gap: 16px;
+    }
+  }
+
+  &__rate-info-price {
+    grid-area: 1 / 1 / 3 / 2;
+    @media screen and (min-width: 970px) {
+      grid-area: 1 / 1 / 2 / 2;
+    }
+  }
+
+  &__rate-info-tax {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-end;
+    grid-area: 1 / 2 / 2 / 3;
+    @media screen and (min-width: 970px) {
+      align-items: flex-end;
+    }
+  }
+
+  &__rate-info-cta {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    grid-area: 2 / 2 / 3 / 3;
+    @media screen and (min-width: 970px) {
+      grid-area: 2 / 1 / 3 / 3;
+    }
+  }
+
+  &__cta {
+    @media screen and (min-width: 970px) {
+      width: 100%;
+    }
+  }
+
+  &__rate {
+    margin: 0;
+    font-size: 1rem;
+  }
+
+  &__rate-title {
+    margin-bottom: 16px;
+  }
+
+  &__rate-dto-percent,
+  &__rate-dto-label,
+  &__rate-price {
+    display: flex;
+  }
+
+  &__rate-dto-percent {
+    color: #007C92;
+    font-weight: bold;
+    margin-bottom: 0;
+  }
+
+  &__rate-dto-label {
+    color: #666666;
+  }
+
+  &__rate-features {
+    padding: 16px 0;
+    border-top: 1px solid #EBEBEB;
+    &:last-child {
+      border-bottom: 1px solid #EBEBEB;
+    }
+  }
+
+  &__rate-features-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  &__rate-features-list-item {
+    margin-bottom: 8px;
+    &:last-child {
+      margin-bottom: 12px;
+    }
+  }
+
+  &--backdrop {
+    &__w-rate-info {
+      grid-template-rows: 1fr;
+    }
+    &__rate-info-tax {
+      align-items: flex-end;
+      grid-area: 1 / 2 / 2 / 3;
+    }
+  }
+}
+.ws10-c-sticky-backdrop__wrapper{
+  overflow-y:auto;
+  height:auto;
+}
+
+// Conectivity // Entretenimiento // Hogar Inteligente
+
+.vf-firefoxflex-fix{
+  // min-width: min-content;
+  max-width: 94px;
+}
+.vf-entertainment {
+  padding-bottom: 64px;
+  .vf-bench--img {
+    max-width: 105px;
+  }
+  .vf-accordion-tv {
+    list-style: none;
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    text-align: center;
+    font-size: 14px;
+    justify-items: stretch;
+  }
+
+  .vf-accordion-funcionality {
+    &__circle {
+      border-radius: 50%;
+      padding: 15px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      &--svg {
+        width: 44px;
+        height: 44px;
+      }
+    }
+  }
+
+  &-cartelas__container{
+    overflow-x: scroll;
+  }
+  &-cartelas__mobile {
+    @media screen and (min-width: 764px) {
+      display: none;
+    }
+  }
+
+  &-cartelas__desktop {
+    display: none;
+    @media screen and (min-width: 764px) {
+      display: block;
+    }
+    img{
+      background: red;
+      @media screen and (min-width: 764px) {
+        max-height: 120px;
+      }
+      @media screen and (min-width: 970px) {
+        max-height: initial;
+      }
+    }
+  }
+
+}
+.vf-smarthome{
+  padding-bottom: 64px;
+}
+.vf-backdrop {
+  width: 100%;
+  background-color: #ffffff;
+  max-height: 85vh;
+
+  @media screen and (min-width: 970px){
+    min-height: initial;
+    border-radius: 6px;
+    min-height: 520px;
+  }
+
+  &__head {
+    background-size: cover;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-position: center;
+    &-conectivity {
+      background-image: url('../img/conectivity/pop-up/bg-popup-cabecera.jpg');
+      @media screen and (min-width: 970px){
+        background-image: url('../img/conectivity/pop-up/bg-popup-cbecera-resp.jpg');
+      }
+    }
+    &-entertainment {
+      background-image: url('../img/entertainment/cabecera-pop-resp.jpg');
+      @media screen and (min-width: 970px){
+        background-image: url('../img/entertainment/cabecera-pop.jpg');
+      }
+    }
+    &-smarthome{
+      background-image: url('../img/smarthome/bg-smarthome-pop.jpg');
+      @media screen and (min-width: 970px){
+        background-image: url('../img/smarthome/bg-smarthome-pop-desktop.jpg');
+      }
+    }
+  }
+  &__content {
+    margin-top: -60px;
+    padding: 0;
+    background: none;
+    position: relative;
+    @media screen and (min-width: 767px) {
+      margin-top: -100px;
+    }
+    &--scrollY{
+      padding-top: 128px;
+      mask-image: linear-gradient(to bottom, transparent 18%, white 21%);
+    }
+
+  }
+  &__list {
+    margin-left: 10px;
+    list-style: none;
+
+    &--cheks {
+      position: relative;
+      display: flex;
+      align-items: start;
+
+      &:before {
+        content: " ";
+        width: 10px;
+        min-width: 10px;
+        height: 19px;
+        border: solid #009900;
+        border-width: 0 .1em .1em 0;
+        margin-right: 20px;
+        -webkit-transform: rotate(45deg);
+        -moz-transform: rotate(45deg);
+        -o-transform: rotate(45deg);
+        transform: rotate(45deg);
+      }
+
+    }
+  }
+}
+
+// Ajustes TABS
+.vf-tabs{
+  overflow: hidden;
+  &-container-buttons{
+    position: relative;
+    padding-bottom: 40px;
+    left: 0;
+    top:0;
+    display: block;
+    white-space: nowrap;
+    width: 400px;
+    transform: translate3d(0px, 0px, 0px);
+
+
+
+    &__scrollX{
+      overflow-x: scroll;
+    }
+    @media screen and (min-width: 767px){
+      overflow-x: initial;
+      width: 600px;
+    }
+
+    &__image{
+      @media screen and (min-width: 767px){
+        width: 104px;
+        height: auto;
+      }
+      &-logos{
+        width: 80px;
+        background: white;
+        border-radius: 6px;
+        filter: drop-shadow(2px 4px 6px #dedede);
+      }
+    }
+
+    .ws10-c-tray-quick-action__content{
+      @media screen and (min-width: 970px) {
+        height: 100%;
+      }
+    }
+  }
+  &-button{
+    width: 100px;
+    display: inline-block;
+    @media screen and (min-width: 970px) {
+      width: 136px;
+      height: 136px;
+    }
+
+    &__active{
+      border: 2px solid #007C92;
+    }
+  }
+
+}
+.ws10-c-picker.vf-tabs-button__active{
+  border: none;
+}
+
+// Not Surprises
+.vf-nosurprise{
+  padding-bottom: 20px;
+  &__link{
+    text-decoration: none;
+  }
+}
+
+// Next Steps
+.vf-steps {
+  padding-bottom: 64px;
+  .ws10-c-timeline-steps__title {
+    text-align: left;
+    @media screen and (min-width: 970px) {
+      max-width: none;
+      text-align: center;
+    }
+  }
+  .ws10-c-timeline-steps__text{
+    max-width: none;
+  }
+}
+
+// Table
+.vf-table{
+  &__container {
+    position: relative;
+    overflow-x: auto;
+    border: 1px solid #ccc;
+    border-radius: $border-radius;
+    background-color: #f4f4f4;
+    color: #222222;
+    text-align: center;
+    font-size: 14px;
+    z-index: 0;
+
+    @media screen and (min-width: $desktop) {
+      overflow: initial;
+      font-size: 20px;
+    }
+  }
+  &__datalist{
+    width: 100%;
+    //margin: 0;
+    //border:none;
+  }
+
+  &__th{
+
+    background-color: #f4f4f4;
+    box-shadow: inset 0 -1px 1px #ccc;
+    padding: 8px 16px;
+    position: relative;
+
+    &:first-child{
+      border-top-left-radius: 6px;
+    }
+    &:last-child{
+      border-top-right-radius: 6px;
+    }
+
+    @media screen and (min-width:$desktop){
+      padding: 24px;
+      position: sticky;
+      top: 70px;
+      z-index: 1;
+    }
+    &:not(:last-child):after{
+      content: '';
+      position: absolute;
+      top: 0;right: 0;bottom: 0;
+      width: 1px;
+      background-color: #ccc;
+    }
+  }
+
+  &__td{
+    padding: 5px;
+    position: relative;
+    @media screen and (min-width:$desktop){
+      padding: 20px 10px;
+    }
+
+    &:not(:last-child):after{
+      content: '';
+      position: absolute;
+      top: 0;right: 0;bottom: 0;
+      width: 1px;
+      background-color: #ccc;
+    }
+
+    &--subheader{
+      background-color: #fff;
+      padding: 5px;
+      @media screen and (min-width:$desktop){
+        padding: 10px;
+      }
+    }
+  }
+
+
+  &__title{
+    font-size: 14px;
+    white-space: nowrap;
+    @media screen and (min-width:$desktop){
+      font-size: 20px;
+    }
+    &--big{
+      font-size: 16px;
+      @media screen and (min-width:$desktop){
+        font-size: 40px;
+      }
+    }
+    &--small{
+      font-size: 16px;
+      @media screen and (min-width:$desktop){
+        font-size: 28px;
+      }
+    }
+  }
+
+  &__icon{
+    vertical-align: middle;
+    /*  &::before{
+         content:'';
+         font-size: 20px;
+     } */
+
+    &--tick{
+      &::before{
+        content:url("data:image/svg+xml; utf8, <svg xmlns='http://www.w3.org/2000/svg' width='24' height='18' viewBox='0 0 24 18'> <g fill='none' fill-rule='evenodd'> <path stroke='%23090' stroke-linecap='round' stroke-linejoin='round' d='M21.5 5.375L8.432 18.442 2.625 12.635'/> </g> </svg> ");
+      }
+    }
+
+    &--fault{
+      &::before{
+        content:url("data:image/svg+xml; utf8, <svg width='24' height='18' viewBox='0 0 24 18' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'> <g stroke='none' stroke-width='1' fill='none' fill-rule='evenodd'> <path d='M11.2928932,12 L5.64644661,6.35355339 C5.45118446,6.15829124 5.45118446,5.84170876 5.64644661,5.64644661 C5.84170876,5.45118446 6.15829124,5.45118446 6.35355339,5.64644661 L12,11.2928932 L17.6464466,5.64644661 C17.8417088,5.45118446 18.1582912,5.45118446 18.3535534,5.64644661 C18.5488155,5.84170876 18.5488155,6.15829124 18.3535534,6.35355339 L12.7071068,12 L18.3535534,17.6464466 C18.5488155,17.8417088 18.5488155,18.1582912 18.3535534,18.3535534 C18.1582912,18.5488155 17.8417088,18.5488155 17.6464466,18.3535534 L12,12.7071068 L6.35355339,18.3535534 C6.15829124,18.5488155 5.84170876,18.5488155 5.64644661,18.3535534 C5.45118446,18.1582912 5.45118446,17.8417088 5.64644661,17.6464466 L11.2928932,12 Z' fill='%23E60000'></path> </g> </svg>");
+      }
+    }
+
+  }
+  
+
+}
+
+//Sticky
+.vf-sticky {
+  z-index: 99;
+  opacity: 0;
+  &-backdrop {
+    overflow: inherit;
+  }
+
+  &_collapse-btn {
+    position: absolute;
+    top: 16px;
+    right: 16px;
+  }
+
+
+  @media screen and (min-width: 1025px) {
+    display: none;
+  }
+}
+
+
+.vf-width {
+  width: 100px;
+}
+

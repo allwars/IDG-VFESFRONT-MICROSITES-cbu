@@ -1,0 +1,154 @@
+// CSS del microsite
+.vfes-ms-content{
+    // Hero
+   .vfms-animation {
+      display: inline-block;
+      height: auto;
+      padding: 30px 0;
+      position: relative;
+      text-align: center;
+      width: 100%;
+      &__bg {
+         width: 100%;
+         height: 125px;
+      
+         background: {
+            image: url(../img/animation-bg.png);
+            size: auto;
+            repeat: repeat-x;
+            position: 0 0;
+         }
+      
+         ;
+         -webkit-animation: moving 14.4s linear infinite;
+         -moz-animation: moving 14.4s linear infinite;
+         -ms-animation: moving 14.4s linear infinite;
+         -o-animation: moving 14.4s linear infinite;
+         animation: moving 14.4s linear infinite;
+      }
+      &__front {
+         width: auto;
+         max-width: 100%;
+         max-height: 100%;
+         height: auto;
+         display: block;
+         position: absolute;
+         top: 50%;
+         left: 50%;
+         -webkit-transform: translate(-50%, -50%);
+         -ms-transform: translate(-50%, -50%);
+         transform: translate(-50%, -50%);
+      }
+      @-webkit-keyframes moving {
+         from {
+            background-position: 0;
+         }
+      
+         to {
+            background-position: -718px 0;
+         }
+      }
+      
+      @-moz-keyframes moving {
+         from {
+            background-position: 0;
+         }
+      
+         to {
+            background-position: -718px 0;
+         }
+      }
+      
+      @-ms-keyframes moving {
+         from {
+            background-position: 0;
+         }
+      
+         to {
+            background-position: -718px 0;
+         }
+      }
+      
+      @-o-keyframes moving {
+         from {
+            background-position: 0;
+         }
+      
+         to {
+            background-position: -718px 0;
+         }
+      }
+      
+      @keyframes moving {
+         from {
+            background-position: 0;
+         }
+      
+         to {
+            background-position: -718px 0;
+         }
+      }
+   }
+
+   .vfms-card {
+      &__title {
+         margin-bottom: 0;
+         padding: 0 10px 0 20px;
+      }
+      &__icon {
+         width: 48px;
+         height: 48px;
+      }
+      &__social {
+         width: 36px;
+         &--container {
+            height: 76px;
+         }
+         &--list {
+            height: 100%;
+         }
+      }
+      &__music {
+         &--header {
+            padding: 5px 0;
+         }
+      }
+      &__shop {
+         &--text {
+            font-size: 18px;
+         }
+      }
+      &__price {
+         font-family: "VodafoneRegular",Helvetica,Arial,sans-serif;
+         font-size: 30px;
+      }
+      &__plus {
+         width: 36px;
+         height: 36px;
+         border: 1px solid #333;
+         align-items: center;
+         justify-content: center;
+         border-radius: 6px;
+      }
+      &__nomargintop {
+         margin-top: 0;
+      }
+   }
+   .vfms-info {
+      padding: 0;
+      &__link {
+         text-decoration: underline;
+      }
+   }
+   .vfms-link {
+      text-align: center;
+      @media screen and (min-width: 768px) {
+         text-align: right;
+      }
+   }
+   .vfms-app {
+      &__text--xl {
+         font-size: 20px;
+      }
+   }
+}

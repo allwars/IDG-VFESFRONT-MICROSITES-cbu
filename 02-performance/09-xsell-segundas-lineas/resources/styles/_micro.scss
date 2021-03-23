@@ -1,0 +1,403 @@
+$hhmobile: 48px;
+$hhtablet: 78px;
+$breakpoint-desktop: 1200px;
+$breakpoint-tablet: 1024px;
+$breakpoint-mov: 775px; //768px; //640px;
+$breakpoint-mov-small: 362px;
+@mixin mq-huge {
+    @media only screen and (min-width: $breakpoint-desktop) {
+        @content;
+    }
+}
+
+@mixin mq-desktop {
+    @media only screen and (min-width: $breakpoint-tablet) {
+        @content;
+    }
+}
+
+@mixin mq-tablet-desktop {
+    @media only screen and (min-width: $breakpoint-mov) {
+        @content;
+    }
+}
+
+@mixin mq-tablet {
+    @media only screen and (min-width: $breakpoint-mov) and (max-width: $breakpoint-tablet) {
+        @content;
+    }
+}
+
+@mixin mq-phone {
+    @media only screen and (max-width: $breakpoint-mov) {
+        @content;
+    }
+}
+
+@mixin mq-phone-small {
+    @media only screen and (max-width: $breakpoint-mov-small) {
+        @content;
+    }
+}
+
+.debug .vfes-ms-content {
+    @include mq-desktop {
+        min-height: 2000px;
+    }
+}
+
+// CSS del microsite
+.vfes-ms-content {
+    //min-height: 2000px;
+    background-color: #e5e5e5;
+    padding-top: $hhmobile;
+    @include mq-desktop {
+        padding-top: $hhtablet;
+    }
+    .vf-fl {
+        display: block;
+        width: 50px;
+        float: left;
+        margin-right: 10px;
+        margin-top: -5px;
+    }
+    .vfes-modal {
+        background-color: rgba(0, 0, 0, 0.45);
+    }
+    .vfes-overlay {
+        @media screen and (min-width: 970px) {
+            padding-top: 20px !important;
+            padding-bottom: 20px !important;
+        }
+    }
+    .bf-modal-item {
+        .modal-oferta__icon {
+            float: left;
+            @include mq-tablet-desktop {
+                float: none;
+            }
+        }
+        .vfes-layout__item {
+            margin-top: 20px;
+        }
+    }
+    .vfes-ms-content-filete {
+        display: none;
+        width: 100%;
+        position: sticky;
+        top: 0;
+        z-index: 1;
+        padding: 16px 0;
+        &__notice {
+            font-size: 14px;
+            text-align: center;
+        }
+        .vfes-layout__nopadding {
+            padding: 0;
+        }
+    }
+    .performance-hero {
+        background-image: linear-gradient(to right, #e60000, #910101 50%);
+        padding: 16px 0;
+        @include mq-tablet-desktop {
+            padding: 60px 0;
+        }
+        &__bolus {
+            display: none;
+            position: absolute;
+            border-radius: 50%;
+            color: #fff;
+            @media screen and (min-width: 1024px) {
+                display: flex;
+                width: 250px;
+                height: 250px;
+                left: 0;
+                top: 0;
+            }
+            @include mq-desktop {
+                justify-content: center;
+                margin-left: -20px;
+            }
+            &__percentage {
+                @include mq-desktop {
+                    font-size: 90px;
+                }
+                @include mq-huge {
+                    font-size: 164px;
+                }
+            }
+            &__percentage-simbol {
+                @include mq-desktop {
+                    font-size: 45px;
+                }
+                @include mq-huge {
+                    font-size: 95px;
+                }
+            }
+            &__extra {
+                @include mq-desktop {
+                    font-size: 30px;
+                    margin-top: -20px;
+                }
+                @include mq-huge {
+                    font-size: 50px;
+                    margin-top: -40px;
+                }
+            }
+        }
+        &__title {
+            text-align: center;
+            padding: 0 15px;
+            font-size: 18px;
+            padding: 20px 0;
+            margin-bottom: 0;
+            @include mq-tablet-desktop {
+                font-size: 22px;
+                display: none;
+            }
+        }
+        &__clain {
+            display: none;
+            @media screen and (min-width: 768px) {
+                position: absolute;
+                bottom: 0;
+                left: 32px;
+                color: #fff;
+                display: flex;
+                flex-direction: column;
+            }
+        }
+        .bonus-mid-reference {
+            display: none;
+        }
+    }
+    .performance-card {
+        color: #333;
+        padding: 14px;
+        text-align: left;
+        margin: 0 auto;
+        max-width: 100%;
+        background-color: #fff;
+        position: relative;
+        border-radius: 0.625rem;
+        box-shadow: 0.125rem 0.125rem 0.5rem 0 rgba(0, 0, 0, 0.16);
+        @media screen and (min-width: 768px) {
+            max-width: 70%;
+        }
+        @media screen and (min-width: 1024px) {
+            max-width: 50%;
+            margin-right: 320px;
+        }
+        &__content {
+            display: flex;
+            flex-flow: column;
+            align-items: center;
+            @media screen and (min-width: 500px) {
+                flex-flow: row;
+                align-items: flex-end;
+                justify-content: space-between;
+            }
+            // @include mq-desktop {
+            //     align-items: start;
+            // }
+            // @include mq-huge {
+            //     flex-flow: row;
+            //     align-items: flex-end;
+            //     justify-content: space-between;
+            // }
+        }
+        &__maincol {
+            width: 100%;
+        }
+        &__list {
+            @media screen and (min-width: 1280px) {
+                margin-bottom: 30px;
+            }
+        }
+        &__list-item {
+            display: flex;
+            align-items: center;
+        }
+        &__list-item-description {
+            margin-left: 4px;
+            margin-bottom: 0;
+            .list-item-description__title {
+                font-size: 14px;
+                margin-bottom: 0;
+                @include mq-tablet-desktop {
+                    font-size: 18px;
+                }
+                &--align {
+                    margin-top: 4px;
+                }
+            }
+            .list-item-description__text {
+                font-size: 12px;
+                margin-bottom: 8px;
+                @include mq-tablet-desktop {
+                    font-size: 14px;
+                }
+            }
+        }
+        &__title {
+            margin-bottom: 15px;
+            font-size: 14px;
+            line-height: 25px;
+            display: flex;
+            flex-direction: column;
+            @media screen and (min-width: 340px) {
+                font-size: 16px;
+            }
+            @include mq-desktop {
+                font-size: 24px;
+                line-height: 34px;
+            }
+            @include mq-huge {
+                font-size: 28px;
+            }
+        }
+        &__details-button {
+            font-size: 14px;
+            margin: 12px 0;
+            @include mq-tablet-desktop {
+                text-align: left;
+                margin-bottom: 0;
+            }
+            .vfms-offer-details-link {
+                text-decoration: underline;
+            }
+        }
+        &__details {
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            @include mq-tablet-desktop {
+                margin: 0;
+                text-align: left;
+                width: auto;
+            }
+            .performance-card__price-old {
+                display: flex;
+                flex-direction: column;
+                .performance-card__price-old-text {
+                    font-size: 14px;
+                }
+            }
+            .performance-card__price-new {
+                display: flex;
+                flex-direction: column;
+                .performance-card__price {
+                    font-size: 48px;
+                }
+                .performance-card__text-small {
+                    font-size: 20px;
+                }
+            }
+            .performance-card__price-new-features {
+                display: flex;
+                flex-direction: column;
+                font-size: 13px;
+            }
+        }
+        &__detailscol {
+            border-top: 1px solid #cccccc;
+            padding-top: 8px;
+            @media screen and(min-width: 768px) {
+                border-top: none;
+                width: auto;
+            }
+        }
+        &__deadline {
+            font-size: 14px;
+            display: flex;
+            @media screen and (min-width: 768px) {
+                flex-direction: column;
+            }
+        }
+        &__deadline-item:first-child {
+            margin-right: 2px;
+        }
+        &__price {
+            font-size: 28px;
+            @include mq-tablet-desktop {
+                font-size: 40px;
+            }
+        }
+        &__text-small {
+            font-size: 28px;
+            @include mq-tablet-desktop {
+                font-size: 20px;
+            }
+        }
+        &__text-smaller {
+            font-size: 14px;
+        }
+    }
+    /* 
+    
+    
+    */
+    .wg-form-trigger {
+        // background-color: #e60000;
+        position: absolute;
+        right: 5px;
+        top: 2px;
+        bottom: 2px;
+        padding-left: 10px;
+        padding-right: 15px;
+        width: auto;
+        svg {
+            display: inline-block;
+            vertical-align: middle;
+        }
+        @include mq-desktop {
+            display: none;
+        }
+        &--circle {
+            display: none;
+            // padding: 0;
+            // position: fixed;
+            // top: auto;
+            // bottom: 5px;
+            // right: 10px;
+            // border-radius: 50%;
+            // width: 50px;
+            // height: 50px;
+            // box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.35);
+            // border: solid 2px #e02020;
+            // background-color: #ffffff;
+            // svg {
+            //     width: 30px;
+            //     height: 30px;
+            //     path {
+            //         fill: #e60000;
+            //     }
+            // }
+        }
+    }
+    // Estilos para los modales
+    // Estilos para los modales
+    .vfms-modal-title {
+        padding-bottom: 10px;
+        border-bottom: solid #333 1px;
+    }
+    .vfms-tarifaMovil {
+        .vfms-modal-title {
+            margin-bottom: 20px;
+        }
+        .vfms-offer-details-features {
+            padding: 0 20px;
+        }
+        .vfms-offer-details-features-container {
+            list-style: disc;
+            padding-left: 20px;
+            line-height: 1.5;
+            .vfms-offer-details-features-item {
+                .vfms-rate-features-container {
+                    list-style: disc;
+                    padding-left: 50px;
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,39 @@
+.vfes-ms-content {
+    .modal-oferta {
+        height: auto;
+        hr {
+            border: 0;
+            border-top: 1px solid #ccc;
+            height: 0;
+            margin: 15px 0;
+        }
+        .vfes-title--2 {
+            margin-bottom: 0;
+        }
+        .modal-oferta__content {
+            text-align: left;
+            padding-left: 20px;
+            font-size: 18px;
+            @media screen and (min: 768px) {
+                padding-left: 50px;
+            }
+            .vfes-title--2 {
+                font-size: 24px;
+                border-bottom: 1px solid #333;
+                padding-bottom: 10px;
+                text-align: left;
+            }
+            .vfes-title--4 {
+                font-size: 20px;
+                margin-bottom: 2px;
+                margin-top: 10px;
+            }
+            .modal-oferta__content__list {
+                list-style: disc outside;
+                padding-left: 2em;
+                padding-top: 10px;
+                font-size: 16px;
+            }
+        }
+    }
+}

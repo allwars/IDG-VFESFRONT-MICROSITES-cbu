@@ -1,0 +1,1158 @@
+<link href="css/ws2r.v11.css" rel="stylesheet" />
+<link href="css/styles.css" rel="stylesheet" data-microcss />
+<div data-spritesheet="svg/sprite.mid.svg" data-vfes-js="_svgLoader"></div>
+
+<div class="vfes-ms-content vfes-ws10" id="configurador" style="display: none">
+
+    {{!-- <script>(function () { let t = document.createElement("link"), e = window.location.hostname; e = /localhost/g.test(e) ? "data-oferta.json" : /vodafone\.es/g.test(e) ? "/c/statics/data-oferta.json" : "/c/vf/statics/data-oferta.json", t.setAttribute("href", e), t.setAttribute("rel", "reboot:externaldata"), t.setAttribute("id", "data"), console.log(t), document.querySelector(".vfes-ms-content").parentElement.insertBefore(t, document.querySelector(".vfes-ms-content")) })();</script> --}}
+    <div class="menu">
+        <div class="menu__img">
+            <a href="https://www.vodafone.es/c/tienda-online/particulares/catalogo-moviles/oppo-a9-verde-128gb-313814/?FY1920_T046=true"
+                target="_new"><img src="img/proto/logo.png" width="32" height="33" alt="logo" /></a>
+        </div>
+    </div>
+    {{!-- Configurator --}}
+    <section class="vfes-layout vfes-colours-bg-light-grey vfms-configurator" data-vfms-js="_configurator">
+        <div class="vfes-layout__wrapper vfms-configurator__column">
+            <div class="vfes-layout__item vfes-2/3 vfes-1/1-palm">
+
+                <div class="device">
+                    <h3>Huawei P30 Pro Negro 256GB</h3>
+                    <div class="device__info device__flex">
+                        <div class="device__img">
+                            <img src="img/proto/huawei.png" alt="huawei" />
+                        </div>
+                        <div class="device__text">
+                            <p class="vfes-paragraph">El pack incluye:</p>
+                            <p class="vfes-paragraph">Datos ilimitados,</p>
+                            <p class="vfes-paragraph">Llamadas ilimitadas, SecureNet,</p>
+                            <p class="vfes-paragraph">Hatch Premium</p>
+                            <p class="vfes-paragraph">Gafas de RV.</p>
+                            <div class="device__link">
+                                <a id="btn-caracteristicas" href="#caracteristicas-container" class="">Ver todas las
+                                    características</a>
+                            </div>
+
+                        </div>
+                    </div>
+                    <h3 class="device__title">Color</h3>
+                    <img src="img/proto/color-selector.png" alt="huawei" />
+                    <h3 class="device__title">Almacenamiento</h3>
+                    <img src="img/proto/almacenamiento.png" alt="huawei" />
+                    <h3 class="device__title">¿Necesitas un número nuevo?</h3>
+                    <div class="filter__pay">
+                        <input class="vfes-form__radio" type="radio" id="portabilidad" name="safety-starter"
+                            value="portabilidad" checked>
+                        <label class="vfes-form__label" for="portabilidad">Portabilidad</label>
+
+                        <input class="vfes-form__radio" type="radio" id="num-nuevo" name="safety-starter"
+                            value="número nuevo">
+                        <label class="vfes-form__label" for="num-nuevo">Número nuevo</label>
+
+                        <input class="vfes-form__radio" type="radio" id="cliente" name="safety-starter"
+                            value="Soy cliente" disabled>
+                        <label class="vfes-form__label" for="cliente">Soy cliente</label>
+                    </div>
+
+
+                    <h3 class="device__title">¿Cómo quieres pagarlo?</h3>
+                    <div class="filter__pay">
+                        <input class="vfes-form__radio" type="radio" id="plazos" name="safety-starter2"
+                            value="Pago a plazos" checked>
+                        <label class="vfes-form__label" for="plazos">Pago a plazos</label>
+
+                        <div id="meses" class="meses">
+                            <p>¿En cuántos meses?</p>
+                            <div class="meses__container">
+                                <div id="mes-36" class="mes">
+                                    <img id="mes-36-inactive" src="img/proto/inactive36.png" alt="logo" />
+                                    <img id="mes-36-active" src="img/proto/active36.png" alt="logo" />
+
+                                </div>
+                                <div id="mes-24">
+                                    <img id="mes-24-inactive" src="img/proto/inactive24.png" alt="logo" />
+                                    <img id="mes-24-active" src="img/proto/active24.png" alt="logo" />
+                                </div>
+                            </div>
+
+                        </div>
+
+                        <input class="vfes-form__radio" type="radio" id="unico" name="safety-starter2"
+                            value="Pago único">
+                        <label class="vfes-form__label" for="unico">Pago único</label>
+
+                        <h3 class="device__title">¿Qué tarifa te interesa?</h3>
+
+                    </div>
+
+                    {{!-- Tabs --}}
+
+                    <div class="vfes-tabs" data-vfes-js="_tabsWs10" tabColor="gray">
+                        <ul class="vfes-tabs__container vfms-tabs__container">
+                            <li class="vfes-tabs__tab ">
+                                <button id="btn-rates-mobile" class="btn-tab js-tab vfes-tabs__tab-active"
+                                    data-option="1" role="tab" aria-controls="grouptab1" title="Tarifa móvil"
+                                    aria-label="Tarifa móvil" aria-selected="true">Tarifa Móvil</button>
+                            </li>
+                            <li class="vfes-tabs__tab">
+                                <button id="btn-rates-convergente" class="js-tab btn-tab" data-option="2" role="tab"
+                                    aria-controls="grouptab2" title="Tarifa móvil + fibra"
+                                    aria-label="Tarifa móvil + fibra" aria-selected="false">Móvil +
+                                    Fibra</button>
+                            </li>
+                        </ul>
+
+                    </div>
+
+                    {{!-- Tarifas Móvil --}}
+
+                    <ul id="mobile-rates-container" class="vfms-mobile-rates">
+                        <li id="vodafone-ilimitada">
+
+                            <div
+                                class="vfes-card vfms-card-one--offer-color vfms-card-one vfes-color-bg-vodafone-white added">
+                                <svg class="vfms-configurator__icon vfms-configurator__icon--tick vfes-colours--vodafone-white"
+                                    xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+                                    width="25" height="25">
+                                    <title>Tick</title>
+                                    <use class="icon-v3" xlink:href="#icon3-tick-or-solved"></use>
+                                </svg>
+
+                                <div class="vfms-configurator__status"></div>
+                                <div class="vfms-rates-img">
+                                    <img src="img/proto/tarifa-ilimitada.png" alt="logo" />
+                                </div>
+                                <div class="vfms-configurator__button">
+                                    <button id="btn-vodafone-ilimitada"
+                                        class="vfes-button vfes-button--secondary vfms-configurator__add js-configurator-add vfms-btn-add"
+                                        title="Pulse para añadir al ticket" data-tarifa="vodafone-ilimitada"
+                                        data-tarifa-nombre="Vodafone ilimitada" data-precio-tarifa="40,99"
+                                        data-precio-plazos="18,98" data-precio-unico="683,64">
+                                        Añadir
+                                    </button>
+                                </div>
+                            </div>
+                        </li>
+                        <li id="vodafone-super">
+                            <div
+                                class="vfes-card vfms-card-one--offer-color vfms-card-one vfes-color-bg-vodafone-white">
+                                <svg class="vfms-configurator__icon vfms-configurator__icon--tick vfes-colours--vodafone-white"
+                                    xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+                                    width="25" height="25">
+                                    <title>Tick</title>
+                                    <use class="icon-v3" xlink:href="#icon3-tick-or-solved"></use>
+                                </svg>
+
+                                <div class="vfms-configurator__status"></div>
+                                <div class="vfms-rates-img">
+                                    <img src="img/proto/tarifa-super.png" alt="logo" />
+                                </div>
+                                <div class="vfms-configurator__button">
+                                    <button id="btn-vodafone-super"
+                                        class="vfes-button vfes-button--secondary vfms-configurator__add js-configurator-add vfms-btn-add"
+                                        title="Pulse para añadir al ticket" data-tarifa="vodafone-super"
+                                        data-tarifa-nombre="Vodafone Súper" data-precio-tarifa="45,99"
+                                        data-precio-plazos="18,98" data-precio-unico="683,64">
+                                        Añadir
+                                    </button>
+                                </div>
+                            </div>
+                        </li>
+                        <li id="vodafone-total">
+                            <div
+                                class="vfes-card vfms-card-one--offer-color vfms-card-one vfes-color-bg-vodafone-white">
+                                <svg class="vfms-configurator__icon vfms-configurator__icon--tick vfes-colours--vodafone-white"
+                                    xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+                                    width="25" height="25">
+                                    <title>Tick</title>
+                                    <use class="icon-v3" xlink:href="#icon3-tick-or-solved"></use>
+                                </svg>
+
+                                <div class="vfms-configurator__status"></div>
+                                <div class="vfms-rates-img">
+                                    <img src="img/proto/tarifa-total.png" alt="logo" />
+                                </div>
+                                <div class="vfms-configurator__button">
+                                    <button id="btn-vodafone-total"
+                                        class="vfes-button vfes-button--secondary vfms-configurator__add js-configurator-add vfms-btn-add"
+                                        title="Pulse para añadir al ticket" data-tarifa="vodafone-total"
+                                        data-tarifa-nombre="Vodafone Total" data-precio-tarifa="49,99"
+                                        data-precio-plazos="18,98" data-precio-unico="683,64">
+                                        Añadir
+                                    </button>
+                                </div>
+                            </div>
+                        </li>
+                        <li id="vodafone-mini">
+                            <div
+                                class="vfes-card vfms-card-one--offer-color vfms-card-one vfes-color-bg-vodafone-white">
+                                <svg class="vfms-configurator__icon vfms-configurator__icon--tick vfes-colours--vodafone-white"
+                                    xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+                                    width="25" height="25">
+                                    <title>Tick</title>
+                                    <use class="icon-v3" xlink:href="#icon3-tick-or-solved"></use>
+                                </svg>
+
+                                <div class="vfms-configurator__status"></div>
+                                <div class="vfms-rates-img">
+                                    <img src="img/proto/tarifa-mini.png" alt="logo" />
+                                </div>
+                                <div class="vfms-configurator__button">
+                                    <button id="btn-vodafone-mini"
+                                        class="vfes-button vfes-button--secondary vfms-configurator__add js-configurator-add vfms-btn-add"
+                                        title="Pulse para añadir al ticket" data-tarifa="vodafone-mini"
+                                        data-tarifa-nombre="Vodafone Mini" data-precio-tarifa="19,99"
+                                        data-precio-plazos="23" data-precio-unico="828,00">
+                                        Añadir
+                                    </button>
+                                </div>
+                            </div>
+                        </li>
+                        <li id="vodafone-extra">
+                            <div
+                                class="vfes-card vfms-card-one--offer-color vfms-card-one vfes-color-bg-vodafone-white">
+                                <svg class="vfms-configurator__icon vfms-configurator__icon--tick vfes-colours--vodafone-white"
+                                    xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+                                    width="25" height="25">
+                                    <title>Tick</title>
+                                    <use class="icon-v3" xlink:href="#icon3-tick-or-solved"></use>
+                                </svg>
+
+                                <div class="vfms-configurator__status"></div>
+                                <div class="vfms-rates-img">
+                                    <img src="img/proto/tarifa-extra.png" alt="logo" />
+                                </div>
+                                <div class="vfms-configurator__button">
+                                    <button id="btn-vodafone-extra"
+                                        class="vfes-button vfes-button--secondary vfms-configurator__add js-configurator-add vfms-btn-add"
+                                        title="Pulse para añadir al ticket" data-tarifa="vodafone-extra"
+                                        data-tarifa-nombre="Vodafone Extra" data-precio-tarifa="29,99"
+                                        data-precio-plazos="23" data-precio-unico="828,00">
+                                        Añadir
+                                    </button>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+
+                    {{!-- Tarifas Convergente --}}
+
+                    <ul id="convergente-rates-container" class="vfms-convergente-rates">
+                        <li id="vodafone-one-ilimitada">
+                            <div
+                                class="vfes-card vfms-card-one--offer-color vfms-card-one vfes-color-bg-vodafone-white">
+                                <svg class="vfms-configurator__icon vfms-configurator__icon--tick vfes-colours--vodafone-white"
+                                    xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+                                    width="25" height="25">
+                                    <title>Tick</title>
+                                    <use class="icon-v3" xlink:href="#icon3-tick-or-solved"></use>
+                                </svg>
+
+                                <div class="vfms-configurator__status"></div>
+                                <div class="vfms-rates-img">
+                                    <img src="img/proto/one-ilimitada.png" alt="logo" />
+                                </div>
+                                <div class="vfms-configurator__button">
+                                    <button id="btn-vodafone-one-ilimitada"
+                                        class="vfes-button vfes-button--secondary vfms-configurator__add js-configurator-add vfms-btn-add"
+                                        title="Pulse para añadir al ticket" data-tarifa="vodafone-one-ilimitada"
+                                        data-tarifa-nombre="Vodafone One ilimitada" data-precio-tarifa="31,99"
+                                        data-precio-plazos="18,98" data-precio-unico="683,64">
+                                        Añadir
+                                    </button>
+                                </div>
+                            </div>
+                        </li>
+                        <li id="vodafone-one-super">
+                            <div
+                                class="vfes-card vfms-card-one--offer-color vfms-card-one vfes-color-bg-vodafone-white">
+                                <svg class="vfms-configurator__icon vfms-configurator__icon--tick vfes-colours--vodafone-white"
+                                    xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+                                    width="25" height="25">
+                                    <title>Tick</title>
+                                    <use class="icon-v3" xlink:href="#icon3-tick-or-solved"></use>
+                                </svg>
+
+                                <div class="vfms-configurator__status"></div>
+                                <div class="vfms-rates-img">
+                                    <img src="img/proto/one-super.png" alt="logo" />
+                                </div>
+                                <div class="vfms-configurator__button">
+                                    <button id="btn-vodafone-one-super"
+                                        class="vfes-button vfes-button--secondary vfms-configurator__add js-configurator-add vfms-btn-add"
+                                        title="Pulse para añadir al ticket" data-tarifa="vodafone-one-super"
+                                        data-tarifa-nombre="Vodafone One Súper" data-precio-tarifa="41,99"
+                                        data-precio-plazos="18,98" data-precio-unico="683,64">
+                                        Añadir
+                                    </button>
+                                </div>
+                            </div>
+                        </li>
+                        <li id="vodafone-one-total">
+                            <div
+                                class="vfes-card vfms-card-one--offer-color vfms-card-one vfes-color-bg-vodafone-white">
+                                <svg class="vfms-configurator__icon vfms-configurator__icon--tick vfes-colours--vodafone-white"
+                                    xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+                                    width="25" height="25">
+                                    <title>Tick</title>
+                                    <use class="icon-v3" xlink:href="#icon3-tick-or-solved"></use>
+                                </svg>
+
+                                <div class="vfms-configurator__status"></div>
+                                <div class="vfms-rates-img">
+                                    <img src="img/proto/one-total.png" alt="logo" />
+                                </div>
+                                <div class="vfms-configurator__button">
+                                    <button id="btn-vodafone-one-total"
+                                        class="vfes-button vfes-button--secondary vfms-configurator__add js-configurator-add vfms-btn-add"
+                                        title="Pulse para añadir al ticket" data-tarifa="vodafone-one-total"
+                                        data-tarifa-nombre="Vodafone One Total" data-precio-tarifa="54,99"
+                                        data-precio-plazos="18,98" data-precio-unico="683,64">
+                                        Añadir
+                                    </button>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li id="vodafone-one-mini">
+                            <div
+                                class="vfes-card vfms-card-one--offer-color vfms-card-one vfes-color-bg-vodafone-white">
+                                <svg class="vfms-configurator__icon vfms-configurator__icon--tick vfes-colours--vodafone-white"
+                                    xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+                                    width="25" height="25">
+                                    <title>Tick</title>
+                                    <use class="icon-v3" xlink:href="#icon3-tick-or-solved"></use>
+                                </svg>
+
+                                <div class="vfms-configurator__status"></div>
+                                <div class="vfms-rates-img">
+                                    <img src="img/proto/one-mini.png" alt="logo" />
+                                </div>
+                                <div class="vfms-configurator__button">
+                                    <button id="btn-vodafone-one-mini"
+                                        class="vfes-button vfes-button--secondary vfms-configurator__add js-configurator-add vfms-btn-add"
+                                        title="Pulse para añadir al ticket" data-tarifa="vodafone-one-mini"
+                                        data-tarifa-nombre="Vodafone One Mini" data-precio-tarifa="47,99"
+                                        data-precio-plazos="18,98" data-precio-unico="828,00">
+                                        Añadir
+                                    </button>
+                                </div>
+                            </div>
+                        </li>
+                        <li id="vodafone-one-extra">
+                            <div
+                                class="vfes-card vfms-card-one--offer-color vfms-card-one vfes-color-bg-vodafone-white">
+                                <svg class="vfms-configurator__icon vfms-configurator__icon--tick vfes-colours--vodafone-white"
+                                    xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+                                    width="25" height="25">
+                                    <title>Tick</title>
+                                    <use class="icon-v3" xlink:href="#icon3-tick-or-solved"></use>
+                                </svg>
+
+                                <div class="vfms-configurator__status"></div>
+                                <div class="vfms-rates-img">
+                                    <img src="img/proto/one-extra.png" alt="logo" />
+                                </div>
+                                <div class="vfms-configurator__button">
+                                    <button id="btn-vodafone-one-extra"
+                                        class="vfes-button vfes-button--secondary vfms-configurator__add js-configurator-add vfms-btn-add"
+                                        title="Pulse para añadir al ticket" data-tarifa="vodafone-one-extra"
+                                        data-tarifa-nombre="Vodafone One Extra" data-precio-tarifa="47,99"
+                                        data-precio-plazos="18,98" data-precio-unico="828,00">
+                                        Añadir
+                                    </button>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+
+                    {{!-- Servicios adicionales --}}
+                    <h3 class="device__title">Servicios Adicionales</h3>
+
+                    {{!-- Carrusel1 --}}
+
+                    <div id="carrusel3-item" class="vfes-carousel  carrusel1" data-vfes-js="_carousel"
+                        data-config='{"responsive":{"0":{"breakpoint":0,"elements":1},"1":{"breakpoint":640,"elements":2}},"build":{"arrows":true,"bullets":true,"clickable_bullets":true}}'
+                        data-configurator-config='{"id":"tarifa-one","title":"Tarifa Vodafone One","svg":"icon-converged-proposition-mid","button":true}'>
+                        <ul class='vfes-carousel__list js-carousel-list'>
+
+                            <li id="securenet"
+                                class='vfms-card-one-aditional vfes-carousel__list-element js-carousel-list-element added2'>
+                                <div
+                                    class="vfms-adicionales vfes-card vfms-card-one--offer-color vfms-card-one vfes-color-bg-vodafone-white">
+                                    <svg class="vfms-configurator__icon vfms-configurator__icon--tick vfes-colours--vodafone-white"
+                                        xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+                                        width="25" height="25">
+                                        <title>Tick</title>
+                                        <use class="icon-v3" xlink:href="#icon3-tick-or-solved"></use>
+                                    </svg>
+
+                                    <div class="vfms-configurator__status"></div>
+                                    <div class="vfms-rates-img">
+                                        <img src="img/proto/securenet.png" alt="logo" />
+                                    </div>
+
+                                </div>
+                            </li>
+                            <li id="one-number"
+                                class='vfms-card-one-aditional vfes-carousel__list-element js-carousel-list-element  added2'>
+                                <div
+                                    class="vfms-adicionales vfes-card vfms-card-one--offer-color vfms-card-one vfes-color-bg-vodafone-white">
+                                    <svg class="vfms-configurator__icon vfms-configurator__icon--tick vfes-colours--vodafone-white"
+                                        xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+                                        width="25" height="25">
+                                        <title>Tick</title>
+                                        <use class="icon-v3" xlink:href="#icon3-tick-or-solved"></use>
+                                    </svg>
+
+                                    <div class="vfms-configurator__status"></div>
+                                    <div class="vfms-rates-img">
+                                        <img src="img/proto/one-number.png" alt="logo" />
+                                    </div>
+
+                                </div>
+                            </li>
+                            <li id="hatch"
+                                class='vfms-card-one-aditional vfes-carousel__list-element js-carousel-list-element  added2'>
+                                <div
+                                    class="vfms-adicionales vfes-card vfms-card-one--offer-color vfms-card-one vfes-color-bg-vodafone-white">
+                                    <svg class="vfms-configurator__icon vfms-configurator__icon--tick vfes-colours--vodafone-white"
+                                        xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+                                        width="25" height="25">
+                                        <title>Tick</title>
+                                        <use class="icon-v3" xlink:href="#icon3-tick-or-solved"></use>
+                                    </svg>
+
+                                    <div class="vfms-configurator__status"></div>
+                                    <div class="vfms-rates-img">
+                                        <img src="img/proto/hatch.png" alt="logo" />
+                                    </div>
+
+                                </div>
+                            </li>
+
+                        </ul>
+
+                    </div>
+
+
+                    {{!-- Carrusel2 --}}
+
+                    <div id="carrusel2-item" class="vfes-carousel  carrusel2" data-vfes-js="_carousel"
+                        data-config='{"responsive":{"0":{"breakpoint":0,"elements":1},"1":{"breakpoint":640,"elements":2}},"build":{"arrows":true,"bullets":true,"clickable_bullets":true}}'
+                        data-configurator-config='{"id":"tarifa-one","title":"Tarifa Vodafone One","svg":"icon-converged-proposition-mid","button":true}'>
+                        <ul class='vfes-carousel__list js-carousel-list'>
+
+                            <li id="securenet"
+                                class='vfms-card-one-aditional vfes-carousel__list-element js-carousel-list-element added2'>
+                                <div
+                                    class="vfms-adicionales vfes-card vfms-card-one--offer-color vfms-card-one vfes-color-bg-vodafone-white">
+                                    <svg class="vfms-configurator__icon vfms-configurator__icon--tick vfes-colours--vodafone-white"
+                                        xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+                                        width="25" height="25">
+                                        <title>Tick</title>
+                                        <use class="icon-v3" xlink:href="#icon3-tick-or-solved"></use>
+                                    </svg>
+
+                                    <div class="vfms-configurator__status"></div>
+                                    <div class="vfms-rates-img">
+                                        <img src="img/proto/securenet.png" alt="logo" />
+                                    </div>
+
+                                </div>
+                            </li>
+
+                            <li id="hatch"
+                                class='vfms-card-one-aditional vfes-carousel__list-element js-carousel-list-element  added2'>
+                                <div
+                                    class="vfms-adicionales vfes-card vfms-card-one--offer-color vfms-card-one vfes-color-bg-vodafone-white">
+                                    <svg class="vfms-configurator__icon vfms-configurator__icon--tick vfes-colours--vodafone-white"
+                                        xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+                                        width="25" height="25">
+                                        <title>Tick</title>
+                                        <use class="icon-v3" xlink:href="#icon3-tick-or-solved"></use>
+                                    </svg>
+
+                                    <div class="vfms-configurator__status"></div>
+                                    <div class="vfms-rates-img">
+                                        <img src="img/proto/hatch.png" alt="logo" />
+                                    </div>
+
+                                </div>
+                            </li>
+
+                        </ul>
+
+
+
+                    </div>
+
+
+                    {{!-- Carrusel3 --}}
+
+                    <div id="carrusel1-item" class="vfes-carousel  carrusel3" data-vfes-js="_carousel"
+                        data-config='{"responsive":{"0":{"breakpoint":0,"elements":1},"1":{"breakpoint":640,"elements":2}},"build":{"arrows":true,"bullets":true,"clickable_bullets":true}}'
+                        data-configurator-config='{"id":"tarifa-one","title":"Tarifa Vodafone One","svg":"icon-converged-proposition-mid","button":true}'>
+                        <ul class='vfes-carousel__list js-carousel-list'>
+
+                            <li id="securenet"
+                                class='vfms-card-one-aditional vfes-carousel__list-element js-carousel-list-element added2'>
+                                <div
+                                    class="vfms-adicionales vfes-card vfms-card-one--offer-color vfms-card-one vfes-color-bg-vodafone-white">
+                                    <svg class="vfms-configurator__icon vfms-configurator__icon--tick vfes-colours--vodafone-white"
+                                        xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+                                        width="25" height="25">
+                                        <title>Tick</title>
+                                        <use class="icon-v3" xlink:href="#icon3-tick-or-solved"></use>
+                                    </svg>
+
+                                    <div class="vfms-configurator__status"></div>
+                                    <div class="vfms-rates-img">
+                                        <img src="img/proto/securenet.png" alt="logo" />
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+
+                    {{!-- Carrusel4 --}}
+
+                    <div id="carrusel4-item" class="vfes-carousel  carrusel1" data-vfes-js="_carousel"
+                        data-config='{"responsive":{"0":{"breakpoint":0,"elements":1},"1":{"breakpoint":640,"elements":2}},"build":{"arrows":true,"bullets":true,"clickable_bullets":true}}'
+                        data-configurator-config='{"id":"tarifa-one","title":"Tarifa Vodafone One","svg":"icon-converged-proposition-mid","button":true}'>
+                        <ul class='vfes-carousel__list js-carousel-list'>
+
+                            <li id="securenet"
+                                class='vfms-card-one-aditional vfes-carousel__list-element js-carousel-list-element added2'>
+                                <div
+                                    class="vfms-adicionales vfes-card vfms-card-one--offer-color vfms-card-one vfes-color-bg-vodafone-white">
+                                    <svg class="vfms-configurator__icon vfms-configurator__icon--tick vfes-colours--vodafone-white"
+                                        xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+                                        width="25" height="25">
+                                        <title>Tick</title>
+                                        <use class="icon-v3" xlink:href="#icon3-tick-or-solved"></use>
+                                    </svg>
+
+                                    <div class="vfms-configurator__status"></div>
+                                    <div class="vfms-rates-img">
+                                        <img src="img/proto/securenet.png" alt="logo" />
+                                    </div>
+
+                                </div>
+                            </li>
+                            <li id="one-number"
+                                class='vfms-card-one-aditional vfes-carousel__list-element js-carousel-list-element  added2'>
+                                <div
+                                    class="vfms-adicionales vfes-card vfms-card-one--offer-color vfms-card-one vfes-color-bg-vodafone-white">
+                                    <svg class="vfms-configurator__icon vfms-configurator__icon--tick vfes-colours--vodafone-white"
+                                        xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+                                        width="25" height="25">
+                                        <title>Tick</title>
+                                        <use class="icon-v3" xlink:href="#icon3-tick-or-solved"></use>
+                                    </svg>
+
+                                    <div class="vfms-configurator__status"></div>
+                                    <div class="vfms-rates-img">
+                                        <img src="img/proto/one-number.png" alt="logo" />
+                                    </div>
+
+                                </div>
+                            </li>
+                        </ul>
+
+                    </div>
+
+                    {{!-- Accesorios --}}
+                    <h3 class="device__title">¿Quieres añadir algún accesorio?</h3>
+
+                    {{!-- Carrusel Accesorios --}}
+
+                    <div class="vfes-carousel  carrusel4" data-vfes-js="_carousel"
+                        data-config='{"responsive":{"0":{"breakpoint":0,"elements":1},"1":{"breakpoint":640,"elements":2}},"build":{"arrows":true,"bullets":true,"clickable_bullets":true}}'
+                        data-configurator-config='{"id":"tarifa-one","title":"Tarifa Vodafone One","svg":"icon-converged-proposition-mid","button":true}'>
+                        <ul class='vfes-carousel__list js-carousel-list'>
+
+                            <li id="gafas" class='vfes-carousel__list-element js-carousel-list-element'>
+
+                                <div
+                                    class="vfms-accesorio vfes-card vfms-card-one--offer-color vfms-card-one vfes-color-bg-vodafone-white">
+                                    <svg class="vfms-configurator__icon vfms-configurator__icon--tick vfes-colours--vodafone-white"
+                                        xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+                                        width="25" height="25">
+                                        <title>Tick</title>
+                                        <use class="icon-v3" xlink:href="#icon3-tick-or-solved"></use>
+                                    </svg>
+
+                                    <div class="vfms-configurator__status"></div>
+                                    <div class="vfms-rates-img">
+                                        <img src="img/proto/gafas.png" alt="logo" />
+                                    </div>
+
+                                    <button id="btn-gafas"
+                                        class="vfes-button vfes-button--secondary vfms-configurator__add js-configurator-add vfms-btn-add2"
+                                        title="Pulse para añadir al ticket" data-accesorio="gafas"
+                                        data-precio-accesorio="29,99">
+                                        Añadir
+                                    </button>
+                                    <button id="btn-gafas-eliminar"
+                                        class="vfes-button vfes-button--secondary  vfms-btn-add2 btn-eliminar"
+                                        title="Pulse para añadir al ticket" data-accesorio="gafas"
+                                        data-precio-accesorio="29,99">
+                                        Eliminar
+                                    </button>
+
+                                </div>
+                            </li>
+                            <li id="airpods" class='vfes-carousel__list-element js-carousel-list-element'>
+
+                                <div
+                                    class="vfms-accesorio vfes-card vfms-card-one--offer-color vfms-card-one vfes-color-bg-vodafone-white">
+                                    <svg class="vfms-configurator__icon vfms-configurator__icon--tick vfes-colours--vodafone-white"
+                                        xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+                                        width="25" height="25">
+                                        <title>Tick</title>
+                                        <use class="icon-v3" xlink:href="#icon3-tick-or-solved"></use>
+                                    </svg>
+
+                                    <div class="vfms-configurator__status"></div>
+                                    <div class="vfms-rates-img">
+                                        <img src="img/proto/airpods.png" alt="logo" />
+                                    </div>
+
+
+                                    <button id="btn-airpods"
+                                        class="vfes-button vfes-button--secondary vfms-configurator__add js-configurator-add vfms-btn-add2"
+                                        title="Pulse para añadir al ticket" data-accesorio="airpods"
+                                        data-precio-accesorio="39,99">
+                                        Añadir
+                                    </button>
+                                    <button id="btn-airpods-eliminar"
+                                        class="vfes-button vfes-button--secondary  vfms-btn-add2  btn-eliminar"
+                                        title="Pulse para añadir al ticket" data-accesorio="airpods"
+                                        data-precio-accesorio="39,99">
+                                        Eliminar
+                                    </button>
+
+                                </div>
+                            </li>
+
+                        </ul>
+
+                    </div>
+
+                    {{!-- Características --}}
+                    <div id="caracteristicas-container">
+                        <h3 class="carateristicas__title">¿Cómo es el Huawei P30 Pro Negro 256GB?</h3>
+                        <div id="caracteristicas" class="caracteristicas">
+                            <div class="caracteristicas__container">
+                                <img src="img/proto/caracteristicas-movil.png" alt="logo" />
+                            </div>
+                        </div>
+                    </div>
+
+
+                    {{!-- Enlaces --}}
+                    <section class="vfes-layout vfes-colours-bg-light-grey vfms-configurator"
+                        data-vfms-js="_configurator">
+                        <div class="vfes-layout__wrapper vfms-configurator__column">
+                            <div class="vfes-layout__item vfes-1/3">
+                                <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Oz8oaIeEhkyts6Uijxi4kyOVBj5sQFNDhIeaq8QDKwZUMzVaNFpLRTVJMU1IMllEOFpUMDg0MTFXVC4u"
+                                    target="_new"><img src="img/proto/icon-casa.png" alt="logo" /></a> 
+                            </div>
+                            <div class="vfes-layout__item vfes-1/3">
+                                <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Oz8oaIeEhkyts6Uijxi4kyOVBj5sQFNDhIeaq8QDKwZURDkxTVZHTzRHM0xPWjVMRVdHUk9HSjFKVC4u
+" target="_new"> <img src="img/proto/icon-candado.png" alt="logo" /></a>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+                <div class="vfms-ticket__wrapper vfes-layout__item vfes-1/3 vfes-1/1-palm" data-vfms-js="_ticket">
+                    {{!-- Ticket --}}
+                    <button class="vfms-ticket__overlay js-ticket-overlay hide"></button>
+                    <div class="vfes-alert vfes-alert--ok js-alert-ok hide" role="alert">
+                        <div class="vfes-alert-icon-box"><svg class="vfes-alert-icon icon"
+                                xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+                                width="24px" height="24px">
+                                <title>Tick</title>
+                                <use class="icon-v3" xlink:href="#icon3-tick-or-solved"></use>
+                            </svg></div>
+                        <div class="vfes-alert-body">
+                            <p class="vfes-paragraph js-alert-text"></p>
+                        </div>
+                    </div>
+                    <div class="vfes-alert vfes-alert--info js-alert-ko hide" role="alert">
+                        <div class="vfes-alert-icon-box"><svg class="vfes-colours--vodafone-white"
+                                xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+                                width="24px" height="24px">
+                                <title>Delete</title>
+                                <use class="icon-v3" xlink:href="#icon3-delete"></use>
+                            </svg></div>
+                        <div class="vfes-alert-body">
+                            <p class="vfes-paragraph js-alert-text"></p>
+                        </div>
+                    </div>
+                    <div class="vfms-ticket vfes-colours-bg-vodafone-white">
+                        <article class="vfes-card vfes-card__list js-configurator-ticket" data-vfms-js="_common"
+                            data-common-function="accordion">
+                            <button class="vfms-ticket__dropdown-button js-ticket-dropdown" data-vfes-js="_common"
+                                data-common-function="dropdown" aria-controls="ticket-dropdown"
+                                aria-expanded="true"><span class="vfes-paragraph js-common-dropdown-hide"><svg
+                                        class="icon vfes-icon__button" xmlns="http://www.w3.org/2000/svg"
+                                        xmlns:xlink="http://www.w3.org/1999/xlink" width="28px" height="28px">
+                                        <title>Tick</title>
+                                        <use class="icon-v3" xlink:href="#icon3-chevron-down"></use>
+                                    </svg></span><span class="vfes-paragraph js-common-dropdown-show"><svg
+                                        class="icon vfes-icon__button" xmlns="http://www.w3.org/2000/svg"
+                                        xmlns:xlink="http://www.w3.org/1999/xlink" width="28px" height="28px">
+                                        <title>Tick</title>
+                                        <use class="icon-v3" xlink:href="#icon3-chevron-up"></use>
+                                    </svg></span></button>
+                            <div id="ticket-dropdown" class="vfms-ticket__body js-ticket-body" aria-hidden="false">
+                                <div class="vfes-card__list-header">
+                                    <div class="vfes-card__list-paragraphs">
+                                        <p class="vfes-paragraph">Resumen de pedido</p>
+                                    </div>
+                                </div>
+                                <!--<div class="vfms-ticket__content js-ticket-content-box"></div>-->
+                                <div class="vfms-ticket__content js-ticket-content-box">
+
+                                    <!--Cuota mensual-->
+                                    <div class="vfes-card__list-container js-ticket-block" id="tarifa-one">
+
+                                        <div class="vfes-card__list-paragraphs">
+                                            <p class="vfes-paragraph"><span class="js-ticket-quantity"></span>Cuota
+                                                mensual</p>
+                                        </div>
+                                        <p class="vfes-paragraph vfes-card__list-price"><strong
+                                                class="js-ticket-total-price"><span
+                                                    id="ticket-precio-total">?</span>€/mes</strong></p>
+                                    </div>
+
+
+                                    <!--Telefono Movil-->
+
+                                    <div class="vfes-card__list-container js-ticket-block" id="tarifa-one">
+                                        <!--<svg class="icon" xmlns="http://www.w3.org/2000/svg"
+                                            xmlns:xlink="http://www.w3.org/1999/xlink" width="40px" height="40px">
+                                            <title>Mobile</title>
+                                            <use class="icon-v3" xlink:href="#icon-converged-proposition-mid"></use>
+                                        </svg>-->
+
+                                        <div class="ticket-icon-container">
+                                            <img class="ticket-icon" src="img/proto/tarifa-movil.png" width="18"
+                                                height="auto" alt="logo" />
+                                        </div>
+
+
+                                        <div class="vfes-card__list-paragraphs">
+                                            <p class="vfes-paragraph"><span class="js-ticket-quantity"></span> Teléfono
+                                                móvil</p>
+                                            <button id="apertura-telefono-movil" class="vfes-card__list-button"
+                                                data-common-accordion="button" aria-expanded="true"
+                                                aria-controls="accordion-tarifa-one" data-initialized="true">
+                                                <span id="mas-telefono-movil"
+                                                    class="vfes-paragraph js-common-accordion-show hide">Más info <svg
+                                                        class="icon vfes-icon__button"
+                                                        xmlns="http://www.w3.org/2000/svg"
+                                                        xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" º
+                                                        height="16px">
+                                                        <title>Tick</title>
+                                                        <use class="icon-v3" xlink:href="#icon3-chevron-down"></use>
+                                                    </svg></span>
+                                                <span id="menos-telefono-movil"
+                                                    class="vfes-paragraph js-common-accordion-hide">Menos info <svg
+                                                        class="icon vfes-icon__button"
+                                                        xmlns="http://www.w3.org/2000/svg"
+                                                        xmlns:xlink="http://www.w3.org/1999/xlink" width="16px"
+                                                        height="16px">
+                                                        <title>Tick</title>
+                                                        <use class="icon-v3" xlink:href="#icon3-chevron-up"></use>
+                                                    </svg></span></button>
+                                        </div>
+                                        <p class="vfes-paragraph vfes-card__list-price"><span id="ticket-precio-tlf"
+                                                class="">31,99</span>€/mes</p>
+                                    </div>
+                                    <div id="cont-telefono-movil"
+                                        class="vfes-card__list-content vfes-colours-bg-light-gray js-ticket-block-content"
+                                        aria-hidden="false">
+                                        <div class="vfms-ticket__element js-ticket-item" id="">
+                                            <div class="vfes-card__list-content-title vfes-m0 vfes-detalle">
+                                                <button class="js-ticket-close hide">
+                                                    <svg class="icon" xmlns="http://www.w3.org/2000/svg"
+                                                        xmlns:xlink="http://www.w3.org/1999/xlink" width="24px"
+                                                        height="24px">
+                                                        <title>Close</title>
+                                                        <use class="icon-v3" xlink:href="#icon3-close"></use>
+                                                    </svg>
+                                                </button>
+                                                <p class="vfes-paragraph vfes-flex-1 js-ticket-item-title">Huawei P30
+                                                    Pro Negro 256GB </br> x 36 meses</p>
+                                                <p
+                                                    class="vfes-paragraph vfes-card__list-span-price js-ticket-partial-price hide">
+                                                    31,99/mes</p>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+
+                                    <!--Tarifa Móvil-->
+                                    <div class="vfes-card__list-container js-ticket-block" id="tarifa-one">
+                                        <!--<svg class="icon" xmlns="http://www.w3.org/2000/svg"
+                                            xmlns:xlink="http://www.w3.org/1999/xlink" width="40px" height="40px">
+                                            <title>Mobile</title>
+                                            <use class="icon-v3" xlink:href="#icon-converged-proposition-mid"></use>
+                                        </svg>-->
+                                        <div class="ticket-icon-container">
+                                            <img class="ticket-icon" src="img/proto/sim.png" width="18" height="auto"
+                                                alt="logo" />
+                                        </div>
+                                        <div class="vfes-card__list-paragraphs">
+                                            <p class="vfes-paragraph"><span class="js-ticket-quantity"></span>Tarifa
+                                                móvil</p>
+                                            <button id="apertura-tarifa" class="vfes-card__list-button"
+                                                data-common-accordion="button" aria-expanded="true"
+                                                aria-controls="accordion-tarifa-one" data-initialized="true"><span
+                                                    id="mas-tarifa"
+                                                    class="vfes-paragraph js-common-accordion-show hide">Más info <svg
+                                                        class="icon vfes-icon__button"
+                                                        xmlns="http://www.w3.org/2000/svg"
+                                                        xmlns:xlink="http://www.w3.org/1999/xlink" width="16px"
+                                                        height="16px">
+                                                        <title>Tick</title>
+                                                        <use class="icon-v3" xlink:href="#icon3-chevron-down"></use>
+                                                    </svg></span><span id="menos-tarifa"
+                                                    class="vfes-paragraph js-common-accordion-hide">Menos info <svg
+                                                        class="icon vfes-icon__button"
+                                                        xmlns="http://www.w3.org/2000/svg"
+                                                        xmlns:xlink="http://www.w3.org/1999/xlink" width="16px"
+                                                        height="16px">
+                                                        <title>Tick</title>
+                                                        <use class="icon-v3" xlink:href="#icon3-chevron-up"></use>
+                                                    </svg></span></button>
+                                        </div>
+                                        <p class="vfes-paragraph vfes-card__list-price"><span
+                                                class="js-ticket-total-price" id="ticket-precio-tarifa">45</span>€/mes
+                                        </p>
+                                    </div>
+                                    <div id="cont-tarifa"
+                                        class="vfes-card__list-content vfes-colours-bg-light-gray js-ticket-block-content"
+                                        aria-hidden="false">
+                                        <div class="vfms-ticket__element js-ticket-item"
+                                            id="ticket-item-vodafone-one-ilimitada">
+                                            <div class="vfes-card__list-content-title vfes-m0">
+                                                <p class="vfes-paragraph vfes-flex-1 js-ticket-item-title"
+                                                    id="ticket-nombre-tarifa">Vodafone One
+                                                    Ilimitada</p>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+                                    <!--Accesorio-->
+                                    <div class="vfes-card__list-container js-ticket-block" id="tarifa-one">
+                                        <!--<svg class="icon" xmlns="http://www.w3.org/2000/svg"
+                                            xmlns:xlink="http://www.w3.org/1999/xlink" width="40px" height="40px">
+                                            <title>Mobile</title>
+                                            <use class="icon-v3" xlink:href="#icon-converged-proposition-mid"></use>
+                                        </svg>-->
+                                        <div class="ticket-icon-container">
+                                            <img class="ticket-icon" src="img/proto/accesory.png" width="25"
+                                                height="auto" alt="logo" />
+                                        </div>
+                                        <div class="vfes-card__list-paragraphs">
+                                            <p class="vfes-paragraph"><span class="js-ticket-quantity"></span> Accesorio
+                                            </p>
+                                            <button id="apertura-accesorio" class="vfes-card__list-button"
+                                                data-common-accordion="button" aria-expanded="true"
+                                                aria-controls="accordion-tarifa-one" data-initialized="true"><span
+                                                    id="mas-accesorio"
+                                                    class="vfes-paragraph js-common-accordion-show hide">Más info <svg
+                                                        class="icon vfes-icon__button"
+                                                        xmlns="http://www.w3.org/2000/svg"
+                                                        xmlns:xlink="http://www.w3.org/1999/xlink" width="16px"
+                                                        height="16px">
+                                                        <title>Tick</title>
+                                                        <use class="icon-v3" xlink:href="#icon3-chevron-down"></use>
+                                                    </svg></span><span id="menos-accesorio"
+                                                    class="vfes-paragraph js-common-accordion-hide">Menos info <svg
+                                                        class="icon vfes-icon__button"
+                                                        xmlns="http://www.w3.org/2000/svg"
+                                                        xmlns:xlink="http://www.w3.org/1999/xlink" width="16px"
+                                                        height="16px">
+                                                        <title>Tick</title>
+                                                        <use class="icon-v3" xlink:href="#icon3-chevron-up"></use>
+                                                    </svg></span></button>
+                                        </div>
+                                        <p class="vfes-paragraph vfes-card__list-price"><span
+                                                id="ticket-precio-accesorio">0</span>€/mes</p>
+                                    </div>
+                                    <div id="cont-accesorio"
+                                        class="vfes-card__list-content vfes-colours-bg-light-gray js-ticket-block-content"
+                                        aria-hidden="false">
+                                        <div class="vfms-ticket__element js-ticket-item" id="gafas-container">
+                                            <div class="vfes-card__list-content-title vfes-m0">
+                                                <button class="js-ticket-close hide">
+                                                    <svg class="icon" xmlns="http://www.w3.org/2000/svg"
+                                                        xmlns:xlink="http://www.w3.org/1999/xlink" width="24px"
+                                                        height="24px">
+                                                        <title>Close</title>
+                                                        <use class="icon-v3" xlink:href="#icon3-close"></use>
+                                                    </svg>
+                                                </button>
+                                                <p class="vfes-paragraph vfes-flex-1 js-ticket-item-title">Gafas VR</p>
+                                                <p
+                                                    class="vfes-paragraph vfes-card__list-span-price js-ticket-partial-price">
+                                                    29,99/mes</p>
+                                            </div>
+
+                                        </div>
+
+
+                                        <div class="vfms-ticket__element js-ticket-item" id="airpods-container">
+                                            <div class="vfes-card__list-content-title vfes-m0">
+                                                <button class="js-ticket-close hide">
+                                                    <svg class="icon" xmlns="http://www.w3.org/2000/svg"
+                                                        xmlns:xlink="http://www.w3.org/1999/xlink" width="24px"
+                                                        height="24px">
+                                                        <title>Close</title>
+                                                        <use class="icon-v3" xlink:href="#icon3-close"></use>
+                                                    </svg>
+                                                </button>
+                                                <p class="vfes-paragraph vfes-flex-1 js-ticket-item-title">Apple Airpods
+                                                    2</p>
+                                                <p
+                                                    class="vfes-paragraph vfes-card__list-span-price js-ticket-partial-price">
+                                                    39,99/mes</p>
+                                            </div>
+
+                                        </div>
+                                    </div>
+
+
+                                    <!--Servicio Adicional-->
+                                    <div class="vfes-card__list-container js-ticket-block" id="tarifa-one">
+                                        <!--<svg class="icon" xmlns="http://www.w3.org/2000/svg"
+                                            xmlns:xlink="http://www.w3.org/1999/xlink" width="40px" height="40px">
+                                            <title>Mobile</title>
+                                            <use class="icon-v3" xlink:href="#icon-converged-proposition-mid"></use>
+                                        </svg>-->
+                                        <div class="ticket-icon-container">
+                                            <img class="ticket-icon" src="img/proto/box.png" width="25" height="auto"
+                                                alt="logo" />
+                                        </div>
+                                        <div class="vfes-card__list-paragraphs">
+                                            <p class="vfes-paragraph"><span class="js-ticket-quantity"></span> Servicio
+                                                adicional</p>
+                                            <button id="apertura-adicional" class="vfes-card__list-button"
+                                                data-common-accordion="button" aria-expanded="true"
+                                                aria-controls="accordion-tarifa-one" data-initialized="true"><span
+                                                    id="mas-adicional"
+                                                    class="vfes-paragraph js-common-accordion-show hide">Más info <svg
+                                                        class="icon vfes-icon__button"
+                                                        xmlns="http://www.w3.org/2000/svg"
+                                                        xmlns:xlink="http://www.w3.org/1999/xlink" width="16px"
+                                                        height="16px">
+                                                        <title>Tick</title>
+                                                        <use class="icon-v3" xlink:href="#icon3-chevron-down"></use>
+                                                    </svg></span><span id="menos-adicional"
+                                                    class="vfes-paragraph js-common-accordion-hide">Menos info <svg
+                                                        class="icon vfes-icon__button"
+                                                        xmlns="http://www.w3.org/2000/svg"
+                                                        xmlns:xlink="http://www.w3.org/1999/xlink" width="16px"
+                                                        height="16px">
+                                                        <title>Tick</title>
+                                                        <use class="icon-v3" xlink:href="#icon3-chevron-up"></use>
+                                                    </svg></span></button>
+                                        </div>
+                                        <p class="vfes-paragraph vfes-card__list-price">Gratis</p>
+                                    </div>
+                                    <div id="cont-adicional"
+                                        class="vfes-card__list-content vfes-colours-bg-light-gray js-ticket-block-content"
+                                        aria-hidden="false">
+                                        <div class="vfms-ticket__element js-ticket-item" id="securenet-container">
+                                            <div class="vfes-card__list-content-title vfes-m0">
+                                                <button class="js-ticket-close hide">
+                                                    <svg class="icon" xmlns="http://www.w3.org/2000/svg"
+                                                        xmlns:xlink="http://www.w3.org/1999/xlink" width="24px"
+                                                        height="24px">
+                                                        <title>Close</title>
+                                                        <use class="icon-v3" xlink:href="#icon3-close"></use>
+                                                    </svg>
+                                                </button>
+                                                <p class="vfes-paragraph vfes-flex-1 js-ticket-item-title">Secure Net
+                                                </p>
+                                                <p
+                                                    class="vfes-paragraph vfes-card__list-span-price js-ticket-partial-price">
+                                                    Gratis</p>
+                                            </div>
+                                        </div>
+                                        <div class="vfms-ticket__element js-ticket-item" id="hatch-container">
+                                            <div class="vfes-card__list-content-title vfes-m0">
+                                                <button class="js-ticket-close hide">
+                                                    <svg class="icon" xmlns="http://www.w3.org/2000/svg"
+                                                        xmlns:xlink="http://www.w3.org/1999/xlink" width="24px"
+                                                        height="24px">
+                                                        <title>Close</title>
+                                                        <use class="icon-v3" xlink:href="#icon3-close"></use>
+                                                    </svg>
+                                                </button>
+                                                <p class="vfes-paragraph vfes-flex-1 js-ticket-item-title">Hatch Premium
+                                                </p>
+                                                <p
+                                                    class="vfes-paragraph vfes-card__list-span-price js-ticket-partial-price">
+                                                    Gratis</p>
+                                            </div>
+                                        </div>
+                                        <div class="vfms-ticket__element js-ticket-item" id="onenumber-container">
+                                            <div class="vfes-card__list-content-title vfes-m0">
+                                                <button class="js-ticket-close hide">
+                                                    <svg class="icon" xmlns="http://www.w3.org/2000/svg"
+                                                        xmlns:xlink="http://www.w3.org/1999/xlink" width="24px"
+                                                        height="24px">
+                                                        <title>Close</title>
+                                                        <use class="icon-v3" xlink:href="#icon3-close"></use>
+                                                    </svg>
+                                                </button>
+                                                <p class="vfes-paragraph vfes-flex-1 js-ticket-item-title">One Number
+                                                </p>
+                                                <p
+                                                    class="vfes-paragraph vfes-card__list-span-price js-ticket-partial-price">
+                                                    Gratis</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!--Pago Único-->
+                                    <div class="vfes-card__list-container js-ticket-block" id="tarifa-one">
+
+                                        <div class="vfes-card__list-paragraphs">
+                                            <p class="vfes-paragraph"><span class="js-ticket-quantity"></span>Pago único
+                                                inicial</p>
+                                        </div>
+                                        <p class="vfes-paragraph vfes-card__list-price">1,33€</p>
+                                    </div>
+
+                                    <!--Canon Digital-->
+
+                                    <div class="vfes-card__list-container js-ticket-block" id="tarifa-one">
+                                        <div id="info-capita" class="info-capita hide">
+                                            <div id="btn-capita-cerrar" class="capita-cerrar"></div>
+                                            <img src="img/proto/capita.png" alt="logo" />
+                                        </div>
+                                        <div class="canon-container">
+                                            <div class="ticket-icon-container">
+                                                <img class="ticket-icon" src="img/proto/money.png" width="20"
+                                                    height="auto" alt="logo" />
+                                            </div>
+                                            <div class="">
+                                                <p class="vfes-paragraph"><span class="js-ticket-quantity"></span>Canon
+                                                    digital</p>
+                                            </div>
+
+                                            <a id="btn-info"> <img class="btn-info-icon" src="img/proto/info-icon.png"
+                                                    width="15" height="auto" alt="logo" /></a>
+                                        </div>
+                                        <p class="vfes-paragraph vfes-card__list-price">1,33€/mes</p>
+                                    </div>
+
+                                    <!--Impuestos-->
+
+                                    <div class="vfes-card__list-container js-ticket-block" id="tarifa-one">
+                                        <div class="canon-container">
+                                            <div class="">
+                                                <p class="vfes-paragraph"><span class="js-ticket-quantity"></span>IVA
+                                                    incluido en todos los precios</p>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+                                    <div class="vfes-card__list-container js-ticket-block hide" id="counter">
+                                        <svg class="icon" xmlns="http://www.w3.org/2000/svg"
+                                            xmlns:xlink="http://www.w3.org/1999/xlink" width="40px" height="40px">
+                                            <title>Mobile</title>
+                                            <use class="icon-v3" xlink:href="#icon-sim-mid"></use>
+                                        </svg>
+                                        <div class="vfes-card__list-paragraphs">
+                                            <p class="vfes-paragraph"><span class="js-ticket-quantity">1</span> Líneas
+                                                móviles adicionales</p>
+                                            <button class="vfes-card__list-button" data-common-accordion="button"
+                                                aria-expanded="false" aria-controls="accordion-counter"
+                                                data-initialized="true"><span
+                                                    class="vfes-paragraph js-common-accordion-show">Más info <svg
+                                                        class="icon vfes-icon__button"
+                                                        xmlns="http://www.w3.org/2000/svg"
+                                                        xmlns:xlink="http://www.w3.org/1999/xlink" width="16px"
+                                                        height="16px">
+                                                        <title>Tick</title>
+                                                        <use class="icon-v3" xlink:href="#icon3-chevron-down"></use>
+                                                    </svg></span><span
+                                                    class="vfes-paragraph js-common-accordion-hide hide">Menos info <svg
+                                                        class="icon vfes-icon__button"
+                                                        xmlns="http://www.w3.org/2000/svg"
+                                                        xmlns:xlink="http://www.w3.org/1999/xlink" width="16px"
+                                                        height="16px">
+                                                        <title>Tick</title>
+                                                        <use class="icon-v3" xlink:href="#icon3-chevron-up"></use>
+                                                    </svg></span></button>
+                                        </div>
+                                        <p class="vfes-paragraph vfes-card__list-price"><strong
+                                                class="js-ticket-total-price"></strong></p>
+                                    </div>
+                                    <div id="accordion-counter"
+                                        class="vfes-card__list-content vfes-colours-bg-light-gray js-ticket-block-content hide"
+                                        aria-hidden="true"></div>
+
+
+                                </div>
+                            </div>
+                            <div class="vfes-card__list-footer">
+                                <p class="vfes-paragraph--large vfes-mb0 hide">Precio inicial: <span
+                                        class="vfes-title--5 vfes-title--bold js-ticket-initial-pay">€/mes</span></p>
+                                <p class="vfes-title--5">Cuota mensual: <span class="vfes-title--4"><strong
+                                            class="js-ticket-final-price"><span
+                                                id="ticket-precio-total2"></span>€/mes</strong></span></p>
+
+                                <a data-analytics-category="link" data-analytics-context="configurador particulares"
+                                    data-analytics-element="quiero esta tarifa"
+                                    href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?tti=7&tta=1&tcli=0&tcon=0&ec=0&tal=2&sap=11111&m=0&tar=168444492"
+                                    class="vfes-button vfes-button--primary js-ticket-link"
+                                    title="quiero esta tarifa">Lo quiero</a>
+                                <button class="vfes-button vfes-button--primary js-ticket-button"
+                                    data-analytics-category="cta" data-analytics-element="quiero esta tarifa"
+                                    data-analytics-context="configurador particulares"
+                                    onclick="window.parent.document.ws_popup.open3('Tu mejor tarifa Vodafone One', ' contratar online');">Quiero
+                                    esta tarifa</button>
+                            </div>
+                        </article>
+                    </div>
+                </div>
+
+                <div class="vfes-layout__item">
+                    <div class="vfes-align--left vfes-pt+">
+                        <a class="vfes-link vfes-link--red-chevron" target="_blank"
+                            href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/legales/"
+                            title="Condiciones legales">Ver condiciones legales</a>
+                    </div>
+                </div>
+            </div>
+    </section>
+
+    <div class="vfes-modal js-modal" data-vfms-js="_modal" aria-hidden="true">
+        <section id="modal-confirm" class="vfes-modal__item js-modal-item" aria-hidden="true" role="dialog">
+            <div class="vfes-modal__head">
+                <button class="vfes-modal__close js-modal-close" aria-hidden="false"><svg
+                        class="icon vfes-color--vodafone-gray" xmlns="http://www.w3.org/2000/svg"
+                        xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px">
+                        <title>Close</title>
+                        <use class="icon-v3" xlink:href="#icon3-close"></use>
+                    </svg></button>
+            </div>
+            <div class="vfes-modal__content vfes-align--center js-modal-content"></div>
+        </section>
+    </div>
+
+</div>
+
+<script src="js/ws2r.v11.js"></script>
+<script src="js/main.js"></script>

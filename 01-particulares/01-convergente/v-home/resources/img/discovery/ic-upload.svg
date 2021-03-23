@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="84" height="84" viewBox="0 0 84 84">
+    <defs>
+        <linearGradient id="53zzzdvina" x1="-20.794%" x2="73.001%" y1="24.658%" y2="121.535%">
+            <stop offset="0%"/>
+            <stop offset="100%" stop-opacity="0"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <g>
+                        <g>
+                            <path fill="#FFF" fill-rule="nonzero" d="M77 37.297c-.022-5.253-2.468-10.201-6.627-13.409-4.16-3.207-9.567-4.315-14.653-3.002-2.785-8.958-11.483-14.724-20.818-13.8-9.336.925-16.735 8.285-17.708 17.615-7.01 2.446-11.226 9.597-9.973 16.914 1.252 7.318 7.607 12.66 15.03 12.635h37.853c9.334-.046 16.882-7.618 16.896-16.953z" transform="translate(-108 -573) translate(20 478) translate(0 72) translate(65) translate(23 23)"/>
+                            <path fill="#000" fill-rule="nonzero" d="M60.104 53.375H22.25C13.99 53.392 7.221 46.816 7 38.557v.49c.006 4.039 1.616 7.91 4.476 10.76 2.86 2.852 6.737 4.45 10.775 4.443h37.853c9.334-.046 16.882-7.618 16.896-16.953v-.438c-.248 9.165-7.728 16.477-16.896 16.516z" opacity=".06" transform="translate(-108 -573) translate(20 478) translate(0 72) translate(65) translate(23 23)"/>
+                            <path d="M0 0H84V84H0z" transform="translate(-108 -573) translate(20 478) translate(0 72) translate(65) translate(23 23)"/>
+                            <path fill="url(#53zzzdvina)" fill-rule="nonzero" d="M42.875 31.557l.254 15.934.048 6.759h16.927c1.604-.01 3.2-.248 4.738-.704l-21.967-21.99z" opacity=".2" transform="translate(-108 -573) translate(20 478) translate(0 72) translate(65) translate(23 23)"/>
+                            <path stroke="#E60000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.5" d="M42 75.259L42 32.384M30.625 44.634L42 32.384 53.375 44.634" transform="translate(-108 -573) translate(20 478) translate(0 72) translate(65) translate(23 23)"/>
+                            <g opacity=".12" style="mix-blend-mode:multiply" fill="#000" fill-rule="nonzero">
+                                <path d="M13.125 40.25c-.966 0-1.75-.784-1.75-1.75v.875c0 .966.784 1.75 1.75 1.75s1.75-.784 1.75-1.75V38.5c0 .966-.784 1.75-1.75 1.75zM3.032 9.074c-.434.465-1.087.658-1.705.503C.71 9.423.225 8.945.061 8.33c-.188.771.166 1.572.863 1.952.697.38 1.562.243 2.108-.333L11.375.967V.092L3.032 9.074zM25.69 9.188c-.708.656-1.814.615-2.472-.092L14.875.092v.875l8.343 8.986c.546.576 1.411.713 2.108.333.697-.38 1.051-1.18.863-1.952-.081.327-.254.623-.499.854z" transform="translate(-108 -573) translate(20 478) translate(0 72) translate(65) translate(23 23) translate(28.875 35.875)"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

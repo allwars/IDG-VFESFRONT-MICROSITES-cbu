@@ -1,0 +1,15 @@
+// CSS del microsite
+.vfes-ms-content{
+
+    //Section hero
+    .slide__content{
+        display: flex;
+        justify-content: center;
+    }
+
+    // Section outstanding
+    .vfms-outstandings__container{
+        background-color:getColor("light-grey");
+    }
+
+}

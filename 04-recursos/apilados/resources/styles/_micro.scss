@@ -1,0 +1,61 @@
+// CSS del microsite
+.vfes-ms-content {
+
+  .sticky {
+    position: fixed;
+    top:0;
+    left:0;
+    width: 100%;
+    background-color: white;
+    color: #333333;
+    border: solid #333333 1px;
+    font-size: 30px;
+    padding: 16px;
+    z-index: 1000;
+  }
+  .access {
+    visibility: hidden;
+  }
+
+
+  /*.vfes-cardSticky{
+    position: relative;
+    top: 50px;
+    z-index: 1;
+  }*/
+
+  .vfms-icon-rate {
+    min-width: 40px;
+  }
+
+  .vfes-stack {
+    position: relative;
+    min-height: 50px;
+    .vfes-stack__content.hide {
+        display: none;
+      }
+
+
+    .vfes-stack__accordion-button {
+      border-right: 0.0625rem solid #E60000;
+      border-top: 0.0625rem solid #E60000;
+      cursor: pointer;
+      height: 0.75rem;
+      width: 0.75rem;
+      transform: rotate(-45deg);
+      -ms-transform: rotate(-45deg);
+      position: absolute;
+      top: 1rem;
+      right: 0.5rem;
+      transition: all .1s ease-in-out;
+
+      &.active{
+        transform: rotate(135deg);
+        -ms-transform: rotate(135deg);
+      }
+    }
+
+  }
+
+}
+

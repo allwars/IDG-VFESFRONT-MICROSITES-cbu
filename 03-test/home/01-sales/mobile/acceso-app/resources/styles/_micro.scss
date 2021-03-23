@@ -1,0 +1,32 @@
+// CSS del microsite
+.vfes-ms-content-app{
+    .vfms-title {
+        font-size: 32px;
+        color: #333;
+    }
+    .vfms-text {
+        font-size: 28px;
+        color: #666;
+    }
+    .vfes-button {
+        text-align: center;
+        border: 0;
+        cursor: pointer;
+        display: inline-block;
+        box-sizing: border-box;
+        border-radius: .375rem;
+        line-height: 1.25;
+        width: 100%;
+        margin-right: 0;
+        margin-left: 0;
+    }
+    .vfes-button--primary {
+        font-size: 1.25rem;
+        background-color: #e60000;
+        color: white;
+    }
+    .vfes-button--secondary-dark {
+        background-color: #afafaf;
+        color: #333;
+    }
+}

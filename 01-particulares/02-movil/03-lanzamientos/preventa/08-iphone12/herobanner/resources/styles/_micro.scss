@@ -1,0 +1,33 @@
+// CSS del microsite
+.vfes-ms-content-iphone12{
+    margin-top: -30px;
+    @media screen and (min-width: 640px) {
+        margin-top: 0;
+        height: 439px;
+    }
+    @media screen and (min-width: 970px) {
+        height: 448px;
+    }
+    .vfms-title {
+        font-size: 18px;
+        max-width: 300px;
+        @media screen and (min-width: 640px) {
+            font-size: 20px;
+            max-width: 200px;
+        }
+        @media screen and (min-width: 970px) {
+            font-size: 24px;
+            max-width: 250px;
+        }
+    }
+    .vfms-info{
+        &--container {
+            @media screen and (min-width: 640px) {
+                min-height: 281px;
+            }
+            @media screen and (min-width: 970px) {
+                min-height: 340px;
+            }
+        }
+    } 
+}

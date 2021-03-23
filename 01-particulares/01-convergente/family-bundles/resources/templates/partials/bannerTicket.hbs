@@ -1,0 +1,442 @@
+<!-- Sección Banner + Ticket flotante -->
+<section class="vf-banner" data-js="_banner">
+    <div class="ws10-o-wrapper">
+        <div class="vf-banner__container ws10-o-layout">
+            <div class="vf-banner__title ws10-o-layout__item ws10-u--2/4@tablet ws10-u--2/3@desktop">
+                <p class="ws10-u-heading--1-lt ws10-u-color--dark-grey">Ahora tu hogar <span>es <strong>ilimitable</strong></span></p>
+                <p class="ws10-u-heading--4-lt  ws10-u-color--dark-grey ws10-u--3/5@desktop">Tu hogar <strong>conectado</strong> para disfrutar de los mejores contenidos con la mayor <strong>seguridad</strong></p>
+            </div>
+            <div class="vf-rate-ticket ws10-o-layout__item ws10-u--2/4@tablet ws10-u--1/3@desktop">
+                <section class="vf-rate-ticket__floating ws10-x-card-rate ws10-u--p3x ws10-c-card" data-ws10-js="composition-card-rate">
+                    <h3 class="ws10-x-card-rate__title">
+                        ¿Cuántas líneas móviles necesitas?
+                    </h3>
+                    <form action="" class="ws10-x-card-rate__form">
+                        <!-- BUTTONS TABS DE TARIFAS FAMILIARES-->
+                        <div class="ws10-x-card-rate__tablist ws10-u--mb0">
+                            <div class="ws10-o-layout ws10-o-layout--smaller ws10-o-layout--vertical-flush ws10-u--mb2x" role="tablist">
+                                <!-- Hogar ilimitable 2.0-->
+                                <div class="ws10-u--1/3 ws10-o-layout__item" role="tab">
+                                    <div class="ws10-c-picker" aria-controls="rate-panel-1 rate-features-1 sticky-panel-1 sticky-backdrop-panel-1 sticky-features-1 nosurprises-1" data-analytics-element="modulo superior tarifa"
+                                            data-analytics-context="selector 2 lineas"
+                                            data-analytics-id="1500090787835-0007426465106"
+                                            data-analytics-category="cta"
+                                            data-js="buttonRate"
+                                            data-ws10-card-rate-ticket-tab>
+                                        <h4 class="ws10-u-heading--4-lt ws10-u--mb0">
+
+                                            <input type="radio" class="ws10-c-picker__input" id="rate-1" name="rate" value="1" data-vf-twin="rate-4" checked>
+                                            <label for="rate-1" class="ws10-c-picker__picker">
+                                                    <span class="ws10-c-picker__title">
+                                                        <span data-js="linesFamily">{{tarifasFamiliares.[0].lineas}}</span> líneas
+                                                    </span>
+                                                    <span class="ws10-c-picker__footnote"><span>{{tarifasFamiliares.[0].precio}}</span>€/mes</span>
+                                            </label>
+                                        </h4>
+
+                                    </div>
+                                </div>
+
+                                <!-- Hogar ilimitable 3.0-->
+                                <div class="ws10-u--1/3 ws10-o-layout__item" role="tab">
+                                    <div class="ws10-c-picker" aria-controls="rate-panel-2 rate-features-2 sticky-panel-2 sticky-backdrop-panel-2 sticky-features-2 nosurprises-2" data-js="buttonRate"
+                                            data-analytics-element="modulo superior tarifa"
+                                            data-analytics-context="selector 3 lineas"
+                                            data-analytics-id="1500090787835-0006722600968"
+                                            data-analytics-category="cta"
+                                            data-js="buttonRate"
+                                            data-ws10-card-rate-ticket-tab>
+                                        <h4 class="ws10-u-heading--4-lt ws10-u--mb0">
+                                            <input type="radio" class="ws10-c-picker__input" id="rate-2" name="rate" value="2" data-vf-twin="rate-5">
+                                            <label for="rate-2" class="ws10-c-picker__picker">
+                                                        <span class="ws10-c-picker__title">
+                                                            <span data-js="linesFamily">{{tarifasFamiliares.[1].lineas}}</span> líneas
+                                                        </span>
+                                                <span class="ws10-c-picker__footnote">
+                                                            <span>{{tarifasFamiliares.[1].precio}}</span>€/mes
+                                                        </span>
+                                            </label>
+                                        </h4>
+                                    </div>
+                                </div>
+                                <!-- Hogar ilimitable 4.0-->
+                                <div class="ws10-u--1/3 ws10-o-layout__item" role="tab">
+                                    <div class="ws10-c-picker" aria-controls="rate-panel-3 rate-features-3 sticky-panel-3 sticky-backdrop-panel-3 sticky-features-3 nosurprises-3" data-js="buttonRate"
+                                            data-analytics-element="modulo superior tarifa"
+                                            data-analytics-context="selector 4 lineas"
+                                            data-analytics-id="1500090787835-0008374384391"
+                                            data-analytics-category="cta"
+                                            data-js="buttonRate"
+                                            data-ws10-card-rate-ticket-tab>
+                                        <h4 class="ws10-u-heading--4-lt ws10-u--mb0">
+                                            <input type="radio" class="ws10-c-picker__input" id="rate-3" name="rate" value="3" data-vf-twin="rate-6">
+                                            <label for="rate-3" class="ws10-c-picker__picker">
+                                                        <span class="ws10-c-picker__title">
+                                                            <span data-js="linesFamily">{{tarifasFamiliares.[2].lineas}}</span> líneas
+                                                        </span>
+                                                <span class="ws10-c-picker__footnote">
+                                                        <span>{{tarifasFamiliares.[2].precio}}</span>€/mes
+                                                        </span>
+                                            </label>
+                                        </h4>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- PANELES TABS DE TARIFAS FAMILIARES-->
+                        <div class="vf-rate-ticket__info ws10-x-card-rate__w-panels" data-js="showSticky">
+                            <!-- Hogar ilimitable 2.0-->
+                            <div class="ws10-x-card-rate__rate-info-price ws10-o-tabs__panel ws10-u--mb4x" role="tabpanel" id="rate-panel-1">
+                                <p class="ws10-x-card-rate__rate-title ws10-u--mb2x">
+                                    {{tarifasFamiliares.[0].nombre}}
+                                </p>
+                                <div class="vf-rate-ticket__info-prices">
+                                    <p class="ws10-x-card-rate__rate">
+                                                    <span class="ws10-x-card-rate__rate-dto-percent">
+                                                        {{tarifasFamiliares.[0].descuento}}
+                                                    </span>
+                                        <span class="ws10-x-card-rate__rate-dto-label">{{tarifasFamiliares.[0].permanencia}}</span>
+                                        <del class="ws10-x-card-rate__rate-price ws10-c-price ws10-c-price--x-small ws10-c-price ws10-c-price--turquoise">
+                                            <span class="ws10-c-price__amount" >{{tarifasFamiliares.[0].precioAntes}}</span>
+                                            <span class="ws10-c-price__currency">€</span>
+                                            <sub class="ws10-c-price__recurrence">/mes</sub>
+                                        </del>
+                                        <span class="ws10-x-card-rate__rate-price ws10-c-price ws10-c-price--medium">
+                                                            <span class="ws10-c-price__amount">{{tarifasFamiliares.[0].precio}}</span>
+                                                            <span class="ws10-c-price__currency">€</span>
+                                                            <sub class="ws10-c-price__recurrence">/mes</sub>
+                                                     </span>
+                                    </p>
+                                    <div class="vf-rate-ticket__info-cta ws10-x-card-rate__rate-info-cta">
+                                        <a href="{{tarifasFamiliares.[0].url}}" type="submit" class="ws10-x-card-rate__cta ws10-c-button ws10-c-button--auto ws10-u--1/1"
+                                                data-analytics-element="modulo superior tarifa"
+                                                data-analytics-context="lo quiero"
+                                                data-analytics-id="1500090787835-0001054047192"
+                                                data-analytics-category="cta"
+                                                onmousedown="addtocart(utag_data.plans_add2cart[0])">
+                                            Lo quiero
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Hogar ilimitable 3.0-->
+                            <div class="ws10-x-card-rate__rate-info-price ws10-o-tabs__panel ws10-u--mb4x" role="tabpanel" hidden id="rate-panel-2">
+                                <p class="ws10-x-card-rate__rate-title ws10-u--mb2x">
+                                    {{tarifasFamiliares.[1].nombre}}
+                                </p>
+                                <div class="vf-rate-ticket__info-prices">
+                                    <p class="ws10-x-card-rate__rate">
+                                                    <span class="ws10-x-card-rate__rate-dto-percent">
+                                                        {{tarifasFamiliares.[1].descuento}}
+                                                    </span>
+                                        <span class="ws10-x-card-rate__rate-dto-label">{{tarifasFamiliares.[1].permanencia}}</span>
+                                        <del class="ws10-x-card-rate__rate-price ws10-c-price ws10-c-price--x-small ws10-c-price ws10-c-price--turquoise">
+                                            <span class="ws10-c-price__amount">{{tarifasFamiliares.[1].precioAntes}}</span>
+                                            <span class="ws10-c-price__currency">€</span>
+                                            <sub class="ws10-c-price__recurrence">/mes</sub>
+                                        </del>
+                                        <span class="ws10-x-card-rate__rate-price ws10-c-price ws10-c-price--medium">
+                                                        <span class="ws10-c-price__amount">{{tarifasFamiliares.[1].precio}}</span>
+                                                        <span class="ws10-c-price__currency">€</span>
+                                                        <sub class="ws10-c-price__recurrence">/mes</sub>
+                                                    </span>
+                                    </p>
+                                    <div class="vf-rate-ticket__info-cta  ws10-x-card-rate__rate-info-cta">
+                                        <a href="{{tarifasFamiliares.[1].url}}" type="submit" class="ws10-x-card-rate__cta ws10-c-button ws10-c-button--auto ws10-u--1/1"
+                                                data-analytics-element="modulo superior tarifa"
+                                                data-analytics-context="lo quiero"
+                                                data-analytics-id="1500090787835-0004840395856"
+                                                data-analytics-category="cta"
+                                                onmousedown="addtocart(utag_data.plans_add2cart[1])">
+                                            Lo quiero
+                                        </a>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <!-- Hogar ilimitable 4.0-->
+                            <div class="ws10-x-card-rate__rate-info-price ws10-o-tabs__panel ws10-u--mb4x" role="tabpanel" hidden id="rate-panel-3">
+                                <p class="ws10-x-card-rate__rate-title ws10-u--mb2x">
+                                    {{tarifasFamiliares.[2].nombre}}
+                                </p>
+                                <div class="vf-rate-ticket__info-prices">
+                                    <p class="ws10-x-card-rate__rate">
+                                                    <span class="ws10-x-card-rate__rate-dto-percent">
+                                                        {{tarifasFamiliares.[2].descuento}}
+                                                    </span>
+                                        <span class="ws10-x-card-rate__rate-dto-label">
+                                            {{tarifasFamiliares.[2].permanencia}}
+                                        </span>
+                                        <del class="ws10-x-card-rate__rate-price ws10-c-price ws10-c-price--x-small ws10-c-price ws10-c-price--turquoise">
+                                            <span class="ws10-c-price__amount">{{tarifasFamiliares.[2].precioAntes}}</span>
+                                            <span class="ws10-c-price__currency">€</span>
+                                            <sub class="ws10-c-price__recurrence">/mes</sub>
+                                        </del>
+                                        <span class="ws10-x-card-rate__rate-price ws10-c-price ws10-c-price--medium">
+                                                        <span class="ws10-c-price__amount">{{tarifasFamiliares.[2].precio}}</span>
+                                                        <span class="ws10-c-price__currency">€</span>
+                                                        <sub class="ws10-c-price__recurrence">/mes</sub>
+                                                    </span>
+                                    </p>
+                                    <div class="vf-rate-ticket__info-cta ws10-x-card-rate__rate-info-cta">
+                                        <a href="{{tarifasFamiliares.[2].url}}" type="submit" class="ws10-x-card-rate__cta ws10-c-button ws10-c-button--auto ws10-u--1/1" data-analytics-element="modulo superior tarifa"
+                                                data-analytics-element="modulo superior tarifa"
+                                                data-analytics-context="lo quiero"
+                                                data-analytics-id="1500090787835-0005284714345"
+                                                data-analytics-category="cta"
+                                                onmousedown="addtocart(utag_data.plans_add2cart[2])">
+                                            Lo quiero
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </form>
+
+                    <!-- FEATURES TABS DE TARIFAS FAMILIARES-->
+                    <div class="vf-rate-ticket__hidden">
+                        <div class="ws10-x-card-rate__w-rate-features">
+                            <!-- Hogar ilimitable 2.0-->
+                            <div id="rate-features-1" role="tabpanel" data-ws10-js="rate-features" class="ws10-o-tabs__panel">
+                                <div class="ws10-x-card-rate__rate-features ws10-c-rate-features ws10-u--pt2x ws10-u--pb2x ">
+                                    <p class="ws10-c-rate-features__title ws10-u--mb1x">
+                                        {{tarifasFamiliares.[0].features.[0].titulo}}
+                                    </p>
+                                    <div class="ws10-c-rate-features__collapse ws10-o-collapse__panel"
+                                            id="rate1-featured1-collapse"
+                                            hidden>
+                                        <ul class="ws10-x-card-rate__rate-features-list">
+                                            <li class="ws10-x-card-rate__rate-features-list-item">
+                                                {{tarifasFamiliares.[0].features.[0].conectividad1}}
+                                            </li>
+                                            <li class="ws10-x-card-rate__rate-features-list-item">
+                                                {{tarifasFamiliares.[0].features.[0].conectividad2}}
+                                            </li>
+                                            <li class="ws10-x-card-rate__rate-features-list-item">
+                                                {{tarifasFamiliares.[0].features.[0].conectividad3}}
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <a class="ws10-c-rate-features__collapse-btn"
+                                            href="#rate1-featured1-collapse"
+                                            data-ws10-collapse="card-rate-ticket-features" data-analytics-element="modulo superior tarifa" data-analytics-context="contectividad:mas detalles" data-analytics-id="1500090787835-0006069446667" data-analytics-category="cta">
+                                        Más detalles
+                                    </a>
+                                </div>
+                                <div class="ws10-x-card-rate__rate-features ws10-c-rate-features ws10-u--pt2x ws10-u--pb2x ">
+                                    <p class="ws10-c-rate-features__title ws10-u--mb1x">
+                                        {{tarifasFamiliares.[0].features.[1].titulo}}
+                                    </p>
+                                    <div class="ws10-c-rate-features__collapse ws10-o-collapse__panel"
+                                            id="rate1-featured2-collapse"
+                                            hidden>
+                                        <ul class="ws10-x-card-rate__rate-features-list">
+                                            <li class="ws10-x-card-rate__rate-features-list-item">
+                                                {{tarifasFamiliares.[0].features.[1].entretenimiento1}}
+                                            </li>
+                                            <li class="ws10-x-card-rate__rate-features-list-item">
+                                                {{tarifasFamiliares.[0].features.[1].entretenimiento2}}
+                                            </li>
+                                            <li class="ws10-x-card-rate__rate-features-list-item">
+                                                {{tarifasFamiliares.[0].features.[1].entretenimiento3}}
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <a class="ws10-c-rate-features__collapse-btn"
+                                            href="#rate1-featured2-collapse"
+                                            data-ws10-collapse="card-rate-ticket-features" data-analytics-element="modulo superior tarifa" data-analytics-context="contectividad:mas detalles" data-analytics-id="1500090787835-0004702761013" data-analytics-category="cta">
+                                        Más detalles
+                                    </a>
+                                </div>
+                                <div class="ws10-x-card-rate__rate-features ws10-c-rate-features ws10-u--pt2x ws10-u--pb2x ">
+                                    <p class="ws10-c-rate-features__title ws10-u--mb1x">
+                                        {{tarifasFamiliares.[0].features.[2].titulo}}
+                                    </p>
+                                    <div class="ws10-c-rate-features__collapse ws10-o-collapse__panel"
+                                            id="rate1-featured3-collapse"
+                                            hidden>
+                                        <ul class="ws10-x-card-rate__rate-features-list">
+                                            <li class="ws10-x-card-rate__rate-features-list-item">
+                                                {{tarifasFamiliares.[0].features.[2].hogarInteligente1}}
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <a class="ws10-c-rate-features__collapse-btn"
+                                            href="#rate1-featured3-collapse"
+                                            data-ws10-collapse="card-rate-ticket-features" data-analytics-element="modulo superior tarifa" data-analytics-context="contectividad:mas detalles" data-analytics-id="1500090787835-0003195054389" data-analytics-category="cta">
+                                        Más detalles
+                                    </a>
+                                </div>
+                            </div>
+                            <!-- Hogar ilimitable 3.0-->
+                            <div id="rate-features-2" role="tabpanel" data-ws10-js="rate-features" class="ws10-o-tabs__panel" hidden>
+                                <div class="ws10-x-card-rate__rate-features ws10-c-rate-features ws10-u--pt2x ws10-u--pb2x ">
+                                    <p class="ws10-c-rate-features__title ws10-u--mb1x">
+                                        {{tarifasFamiliares.[1].features.[0].titulo}}
+                                    </p>
+                                    <div class="ws10-c-rate-features__collapse ws10-o-collapse__panel"
+                                            id="rate2-featured1-collapse"
+                                            hidden>
+                                        <ul class="ws10-x-card-rate__rate-features-list">
+                                            <li class="ws10-x-card-rate__rate-features-list-item">
+                                                {{tarifasFamiliares.[1].features.[0].conectividad1}}
+                                            </li>
+                                            <li class="ws10-x-card-rate__rate-features-list-item">
+                                                {{tarifasFamiliares.[1].features.[0].conectividad2}}
+                                            </li>
+                                            <li class="ws10-x-card-rate__rate-features-list-item">
+                                                {{tarifasFamiliares.[1].features.[0].conectividad3}}
+                                            </li>
+                                            <li class="ws10-x-card-rate__rate-features-list-item">
+                                                {{tarifasFamiliares.[1].features.[0].conectividad4}}
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <a class="ws10-c-rate-features__collapse-btn"
+                                            href="#rate2-featured1-collapse"
+                                            data-ws10-collapse="card-rate-ticket-features" data-analytics-element="modulo superior tarifa" data-analytics-context="entretenimiento:mas detalles" data-analytics-id="1500090787835-0008020607888" data-analytics-category="cta">
+                                        Más detalles
+                                    </a>
+                                </div>
+                                <div class="ws10-x-card-rate__rate-features ws10-c-rate-features ws10-u--pt2x ws10-u--pb2x ">
+                                    <p class="ws10-c-rate-features__title ws10-u--mb1x">
+                                        {{tarifasFamiliares.[1].features.[1].titulo}}
+                                    </p>
+                                    <div class="ws10-c-rate-features__collapse ws10-o-collapse__panel"
+                                            id="rate2-featured2-collapse"
+                                            hidden>
+                                        <ul class="ws10-x-card-rate__rate-features-list">
+                                            <li class="ws10-x-card-rate__rate-features-list-item">
+                                                {{tarifasFamiliares.[1].features.[1].entretenimiento1}}
+                                            </li>
+                                            <li class="ws10-x-card-rate__rate-features-list-item">
+                                                {{tarifasFamiliares.[1].features.[1].entretenimiento2}}
+                                            </li>
+                                            <li class="ws10-x-card-rate__rate-features-list-item">
+                                                {{tarifasFamiliares.[1].features.[1].entretenimiento3}}
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <a class="ws10-c-rate-features__collapse-btn"
+                                            href="#rate2-featured2-collapse"
+                                            data-ws10-collapse="card-rate-ticket-features" data-analytics-element="modulo superior tarifa" data-analytics-context="entretenimiento:mas detalles" data-analytics-id="1500090787835-0008885444000" data-analytics-category="cta">
+                                        Más detalles
+                                    </a>
+                                </div>
+                                <div class="ws10-x-card-rate__rate-features ws10-c-rate-features ws10-u--pt2x ws10-u--pb2x ">
+                                    <p class="ws10-c-rate-features__title ws10-u--mb1x">
+                                        {{tarifasFamiliares.[1].features.[2].titulo}}
+                                    </p>
+                                    <div class="ws10-c-rate-features__collapse ws10-o-collapse__panel"
+                                            id="rate2-featured3-collapse"
+                                            hidden>
+                                        <ul class="ws10-x-card-rate__rate-features-list">
+                                            <li class="ws10-x-card-rate__rate-features-list-item">
+                                                {{tarifasFamiliares.[1].features.[2].hogarInteligente1}}
+                                            </li>
+                                            <li class="ws10-x-card-rate__rate-features-list-item">
+                                                {{tarifasFamiliares.[1].features.[2].hogarInteligente2}}
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <a class="ws10-c-rate-features__collapse-btn"
+                                            href="#rate2-featured3-collapse"
+                                            data-ws10-collapse="card-rate-ticket-features" data-analytics-element="modulo superior tarifa" data-analytics-context="entretenimiento:mas detalles" data-analytics-id="1500090787835-0004721904346" data-analytics-category="cta">
+                                        Más detalles
+                                    </a>
+                                </div>
+                            </div>
+                            <!-- Hogar ilimitable 4.0-->
+                            <div id="rate-features-3" role="tabpanel" data-ws10-js="rate-features" class="ws10-o-tabs__panel" hidden>
+                                <div class="ws10-x-card-rate__rate-features ws10-c-rate-features ws10-u--pt2x ws10-u--pb2x ">
+                                    <p class="ws10-c-rate-features__title ws10-u--mb1x">
+                                        {{tarifasFamiliares.[2].features.[0].titulo}}
+                                    </p>
+                                    <div class="ws10-c-rate-features__collapse ws10-o-collapse__panel"
+                                            id="rate3-featured1-collapse"
+                                            hidden>
+                                        <ul class="ws10-x-card-rate__rate-features-list">
+                                            <li class="ws10-x-card-rate__rate-features-list-item">
+                                                {{tarifasFamiliares.[2].features.[0].conectividad1}}
+                                            </li>
+                                            <li class="ws10-x-card-rate__rate-features-list-item">
+                                                {{tarifasFamiliares.[2].features.[0].conectividad2}}
+                                            </li>
+                                            <li class="ws10-x-card-rate__rate-features-list-item">
+                                                {{tarifasFamiliares.[2].features.[0].conectividad3}}
+                                            </li>
+                                            <li class="ws10-x-card-rate__rate-features-list-item">
+                                                {{tarifasFamiliares.[2].features.[0].conectividad4}}
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <a class="ws10-c-rate-features__collapse-btn"
+                                            href="#rate3-featured1-collapse"
+                                            data-ws10-collapse="card-rate-ticket-features" data-analytics-element="modulo superior tarifa" data-analytics-context="hogar inteligente:mas detalles" data-analytics-id="1500090787835-0005546845240" data-analytics-category="cta">
+                                        Más detalles
+                                    </a>
+                                </div>
+                                <div class="ws10-x-card-rate__rate-features ws10-c-rate-features ws10-u--pt2x ws10-u--pb2x ">
+                                    <p class="ws10-c-rate-features__title ws10-u--mb1x">
+                                        {{tarifasFamiliares.[2].features.[1].titulo}}
+                                    </p>
+                                    <div class="ws10-c-rate-features__collapse ws10-o-collapse__panel"
+                                            id="rate3-featured2-collapse"
+                                            hidden>
+                                        <ul class="ws10-x-card-rate__rate-features-list">
+                                            <li class="ws10-x-card-rate__rate-features-list-item">
+                                                {{tarifasFamiliares.[2].features.[1].entretenimiento1}}
+                                            </li>
+                                            <li class="ws10-x-card-rate__rate-features-list-item">
+                                                {{tarifasFamiliares.[2].features.[1].entretenimiento2}}
+                                            </li>
+                                            <li class="ws10-x-card-rate__rate-features-list-item">
+                                                {{tarifasFamiliares.[2].features.[1].entretenimiento3}}
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <a class="ws10-c-rate-features__collapse-btn"
+                                            href="#rate3-featured2-collapse"
+                                            data-ws10-collapse="card-rate-ticket-features" data-analytics-element="modulo superior tarifa" data-analytics-context="hogar inteligente:mas detalles" data-analytics-id="1500090787835-0003108243753" data-analytics-category="cta">
+                                        Más detalles
+                                    </a>
+                                </div>
+                                <div class="ws10-x-card-rate__rate-features ws10-c-rate-features ws10-u--pt2x ws10-u--pb2x ">
+                                    <p class="ws10-c-rate-features__title ws10-u--mb1x">
+                                        {{tarifasFamiliares.[2].features.[2].titulo}}
+                                    </p>
+                                    <div class="ws10-c-rate-features__collapse ws10-o-collapse__panel"
+                                            id="rate3-featured3-collapse"
+                                            hidden>
+                                        <ul class="ws10-x-card-rate__rate-features-list">
+                                            <li class="ws10-x-card-rate__rate-features-list-item">
+                                                {{tarifasFamiliares.[2].features.[2].hogarInteligente1}}
+                                            </li>
+                                            <li class="ws10-x-card-rate__rate-features-list-item">
+                                                {{tarifasFamiliares.[2].features.[2].hogarInteligente2}}
+                                            </li>
+                                            <li class="ws10-x-card-rate__rate-features-list-item">
+                                                {{tarifasFamiliares.[2].features.[2].hogarInteligente3}}
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <a class="ws10-c-rate-features__collapse-btn"
+                                            href="#rate3-featured3-collapse"
+                                            data-ws10-collapse="card-rate-ticket-features" data-analytics-element="modulo superior tarifa" data-analytics-context="hogar inteligente:mas detalles" data-analytics-id="1500090787835-0008232888739" data-analytics-category="cta">
+                                        Más detalles
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="ws10-x-card-rate__w-help-btn">
+                            <a href="#family-comparative" data-analytics-element="modulo superior tarifa" data-analytics-context="aun tengo dudas comparar tarifas" data-analytics-id="1500090787835-0008780932379" data-analytics-category="cta" class="ws10-x-card-rate__help-btn">
+                                Aún tengo dudas, quiero comparar las tarifas
+                            </a>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </div>
+</section>

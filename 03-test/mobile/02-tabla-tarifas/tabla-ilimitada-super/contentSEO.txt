@@ -1,0 +1,210 @@
+<div data-spritesheet="sprite.v3.svg"></div><p>
+                    Compara y elige la tarifa que más se adapte a ti</p><table>
+                    <thead data-header="header">
+                        <tr>
+                            <th>
+                                <div>
+                                    <svg>
+                                        <title>Datos móviles</title>
+                                        <use xlink:href="#icon-mobile-mid"></use>
+                                    </svg>
+                                </div>
+                                <p>Datos móviles</p>
+                            </th>
+                            <th>
+                                <div>
+                                    <svg>
+                                        <title>Llamadas</title>
+                                        <use xlink:href="#icon-landline-or-call-mid"></use>
+                                    </svg>
+                                </div>
+                                <p>Llamadas</p>
+                            </th>
+                            <th>
+                                <div>
+                                    <svg>
+                                        <title>5G</title>
+                                        <use xlink:href="#icon-5G_esp-mid"></use>
+                                    </svg>
+                                </div>
+                                <p>5G</p>
+                            </th>
+                            <th>
+                                <div>
+                                    <svg>
+                                        <title>Velocidad datos móvil</title>
+                                        <use xlink:href="#icon-dashboard-mid"></use>
+                                    </svg>
+                                </div>
+                                <p>Velocidad datos móvil</p>
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody data-carousel="container" style="transform: translateX(-1200px);">
+                        <tr>
+
+                            <!--Mini-->
+                            <td>
+                                <div>
+                                    <p><strong>T.Móvil Mini</strong></p>
+                                    <p> <span>19,99€</span> /mes</p>
+                                </div>
+                                <a href="https://www.vodafone.es/c/tienda-online/particulares/tarifas-moviles/tarifa-movil-1/" title="Más información Tarifa Móvil mini" target="_parent">Más
+                                    información</a>
+                                <a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?tti=7&amp;tta=2&amp;tcli=0&amp;tcon=0&amp;ec=0&amp;tal=2&amp;sap=11111&amp;m=0&amp;tar=168443580" title="Lo quiero Tarifa Móvil  Mini" target="_parent">Lo quiero</a>
+                            </td>
+
+                            <!--Extra-->
+                            <td>
+                                <div>
+                                    <p><strong>T.Móvil Extra</strong></p>
+                                    <p> <span>29,99€</span>/mes</p>
+                                </div>
+                                <a href="https://www.vodafone.es/c/tienda-online/particulares/tarifas-moviles/tarifa-movil-2/" title="Más información Tarifa Móvil mini" target="_parent">Más
+                                    información</a>
+                                <a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?tti=7&amp;tta=2&amp;tcli=0&amp;tcon=0&amp;ec=0&amp;tal=2&amp;sap=11111&amp;m=0&amp;tar=168443575" title="Lo quiero Tarifa Móvil Extra" target="_parent">Lo quiero</a>
+                            </td>
+                            <!--ilimitada (recomendada)-->
+                            <td data-carousel="slide">
+                                <div>
+                                    <p><strong>T.Móvil ilimitada</strong></p>
+                                    <p> <span>40,99€</span>/mes</p>
+
+                                </div>
+                                 <a href="https://www.vodafone.es/c/tienda-online/particulares/tarifas-moviles/tarifa-movil-3/" title="Más información Tarifa Móvil ilimitada" target="_parent">Más
+                                    información</a> 
+                                    
+                             
+                                <a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?tti=7&amp;tta=2&amp;tcli=0&amp;tcon=0&amp;ec=0&amp;tal=2&amp;sap=11111&amp;m=0&amp;tar=168443579" title="Lo quiero Tarifa Móvil ilimitada" target="_parent">Lo quiero</a>
+                            </td>
+                            <!--ilimitada super -->
+                            <td>
+                                <div>
+                                    <p><strong>T.Móvil ilimitada Súper</strong></p>
+                                    <p> <span>45,99€</span> /mes</p>
+
+                                </div>
+
+                                <p>Tarifa consultada</p>
+
+                                    <a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?tti=7&amp;tta=2&amp;tcli=0&amp;tcon=0&amp;ec=0&amp;tal=2&amp;sap=11111&amp;m=0&amp;tar=168443577" title="Lo quiero Tarifa Móvil ilimitada Súper" target="_parent">Lo quiero</a>
+                            </td>
+                            <!--ilimitada total-->
+                            <td>
+                                <div>
+                                    <p><strong>T.Móvil ilimitada Total</strong></p>
+                                    <p> <span>49,99€</span> /mes</p>
+                                </div>
+                                <a href="https://www.vodafone.es/c/tienda-online/particulares/tarifas-moviles/tarifa-movil-5/" title="Más información Tarifa Móvil ilimitada Total" target="_parent">Más
+                                    información</a>
+                                <a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?tti=7&amp;tta=2&amp;tcli=0&amp;tcon=0&amp;ec=0&amp;tal=2&amp;sap=11111&amp;m=0&amp;tar=168443578" title="Lo quiero Tarifa Móvil ilimitada Total" target="_parent">Lo quiero</a>
+                            </td>
+
+                        </tr>
+                        <tr>
+
+                            <!--Mini-->
+                            <td data-content="Datos móviles">
+                                <span>5GB</span>
+                            </td>
+                            <!--Extra -->
+                            <td data-content="Datos móviles">
+                                <span>10GB</span>
+                            </td>
+                            <!--ilimitada -->
+                            <td data-content="Datos móviles">
+                                <strong><span>GB ilimitados</span></strong>
+                            </td>
+                            <!--ilimitada super (recomendada)-->
+                            <td data-content="Datos móviles">
+                                <strong><span>GB ilimitados</span></strong>
+                            </td>
+                            <!--ilimitada total-->
+                            <td data-content="Datos móviles">
+                                <strong><span>GB ilimitados</span></strong>
+                            </td>
+                        </tr>
+
+                        <tr>
+
+                            <!--Mini-->
+                            <td data-content="Llamadas">
+                               200 minutos
+                            </td>
+                            <!--Extra-->
+                            <td data-content="Llamadas">
+                                <strong>ilimitadas</strong>
+                            </td>
+
+                            <!--ilimitada -->
+                            <td data-content="Llamadas">
+                                <strong>ilimitadas</strong>
+                            </td>
+
+                            <!--ilimitada super (recomendada)-->
+                            <td data-content="Llamadas">
+                                <strong>ilimitadas</strong>
+                            </td>
+
+                            <!--ilimitada total-->
+                            <td data-content="Llamadas">
+                                <strong>ilimitadas</strong>
+                            </td>
+
+
+                        </tr>
+                        <tr>
+                            <!--Mini-->
+                            <td data-content="5G">
+                                <div>
+                                </div>
+                            </td>
+
+                            <!--Extra-->
+                            <td data-content="5G">
+                                <div>
+                                </div>
+                            </td>
+
+                            <!--ilimitada -->
+                            <td data-content="5G">
+                                <div>
+                                </div>
+                            </td>
+                            <!--ilimitada super (recomendada)-->
+                            <td data-content="5G">
+                                <div>
+                                </div>
+                            </td>
+                            <!--ilimitada total-->
+                            <td data-content="5G">
+                                <div>
+                                </div>
+                            </td>
+
+
+                        </tr>
+                        <tr>
+                            <!--Mini-->
+                            <td data-content="Velocidad datos móvil">
+                                <strong>Máxima <span>velocidad</span></strong>
+                            </td>
+                            <!--Extra-->
+                            <td data-content="Velocidad datos móvil">
+                                <strong>Máxima <span>velocidad</span></strong>
+                            </td>
+                            <!--ilimitada -->
+                            <td data-content="Velocidad datos móvil">
+                                <p><strong>2</strong>Mbps</p>
+                            </td>
+                            <!--ilimitada super (recomendada)-->
+                            <td data-content="Velocidad datos móvil">
+                                <p><strong>10</strong>Mbps</p>
+                            </td>
+                            <!--ilimitada total-->
+                            <td data-content="Velocidad datos móvil">
+                                <strong>Máxima <span>velocidad</span></strong>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table><button></button><button></button>

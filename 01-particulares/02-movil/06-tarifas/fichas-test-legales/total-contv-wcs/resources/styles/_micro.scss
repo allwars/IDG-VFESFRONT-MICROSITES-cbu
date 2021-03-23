@@ -1,0 +1,268 @@
+// CSS del microsite
+.vfes-ms-content {
+  .vfms-legal {
+    overflow-y: scroll;
+    padding:20px;
+  }
+  .vfms-blue{
+    color: #007C92;
+  }
+  .vfes-text--strikethrough-blue {
+    position: relative;
+}
+  .vfes-text--strikethrough-blue:after {
+    content: "";
+    height: .0625rem;
+    width: 100%;
+    background-color: #007C92;
+    position: absolute;
+    right: 0;
+    top: .5625rem;
+}
+
+  .vfms-typeclient{
+    text-decoration: underline;
+    &.active{
+      font-family: "VodafoneRegularBold", Arial, sans-serif;
+      text-decoration: none;
+    }
+  }
+
+  // GENERAL
+
+  .vfes-carousel__bullets {
+    text-align: left;
+  }
+  .vfes-carousel--active{
+    padding-bottom: 30px;
+  }
+  .vfes-carousel__arrow {
+    height: 32px;
+    width: 32px;
+  }
+  .vfes-carousel__arrow:after {
+    width: 14px;
+    height: 14px;
+  }
+  .vfms-ticket{
+    z-index: 10;
+  }
+  .vfms-circle-icon {
+    width: 64px;
+    // height: 64px;
+    border-radius: 50%;
+    background: #fff;
+    position: relative;
+    display: flex;
+    padding: 10px;
+    margin-right: 10px;
+  }
+
+  // BANNER AND CARD RATE
+  .vfms-banner {
+    background-image: url("../img/bg-banner-mv.jpg");
+    position: relative;
+    display: block;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    &__title {
+      max-width: 250px;
+    }
+  }
+  .link--hide {
+    display: none;
+  }
+
+  // ILIMITATED GB
+  .vfms-all {
+    display: flex;
+    align-items: center;
+    .vfms-all-docarative-bg {
+      overflow: hidden;
+      min-height: 290px;
+      position: relative;
+      display: flex;
+      align-items: center;
+      box-sizing: border-box;
+
+      &:before {
+        content:"";
+        position:absolute;
+        z-index:-1;
+        max-height: 280px;
+        top:20px;
+        left:0;
+        right:-100%;
+        bottom:0;
+        animation: slide 20s linear infinite;
+        background-size: cover;
+        background: url("../img/imagen-apps.png") 0 100%, #f4f4f4;
+      }
+
+      @-webkit-keyframes slide {
+        100% {
+          transform: translateX(-50%);
+        }
+      }
+
+
+
+      img {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        margin: auto;
+      }
+    }
+  }
+   // TV
+   .vfms-tv {
+    .vfms-tv-title {
+      background-color: #9C2AA0;
+    }
+    .vfms-icon__size {
+      min-width: 44px;
+      height: 44px;
+    }
+  }
+  .icon-tv {
+    min-width: 44px;
+  }
+
+  // ALSO
+  .vfms-also-height {
+    min-height: 280px;
+  }
+  .vfms-also-width {
+    max-width: 368px;
+  }
+
+  // BUTTON STICKY
+  .vfms-sticky-down{
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    z-index: 4;
+    transition: 0.3s;
+    visibility: visible;
+    opacity: 1;
+  }
+
+  .vfms-hide{
+    visibility: hidden;
+    opacity: 0;
+    transition: visibility 0s, opacity 0.5s linear;
+  }
+
+  //ORDER ELEMNTS DOM
+
+  .vfms-content{
+    order: 3;
+    z-index: 3;
+  }
+  .vfms-ticket{
+    order: 2;
+    z-index: 2;
+  }
+  .vfms-banner{
+    order: 1;
+    z-index: 1;
+  }
+
+  .vfms-steps{
+    .vfms-paragraph--small{
+      font-size: 16px;
+    }
+    &__timeline {
+      @media screen and (min-width: 970px) {
+        justify-content: flex-start;
+        li {
+          width: 25%;
+        }
+      }
+    }
+  } 
+  @media screen and (min-width: 640px) {
+    .vfms-banner {
+      background-size: cover;
+      background-image: url("../img/bg-banner-tb.jpg");
+      background-attachment: initial;
+      &__title {
+        max-width: none;
+      }
+      &__text {
+        min-width: 390px;
+      }
+    }
+    .vfms-also-height {
+      min-height: 300px;
+    }
+  }
+  @media screen and (min-width: 970px) {
+
+    //GENERAL
+    .vfms-ticket{
+      &-content{
+        max-width: 23.75rem;
+        width: 100%;
+        float: right;
+      }
+    }
+
+    .vfms-sticky-down{
+      opacity: 0;
+    }
+
+    // BANNER AND CARD RATE
+    .vfms-banner {
+      background-image: url("../img/bg-banner-desktop.jpg");
+      background-size: cover;
+      background-position: center;
+      min-height: 465px;
+      .fixed {
+        position: fixed;
+        width: 100%!important;
+        max-width: 75rem;
+        left: 50%;
+        -webkit-transform: translateX(-50%);
+        transform: translateX(-50%);
+        top: 4rem;
+        padding-top: 20px;
+      }
+
+      .vfms-hide-desktop{
+        display: none;
+      }
+
+    }
+
+  }
+  // ONLY FOR HORIZONTAL TABLET
+  @media only screen and (max-width: 1200px) and (min-width: 970px) {
+    &.vfms-one{
+      .vfes-2\/3{
+        width: 59.66667%!important;
+      }
+      .vfes-1\/3{
+        width: 40%!important;
+      }
+    }
+    .vfms-also-height {
+      min-height: 350px;
+    }
+  }
+
+  // ONLY FOR BUTTONS OF SMALL MOBILES
+
+  @media only screen and (max-width: 360px) and (min-width: 300px){
+    .vfes-button{
+      padding: 10px 15px;
+      font-size: 16px;
+    }
+  }
+
+}
+

@@ -1,0 +1,544 @@
+{
+  "oferta0": [
+    {
+      "listado": [
+        {
+          "banner": [
+            {
+              "titulo": "hola",
+              "imagen": "/microsites/img/bodegon-desktop.png"
+            }
+
+          ],
+          "ilimitada": [{
+            "datos":[{
+             "titulo": "Datos y minutos ilimitados",
+              "subtitulo": "Velocidad media"
+          }],
+            "lineaAdicional": [{
+              "titulo": null,
+              "subtitulo": null
+            }],
+            "fibra": [{
+              "titulo": "300Mbps Fibra",
+              "subtitulo": "+ llamadas ilimitadas en fijo"
+            }],
+            "tv": [{
+              "titulo": null,
+              "subtitulo": null
+            }],
+            "extra": [{
+              "titulo": null,
+              "subtitulo": null
+            }],
+            "descuento": "25% dto. 1 año",
+            "permanencia": "Permanencia 1 año",
+            "precioAntes": "54,99",
+            "precioaAhora": "39,99",
+            "cta": [{
+              "href": ""
+            }]
+
+          }],
+          "maxi": [{
+            "datos":[{
+             "titulo": "Datos y minutos ilimitados",
+              "subtitulo": "Velocidad media"
+          }],
+            "lineaAdicional": [{
+              "titulo": "Datos y minutos ilimitados",
+              "subtitulo": "línea con -10€/mes dto. durante 1 año"
+            }],
+            "fibra": [{
+              "titulo": "600Mbps Fibra",
+              "subtitulo": "+ llamadas ilimitadas en fijo"
+            }],
+            "tv": [{
+              "titulo": null,
+              "subtitulo": null
+            }],
+            "extra": [{
+              "titulo": null,
+              "subtitulo": null
+            }],
+            "descuento": "40% dto. 1 año",
+            "permanencia": "Permanencia 1 año",
+            "precioAntes": "81,49",
+            "precioaAhora": "46,99",
+            "cta": [{
+              "href": ""
+            }]
+
+          }],
+          "total600mbps": [{
+            "datos":[{
+             "titulo": "Datos y minutos ilimitados",
+              "subtitulo": "Velocidad media"
+          }],
+            "lineaAdicional": [{
+              "titulo": "Datos y minutos ilimitados",
+              "subtitulo": "línea con -10€/mes dto. durante 1 año"
+            }],
+            "fibra": [{
+              "titulo": "600Mbps Fibra",
+              "subtitulo": "+ llamadas ilimitadas en fijo"
+            }],
+            "tv": [{
+              "titulo": "Pack TV Serielovers en GRATIS 1 año",
+              "subtitulo": "con HBO España, Amazon Prime y más"
+            }],
+            "extra": [{
+              "titulo": null,
+              "subtitulo": null
+            }],
+            "descuento": "45% dto. 1 año",
+            "permanencia": "Permanencia 1 año",
+            "precioAntes": "95,49",
+            "precioaAhora": "51,49",
+            "cta": [{
+              "href": ""
+            }]
+          }],
+          "total1gb": [{
+            "datos":[{
+             "titulo": null,
+              "subtitulo": null
+          }],
+            "lineaAdicional": [{
+              "titulo": null,
+              "subtitulo": null
+            }],
+            "fibra": [{
+              "titulo": null,
+              "subtitulo": null
+            }],
+            "tv": [{
+              "titulo": null,
+              "subtitulo": null
+            }],
+            "extra": [{
+              "titulo": null,
+              "subtitulo": null
+            }],
+            "descuento": null,
+            "permanencia": null,
+            "precioAntes": null,
+            "precioaAhora": null,
+            "cta": [{
+              "href": null
+            }]
+          }]
+        }
+      ],
+      "ilimitada": [{
+        "banner": [
+          {
+            "tituloSuperior": "25% dto año",
+            "titulo": "Fibra y datos para ser ilimitable"
+          }
+
+        ],
+        "ticket": [{
+          "datos":[{
+            "titulo": "Datos y minutos ilimitados",
+            "subtitulo": "Velocidad media"
+          }],
+          "lineaAdicional": [{
+            "titulo": null,
+            "subtitulo": null
+          }],
+          "fibra": [{
+            "titulo": "300Mbps Fibra",
+            "subtitulo": "+ llamadas ilimitadas en fijo"
+          }],
+          "tv": [{
+            "titulo": null,
+            "subtitulo": null
+          }],
+          "extra": [{
+            "titulo": null,
+            "subtitulo": null
+          }],
+          "descuento": "25% dto. 1 año",
+          "permanencia": "Permanencia 1 año",
+          "precioAntes": "54,99",
+          "precioaAhora": "39,99",
+          "cta": [{
+            "href": ""
+          }]
+
+        }],
+        "movil": [ {
+          "titulo": "Datos  ilimitados para que no te pierdas nada"
+          }],
+        "lineaAdicional": [{
+          "titulo": null
+        }],
+        "tv": [{
+          "titulo": null
+        }],
+        "fibra": [{
+          "titulo": null,
+          "item": "300mbps de fibra óptica simétrica para tu hogar, podrás conectar más de 15 dispositivos a la vez"
+        }],
+        "tambienIncluido": [{
+          "titulo": "También incluido en Vodafone One Ilimitada"
+        }],
+        "sinSorpresas": [{
+          "permanencia": "Permanencia 1 año",
+          "pagar": "Paquete Móvil + Fibra: 39,99€/mes durante 1 año, después 54,99€/mes"
+        }],
+        "steps": [{
+          "titulo": "Vodafone One ilimitada"
+        }],
+        "sticky": [{
+          "precioAntes": "54,99",
+          "precioaAhora": "39,99",
+          "cta": [{
+            "href": ""
+          }]
+        }]
+      }],
+      "maxi": [{
+        "banner": [
+          {
+            "tituloSuperior": "25% dto año",
+            "titulo": "Fibra y datos para ser ilimitable"
+          }
+
+        ],
+        "ticket": [{
+          "datos":[{
+            "titulo": "Datos y minutos ilimitados",
+            "subtitulo": "Velocidad media"
+          }],
+          "lineaAdicional": [{
+            "titulo": null,
+            "subtitulo": null
+          }],
+          "fibra": [{
+            "titulo": "300Mbps Fibra",
+            "subtitulo": "+ llamadas ilimitadas en fijo"
+          }],
+          "tv": [{
+            "titulo": null,
+            "subtitulo": null
+          }],
+          "extra": [{
+            "titulo": null,
+            "subtitulo": null
+          }],
+          "descuento": "25% dto. 1 año",
+          "permanencia": "Permanencia 1 año",
+          "precioAntes": "54,99",
+          "precioaAhora": "39,99",
+          "cta": [{
+            "href": ""
+          }]
+
+        }],
+        "movil": [ {
+          "titulo": "Datos  ilimitados para que no te pierdas nada"
+        }],
+        "lineaAdicional": [{
+          "titulo": null
+        }],
+        "tv": [{
+          "titulo": null
+        }],
+        "fibra": [{
+          "titulo": null,
+          "item": "300mbps de fibra óptica simétrica para tu hogar, podrás conectar más de 15 dispositivos a la vez"
+        }],
+        "tambienIncluido": [{
+          "titulo": "También incluido en Vodafone One Ilimitada"
+        }],
+        "sinSorpresas": [{
+          "permanencia": "Permanencia 1 año",
+          "pagar": "Paquete Móvil + Fibra: 39,99€/mes durante 1 año, después 54,99€/mes"
+        }],
+        "steps": [{
+          "titulo": "Vodafone One ilimitada"
+        }],
+        "sticky": [{
+          "precioAntes": "54,99",
+          "precioaAhora": "39,99",
+          "cta": [{
+            "href": ""
+          }]
+        }]
+      }]
+    }
+  ],
+  "oferta0": [
+    {
+      "listado": [
+        {
+          "banner": [
+            {
+              "titulo": "hola",
+              "imagen": "/microsites/img/bodegon-desktop.png"
+            }
+
+          ],
+          "ilimitada": [{
+            "datos":[{
+             "titulo": "Datos y minutos ilimitados",
+              "subtitulo": "Velocidad media"
+          }],
+            "lineaAdicional": [{
+              "titulo": null,
+              "subtitulo": null
+            }],
+            "fibra": [{
+              "titulo": "300Mbps Fibra",
+              "subtitulo": "+ llamadas ilimitadas en fijo"
+            }],
+            "tv": [{
+              "titulo": null,
+              "subtitulo": null
+            }],
+            "extra": [{
+              "titulo": null,
+              "subtitulo": null
+            }],
+            "descuento": "25% dto. 1 año",
+            "permanencia": "Permanencia 1 año",
+            "precioAntes": "54,99",
+            "precioaAhora": "39,99",
+            "cta": [{
+              "href": ""
+            }]
+
+          }],
+          "maxi": [{
+            "datos":[{
+             "titulo": "Datos y minutos ilimitados",
+              "subtitulo": "Velocidad media"
+          }],
+            "lineaAdicional": [{
+              "titulo": "Datos y minutos ilimitados",
+              "subtitulo": "línea con -10€/mes dto. durante 1 año"
+            }],
+            "fibra": [{
+              "titulo": "600Mbps Fibra",
+              "subtitulo": "+ llamadas ilimitadas en fijo"
+            }],
+            "tv": [{
+              "titulo": null,
+              "subtitulo": null
+            }],
+            "extra": [{
+              "titulo": null,
+              "subtitulo": null
+            }],
+            "descuento": "40% dto. 1 año",
+            "permanencia": "Permanencia 1 año",
+            "precioAntes": "81,49",
+            "precioaAhora": "46,99",
+            "cta": [{
+              "href": ""
+            }]
+
+          }],
+          "total600mbps": [{
+            "datos":[{
+             "titulo": "Datos y minutos ilimitados",
+              "subtitulo": "Velocidad media"
+          }],
+            "lineaAdicional": [{
+              "titulo": "Datos y minutos ilimitados",
+              "subtitulo": "línea con -10€/mes dto. durante 1 año"
+            }],
+            "fibra": [{
+              "titulo": "600Mbps Fibra",
+              "subtitulo": "+ llamadas ilimitadas en fijo"
+            }],
+            "tv": [{
+              "titulo": "Pack TV Serielovers en GRATIS 1 año",
+              "subtitulo": "con HBO España, Amazon Prime y más"
+            }],
+            "extra": [{
+              "titulo": null,
+              "subtitulo": null
+            }],
+            "descuento": "45% dto. 1 año",
+            "permanencia": "Permanencia 1 año",
+            "precioAntes": "95,49",
+            "precioaAhora": "51,49",
+            "cta": [{
+              "href": ""
+            }]
+          }],
+          "total1gb": [{
+            "datos":[{
+             "titulo": null,
+              "subtitulo": null
+          }],
+            "lineaAdicional": [{
+              "titulo": null,
+              "subtitulo": null
+            }],
+            "fibra": [{
+              "titulo": null,
+              "subtitulo": null
+            }],
+            "tv": [{
+              "titulo": null,
+              "subtitulo": null
+            }],
+            "extra": [{
+              "titulo": null,
+              "subtitulo": null
+            }],
+            "descuento": null,
+            "permanencia": null,
+            "precioAntes": null,
+            "precioaAhora": null,
+            "cta": [{
+              "href": null
+            }]
+          }]
+        }
+      ],
+      "ilimitada": [{
+        "banner": [
+          {
+            "tituloSuperior": "25% dto año",
+            "titulo": "Fibra y datos para ser ilimitable"
+          }
+
+        ],
+        "ticket": [{
+          "datos":[{
+            "titulo": "Datos y minutos ilimitados",
+            "subtitulo": "Velocidad media"
+          }],
+          "lineaAdicional": [{
+            "titulo": null,
+            "subtitulo": null
+          }],
+          "fibra": [{
+            "titulo": "300Mbps Fibra",
+            "subtitulo": "+ llamadas ilimitadas en fijo"
+          }],
+          "tv": [{
+            "titulo": null,
+            "subtitulo": null
+          }],
+          "extra": [{
+            "titulo": null,
+            "subtitulo": null
+          }],
+          "descuento": "25% dto. 1 año",
+          "permanencia": "Permanencia 1 año",
+          "precioAntes": "54,99",
+          "precioaAhora": "39,99",
+          "cta": [{
+            "href": ""
+          }]
+
+        }],
+        "movil": [ {
+          "titulo": "Datos  ilimitados para que no te pierdas nada"
+          }],
+        "lineaAdicional": [{
+          "titulo": null
+        }],
+        "tv": [{
+          "titulo": null
+        }],
+        "fibra": [{
+          "titulo": null,
+          "item": "300mbps de fibra óptica simétrica para tu hogar, podrás conectar más de 15 dispositivos a la vez"
+        }],
+        "tambienIncluido": [{
+          "titulo": "También incluido en Vodafone One Ilimitada"
+        }],
+        "sinSorpresas": [{
+          "permanencia": "Permanencia 1 año",
+          "pagar": "Paquete Móvil + Fibra: 39,99€/mes durante 1 año, después 54,99€/mes"
+        }],
+        "steps": [{
+          "titulo": "Vodafone One ilimitada"
+        }],
+        "sticky": [{
+          "precioAntes": "54,99",
+          "precioaAhora": "39,99",
+          "cta": [{
+            "href": ""
+          }]
+        }]
+      }],
+      "maxi": [{
+        "banner": [
+          {
+            "tituloSuperior": "25% dto año",
+            "titulo": "Fibra y datos para ser ilimitable"
+          }
+
+        ],
+        "ticket": [{
+          "datos":[{
+            "titulo": "Datos y minutos ilimitados",
+            "subtitulo": "Velocidad media"
+          }],
+          "lineaAdicional": [{
+            "titulo": null,
+            "subtitulo": null
+          }],
+          "fibra": [{
+            "titulo": "300Mbps Fibra",
+            "subtitulo": "+ llamadas ilimitadas en fijo"
+          }],
+          "tv": [{
+            "titulo": null,
+            "subtitulo": null
+          }],
+          "extra": [{
+            "titulo": null,
+            "subtitulo": null
+          }],
+          "descuento": "25% dto. 1 año",
+          "permanencia": "Permanencia 1 año",
+          "precioAntes": "54,99",
+          "precioaAhora": "39,99",
+          "cta": [{
+            "href": ""
+          }]
+
+        }],
+        "movil": [ {
+          "titulo": "Datos  ilimitados para que no te pierdas nada"
+        }],
+        "lineaAdicional": [{
+          "titulo": null
+        }],
+        "tv": [{
+          "titulo": null
+        }],
+        "fibra": [{
+          "titulo": null,
+          "item": "300mbps de fibra óptica simétrica para tu hogar, podrás conectar más de 15 dispositivos a la vez"
+        }],
+        "tambienIncluido": [{
+          "titulo": "También incluido en Vodafone One Ilimitada"
+        }],
+        "sinSorpresas": [{
+          "permanencia": "Permanencia 1 año",
+          "pagar": "Paquete Móvil + Fibra: 39,99€/mes durante 1 año, después 54,99€/mes"
+        }],
+        "steps": [{
+          "titulo": "Vodafone One ilimitada"
+        }],
+        "sticky": [{
+          "precioAntes": "54,99",
+          "precioaAhora": "39,99",
+          "cta": [{
+            "href": ""
+          }]
+        }]
+      }]
+    }
+  ]
+}

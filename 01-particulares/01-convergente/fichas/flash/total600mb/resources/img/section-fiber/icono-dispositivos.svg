@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
+    <g fill="none" fill-rule="evenodd" transform="translate(-10 -10)">
+        <circle cx="32" cy="32" r="32" fill="#FFF"/>
+        <g>
+            <path fill="#D8D8D8" fill-opacity="0" d="M0 0H44V44H0z" transform="translate(10 10)"/>
+            <path d="M0 0H44V44H0z" transform="translate(10 10)"/>
+            <path stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width=".917" d="M10.035 32.409l.459 4.707c.05.53.394.916.802.916h3.944c.408 0 .751-.396.802-.916l.458-4.707" transform="translate(10 10)"/>
+            <path stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width=".917" d="M11.142 21.594h4.24c1.875 0 3.396 1.52 3.396 3.397v4.14c0 1.876-1.52 3.397-3.396 3.397h-4.24c-1.876 0-3.396-1.52-3.396-3.396V24.99c0-1.876 1.52-3.397 3.396-3.397z" transform="translate(10 10)"/>
+            <path stroke="#E60000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".928" d="M13.264 24.796L13.264 27.958 16.014 27.958" transform="translate(10 10)"/>
+            <path stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width=".917" d="M10.051 21.594l.459-4.64c.05-.52.391-.917.797-.917h3.923c.406 0 .747.392.798.917l.458 4.64M26.198 13.292h7.194c1.56 0 2.823 1.264 2.823 2.823V35.23c0 1.56-1.264 2.823-2.823 2.823h-7.194c-1.559 0-2.823-1.264-2.823-2.823V16.115c0-1.56 1.264-2.823 2.823-2.823h0z" transform="translate(10 10)"/>
+            <path stroke="#E60000" stroke-linecap="round" stroke-width=".928" d="M27.844 34.393L31.74 34.393" transform="translate(10 10)"/>
+            <path stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width=".917" d="M10.198 34.393h-3.25c-.749 0-1.467-.296-1.997-.826s-.827-1.248-.826-1.997V12.448c0-.749.297-1.467.826-1.997.53-.53 1.248-.827 1.997-.826h30.104c.749 0 1.467.297 1.997.826.53.53.827 1.248.826 1.997V31.57c0 .749-.297 1.467-.826 1.997-.53.53-1.248.827-1.997.826h-.844M23.375 34.375L16.385 34.375" transform="translate(10 10)"/>
+        </g>
+    </g>
+</svg>

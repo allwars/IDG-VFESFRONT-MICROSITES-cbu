@@ -1,0 +1,134 @@
+// CSS del microsite
+.vfes-ms-content{
+    .vfms-banner{
+        background-image: url('https://www.vodafone.es/c/statics/imagen/Fondo_lineas_adicionales_mobile.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 500px;
+
+        &-content{
+            padding: 40px 20px 20px 20px;
+
+            .vfms-text{
+
+                &-block{
+                    display: block;
+                    font-size: 22px;
+                }
+
+                &__size {
+                    font-size: 24px;
+                }
+                &-itemblock{
+                    font-size: 36px;
+                }
+
+                &__width {
+                    max-width: 270px;
+                    margin: 0 auto;
+                }
+
+                .vfes-title{
+                    margin-bottom: 20px;
+                }
+            }
+
+            .vfms-button{
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                
+                .vfes-button{
+                    margin-bottom: 10px;
+                }
+            }
+        }
+
+    }
+    
+
+    @media screen and (min-width: 640px) {
+        .vfms-banner{
+            background-image: url('https://www.vodafone.es/c/statics/imagen/Fondo_lineas_adicionales_tablet.jpg');
+            
+            &-content{
+                .vfms-button{
+                    flex-direction: row;
+                    justify-content: center;
+                    
+                    .vfms-button__size {
+                        width: 313px;
+                    }
+
+                    .vfes-button{
+                        margin-right: 10px;
+                    }
+                }
+                .vfms-text{
+
+                    &-block{
+                        display: block;
+                        font-size: 46px;
+                    }
+    
+                    &__size {
+                        font-size: 34px;
+                    }
+
+                    &-itemblock{
+                        font-size: 40px;
+                    }
+
+                    &__width {
+                        max-width: 580px;
+                        margin: 0 auto;
+                    }
+                }
+                .vfms-main__text {
+                    font-size: 28px;
+                    font-family: "VodafoneLight";
+                    font-weight: 400;
+                    max-width: 580px;
+                    margin: 0 auto;
+                }
+            }
+            
+        }
+        
+    }
+
+    @media screen and (min-width: 1024px) {
+        .vfms-banner{
+            background-image: url('https://www.vodafone.es/c/statics/imagen/Fondo_lineas_adicionales_desktop.jpg');
+            
+            &-content{
+                padding: 20px 0;
+                .vfms-text{
+
+                    &-block{
+                        display: block;
+                        font-size: 35px;
+                    }
+
+                    &-margin {
+                        margin-bottom: 0;
+                    }
+    
+                    &__size {
+                        font-size: 34px;
+                    }
+                    &__width {
+                        max-width: none;
+                    }
+                }
+                .vfms-main__text {
+                    font-size: 28px;
+                    max-width: none;
+                    margin-bottom: 0;
+                }
+            }
+        
+        }
+
+    }
+}

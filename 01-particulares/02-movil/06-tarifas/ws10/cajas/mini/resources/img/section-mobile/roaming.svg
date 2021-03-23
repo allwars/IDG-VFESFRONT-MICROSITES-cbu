@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="28px" viewBox="0 0 40 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>Icons+Indicators / Mid-Render Icons / roaming</title>
+    <desc>Created with Sketch.</desc>
+    <g id="✅-Fichas-detalle---TV---Pop-Up-///-junio-2019" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons+Indicators-/-Mid-Render-Icons-/-roaming" transform="translate(-4.000000, -10.000000)">
+            <g id="roaming-mid">
+                <path d="M8.215,23.75 C10.6075,26.6175 14.15,27.7025 17.6775,26.4725 L38.8625,18.9225 C40.9247771,18.2036907 42.4926432,16.5036062 43.0425,14.39 L43.0425,14.39 C41.2956072,13.080009 39.0104908,12.7274428 36.95,13.45 L28.61,16.405" id="Path" stroke="#676767" stroke-linecap="round" stroke-linejoin="round"></path>
+                <line x1="21.5075" y1="18.92" x2="13.1075" y2="21.895" id="Path" stroke="#676767" stroke-linecap="round" stroke-linejoin="round"></line>
+                <path d="M23.025,20.46 L14.6,11.9 L16.9475,11.0825 C17.5841332,10.8622186 18.2827238,10.9081904 18.885,11.21 L30.975,17.6725" id="Path" stroke="#676767" stroke-linecap="round" stroke-linejoin="round"></path>
+                <line x1="7" y1="37.5" x2="41" y2="37.5" id="Path" stroke="#676767" stroke-linecap="round" stroke-linejoin="round"></line>
+                <rect id="Rectangle" x="0" y="0" width="48" height="48"></rect>
+                <path d="M13.1075,21.895 L8.1075,19.215 C7.59424944,18.9668188 7.00344126,18.9326473 6.465,19.12 L4.965,19.7525 L8.215,23.7525 L13.1075,21.895 Z" id="Path" stroke="#E60000" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

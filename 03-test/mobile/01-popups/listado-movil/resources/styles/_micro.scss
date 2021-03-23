@@ -1,0 +1,560 @@
+// CSS del microsite
+#pop-up-listado-movil {
+    background: rgba(0,0,0,.5);
+    width: 100%;
+    height: 100vh;
+    z-index: 10000;
+    position: fixed;
+    top: 0;
+}
+.mouse-active .vfms-check:focus{
+    position: absolute;
+}
+.vfes-ms-content{
+
+    .vfes-form__checkbox:active{position:absolute}
+
+    .mouse-active  input.vfes-form__checkbox{position:absolute}
+
+    .vfes-pop-up__container{
+        max-width: 560px;
+        width:100%;
+        height:auto;
+        margin: 0 auto; 
+        border-radius: 6px; 
+        border: solid 1px #999999; 
+        margin: 0 auto;
+
+    }
+    .vfms-call {
+        margin-top: 0;
+    }
+
+    .vfms-form-container{
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        z-index: 40;
+        border-radius: 6px; 
+        max-width: 100%;
+        margin:0 auto;
+        background-color: #ffffff;
+        @media only screen and (max-width: 640px) {
+            width: 100%;  
+
+        }
+    }
+
+    .vfms-thankyou-container{
+
+        display:none;
+        max-width: 250px;
+        margin:0 auto;
+        min-height:486px;
+        background-color: #5f5f5e;
+        @media only screen and (max-width: 640px) {
+            max-width: 90%!important;  
+
+        }
+    }
+
+    
+
+.vfes-modal__close {
+    float: right;
+    margin-right:5px;
+}
+
+.vfms-thankyou-text{
+    padding-top:150px;
+    font-size: 24px;
+}
+
+.vfms-close-thankyou{
+
+    float:right;
+
+}
+
+.vfes-form__checkbox+.vfes-form__label, .vfes-form__radio+.vfes-form__label{
+
+    display:block;
+    font-size: 16px;
+}
+.vfes-form__box {
+    
+    margin-bottom: 10px;
+  
+}
+.vfes-mb-{
+
+    margin-bottom: 20px;
+}
+
+
+
+
+
+// Popup ringpool
+
+
+#ringpool {
+    background: #333333;
+    padding-bottom: 30px;
+}
+.vfms-title-form{
+    padding: 20px;
+    margin-top:20px;
+    font-size:24px;
+    color:#e02020;
+
+}
+
+.vfes-modal__head-form {
+
+    padding: 10px 0px;
+    background-color: #ffffff;
+    border-radius: 6px;
+}
+
+.vfes-box--form {
+    max-width: 370px;
+    width:90%;
+    margin: 0 auto;
+    position: relative;
+    display: block;
+    padding-bottom: 15px;
+}
+
+
+.vfes-box--form__name {
+    font-size: 20px;
+    border-radius: 6px;
+    color: #333;
+    font-family: 'VodafoneLight', arial, sans-serif;
+    font-weight: 100;
+    background-color: #ffffff;
+    border: solid 1px #999999; 
+    padding: 0.8em;
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+    display: block;
+    margin: 10px 0px;
+}
+
+.vfes-box--form__tlf {
+    font-size: 20px;
+    border-radius: 6px;
+    color: #333;
+    font-family: 'VodafoneLight', arial, sans-serif;
+    font-weight: 100;
+    background-color: #ffffff;
+    border: solid 1px #999999; 
+    padding: 0.8em;
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+    display: block;
+    margin: 10px 0px;
+}
+
+.vfes-box--form .vfes-button {
+    width: 100%;
+}
+
+.vfes-box--call {
+    color: #ffffff;
+ 
+ 
+    font-family: 'VodafoneLight';
+    font-size: 20px;
+   
+
+    &__number {
+        font-family: 'VodafoneRegular';
+      
+        text-decoration: none;
+        font-size: 20px;
+    }
+
+    &__number:hover{
+        text-decoration: none;
+    }
+
+
+}
+
+
+.cta-box__checkbox {
+    font-size: 16px;
+    text-align: left;
+    margin-left: 10%;
+    margin-bottom: 0.3em;
+}
+
+.cta-box__checkbox {
+    color: #ffffff;
+}
+
+.cta-box__checkbox label {
+    color: #ffffff;
+    font-family: 'VodafoneLight', arial, sans-serif;
+    font-weight: 100;
+    padding-top: 0.15em;
+    display: inline-block;
+    max-width: 90%;
+    text-align: left;
+    vertical-align: middle;
+}
+
+.cta-box__checkbox a {
+    color: #ffffff;
+}
+
+.cta-box__checkbox input {
+    color: #ffffff;
+    font-family: 'VodafoneLight', arial, sans-serif;
+    font-weight: 100;
+    padding-top:0;
+    position: absolute;
+    left: 3%;
+    display: inline;
+    max-width: 90%;
+    text-align: left;
+    vertical-align: middle;
+    line-height: 0px!important;
+}
+.vfes-box--form__tlf:focus {
+    border: .0625rem solid #999;
+}
+.vfes-cta-box__span {
+    display: block;
+}
+
+#ringpool .vfes-title--4::before {
+    content: '';
+    width: 30px;
+    height: 30px;
+    position: relative;
+    display: inline-block;
+    background-image: url(../img/telefono-icon.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-right: 0.5em;
+    vertical-align: middle;
+}
+
+.vfes-mb{
+    padding-bottom: 0px;
+    color: #ffffff;
+}
+
+.button-privacy{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.button-privacy:hover,
+.button-privacy:active{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/*styles error form walmeric*/
+
+
+.wg-form .error-msg {
+    color: orange !important;
+    // margin-bottom: 10px;
+    margin-top: 0px;
+    padding-left: 10px;
+    // margin-left: -1.3px;
+}
+
+}
+
+
+
+
+/*
+.vfes-title--2 {
+    font-size: 36px;
+    line-height: 40px;
+    margin-bottom: 10px;
+    margin-top:30px;
+}
+
+.vfms-separator{
+   
+    padding-left:20px;
+}
+
+
+
+// Buttons client or not client
+
+.vfes-client-notclient__center {
+    position: relative;
+    margin: 0 auto;
+    display: block;
+    width: 285px;
+}
+
+.vfes-client-notclient__center .vfes-button {
+    width: 50%;
+    padding: 10px 0 0 0;
+    color: #333333;
+}
+
+.vfes-cliente-notclient {
+    padding: 10px 0px 0px 0px;
+    margin: 0;
+}
+
+.vfes-tabs__container{
+    margin-top: 30px;
+}
+
+// Cards mobiles-catalogue
+
+.vfes-tabs__content {
+    background: #ffffff;
+}
+
+.vfes-tabs:not([class*='tabs--'])>.vfes-tabs__content,
+.vfes-tabs--dropdown>.vfes-tabs__content {
+    padding-top: 70px;
+}
+
+.vfes-tabs-mobiles {
+    padding: 0;
+    margin: 0;
+}
+
+.vfes-layout__item {
+    padding-bottom: 70px;
+}
+
+.vfes-card__mobile--shop {
+
+    &__left {
+        width: 35%;
+        @media only screen and (max-width: 400px) {
+            width: 33%;
+            margin-right: 7%;
+        }
+        
+    }
+
+    &__right {
+        width: 65%;
+    }
+
+    &__title {
+        font-family: "VodafoneLight", Arial, sans-serif;
+        font-weight: 100;
+        text-align: left;
+        font-size: 26px;
+        line-height: normal;
+        margin: inherit;
+        max-width: 220px;
+        min-height: 60px;
+
+    }
+
+    &__description {
+        text-align: left;
+        padding: 25px 0px;
+    }
+
+    &__item {
+        display: block;
+        padding: 0;
+        margin: inherit;
+    }
+
+    &__price {
+        font-family: "VodafoneRegularBold", Arial, sans-serif;
+        font-size: 26px;
+        font-weight: 200;
+        display: block;
+        padding: 5px 0px;
+    }
+
+    &__cash {
+        text-align: left;
+    }
+
+    &__pricecash {
+        font-size: 20px;
+    }
+
+    &__button {
+        width: 100%;
+
+        .vfes-button {
+            width: 90%;
+            margin-top: 15px;
+
+            @media only screen and (max-width: 640px) {
+                width: 100%;
+            }
+        }
+    }
+}
+
+
+// Popup ringpool
+
+#ringpool {
+    background: #333333;
+    padding-bottom: 30px;
+}
+
+.vfes-modal__item {
+    width: 90%;
+    border-radius: 6px;
+    padding-bottom: 50px;
+    max-width: 400px;
+    box-sizing: border-box;
+    padding: 15px;
+}
+
+.vfes-modal__head {
+    background: #333333;
+    padding: 10px 0px;
+}
+
+.vfes-box--form {
+    width: 95%;
+    margin: 0 auto;
+    position: relative;
+    display: block;
+    padding-bottom: 30px;
+}
+
+.vfes-box--form__tlf {
+    font-size: 14px;
+    border-radius: 6px;
+    color: #333;
+    font-family: 'VodafoneLight', arial, sans-serif;
+    font-weight: 100;
+    background-color: #ffffff;
+    border: 1px solid #ffffff;
+    padding: 0.8em;
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+    display: block;
+    margin: 10px 0px;
+}
+
+.vfes-box--form .vfes-button {
+    width: 100%;
+}
+
+.vfes-box--call {
+    color: #ffffff;
+    width: 100%;
+    text-align: center;
+    font-family: 'VodafoneLight';
+    font-size: 16px;
+    line-height: 1.2;
+
+    &__number {
+        font-family: 'VodafoneRegular';
+        display: block;
+        text-decoration: none;
+        font-size: 30px;
+    }
+
+    &__number:hover{
+        text-decoration: none;
+    }
+
+
+}
+
+
+.cta-box__checkbox {
+    font-size: 16px;
+    text-align: left;
+    margin-left: 10%;
+    margin-bottom: 0.3em;
+}
+
+.cta-box__checkbox {
+    color: #ffffff;
+}
+
+.cta-box__checkbox label {
+    color: #ffffff;
+    font-family: 'VodafoneLight', arial, sans-serif;
+    font-weight: 100;
+    padding-top: 0.15em;
+    display: inline-block;
+    max-width: 90%;
+    text-align: left;
+    vertical-align: middle;
+}
+
+.cta-box__checkbox a {
+    color: #ffffff;
+}
+
+.cta-box__checkbox input {
+    color: #ffffff;
+    font-family: 'VodafoneLight', arial, sans-serif;
+    font-weight: 100;
+    padding-top: 0.15em;
+    position: absolute;
+    left: 3%;
+    display: inline;
+    max-width: 90%;
+    text-align: left;
+    vertical-align: middle;
+}
+
+.vfes-cta-box__span {
+    display: block;
+}
+
+#ringpool .vfes-title--4::before {
+    content: '';
+    width: 30px;
+    height: 30px;
+    position: relative;
+    display: inline-block;
+    background-image: url(../img/telefono-icon.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-right: 0.5em;
+    vertical-align: middle;
+}
+
+.vfes-mb{
+    padding-bottom: 0px;
+    color: #ffffff;
+}
+
+.button-privacy{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.button-privacy:hover,
+.button-privacy:active{
+    color: #ffffff;
+    text-decoration: none;
+}*/
+
+/*styles error form walmeric*/
+/*.wg-form .error-msg {
+    color: orange !important;
+    margin-bottom: 10px;
+    margin-top: 0px;
+    padding-left: 10px;
+    margin-left: -1.3px;
+}*/

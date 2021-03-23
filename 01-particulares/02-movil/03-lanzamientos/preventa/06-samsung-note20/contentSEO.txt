@@ -1,0 +1,1103 @@
+<main>
+			<section>
+				<div> 
+					<h3>Samsung Galaxy Note20 | Note20 Ultra 5G</h3>
+					<p>Elige tu nuevo Samsung con el regalo que más se adapta a ti.</p> 
+					<p>Una vez que recibas tu nuevo Galaxy Note20 debes registrar la promoción en la app de Samsung Members y seleccionar uno de los regalos.</p>
+					<div>
+						<div>
+							<ul>
+								<li>
+									<button data-option="1" role="tab" aria-controls="simpletab1" title="tarifa movil + fibra" aria-label="tarifa movil + fibra" aria-selected="true">Móvil + Fibra</button>
+								</li>
+								<li>
+									<button data-option="2" role="tab" aria-controls="simpletab2" title="tarifa movil" aria-label="tarifa movil" aria-selected="false">Móvil</button>
+								</li>
+							</ul>
+							<div data-tab="1" role="tabpanel">
+								<div>
+									<div>
+										<div>
+											<div>
+												<p>Samsung Galaxy Note20 5G + Gaming Pack</p>
+												
+												<div>
+													<ul>
+														<li>
+															<div> 
+																<span>Samsung Galaxy Note20 5G + Gaming Pack Verde</span>
+															</div>
+														</li>
+													</ul>
+												</div>
+												<div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Pantalla</p>
+														</div>
+														<div>
+															<p>6.7”</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Cámara</p>
+														</div>
+														<div>
+															<p>12 MP F1.8</p>
+															<p>12 MP F2.2</p>
+															<p>64MP 3x F2.1</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Memoria</p>
+														</div>
+														<div>
+															<p>256GB</p>
+															<p>RAM 8GB</p>
+														</div>
+													</div>
+												</div>
+												<div>
+													<p><span><strong>25€/mes</strong></span> en 36
+														meses</p>
+													<p><span><strong>+0€</strong></span> de pago inicial
+													</p>
+													<p>con tu tarifa One Ilimitada Total</p>
+													<button data-modal="noteOverlay" data-modal-close="" aria-haspopup="dialog" data-device-name="Samsung Galaxy Note20 5G + Gaming Pack">Reservar</button>
+													<span>: Reservar Samsung Galaxy Note20 5G + Gaming Pack</span>
+												</div>
+											</div>
+										</div>
+										<div>
+											<div>
+												<p>Samsung Galaxy Note20 5G + Music Pack</p>
+												
+												<div>
+													<ul>
+														<li>
+															<div> 
+																<span>Samsung Galaxy Note20 5G + Music Pack Verde</span>
+															</div>
+														</li>
+													</ul>
+												</div>
+												<div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Pantalla</p>
+														</div>
+														<div>
+															<p>6.7”</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Cámara</p>
+														</div>
+														<div>
+															<p>12 MP F1.8</p>
+															<p>12 MP F2.2</p>
+															<p>64MP 3x F2.1</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Memoria</p>
+														</div>
+														<div>
+															<p>Interna 256GB</p>
+															<p>RAM 8GB</p>
+														</div>
+													</div>
+												</div>
+												<div>
+													<p><span><strong>25€/mes</strong></span> en 36
+														meses</p>
+													<p><span><strong>+0€</strong></span> de pago inicial
+													</p>
+													<p>con tu tarifa One Ilimitada Total</p>
+													<button data-modal="noteOverlay" data-modal-close="" aria-haspopup="dialog" data-device-name="Samsung Galaxy Note20 5G + Music Pack">Reservar</button>
+													<span>: Reservar Samsung Galaxy Note20 5G + Music Pack</span>
+												</div>
+											</div>
+										</div>
+										<div>
+											<div>
+												<p>Samsung Galaxy Note20 Ultra 5G + Gaming Pack</p>
+												
+												<div>
+													<ul>
+														<li>
+															<div> 
+																<span>Samsung Galaxy Note20 Ultra 5G + Gaming Pack Negro</span>
+															</div>
+														</li>
+														<li>
+															<div> 
+																<span>Samsung Galaxy Note20 Ultra 5G + Gaming Pack Rosa</span>
+															</div>
+														</li>
+													</ul>
+												</div>
+												<div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Pantalla</p>
+														</div>
+														<div>
+															<p>6.9”</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Cámara</p>
+														</div>
+														<div>
+															<p>108MP F1.8</p>
+															<p>12MP F2.2</p>
+															<p>12MP 5x  F3.0</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Memoria</p>
+														</div>
+														<div>
+															<p>256GB + Micro SD</p>
+															<p>RAM 12GB</p>
+														</div>
+													</div>
+												</div>
+												<div>
+													<p><span><strong>28,50€/mes</strong></span> en 36 meses</p>
+													<p><span><strong>+0€</strong></span> de pago inicial </p>
+													<p>con tu tarifa One Ilimitada Total</p>
+													<button data-modal="ultraOverlay" data-modal-close="" aria-haspopup="dialog" data-device-name="Samsung Galaxy Note20 Ultra 5G + Gaming Pack">Reservar</button>
+													<span>: Reservar Samsung Galaxy Note20 Ultra 5G + Gaming Pack</span>
+												</div>
+											</div>
+										</div>
+										<div>
+											<div>
+												<p>Samsung Galaxy Note20 Ultra 5G + Music Pack</p>
+												
+												<div>
+													<ul>
+														<li>
+															<div> 
+																<span>Samsung Galaxy Note20 Ultra 5G + Music Pack Negro</span>
+															</div>
+														</li>
+														<li>
+															<div> 
+																<span>Samsung Galaxy Note20 Ultra 5G + Music Pack Rosa</span>
+															</div>
+														</li>
+													</ul>
+												</div>
+												<div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Pantalla</p>
+														</div>
+														<div>
+															<p>6.9”</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Cámara</p>
+														</div>
+														<div>
+															<p>108MP F1.8</p>
+															<p>12MP F2.2</p>
+															<p>12MP 5x  F3.0</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Memoria</p>
+														</div>
+														<div>
+															<p>256GB + Micro SD</p>
+															<p>RAM 12GB</p>
+														</div>
+													</div>
+												</div>
+												<div>
+													<p><span><strong>28,50€/mes</strong></span> en 36
+														meses</p>
+													<p><span><strong>+0€</strong></span> de pago inicial
+													</p>
+													<p>con tu tarifa One Ilimitada Total</p>
+													<button data-modal="ultraOverlay" data-modal-close="" aria-haspopup="dialog" data-device-name="Samsung Galaxy Note20 Ultra 5G + Music Pack">Reservar</button>
+													<span>: Reservar Samsung Galaxy Note20 Ultra 5G + Music Pack</span>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div data-tab="2" role="tabpanel">
+								<div>
+									<div>
+										<div>
+											<div>
+												<p>Samsung Galaxy Note20 5G + Gaming Pack</p>
+												
+												<div>
+													<ul>
+														<li>
+															<div> 
+																<span>Samsung Galaxy Note20 5G + Gaming Pack Verde</span>
+															</div>
+														</li>
+													</ul>
+												</div>
+												<div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Pantalla</p>
+														</div>
+														<div>
+															<p>6.7”</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Cámara</p>
+														</div>
+														<div>
+															<p>12 MP F1.8</p>
+															<p>12 MP F2.2</p>
+															<p>64MP 3x F2.1</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Memoria</p>
+														</div>
+														<div>
+															<p>256GB</p>
+															<p>RAM 8GB</p>
+														</div>
+													</div>
+												</div>
+												<div>
+													<p><span><strong>25€/mes</strong></span> en 36
+														meses</p>
+													<p><span><strong>+0€</strong></span> de pago inicial
+													</p>
+													<p>con tu tarifa ilimitada Total</p>
+													<button data-modal="noteOverlay" data-modal-close="" aria-haspopup="dialog" data-device-name="Samsung Galaxy Note20 5G + Gaming Pack">Reservar</button>
+													<span>: Reservar Samsung Galaxy Note20 5G + Gaming Pack</span>
+												</div>
+											</div>
+										</div>
+										<div>
+											<div>
+												<p>Samsung Galaxy Note20 5G + Music Pack</p>
+												
+												<div>
+													<ul>
+														<li>
+															<div> 
+																<span>Samsung Galaxy Note20 5G + Music Pack Verde</span>
+															</div>
+														</li>
+													</ul>
+												</div>
+												<div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Pantalla</p>
+														</div>
+														<div>
+															<p>6.7”</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Cámara</p>
+														</div>
+														<div>
+															<p>12 MP F1.8</p>
+															<p>12 MP F2.2</p>
+															<p>64MP 3x F2.1</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Memoria</p>
+														</div>
+														<div>
+															<p>Interna 256GB</p>
+															<p>RAM 8GB</p>
+														</div>
+													</div>
+												</div>
+												<div>
+													<p><span><strong>25€/mes</strong></span> en 36
+														meses</p>
+													<p><span><strong>+0€</strong></span> de pago inicial
+													</p>
+													<p>con tu tarifa ilimitada Total</p>
+													<button data-modal="noteOverlay" data-modal-close="" aria-haspopup="dialog" data-device-name="Samsung Galaxy Note20 5G + Music Pack">Reservar</button>
+													<span>: Reservar Samsung Galaxy Note20 5G + Music Pack</span>
+												</div>
+											</div>
+										</div>
+										<div>
+											<div>
+												<p>Samsung Galaxy Note20 Ultra 5G + Gaming Pack</p>
+												
+												<div>
+													<ul>
+														<li>
+															<div> 
+																<span>Samsung Galaxy Note20 Ultra 5G + Gaming Pack Negro</span>
+															</div>
+														</li>
+														<li>
+															<div> 
+																<span>Samsung Galaxy Note20 Ultra 5G + Gaming Pack Rosa</span>
+															</div>
+														</li>
+													</ul>
+												</div>
+												<div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Pantalla</p>
+														</div>
+														<div>
+															<p>6.9”</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Cámara</p>
+														</div>
+														<div>
+															<p>108MP F1.8</p>
+															<p>12MP F2.2</p>
+															<p>12MP 5x  F3.0</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Memoria</p>
+														</div>
+														<div>
+															<p>256GB + Micro SD</p>
+															<p>RAM 12GB</p>
+														</div>
+													</div>
+												</div>
+												<div>
+													<p><span><strong>28,50€/mes</strong></span> en 36
+														meses</p>
+													<p><span><strong>+0€</strong></span> de pago inicial
+													</p>
+													<p>con tu tarifa ilimitada Total</p>
+													<button data-modal="ultraOverlay" data-modal-close="" aria-haspopup="dialog" data-device-name="Samsung Galaxy Note20 Ultra 5G + Gaming Pack">Reservar</button>
+													<span>: Reservar Samsung Galaxy Note20 Ultra 5G + Gaming Pack</span>
+												</div>
+											</div>
+										</div>
+										<div>
+											<div>
+												<p>Samsung Galaxy Note20 Ultra 5G + Music Pack</p>
+												
+												<div>
+													<ul>
+														<li>
+															<div> 
+																<span>Samsung Galaxy Note20 Ultra 5G + Music Pack Negro</span>
+															</div>
+														</li>
+														<li>
+															<div> 
+																<span>Samsung Galaxy Note20 Ultra 5G + Music Pack Rosa</span>
+															</div>
+														</li>
+													</ul>
+												</div>
+												<div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Pantalla</p>
+														</div>
+														<div>
+															<p>6.9”</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Cámara</p>
+														</div>
+														<div>
+															<p>108MP F1.8</p>
+															<p>12MP F2.2</p>
+															<p>12MP 5x  F3.0</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Memoria</p>
+														</div>
+														<div>
+															<p>256GB + Micro SD</p>
+															<p>RAM 12GB</p>
+														</div>
+													</div>
+												</div>
+												<div>
+													<p><span><strong>28,50€/mes</strong></span> en 36
+														meses</p>
+													<p><span><strong>+0€</strong></span> de pago inicial
+													</p>
+													<p>con tu tarifa ilimitada Total</p>
+													<button data-modal="ultraOverlay" data-modal-close="" aria-haspopup="dialog" data-device-name="Samsung Galaxy Note20 Ultra 5G + Music Pack">Reservar</button>
+													<span>: Reservar Samsung Galaxy Note20 Ultra 5G + Music Pack</span>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div> 
+				</div>
+				<div>
+					<div>
+						<div>
+							<div>
+								
+							</div>
+							<p>Gaming Pack</p>
+							<p>Con el Gaming Pack del Galaxy Note20 | Note20 Ultra 5G llévate una suscripción de <span>3 meses XBOX Game Pass, un mando XBOX</span> MOGA XP5 -X + controller y cargador inalámbrico <span>GRATIS.</span></p>
+						</div>
+						<div>
+							<div>
+								
+							</div>
+							<p>Music Pack</p>
+							<p>Lleva tu música siempre contigo y escúchala con el music Pack. Si compras un Galaxy Note20 Ultra 5G llévate de <span>REGALO</span> unos <span>Galaxy Buds Live; o los Galaxy Buds+</span> si compras un Galaxy Note20 5G.</p>
+						</div>
+					</div>
+				</div>
+			</section>
+		
+			<section>
+				<div> 
+					<h3>Además reserva el nuevo Samsung Galaxy Watch3</h3>
+					<p>Y elige el regalo que más se adapta a ti.</p>
+					<p>Una vez que recibas tu nuevo Galaxy Watch3 debes registrar la promoción.</p>
+					<div>
+						<div>
+							<ul>
+								<li>
+									<button data-option="3" role="tab" aria-controls="simpletab3" title="tarifa movil + fibra" aria-label="tarifa movil + fibra" aria-selected="false">Móvil + Fibra</button>
+								</li>
+								<li>
+									<button data-option="4" role="tab" aria-controls="simpletab4" title="tarifa movil" aria-label="tarifa movil" aria-selected="true">Móvil</button>
+								</li>
+							</ul>
+							<div data-tab="3" role="tabpanel">
+								<div>
+									<div>
+										<div>
+											<div>
+												<p>Samsung Galaxy Watch3 Bronze + Wireless Charger</p>
+												
+												<div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Esfera</p>
+														</div>
+														<div>
+															<p>41 mm</p>
+															<p>pantalla 1.2’’</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Batería</p>
+														</div>
+														<div>
+															<p>247 mAh</p>
+															<p>43 horas</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Conectividad</p>
+														</div>
+														<div>
+															<p>BT+LTE</p>
+														</div>
+													</div>
+												</div>
+												<div>
+													<p><span><strong>10€/mes</strong></span> en 36
+														meses</p>
+													<p><span><strong>+0€</strong></span> de pago inicial
+													</p>
+													<p>con tu tarifa One Ilimitada Total</p>
+													<button data-modal="watchOverlay" data-modal-close="" aria-haspopup="dialog" data-device-name="Samsung Galaxy Watch3 Bronze + Wireless Charger" data="">Reservar</button>
+													<span>: Reservar Samsung Galaxy Watch3 Bronze + Wireless Charger</span>
+												</div>
+											</div>
+										</div>
+										<div>
+											<div>
+												<p>Samsung Galaxy Watch3 Black + Wireless Charger</p>
+												
+												<div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Esfera</p>
+														</div>
+														<div>
+															<p>45 mm</p>
+															<p>pantalla 1.4’’</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Batería</p>
+														</div>
+														<div>
+															<p>340 mAh</p>
+															<p>56 horas</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Conectividad</p>
+														</div>
+														<div>
+															<p>BT+LTE</p>
+														</div>
+													</div>
+												</div>
+												<div>
+													<p><span><strong>10,50€/mes</strong></span> en 36
+														meses</p>
+													<p><span><strong>+0€</strong></span> de pago inicial
+													</p>
+													<p>con tu tarifa One Ilimitada Total</p>
+													<button data-modal="watchOverlay" data-modal-close="" aria-haspopup="dialog" data-device-name="Samsung Galaxy Watch3 Black + Wireless Charger">Reservar</button>
+													<span>: Reservar Samsung Galaxy Watch3 Black + Wireless Charger</span>
+												</div>
+											</div>
+										</div>
+										<div>
+											<div>
+												<p>Samsung Galaxy Watch3 Bronze + Battery Pack</p>
+												
+												<div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Esfera</p>
+														</div>
+														<div>
+															<p>41 mm</p>
+															<p>pantalla 1.2’’</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Batería</p>
+														</div>
+														<div>
+															<p>247 mAh</p>
+															<p>43 horas</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Conectividad</p>
+														</div>
+														<div>
+															<p>BT+LTE</p>
+														</div>
+													</div>
+												</div>
+												<div>
+													<p><span><strong>10€/mes</strong></span> en 36
+														meses</p>
+													<p><span><strong>+0€</strong></span> de pago inicial
+													</p>
+													<p>con tu tarifa One Ilimitada Total</p>
+													<button data-modal="watchOverlay" data-modal-close="" aria-haspopup="dialog" data-device-name="Samsung Galaxy Watch3 Bronze + Battery Pack">Reservar</button>
+													<span>: Reservar Samsung Galaxy Watch3 Bronze + Battery Pack</span>
+												</div>
+											</div>
+										</div>
+										<div>
+											<div>
+												<p>Samsung Galaxy  Watch 3 Black + Battery Pack</p>
+												
+												<div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Esfera</p>
+														</div>
+														<div>
+															<p>45 mm</p>
+															<p>pantalla 1.4’’</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Batería</p>
+														</div>
+														<div>
+															<p>340 mAh</p>
+															<p>56 horas</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Conectividad</p>
+														</div>
+														<div>
+															<p>BT+LTE</p>
+														</div>
+													</div>
+												</div>
+												<div>
+													<p><span><strong>10,50€/mes</strong></span> en 36
+														meses</p>
+													<p><span><strong>+0€</strong></span> de pago inicial
+													</p>
+													<p>con tu tarifa One Ilimitada Total</p>
+													<button data-modal="watchOverlay" data-modal-close="" aria-haspopup="dialog" data-device-name="Samsung Galaxy  Watch 3 Black + Battery Pack">Reservar</button>
+													<span>: Reservar Samsung Galaxy  Watch 3 Black + Battery Pack</span>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div data-tab="4" role="tabpanel">
+								<div>
+									<div>
+										<div>
+											<div>
+												<p>Samsung Galaxy Watch3 Bronze + Wireless Charger</p>
+												
+												<div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Esfera</p>
+														</div>
+														<div>
+															<p>41 mm</p>
+															<p>pantalla 1.2’’</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Batería</p>
+														</div>
+														<div>
+															<p>247 mAh</p>
+															<p>43 horas</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Conectividad</p>
+														</div>
+														<div>
+															<p>BT+LTE</p>
+														</div>
+													</div>
+												</div>
+												<div>
+													<p><span><strong>10,50€/mes</strong></span> en 36
+														meses</p>
+													<p><span><strong>+0€</strong></span> de pago inicial
+													</p>
+													<p>con tu tarifa ilimitada Total</p>
+													<button data-modal="watchOverlay" data-modal-close="" aria-haspopup="dialog" data-device-name="Samsung Galaxy Watch3 Bronze + Wireless Charger">Reservar</button>
+													<span>: Reservar Samsung Galaxy Watch3 Bronze + Wireless Charger</span>
+												</div>
+											</div>
+										</div>
+										<div>
+											<div>
+												<p>Samsung Galaxy Watch3 Black + Wireless Charger</p>
+												
+												<div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Esfera</p>
+														</div>
+														<div>
+															<p>45 mm</p>
+															<p>pantalla 1.4’’</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Batería</p>
+														</div>
+														<div>
+															<p>340 mAh</p>
+															<p>56 horas</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Conectividad</p>
+														</div>
+														<div>
+															<p>BT+LTE</p>
+														</div>
+													</div>
+												</div>
+												<div>
+													<p><span><strong>11,50€/mes</strong></span> en 36
+														meses</p>
+													<p><span><strong>+0€</strong></span> de pago inicial
+													</p>
+													<p>con tu tarifa ilimitada Total</p>
+													<button data-modal="watchOverlay" data-modal-close="" aria-haspopup="dialog" data-device-name="Samsung Galaxy Watch3 Black + Wireless Charger">Reservar</button>
+													<span>: Reservar Samsung Galaxy Watch3 Black + Wireless Charger</span>
+												</div>
+											</div>
+										</div>
+										<div>
+											<div>
+												<p>Samsung Galaxy Watch3 Bronze + Battery Pack</p>
+												
+												<div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Esfera</p>
+														</div>
+														<div>
+															<p>41 mm</p>
+															<p>pantalla 1.2’’</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Batería</p>
+														</div>
+														<div>
+															<p>247 mAh</p>
+															<p>43 horas</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Conectividad</p>
+														</div>
+														<div>
+															<p>BT+LTE</p>
+														</div>
+													</div>
+												</div>
+												<div>
+													<p><span><strong>10,50€/mes</strong></span> en 36
+														meses</p>
+													<p><span><strong>+0€</strong></span> de pago inicial
+													</p>
+													<p>con tu tarifa ilimitada Total</p>
+													<button data-modal="watchOverlay" data-modal-close="" aria-haspopup="dialog" data-device-name="Samsung Galaxy Watch3 Bronze + Battery Pack">Reservar</button>
+													<span>: Reservar Samsung Galaxy Watch3 Bronze + Battery Pack</span>
+												</div>
+											</div>
+										</div>
+										<div>
+											<div>
+												<p>Samsung Galaxy  Watch 3 Black + Battery Pack</p>
+												
+												<div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Esfera</p>
+														</div>
+														<div>
+															<p>45 mm</p>
+															<p>pantalla 1.4’’</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Batería</p>
+														</div>
+														<div>
+															<p>340 mAh</p>
+															<p>56 horas</p>
+														</div>
+													</div>
+													<div>
+														<div>
+															<div>
+																
+															</div>
+															<p>
+																Conectividad</p>
+														</div>
+														<div>
+															<p>BT+LTE</p>
+														</div>
+													</div>
+												</div>
+												<div>
+													<p><span><strong>11,50€/mes</strong></span> en 36
+														meses</p>
+													<p><span><strong>+0€</strong></span> de pago inicial
+													</p>
+													<p>con tu tarifa ilimitada Total</p>
+													<button data-modal="watchOverlay" data-modal-close="" aria-haspopup="dialog" data-device-name="Samsung Galaxy  Watch 3 Black + Battery Pack">Reservar</button>
+													<span>: Reservar Samsung Galaxy  Watch 3 Black + Battery Pack</span>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div> 
+				</div>
+				<div>
+					<div>
+						<div>
+							<div>
+								
+							</div>
+							<p>Wireless Charger</p>
+							<p>Por la compra de cualquier Samsung Galaxy Watch3 llévate un <span>Wireless Charger valorado en 99€ de REGALO</span> y olvídate para siempre de los cables.</p>
+						</div>
+						<div>
+							<div>
+								
+							</div>
+							<p>Battery Pack</p>
+							<p>Por la compra de cualquier Samsung Galaxy Watch3 llévate <span>GRATIS una batería portatil valorada en 79€</span> y no pares nunca. </p>
+						</div>
+					</div>
+				</div>
+			</section>
+		</main><button aria-hidden="false"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px">
+							<title>Close</title>
+							<use xlink:href="#icon3-close"></use>
+						</svg></button><p></p><p>¡Solo te queda un paso!</p><p>Déjanos tus datos y nos pondremos en contacto
+							contigo para finalizar la reserva.</p><input type="hidden" name="preventa" value="Samsung Note20"><input style="display:none;" value="NO" name="verifyLeadId"><input name="wg-return" value="gracias" type="hidden"><input type="radio" name="esCliente" data-wg-validation="required" value="si"><label for="clienteNote">Soy cliente</label><input type="radio" name="esCliente" data-wg-validation="required" value="no"><label for="noClienteNote">No soy
+												cliente</label><input type="hidden"><input type="hidden" style="display:none;" name="phone-model" placeholder="Pack y Modelo Teléfono"><input type="text" name="nombre" data-wg-validation="required" placeholder="Nombre y apellido"><input type="hidden"><input type="phone" name="phone" inputmode="numeric" pattern="[0-9]*" maxlength="9" data-wg-validation="required,phone" placeholder="Nº teléfono" oninput="javascript: if (this.value.length > this.maxLength) this.value = this.value.slice(0, this.maxLength);"><input type="hidden"><input data-wg-validation="required" type="checkbox" value="on" name="check"><label for="privacyNote">Acepto la 
+									<a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/movil/catalogo-clientes/politica-privacidad/" target="_blank" rel="nofollow"> Política de
+										Privacidad</a></label><input type="hidden"><input type="checkbox" name="gdpr" value="on"><label for="comunicationNote">Acepto recibir comunicaciones
+									comerciales de Vodafone </label><input type="hidden"><input type="submit" value="Enviar"><button aria-hidden="false"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px">
+							<title>Close</title>
+							<use xlink:href="#icon3-close"></use>
+						</svg></button><p></p><p>¡Solo te queda un paso!</p><p>Déjanos tus datos y nos pondremos en contacto
+							contigo para finalizar la reserva.</p><input type="hidden" name="preventa" value="Samsung Note20 Ultra"><input style="display:none;" value="NO" name="verifyLeadId"><input name="wg-return" value="gracias" type="hidden"><input type="radio" name="esCliente" data-wg-validation="required" value="si"><label for="clienteUltra">Soy cliente</label><input type="radio" name="esCliente" data-wg-validation="required" value="no"><label for="noClienteUltra">No soy
+												cliente</label><input type="hidden"><input type="hidden" style="display:none;" name="phone-model" placeholder="Pack y Modelo Teléfono"><input type="text" name="nombre" data-wg-validation="required" placeholder="Nombre y apellido"><input type="hidden"><input type="phone" name="phone" inputmode="numeric" pattern="[0-9]*" maxlength="9" data-wg-validation="required,phone" placeholder="Nº teléfono" oninput="javascript: if (this.value.length > this.maxLength) this.value = this.value.slice(0, this.maxLength);"><input type="hidden"><p>Elige un color:</p><input type="radio" name="color" data-wg-validation="required" value="bronze"><label for="bronze">Samsung Note20 Ultra Bronze</label><input type="radio" name="color" data-wg-validation="required" value="black"><label for="black">Samsung Note20 Ultra Black</label><input type="hidden"><input data-wg-validation="required" type="checkbox" value="on" name="check"><label for="privacyUltra">Acepto la 
+									<a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/movil/catalogo-clientes/politica-privacidad/" target="_blank" rel="nofollow"> Política de
+										Privacidad</a></label><input type="hidden"><input type="checkbox" name="gdpr" value="on"><label for="comunicationUltra">Acepto recibir comunicaciones
+									comerciales de Vodafone </label><input type="hidden"><input type="submit" value="Enviar"><button aria-hidden="false"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px">
+							<title>Close</title>
+							<use xlink:href="#icon3-close"></use>
+						</svg></button><p></p><p>¡Solo te queda un paso!</p><p>Déjanos tus datos y nos pondremos en contacto
+							contigo para finalizar la reserva.</p><input type="hidden" name="preventa" value="Samsung Galaxy Watch3"><input style="display:none;" value="NO" name="verifyLeadId"><input name="wg-return" value="gracias" type="hidden"><input type="radio" name="esCliente" data-wg-validation="required" value="si"><label for="clienteWatch">Soy cliente</label><input type="radio" name="esCliente" data-wg-validation="required" value="no"><label for="noClienteWatch">No soy
+												cliente</label><input type="hidden"><input type="hidden" style="display:none;" name="phone-model" placeholder="Pack y Modelo Watch"><input type="text" name="nombre" data-wg-validation="required" placeholder="Nombre y apellido"><input type="hidden"><input type="phone" name="phone" inputmode="numeric" pattern="[0-9]*" maxlength="9" data-wg-validation="required,phone" placeholder="Nº teléfono" oninput="javascript: if (this.value.length > this.maxLength) this.value = this.value.slice(0, this.maxLength);"><input type="hidden"><input data-wg-validation="required" type="checkbox" value="on" name="check"><label for="privacyWatch">Acepto la 
+									<a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/movil/catalogo-clientes/politica-privacidad/" target="_blank" rel="nofollow"> Política de
+										Privacidad</a></label><input type="hidden"><input type="checkbox" name="gdpr" value="on"><label for="comunicationWatch">Acepto recibir comunicaciones
+									comerciales de Vodafone </label><input type="hidden"><input type="submit" value="Enviar">

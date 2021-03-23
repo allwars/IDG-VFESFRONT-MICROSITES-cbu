@@ -1,0 +1,46 @@
+<ul>
+                <li>
+                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <use xlink:href="#icon-sim-prepago"></use>
+                    </svg>
+                    <div>
+                        <p>
+                            Gb y minutos ilimitados
+                        </p>
+                        <p>
+                            Velocidad máxima
+                        </p>
+                    </div>
+                </li>
+
+                <li>
+                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <use xlink:href="#icon-gaming_esp"></use>
+                    </svg>
+                    <div>
+                        <p>
+                            Gb y minutos ilimitados
+                        </p>
+                        <p>
+                            Velocidad máxima
+                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                <use xlink:href="#icon-thunder-3"></use>
+                            </svg>
+                        </p>
+                    </div>
+                </li>
+
+                <li>
+                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <use xlink:href="#icon-like"></use>
+                    </svg>
+                    <div>
+                        <p>
+                            Gb y minutos ilimitados
+                        </p>
+                        <p>
+                            Velocidad máxima
+                        </p>
+                    </div>
+                </li>
+            </ul><p>19% dto.</p><p>Lorem ipsum</p><p><del>69,99€/mes</del></p><p>59,99€<sub>/mes</sub></p><a href="#" name="cta" title="CTA">Más info</a>

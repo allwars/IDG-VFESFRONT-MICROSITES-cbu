@@ -1,0 +1,45 @@
+// CSS del microsite
+.vf-bs{
+  .vf-stickyBottomContainer{
+    background-image: url("https://www.vodafone.es/c/statics/imagen/base_sales_sticky_mobile.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: flex-end;
+    min-height: 150px;
+    padding: 20px;
+    position: fixed;
+    bottom: 0;
+    z-index: 9999;
+    width: 100%;
+
+    @media screen and (min-width: 970px) {
+      background-image: url("https://www.vodafone.es/c/statics/imagen/base_sales_sticky_desktop.jpg");
+      min-height: 100px;
+      background-position: bottom;
+    }
+
+    &__text{
+      margin: 15px 0;
+      @media screen and (min-width: 970px) {
+        max-width: 280px;
+        margin: 0 130px 0 40px;
+      }
+    }
+    &__flex{
+      display: flex;
+      justify-content: flex-end;
+      flex-direction: column;
+      align-items: start;
+      @media screen and (min-width: 970px) {
+        flex-direction: row;
+        padding-right: 10px;
+        align-items: center;
+      }
+      @media screen and (min-width: 1024px) {
+        padding-right: 200px;
+      }
+
+    }
+  }
+}

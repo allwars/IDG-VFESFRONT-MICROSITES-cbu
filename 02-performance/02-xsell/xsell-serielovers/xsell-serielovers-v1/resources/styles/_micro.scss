@@ -1,0 +1,282 @@
+// CSS del microsite
+.vfes-ms-content {
+  .vfms-banner {
+    background-image: url("../img/bg-mobile.jpg");
+    background-size: cover;
+    text-align: center;
+
+    &-text {
+      padding: 15px 0 0 0;
+    }
+
+    &-corner {
+      display: none;
+    }
+
+    &__channels {
+      text-align: center;
+      padding: 1.25rem 0;
+      // margin: 1.875rem 0 0;
+    }
+
+    .vfms-tv-channels {
+      display: flex;
+      flex-wrap: wrap;
+      flex-direction: row;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 5px;
+
+      //   &__item {
+      //     margin-top: 5px;
+
+      //     img {
+      //       width: 100%;
+      //       height: auto;
+      // //       height: 61px;
+      // // width: auto;
+      // //     }
+      //   }
+      &__item {
+        img {
+          height: 61px;
+          width: auto;
+        }
+      }
+    }
+  }
+
+  .vfes-title {
+    max-width: 352px;
+  }
+  .vfes-title,
+  .vfms-banner-text {
+    color: #fff;
+    text-align: left;
+  }
+
+  @media screen and (min-width: 640px) {
+    .vfms-banner {
+      text-align: left;
+      background-image: url("../img/bg-tablet.jpg");
+      background-size: cover;
+      background-position-x: 84%;
+      padding-bottom: 1rem;
+
+      &__content {
+        position: relative;
+      }
+      &__channels {
+        padding-top: 0;
+        padding-bottom: 1.25rem;
+      }
+      &-corner {
+        display: block;
+        position: absolute;
+        right: 80px;
+        top: 470px;
+      }
+
+      .vfes-title {
+        font-size: 44px;
+        max-width: 600px;
+      }
+      .vfes-paragraph {
+        font-size: 26px;
+        padding: 30px 0 0 0;
+      }
+      .vfes-button {
+        height: 50px;
+        width: 170px;
+        font-size: 20px;
+        position: absolute;
+        bottom: 23px;
+        right: 2px;
+      }
+    }
+  }
+
+  @media screen and (min-width: 970px) {
+    .vfms-banner {
+      background-image: url("../img/bg-desktop.jpg");
+      background-position-x: 100%;
+      .vfes-title {
+        max-width: 780px;
+      }
+
+      &-corner {
+        right: 130px;
+        top: 460px;
+
+        img {
+          width: 80px;
+        }
+      }
+
+      .vfms-tv-channels {
+        &__item {
+          margin-top: 5px;
+
+          img {
+            width: 100%;
+            height: auto;
+          }
+        }
+      }
+      .vfes-button {
+        right: 115px;
+        bottom: 60px;
+      }
+    }
+  }
+}
+
+//estilos pop-up
+.vfes-modal-channel {
+  background-color: rgba(0, 0, 0, 0.7);
+
+  .vfes-modal__head {
+    padding-top: 14px;
+  }
+
+  .vfes-modal__close {
+    padding-top: 14px;
+  }
+
+  .vfes-modal__item {
+    margin-top: 60px;
+  }
+
+  .vfes-modal__content {
+    margin-top: -2px;
+    overflow: overlay;
+    height: 100%;
+
+    .vfes-title {
+      text-align: center;
+      font-size: 28px;
+      line-height: 36px;
+
+      &--5 {
+        font-size: 18px;
+        text-align: center;
+      }
+    }
+
+    .vfes-list {
+      display: flex;
+      flex-flow: row wrap;
+      justify-content: flex-start;
+      padding: 0 10px 0 10px;
+    }
+
+    .channels {
+      &__channel {
+        display: inline-block;
+        text-align: center;
+        vertical-align: top;
+        width: 68px;
+
+        .img {
+          width: 68px;
+        }
+
+        .vfes-paragraph {
+          text-align: center;
+        }
+
+        &:last-of-type {
+          .vfes-paragraph {
+            margin-bottom: 40px;
+          }
+        }
+      }
+
+      &__common {
+        .channels__channel:last-of-type {
+          .vfes-paragraph {
+            margin-bottom: 0px;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media screen and (min-width: 640px) {
+  .vfes-modal-channel {
+    align-items: center;
+
+    .vfes-modal__item {
+      width: 600px;
+      margin-top: 0;
+    }
+
+    .vfes-modal__content {
+      padding: 0 38px 40px 38px;
+      height: auto;
+
+      .vfes-title {
+        font-size: 36px;
+        line-height: 40px;
+
+        &--5 {
+          font-size: 20px;
+        }
+      }
+
+      .vfes-list {
+        display: inline-block;
+      }
+
+      .list-cinefans,
+      .list-peques {
+        display: flex;
+        justify-content: space-between;
+      }
+
+      .channels {
+        &__channel {
+          width: 80px;
+
+          .img {
+            width: 80px;
+          }
+
+          .vfes-paragraph {
+            font-size: 14px;
+            line-height: 18px;
+          }
+
+          &:last-of-type {
+            .vfes-paragraph {
+              margin-bottom: 40px;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+@media screen and (min-width: 970px) {
+  .vfes-modal-channel {
+    .vfes-modal__item {
+      width: 780px;
+    }
+
+    .vfes-modal__content {
+      padding: 0 0 40px 0;
+
+      .vfes-title {
+        font-size: 40px;
+        line-height: 48px;
+      }
+
+      .vfes-list {
+        padding-left: 100px;
+        padding-right: 100px;
+      }
+    }
+  }
+}

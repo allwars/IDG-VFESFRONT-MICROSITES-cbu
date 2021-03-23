@@ -1,0 +1,276 @@
+<picture>
+			<source media="(min-width: 960px)" srcset="img/hero-dsk.png" type="image/png">
+			<source media="(min-width: 960px)" srcset="img/hero-dsk.webp" type="image/webp">
+			<source media="(min-width: 768px)" srcset="img/hero-tb.png" type="image/png">
+			<source media="(min-width: 768px)" srcset="img/hero-tb.png" type="image/webp">
+			
+		</picture><p>Vodafone Secure Net</p><h2>
+					<strong>Navega sin riesgos por Internet</strong> y además, con <strong>Secure Net Family</strong>, protege a los tuyos a través de control parental.
+					</h2><main>
+				<section>
+					<h2><strong>¿Que ofrece Vodafone Secure Net?</strong></h2>
+					<div>
+						<div>
+							<div>
+								<article>
+									<span>
+										<div>
+											
+										</div>
+									</span>
+									<h3>Seguridad</h3>
+									<p><strong>Secure Net</strong> te protege frente a virus (malware) y páginas fraudulentas (phishing).</p>
+								</article>
+							</div>
+						</div>
+						<div>
+							<div>
+								<article>
+									<span>
+										<div>
+											
+										</div>
+									</span>
+									<h3>Control parental</h3>
+									<p><strong>Secure Net Family,</strong> además de incorporar la protección de Secure Net, incluye funciones avanzadas de control parental como Filtros de contenidos, Pausa, Tiempo de descanso y Tiempo de estudio para que puedas gestionar de una manera sencilla y unificada el tiempo y el acceso a contenidos en Internet de tu familia.</p>
+								</article>
+							</div>
+						</div>
+						<div>
+							<div>
+								<article>
+									<span>
+										<div>
+											
+										</div>
+									</span>
+									<h3>Flexibilidad y eficiencia</h3>
+									<p><strong>Secure Net</strong> te protege sea cual sea tu dispositivo y sistema operativo. Además, no ocupa espacio ni consume batería y no influye en el rendimiento de tus dispositivos.</p>
+								</article>
+							</div>
+						</div>
+						<div>
+							<div>
+								<article>
+									<span>
+										<div>
+											
+										</div>
+									</span>
+									<h3>Accesibilidad</h3>
+									<p>Accede a tus informes de seguridad y gestiona tu cuenta desde el portal o desde la app de Secure Net.</p>
+								</article>
+							</div>
+						</div>
+						</div>
+				</section>
+				<section>
+					<h2><strong>El Secure Net que más se adapta a ti</strong></h2>
+					<div data-ws10-js="carousel" data-config="{&quot;responsive&quot;:{&quot;0&quot;:{&quot;breakpoint&quot;:0,&quot;elements&quot;:1},&quot;1&quot;:{&quot;breakpoint&quot;:640,&quot;elements&quot;:2},&quot;2&quot;:{&quot;breakpoint&quot;:970,&quot;elements&quot;:3}},&quot;build&quot;:{&quot;arrows&quot;:false,&quot;bullets&quot;:true,&quot;clickable_bullets&quot;:true}}">
+						<ul aria-labelledby="idList">
+							<li>
+								<div data-responsive="20">
+									<h3>Secure Net para Móvil</h3>
+									<p>Pruébalo 3 meses <strong>GRATIS</strong>, después 1€/mes. Incluido en tu tarifa Vodafone.</p>
+									<a href="http://m.vodafone.es/web-securenet" data-analyitics-context="securenet movil" data-analyitics-category="cta"> 
+										Activar en Mi Vodafone <span> Secure Net Movil</span> 
+										<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+											<title>Flecha derecha</title>
+											<use xlink:href="#icon-chevron-right"></use>
+										</svg>
+									</a>
+									<ul>
+										<li>
+											<span></span>
+											<p>Protección contra virus (malware)</p>
+										</li>
+										<li>
+											<span></span>
+											<p>Protección contra páginas fraudulentas (phishing)</p>
+										</li>
+									</ul>
+									<p>Y si aún no eres cliente de Vodafone</p>
+									<a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/movil/contrato/tarifas-contrato/" target="_self" title="Ver tarifas de Móvil + Fibra" data-analyitics-context="securenet movil" data-analytics-id="-9550098283070">
+									Ver tarifas de Móvil<span>Ver tarifas de Móvil</span>
+									</a>
+								</div>
+							</li>
+							<li>
+								<div data-responsive="20">
+									<b>¡Nuevo!</b>
+									<h3>Secure Net para Móvil + Fibra</h3>
+									<p>Pruébalo 3 meses <strong>GRATIS</strong>, después 1€/mes por cada línea de móvil y fijo. Incluido en tu tarifa Vodafone. </p>
+									<a href="http://m.vodafone.es/web-securenet" data-analyitics-context="securenet movil + fibra" data-analyitics-category="cta"> 
+										Activar en Mi Vodafone <span> Secure Net para Móvil + Fibra </span> 
+										<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+											<title>Flecha derecha</title>
+											<use xlink:href="#icon-chevron-right"></use>
+										</svg>
+									</a>
+									<ul>
+										<li>
+											<span></span>
+											<p>Protección contra virus (malware)</p>
+										</li>
+										<li>
+											<span></span>
+											<p>Protección contra páginas fraudulentas (phishing)</p>
+										</li>
+										<li>
+											<span></span>
+											<p>Contención de infecciones</p>
+										</li>
+										<li>
+											<span></span>
+											<p>Escaneo y borrado de amenazas</p>
+										</li>
+									</ul>
+									<p>Y si aún no eres cliente de Vodafone</p>
+									<a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/" target="_self" title="Ver tarifas de Móvil + Fibra" data-analyitics-context="securenet movil + fibra" data-analytics-id="-2762914706275">
+									Ver tarifas de Móvil + Fibra<span>Ver tarifas de Móvil + Fibra</span>
+									</a>
+								</div>
+							</li>
+							<li>
+								<div data-responsive="20">
+									<b>¡Nuevo!</b>
+									<h3>Secure Net Family</h3>
+									<p>Pruébalo 3 meses <strong>GRATIS</strong>, después 5€/mes para todas las líneas de contrato de tu tarifa de móvil + fibra.</p>
+									<a href="http://m.vodafone.es/web-securenet" data-analyitics-context="securenet family" data-analyitics-category="cta"> 
+										Activar en Mi Vodafone <span> Secure Net Family</span> 
+										<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+											<title>Flecha derecha</title>
+											<use xlink:href="#icon-chevron-right"></use>
+										</svg>
+									</a>
+									<ul>
+										<li>
+											<span></span>
+											<p>Protección contra virus (malware)</p>
+										</li>
+										<li>
+											<span></span>
+											<p>Protección contra páginas fraudulentas (phishing)</p>
+										</li>
+										<li>
+											<span></span>
+											<p>Contención de infecciones</p>
+										</li>
+										<li>
+											<span></span>
+											<p>Escaneo y borrado de amenazas</p>
+										</li>
+										<li>
+											<span></span>
+											<p>Filtros de contenido</p>
+										</li>
+										<li>
+											<span></span>
+											<p>Pausa la conexión a Internet</p>
+										</li>
+										<li>
+											<span></span>
+											<p>Configuración de tiempos de estudio y tiempos de descanso</p>
+										</li>
+									</ul>
+									<p>Y si aún no eres cliente de Vodafone</p>
+									<a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/" target="_self" title="Ver tarifas de Móvil" data-analyitics-context="secure net family" data-analytics-id="-6717491045531">
+									Ver tarifas de Móvil + Fibra<span>Ver tarifas de Móvil</span>
+									</a>
+								</div>
+							</li>
+						</ul> 
+					</div>
+				</section>
+				<section>
+					<div>
+						<div>
+							<h2><strong>Navega sin riesgos y disfruta de tu vida digital de forma segura</strong></h2>
+							<p>Mantén tu móvil, tablet, PC y el resto de tus dispositivos libres de amenazas, web peligrosas y virus. Además, con <strong>Secure Net Family</strong>, no solo navegarás sin riesgos sino que también podrás aplicar políticas de protección familiar en todos tus dispositivos con funcionalidades avanzadas de control parental como <strong>Filtros de contenidos, Pausa,  Tiempo de descanso</strong> y <strong>Tiempo de estudio</strong>. Y todo, compatible con cualquier sistema operativo.</p>
+						</div>
+						<div>
+							<div>
+								<iframe width="560" height="315" src="https://www.youtube.com/embed/8k2LLTIT568?rel=0&amp;modestbranding=0&amp;showinfo=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+							</div>
+						</div>
+					</div>  
+				</section>
+				<section>
+					<div>
+						<picture>
+						<source media="(min-width: 960px)" srcset="img/internetseguro-desktop.jpg" type="image/jpg">
+							<source media="(min-width: 960px)" srcset="img/internetseguro-desktop.webp" type="image/webp">
+							<source media="(min-width: 768px)" srcset="img/internetseguro-tablet.jpg" type="image/jpg">
+							<source media="(min-width: 768px)" srcset="img/internetseguro-tablet.webp" type="image/webp">
+							
+						</picture>
+						<div>
+							<h2>
+							Internet Seguro: descubre los trucos para navegar seguro
+							</h2>
+							<p>
+								Creada y pensada especialmente para el aprendizaje de los más pequeños y la tranquilidad de los padres. Incluye información relevante sobre apps, páginas web y tendencias online así como consejos y recomendaciones de expertos para ayudarte a navegar y usar Internet tanto a ti como a tu familia.
+							</p>
+							<a href="https://www.internetseguro.vodafone.es/&amp;settrack=scweb#!/">
+								Más info <span> Internet Seguro</span>
+								<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+									<title>Flecha derecha</title>
+									<use xlink:href="#icon-chevron-right"></use>
+								</svg>
+							</a>
+						</div>
+					</div>
+					 <div>
+                        <div>
+							<div>
+								<div>
+									<p><strong>Descubre Kids Planet,</strong></p>
+									<p>La aplicación para niños de Vodafone</p>
+									<p>
+										<a href="https://www.kidsplanetvodafone.es/#/home">
+											Más info <span> sobre Kids Planet</span>
+											<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+												<title>Flecha derecha</title>
+												<use xlink:href="#icon-chevron-right"></use>
+											</svg>
+										</a>
+									</p>
+								</div>
+							
+								<div>
+									​<picture>
+										<source media="(min-width: 970px)" srcset="img/kidsplanet-dsk.svg">
+										<source media="(min-width: 640px)" srcset="img/kidsplanet-tb.svg">
+										
+									</picture>
+								</div>
+							
+							</div>
+						</div>
+                        <div>
+							<div>
+								<div>
+									<p><strong>Be Strong Online:</strong></p>
+									<p>aprende sobre la vida digital de los adolescentes</p>
+									<p>
+										<a href="https://www.vodafone.es/c/conocenos/es/vodafone-espana/empresa-sostenible/comportamiento-etico-y-responsable/disfrute-seguro-y-responsable/bestrong/">
+											Más info <span> sobre Be Strong Online</span>
+											<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+												<title>Flecha derecha</title>
+												<use xlink:href="#icon-chevron-right"></use>
+											</svg>
+										</a>
+									</p>
+								</div>
+							
+								<div>
+									​<picture>
+										
+									</picture>
+								</div>
+							
+							</div>
+						</div>
+                    </div>
+				</section>
+		</main>

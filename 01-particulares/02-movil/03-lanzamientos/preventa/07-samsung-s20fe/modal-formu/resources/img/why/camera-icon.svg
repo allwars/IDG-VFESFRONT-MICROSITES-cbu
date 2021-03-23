@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="64px" viewBox="0 0 70 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>camera-icon_desktop</title>
+    <defs>
+        <linearGradient x1="29.2689482%" y1="38.9696018%" x2="88.0308188%" y2="88.4630437%" id="linearGradient-1">
+            <stop stop-color="#000000" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="LP_Preventa-Samsung-Galaxy-Note-XX-+-Watch----Note---Desktop" transform="translate(-1056.000000, -1392.000000)">
+            <g id="Group-6" transform="translate(50.000000, 1359.000000)">
+                <g id="1" transform="translate(900.000000, 0.000000)">
+                    <g id="Group" transform="translate(76.000000, 0.000000)">
+                        <g id="camera-hi-dark" transform="translate(23.000000, 23.000000)">
+                            <rect id="Rectangle" x="0" y="0" width="84" height="84"></rect>
+                            <path d="M70,73.5 L14,73.5 C10.1340068,73.5 7,70.3659932 7,66.5 L7,28 C7,26.0670034 8.56700338,24.5 10.5,24.5 L18.375,24.5 C20.0274758,24.5 21.5835145,23.7219807 22.575,22.4 L29.925,12.6 C30.9164855,11.2780193 32.4725242,10.5 34.125,10.5 L49.875,10.5 C51.5274758,10.5 53.0835145,11.2780193 54.075,12.6 L61.425,22.4 C62.4164855,23.7219807 63.9725242,24.5 65.625,24.5 L73.5,24.5 C75.4329966,24.5 77,26.0670034 77,28 L77,66.5 C77,70.3659932 73.8659932,73.5 70,73.5 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                            <g id="Group" opacity="0.2" transform="translate(28.000000, 32.375000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+                                <path d="M49,20.125 L49,34.125 C49,37.9909932 45.8659932,41.125 42,41.125 L13.125,41.125 L0.16625,28.459375 L28.625625,0 L49,20.125 Z" id="Path"></path>
+                            </g>
+                            <circle id="Oval" fill="#F4F4F4" fill-rule="nonzero" cx="42" cy="46.375" r="20.125"></circle>
+                            <circle id="Oval" fill="#4A4D4E" fill-rule="nonzero" cx="42" cy="46.375" r="14"></circle>
+                            <path d="M42,65.625 C31.0539061,65.6275868 22.1129583,56.8810074 21.875,45.9375 C21.875,46.081875 21.875,46.22625 21.875,46.375 C21.875,57.4897304 30.8852696,66.4999996 42,66.4999996 C53.1147304,66.4999996 62.125,57.4897304 62.125,46.375 C62.125,46.22625 62.125,46.081875 62.125,45.9375 C61.8870417,56.8810074 52.9460939,65.6275868 42,65.625 L42,65.625 Z" id="Path" fill="#000000" fill-rule="nonzero" opacity="0.06"></path>
+                            <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="42" cy="46.375" r="7.875"></circle>
+                            <circle id="Oval" fill="#E60000" fill-rule="nonzero" cx="15.75" cy="32.375" r="2.625"></circle>
+                            <path d="M54.25,41.125 C54.25,45.35125 48.76375,48.78125 42,48.78125 C35.23625,48.78125 29.75,45.35125 29.75,41.125 C29.75,36.89875 35.23625,32.375 42,32.375 C48.76375,32.375 54.25,36.89875 54.25,41.125 Z" id="Path" fill="#F4F4F4" fill-rule="nonzero" opacity="0.06"></path>
+                            <circle id="Oval" fill="#333333" fill-rule="nonzero" cx="42" cy="42.875" r="1.75"></circle>
+                            <path d="M70,72.625 L14,72.625 C10.1340068,72.625 7,69.4909932 7,65.625 L7,66.5 C7,70.3659932 10.1340068,73.5 14,73.5 L70,73.5 C73.8659932,73.5 77,70.3659932 77,66.5 L77,65.625 C77,69.4909932 73.8659932,72.625 70,72.625 Z" id="Path" fill="#000000" fill-rule="nonzero" opacity="0.06"></path>
+                            <path d="M61.425,22.4 L54.075,12.6 C53.0835145,11.2780193 51.5274758,10.5 49.875,10.5 L34.125,10.5 C32.4725242,10.5 30.9164855,11.2780193 29.925,12.6 L22.575,22.4 C21.5835145,23.7219807 20.0274758,24.5 18.375,24.5 L65.625,24.5 C63.9725242,24.5 62.4164855,23.7219807 61.425,22.4 L61.425,22.4 Z" id="Path" fill="#000000" fill-rule="nonzero" opacity="0.12"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

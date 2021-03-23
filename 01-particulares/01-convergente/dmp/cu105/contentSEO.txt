@@ -1,0 +1,15 @@
+<picture>
+			<source media="(min-width:1024px)" srcset="img/img-dsk.jpg">
+			<source media="(min-width:768px)" srcset="img/img-tb.jpg">
+			
+		</picture><p>
+				Llévate <strong>WiFi</strong> a tu <strong>segunda residencia</strong> por <strong>24€</strong>/mes
+			</p><p>
+				<a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/internet-segunda-residencia/?dmp=12626262:cp-acciondmp:cn-dmp:md-CU105&amp;c_var_11=dmp-cu105" target="_self" data-analytics-dmp-click="particulares:cu105:segundas-residencias">
+				Más información
+					<span>:Más información segunda residencia</span>
+				</a>
+				<a href="tel:900920167" title="Llama gratis" data-analytics-dmp-click="particulares:cu105:segundas-residencias">
+				Llama gratis al 900 920 167
+				</a>
+			</p>

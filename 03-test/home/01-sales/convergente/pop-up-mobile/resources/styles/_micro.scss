@@ -1,0 +1,51 @@
+// CSS del microsite
+.vfes-ms-content{
+
+    .vfms-overlay{
+        position:fixed;
+        height: 100vh;
+        width: 100%;
+        background-color: rgba(0, 0, 0, 0.7);    
+    }
+    .vfms-popup{
+        width: 100%;
+        background-image: url('../img/fondo-popup-mobile.jpg');
+        background-color: #C3FCF8;
+        background-size: cover;
+        background-position: bottom;
+        background-repeat: no-repeat;
+        border-radius: 6px 6px 0 0;
+        padding: 40px 10px 0 10px;
+        height: 600px;
+        position: fixed;
+        bottom: 0;
+
+
+        .vfms-close{
+            position: absolute;
+            right: 20px;
+            top: 20px;
+        }
+
+        .vfms-text{
+            font-size: 1.525rem;
+        }
+
+        &-itemblock{
+            display: block;
+            font-size: 36px;
+        }
+
+        .vfes-button{
+            height: 44px;
+            font-size: 18px;
+        }
+
+    }
+
+    @media screen and (min-width: 640px) {
+        .vfms-popup{
+            display: none;
+        }
+    }
+}

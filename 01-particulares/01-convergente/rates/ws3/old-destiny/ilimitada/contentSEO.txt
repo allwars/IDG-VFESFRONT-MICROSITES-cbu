@@ -1,0 +1,3 @@
+<h2>Hello Vodafone ilimitada!</h2><h3>Ejemplo de contenido cargado desde el JSON</h3><p>La ubicación del fichero JSON: microsite/[ruta_del_microsite]/resource/data/local.json</p><h3>Este titulo se carga desde el JSON comun</h3><p>La ubicación del fichero JSON: ./resources/assets/data/common.json</p><h4>Recuerda: </h4><p> Si la clave de tu JSON LOCAL coincide con la clave del JSON Global, priorizará el contenido del JSON local. </p><h4>Ejemplo</h4><ul>
+			<li>Yo soy el JSON local del microsite</li>
+		</ul>

@@ -1,0 +1,100 @@
+// CSS del microsite
+.vfes-ms-content{
+    background: #000;
+    .vfes-button {
+        font-size: 17px;
+    }
+    @media all and (min-width: 1280px) {
+        min-height: 420px;
+        background-image: url('../img/HB_PreAvail_iPhone_desktop_1440x420.png');
+        background-size: cover;
+    }
+    @media (min-width: 768px) and (max-width: 1279px) {
+
+        .vfes-layout__wrapper {
+            height: 515px;
+            margin-top: 130px;
+
+        }
+        .vfes-layout__wrapper.vfes-flex .vfes-ms-content {
+            margin-top: 230px;
+            padding-right: 10px;
+        }
+        .vfms-device {
+
+            height: 190px;
+            background-image: url('../img/HB_PreAvail_iPhone_tablet_sin fondo.png');
+            background-repeat: no-repeat;
+            background-position: 52% 64%;
+            background-size: 60% ;
+        }
+    }
+    .vfes-layout__wrapper {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 25px 0 34px 0;
+        @media screen and (min-width: 768px) {
+            padding: 25px 0 38px 0;
+        }
+        @media (min-width: 1280px) and (max-width: 1444px) {
+            align-items: flex-end;
+            justify-content: center;
+            // min-height: 380px;
+            padding: 100px 50px 38px 0;
+            box-sizing: border-box;
+        }
+        @media screen and (min-width: 1280px) {
+            align-items: flex-end;
+            justify-content: center;
+            min-height: 420px;
+            padding: 100px 250px 38px 0;
+            box-sizing: border-box;
+        }
+        .vfms-device {
+            @media screen and (min-width: 1280px) {
+                display: none;
+            }
+        }
+        .vfms-info {
+            width: 155px;
+            height: 44px;
+            margin: 10px;
+        }
+        .vfms-logo--iphone {
+            width: 211px;
+            @media screen and (min-width: 768px) {
+                width: 188px;
+            }
+            @media screen and (min-width: 1280px) {
+                display: block;
+                width: 195px;
+            }
+        }
+        .vfms-lsize {
+            font-size: 22px;
+            margin: 13px;
+            @media screen and (min-width: 768px) {
+                font-size: 19px;
+            }
+            @media screen and (min-width: 1280px) {
+                font-size: 17px;
+                // padding-bottom: 99px;
+            }
+        }
+        .vfms-text--color {
+            color: #7e7d81;
+            font-size: 17px;
+            @media screen and (min-width: 1280px) {
+                font-size: 13px;
+            }
+        }
+        .vfms-text--size {
+            max-width: 250px;
+            @media screen and (min-width: 1280px) {
+                max-width: 200px;
+            }
+        }
+    }
+
+}

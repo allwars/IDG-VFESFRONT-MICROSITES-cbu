@@ -1,0 +1,5 @@
+<h2>
+                    <span>Tarifas Móvil + Fibra</span>
+                    <span><strong>Oferta Flash</strong></span>
+                    <span>50% dto 6 meses</span>
+                </h2><p><strong>¡Date prisa!</strong> esta oferta termina en:</p><div></div>

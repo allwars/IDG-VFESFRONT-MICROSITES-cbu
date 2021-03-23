@@ -1,0 +1,94 @@
+{
+  "tarifasFamiliares": [
+    {
+      "nombre": "Hogar ilimitable 2.0",
+      "lineas": "2",
+      "precio": "47,50",
+      "precioAntes": "95",
+      "descuento": "50% dto. 3 meses",
+      "permanencia": "Permanencia 1 año",
+      "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1292057&tcli=0&tta=13",
+      "features": [
+        {
+          "titulo": "Conectividad",
+          "conectividad1": "2 líneas con datos y minutos ilimitados",
+          "conectividad2": "Fibra simétrica 600Mbps",
+          "conectividad3": "Super WiFi"
+        },
+        {
+          "titulo": "Cine y Series",
+          "entretenimiento1": "TV con decodificador 4K",
+          "entretenimiento2": "HBO España",
+          "entretenimiento3": "Amazon Prime Video"
+        },
+        {
+          "titulo": "Hogar inteligente",
+          "hogarInteligente1": "Secure Net Family"
+        }
+
+      ]
+    },
+    {
+      "nombre": "Hogar ilimitable 3.0",
+      "lineas": "3",
+      "precio": "55",
+      "precioAntes": "110",
+      "descuento": "50% dto. 3 meses",
+      "permanencia": "Permanencia 1 año",
+      "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1293270&tcli=0&tta=13",
+      "features": [
+        {
+          "titulo": "Conectividad",
+          "conectividad1": "3 líneas con datos y minutos ilimitados",
+          "conectividad2": "Fibra simétrica 600Mbps",
+          "conectividad4": "OneNumber",
+          "conectividad3": "Super WiFi"
+        },
+        {
+          "titulo": "Cine y Series",
+          "entretenimiento1": "TV con decodificador 4K",
+          "entretenimiento2": "HBO España",
+          "entretenimiento3": "Amazon Prime Video"
+        },
+        {
+          "titulo": "Hogar inteligente",
+          "hogarInteligente1": "Secure Net Family",
+          "hogarInteligente2": "V-Home Mini"
+        }
+
+      ]
+    },
+    {
+      "nombre": "Hogar ilimitable 4.0",
+      "lineas": "4",
+      "precio": "62,50",
+      "precioAntes": "125",
+      "descuento": "50% dto. 3 meses",
+      "permanencia": "Permanencia 1 año",
+      "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1293277&tcli=0&tta=13",
+      "features": [
+        {
+          "titulo": "Conectividad",
+          "conectividad1": "4 líneas con datos y minutos ilimitados",
+          "conectividad2": "Fibra simétrica 600Mbps",
+          "conectividad4": "OneNumber",
+          "conectividad3": "Super WiFi"
+        },
+        {
+          "titulo": "Cine y Series",
+          "entretenimiento1": "TV con decodificador 4K",
+          "entretenimiento2": "HBO España",
+          "entretenimiento3": "Amazon Prime Video"
+        },
+        {
+          "titulo": "Hogar inteligente",
+          "hogarInteligente1": "Secure Net Family",
+          "hogarInteligente2": "V-Home Mini",
+          "hogarInteligente3": "CarConnect"
+        }
+
+      ]
+
+    }
+  ]
+}

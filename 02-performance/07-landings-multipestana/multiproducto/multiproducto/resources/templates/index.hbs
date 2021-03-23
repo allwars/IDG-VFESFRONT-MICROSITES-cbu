@@ -1,0 +1,987 @@
+<link href="css/ws2r.v15.css" rel="stylesheet"  />
+<link href="css/styles.css" rel="stylesheet" data-microcss  />
+<div class="vfes-ms-content" id="multiproducto" style="display: none">
+	<div class="vfms-landing-content">
+	
+		{{!-- HEADER --}}
+		<header class="vfes-layout vfms-header-container">
+			<div class="vfes-layout__wrapper">
+				<div class="vfes-layout__item vfms-main-header">
+					<!-- Logo Vodafone -->
+					<div class="vfms-main-header__logo">
+						<img class="vfms-main-header__logo--img" src="img/logo-vodafone.png">
+					</div><!-- Logo Vodafone-->
+					<!-- Llama Gratis-->
+					{{!-- <div class="vfms-main-header__outgoingcall">
+						<div class="vfms-main-header__outgoingcall__icon">
+							<svg class="js-icon-tv js-icon-mobile" height="35" width="35" xmlns="http://www.w3.org/2000/svg"
+								xmlns:xlink="http://www.w3.org/1999/xlink">
+								<title>TV</title>
+								<use class="icon3-landline-or-call" xlink:href="#icon3-landline-or-call"></use>
+							</svg>
+	
+						</div>
+						<h3 class="vfms-main-header__outgoingcall__text">
+							<p>Llama <strong>gratis </strong>al</p>
+							<p><a href="tel:900 920 230" class="drp-href vfes-title--bold" title="Llama gratis"
+									onclick="sendConversionEventRingPool()"><span class="drp-phone">900 920 230</span></a>
+							</p>
+						</h3>
+					</div> --}}
+					<div class="vfms-main-header__outgoingcall" style="display: none;" id="scheduleMsg" data-msg="scheduleMsg">
+						<h3 class="vfms-main-header__outgoingcall-text">
+							<p class="vfes-title--regular vfes-title--bold vfms-main-header__outgoingcall-text-alternative">Déjanos tus datos y te
+								<br> llamamos</p>
+						</h3>
+					</div>
+					<div class="vfms-main-header__outgoingcall" id="scheduleCall" data-call="scheduleCall">
+						<div class="vfms-main-header__outgoingcall-icon">
+							<svg class="js-icon-tv js-icon-mobile" height="35" width="35">
+								<use xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+									xlink:href="#icon3-landline-or-call"></use>
+							</svg>
+						</div>
+						<h3 class="vfms-main-header__outgoingcall-text">
+							<p>Llama <strong>gratis </strong>al</p>
+							<p>
+								<a href="tel:900 920 230" class="drp-href vfes-title--bold" title="Llama gratis"
+									onclick="sendConversionEventRingPool()"><span class="drp-phone">900 920 230</span></a></p>
+						</h3>
+					</div>
+					<!-- Llama Gratis-->
+				</div>
+			</div>
+		</header>
+		{{!-- HEADER --}}
+		<main class="vfms-main-content">
+			<section class="vfes-layout vfms-banner one ilimitada" id="one-ilimitada">
+				<div class="vfes-layout__wrapper vfms-one-wrapper">
+					<div
+						class="vfes-layout__item vfes-1/1-mov vfes-2/3-palm vfes-3/4 vfes-color--vodafone-gray vfms-banner-info">
+	
+						<h2 class="vfes-layout__item vfes-title vfes-title--regular vfes-title--bold vfes-flex vfes-flex__direction--column vfms-banner-copy vfes-colours--vodafone-white">
+							<span>Hazte ilimitable con dos líneas móviles y fibra por solo </span>
+							<span class="vfms-banner-copy--mobile">
+								<span class="vfms-banner-copy--featured">
+									<span class="vfms-banner-copy--big">31,99€</span>
+									<span class="vfms-banner-copy--small">/mes</span>
+									<span class="vfms-banner-copy--featured-decoration"></span>
+								</span>
+							</span>
+							<span class="vfms-banner-copy--desktop">por este precio</span>
+						</h2>
+						<div class="vfms-offer-price-container">
+							<div class="vfms-offer-price">
+								<h3 class="vfms-offer-price-text vfes-title--regular vfes-flex vfes-flex__direction--column">
+									<span>Vodafone</span>
+									<span>One Ilimitada</span>
+								</h3>
+								<span class="vfms-offer-price-number">
+									<span class="vfms-offer-price-number--big vfes-title--regular vfes-title--bold">31</span>
+									<span class="vfms-offer-price-number--small">
+										<span class="vfms-number-small-item vfes-title--bold">'99</span>
+										<span class="vfms-number-small-item">€/mes</span>
+										<span class="vfms-number-small-item vfes-title--bold">3 meses</span>
+									</span>
+								</span>
+								<div class="vfms-offer-price-new-container"></div>
+							</div>
+						</div>
+	
+						<div class="vfms-banner-info-container">
+	
+							<ul class="vfms-rate-features">
+								<li class="vfes-flex vfms-rate-features-item vfes-colours--vodafone-white">
+									<span class="vfms-features-icon vfms-features-icon--mobile">
+										<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+											<title>Icono de dos teléfonos móviles</title>
+											<g fill="none" fill-rule="evenodd">
+												<path fill="#D8D8D8" fill-opacity="0" d="M0 0h30v30H0z" />
+												<g stroke-linecap="round" stroke-linejoin="round" stroke-width=".85">
+													<path fill="none" stroke="#fff"
+														d="M15.052 24.556a1.925 1.925 0 0 1-1.925-1.926V5.026c0-1.063.862-1.925 1.925-1.925h8.802c1.064 0 1.926.862 1.926 1.925V22.63a1.925 1.925 0 0 1-1.926 1.926h-8.802z" />
+													<path stroke="#fff" d="M17.803 22.355h3.301" />
+												</g>
+												<g stroke-linecap="round" stroke-linejoin="round" stroke-width=".85">
+													<path fill="#931014" stroke="#fff"
+														d="M6.146 27.056A1.925 1.925 0 0 1 4.22 25.13V7.526c0-1.063.862-1.925 1.926-1.925h8.802c1.063 0 1.925.862 1.925 1.925V25.13a1.925 1.925 0 0 1-1.925 1.926H6.146z" />
+													<path stroke="#fff" d="M8.897 24.855h3.3" />
+												</g>
+											</g>
+										</svg>
+									</span>
+									<span class="vfms-rate-feature-description">
+										<h3 class="vfms-feature-description-title vfes-title--bold">Dos líneas móviles</h3>
+										<ul class="vfms-features-list">
+											<li class="vfms-feature-description-text">1ª : Datos y llamadas ilimitadas</li>
+											<li class="vfms-feature-description-text">2ª : 4GB de datos y 200 minutos</li>
+										</ul>
+									</span>
+								</li>
+								<li class="vfes-flex vfms-rate-features-item vfes-colours--vodafone-white">
+									<span class="vfms-features-icon vfms-features-icon--mobile">
+										<svg class="js-icon-tv js-icon-convergente-system" height="35" width="35"
+											xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+											<title>Icono de red wifi</title>
+											<use class="icon3-broadband-or-wifi" xlink:href="#icon3-broadband-or-wifi">
+											</use>
+										</svg>
+									</span>
+									<span class="vfms-rate-feature-description vfms-rate-features-item--align">
+										<h3 class="vfms-feature-description-title vfes-title--bold">Fibra 100Mbps</h3>
+										<p class="vfms-feature-description-text">Simétricos</p>
+									</span>
+								</li>
+								<li class="vfes-flex vfms-rate-features-item vfes-colours--vodafone-white">
+									<span class="vfms-features-icon vfms-features-icon--mobile">
+										<svg class="js-icon-tv js-icon-tv" height="35" width="35"
+											xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+											<title>Icono de TV</title>
+											<use class="icon3-tv" xlink:href="#icon3-tv"></use>
+										</svg>
+									</span>
+									<span class="vfms-rate-feature-description vfms-rate-features-item--align">
+										<h3 class="vfms-feature-description-title vfes-title--bold">Pack Seriefans GRATIS
+										</h3>
+										<p class="vfms-feature-description-text">Con HBO España incluido</p>
+									</span>
+								</li>
+							</ul>
+							<div class="vfms-offer-details">
+								<a href="#" title="Conoce la oferta en detalle"
+									class="vfms-offer-details-link vfes-colours--vodafone-white" target="_self"
+									data-modal="offer-details-one-ilimitada" data-modal-close aria-haspopup="dialog"
+									data-analytics-element="conoce la oferta en detalle"
+									data-analytics-product="movil+fibra;vodafone one ilimitada"
+									data-analytics-category="link"
+									data-analytics-context="particulares:oferta:one ilimitada">Conoce la oferta en
+									detalle</a>
+							</div>
+						</div>
+	
+					</div>
+					<div
+						class="vfes-layout__item vfes-1/1-mov vfes-1/3-palm vfes-1/4 vfes-color--vodafone-gray vfms-banner-form">
+						<div class="vfms-banner-form-container vfes-colours-bg-dark-grey">
+							<div class="vfes-paragraph--center vfms-banner-form__call-me" style="display: none;" data-msgMobile="scheduleMsgMobile">
+								<h3 class="vfms-main-header__outgoingcall-text-alternative">
+									<p class="vfes-title--regular vfes-title--bold">Déjanos tus datos y te
+									<br> llamamos</p>
+								</h3>
+							</div>
+							<div class="vfes-paragraph--center vfms-banner-form__call-me" data-callMobile="scheduleCallMobile">
+								<p class="detail">Llama gratis al</p>
+								<a href="tel:900920230" class="phone-number drp-phone" onclick="sendConversionEventRingPool()">
+									900 920 230
+								</a>
+							</div>
+							<form class="vfes-form wg-form vfes-color--silver">
+								<div class="vfes-modal__head-form">
+									<p class="vfes-paragraph--center vfes-title--6">O si lo prefieres te llamamos</p>
+								</div>
+								<div class="vfes-box--form">
+									<input class="vfes-box-input wg-input" style="display:none;" value="NO"
+										name="verifyLeadId">
+									<input name="wg-return" class="wg-return wg-input" value="gracias" type="hidden">
+									<input class="vfes-form__input vfes-box--form__tlf wg-input" type="phone" name="phone"
+										inputmode="numeric" pattern="[0-9]*" maxlength="9"
+										data-wg-validation="required,phone" placeholder="Nº teléfono"
+										oninput="javascript: if (this.value.length > this.maxLength) this.value = this.value.slice(0, this.maxLength);">
+								</div>
+								<div class="vfes-box--form">
+									<div class="vfes-form__box vfms-form__checks-space">
+										<input class="vfes-form__checkbox vfms-form__checkbox_bg-transparent wg-input"
+											data-wg-validation="required" type="checkbox" id="privacy" value="on"
+											type="checkbox" name="check" />
+										<label class="vfes-form__label" target="_self" for="privacy">Acepto la <a href="#"
+												id="condiciones" data-modal="privacy" data-modal-close
+												aria-haspopup="dialog" class="button-privacy vfes-color--silver"
+												title="Vodafone One" target="_new" rel="nofollow"> Política de
+												Privacidad</a>
+										</label>
+									</div>
+									<div class="vfes-form__box vfms-form__checks-space">
+										<input class="vfes-form__checkbox wg-input" type="checkbox" id="comunication"
+											name="gdpr" value="on" />
+										<label class="vfes-form__label" for="comunication"><span
+												class="vfes-cta-box__span">Acepto
+												recibir
+												comunicaciones comerciales de Vodafone</span> </label>
+									</div>
+									<input title="Te llamamos gratis"
+										class="vfes-button vfes-button--green wg-submit tellamamos-ltc"
+										data-analytics-element="te llamamos gratis"
+										data-analytics-context="particulares:oferta:campana TV"
+										data-analytics-category="c2c" type="submit" value="Te llamamos gratis">
+								</div>
+							</form>
+						</div>
+					</div>
+				</div>
+			</section>{{!-- End One Ilimitada --}}
+			{{!-- End Tarifa Móvil + Fibra --}}
+
+			{{!-- Section Terminal --}}
+			<section class="vfes-layout vfms-mobile-module" id="ilimitada-total">
+				<div class="vfes-layout__wrapper">
+					<div class="vfes-layout__item vfms-mobile-module__container">
+						<h2 class="vfes-title vfes-title--regular vfes-align--center vfes-title--bold vfms-mobile-module__copy">Hazte ilimitable</h2>
+						<div class="vfms-mobile-module__mobile-info">
+							<h3 class="vfes-title--bold vfes-align--center vfms-mobile-module__mobile-info-copy">con el Xiaomi Mi Note 10</h3>
+							<div class="vfms-mobile-module__mobile-img">
+								<img src="img/mobile/xiaomi.png" alt="Imagen de Xiaomi">
+							</div>
+								<ul class="vfms-mobile-module__features">
+									<li class="vfes-flex vfms-mobile-module__features-item">
+										<span class="vfms-mobile-module__features-icon">
+											<svg class="js-icon-screen-size" height="72" width="72" xmlns="http://www.w3.org/2000/svg"
+												xmlns:xlink="http://www.w3.org/1999/xlink">
+												<title>Icono de pantalla de móvil</title>
+												<use class="icon3-screen-size" xlink:href="#icon3-screen-size"></use>
+											</svg>
+										</span>
+										<span class="vfms-mobile-module__features-description">
+											<h3 class="vfms-mobile-module__features-title vfes-title--bold">Pantalla</h3>
+											<ul class="vfms-mobile-module__features-list">
+												<li>Tamaño 6.47"</li>
+											</ul>
+										</span>
+									</li>
+									<li class="vfes-flex vfms-mobile-module__features-item">
+										<span class="vfms-mobile-module__features-icon">
+											<svg class="js-icon-mobile" height="72" width="72" xmlns="http://www.w3.org/2000/svg"
+												xmlns:xlink="http://www.w3.org/1999/xlink">
+												<title>Icono de cámra fotográfica</title>
+												<use class="icon3-camera" xlink:href="#icon3-camera"></use>
+											</svg>
+										</span>
+										<span class="vfms-mobile-module__features-description">
+											<h3 class="vfms-mobile-module__features-title vfes-title--bold">Cámara</h3>
+											<ul class="vfms-mobile-module__features-list">
+												<li >Frontal 32Mp</li>
+											</ul>
+										</span>
+									</li>
+									<li class="vfes-flex vfms-mobile-module__features-item">
+										<span class="vfms-mobile-module__features-icon">
+											<svg class="js-icon-cloud-upload" height="72" width="72" xmlns="http://www.w3.org/2000/svg"
+												xmlns:xlink="http://www.w3.org/1999/xlink">
+												<title>Icono de cpu</title>
+												<use class="icon3-cloud-upload" xlink:href="#icon3-cloud-upload"></use>
+											</svg>
+										</span>
+										<span class="vfms-mobile-module__features-description">
+											<h3 class="vfms-mobile-module__features-title vfes-title--bold">Memoria</h3>
+											<ul class="vfms-mobile-module__features-list">
+												<li>Interna 128GB</li>
+											</ul>
+										</span>
+									</li>
+							</ul>
+							<div class="vfms-mobile-module__rate-info">
+								<p class="vfes-flex vfes-flex__direction--column vfes-flex__align-items--center vfms-mobile-module__rate-info-text">
+									<span class="vfms-mobile-module__rate-info--full">+9,5€ <span class="vfms-mobile-module__rate-info--small">/mes</span> por 36 meses,</span>
+									<span class="vfms-mobile-module__rate-info--margin">con tarifa One ilimitada</span>
+									<span >al precio de <span class="vfes-title--bold">41,49€/mes</span></span>
+								</p>
+							</div>
+						</div>
+			
+					</div>
+				</div>
+			</section>
+				{{!-- End Section Mobile --}}
+						{{!-- Section Terminal --}}
+			<section class="vfes-layout vfms-mobile-module" id="ilimitada-total">
+				<div class="vfes-layout__wrapper">
+					<div class="vfes-layout__item vfms-mobile-module__container">
+						<div class="vfms-mobile-module__mobile-info">
+							<h3 class="vfes-title--bold vfes-align--center vfms-mobile-module__mobile-info-copy">…o con el Samsung Galaxy S20+ 5G</h3>
+							<div class="vfms-mobile-module__mobile-img">
+								<img src="img/mobile/s20.png" alt="Imagen de Xiaomi">
+							</div>
+								<ul class="vfms-mobile-module__features">
+									<li class="vfes-flex vfms-mobile-module__features-item">
+										<span class="vfms-mobile-module__features-icon">
+											<svg class="js-icon-screen-size" height="72" width="72" xmlns="http://www.w3.org/2000/svg"
+												xmlns:xlink="http://www.w3.org/1999/xlink">
+												<title>Icono de pantalla de móvil</title>
+												<use class="icon3-screen-size" xlink:href="#icon3-screen-size"></use>
+											</svg>
+										</span>
+										<span class="vfms-mobile-module__features-description">
+											<h3 class="vfms-mobile-module__features-title vfes-title--bold">Pantalla</h3>
+											<ul class="vfms-mobile-module__features-list">
+												<li>Tamaño 6.7"</li>
+											</ul>
+										</span>
+									</li>
+									<li class="vfes-flex vfms-mobile-module__features-item">
+										<span class="vfms-mobile-module__features-icon">
+											<svg class="js-icon-mobile" height="72" width="72" xmlns="http://www.w3.org/2000/svg"
+												xmlns:xlink="http://www.w3.org/1999/xlink">
+												<title>Icono de cámra fotográfica</title>
+												<use class="icon3-camera" xlink:href="#icon3-camera"></use>
+											</svg>
+										</span>
+										<span class="vfms-mobile-module__features-description">
+											<h3 class="vfms-mobile-module__features-title vfes-title--bold">Cámara</h3>
+											<ul class="vfms-mobile-module__features-list">
+												<li >Trasera 12+64+12Mp</li>
+											</ul>
+										</span>
+									</li>
+									<li class="vfes-flex vfms-mobile-module__features-item">
+										<span class="vfms-mobile-module__features-icon">
+											<svg class="js-icon-cloud-upload" height="72" width="72" xmlns="http://www.w3.org/2000/svg"
+												xmlns:xlink="http://www.w3.org/1999/xlink">
+												<title>Icono de cpu</title>
+												<use class="icon3-cloud-upload" xlink:href="#icon3-cloud-upload"></use>
+											</svg>
+										</span>
+										<span class="vfms-mobile-module__features-description">
+											<h3 class="vfms-mobile-module__features-title vfes-title--bold">Memoria</h3>
+											<ul class="vfms-mobile-module__features-list">
+												<li>Interna 128/512 GB</li>
+											</ul>
+										</span>
+									</li>
+							</ul>
+							<div class="vfms-mobile-module__rate-info">
+								<p class="vfes-flex vfes-flex__direction--column vfes-flex__align-items--center vfms-mobile-module__rate-info-text">
+									<span class="vfms-mobile-module__rate-info--full">+25,5€ <span class="vfms-mobile-module__rate-info--small">/mes</span> por 36 meses,</span>
+									<span class="vfms-mobile-module__rate-info--margin">con tarifa One ilimitada</span>
+									<span >al precio de <span class="vfes-title--bold">57,49€/mes</span></span>
+								</p>
+							</div>
+						</div>
+			
+					</div>
+				</div>
+			</section>
+				{{!-- End Section Mobile --}}
+			<section class="vfes-layout vfms-legal-conditions">
+				<div class="vfes-layout__wrapper">
+					<div class="vfes-layout__item vfms-legal-conditions__container">
+						<a href="#" class="vfms-legal-conditions__link" title="Condiciones  legales" target="_self"
+							data-modal="legal-conditions" data-modal-close aria-haspopup="dialog"
+							data-analytics-element="condiciones legales" data-analytics-product=""
+							data-analytics-category="" data-analytics-context="">Condiciones legales</a>
+					</div>
+				</div>
+			</section>
+			{{!-- End Ilimitada Total --}}
+		</main>
+	
+		{{!-- footer--}}
+		<footer>
+			<div class="vfes-layout vfes-colours-bg-vodafone-grey vfes-ph-">
+				<div class="vfes-layout__wrapper">
+					<div class="vfes-layout__item vfes-1/1-mov vfes-1/1-palm vfes-1/1">
+						<div class="vfms-footer-item__container vfes-flex vfes-flex__wrap vfes-flex__justify--center">
+							<div>
+								<span class="vfes-flex vfes-flex__align-items--center vfms-footer__icon">
+									<svg class="js-icon-business js-icon-business" height="35" width="35"
+										xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+										<title>TV</title>
+										<use class="icon3-business" xlink:href="#icon3-business"></use>
+									</svg>
+								</span>
+							</div>
+							<div class="vfes-flex vfes-flex__direction--column vfms-text-icon__container">
+								<p class="vfes-paragraph vfms-footer__text">¿Eres autónomo?</p>
+								<a class="vfms-footer__link vfes-colours--vodafone-white"
+									href="https://oferta.vodafone.es/empresas/vodafone-one/?utm_medium=VF_Particulares&utm_campaign=link_landing_partis"
+									target="_new">Accede a Vodafone Empresas</a>
+							</div>
+	
+							<div class="vfms-footer__copyright">
+								<p class="vfes-paragraph vfes-paragraph--right">© 2020 Vodafone España S.A.U.</p>
+								<p class="vfes-paragraph vfes-paragraph--right">Avda. América 115, 28042 Madrid</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>{{!-- footer --}}
+	
+		{{!-- Modals Section --}}
+	
+		{{!-- One Ilimitada --}}
+	
+		<div class="vfes-modal js-modal" data-vfes-js="_modal" aria-hidden="true">
+	
+			<section id="offer-details-one-ilimitada"
+				class="vfes-modal-channel vfes-modal__item js-modal-item vfms-fibraMovil" aria-hidden="true" role="dialog">
+				<div class="vfes-modal__head">
+					<button class="vfes-modal__close js-modal-close" aria-hidden="false"><svg
+							class="icon vfes-color--vodafone-gray" xmlns="http://www.w3.org/2000/svg"
+							xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px">
+							<title>Close</title>
+							<use class="icon-v3" xlink:href="#icon3-close"></use>
+						</svg></button>
+				</div>
+				<div class="vfes-modal__content js-modal-content">
+	
+					<h1 class="vfes-title vfes-title--4 vfes-title--regular vfms-modal-title">Tu paquete <span
+							class="vfes-title--bold">Vodafone One Ilimitada</span> incluye</h1>
+	
+					<div class="vfms-offer-details-features">
+						<ul class="vfms-offer-details-features-container">
+							<li class="vfms-offer-details-features-item">
+								<div class="vfms-feature-header">
+									<span class="vfms-feature-icon">
+										<svg class="js-icon-tv js-icon-desktop" height="30" width="30"
+											xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+											<title>INTERNET</title>
+											<use class="icon3-desktop" xlink:href="#icon3-desktop"></use>
+										</svg>
+									</span>
+									<h2 class="vfes-title vfes-title--5 vfes-color--vodafone-red vfms-feature-title">
+										Internet</h2>
+								</div>
+								<ul class="vfms-feature-content">
+									<li>100Mbps Fibra simétrica.</li>
+									<li>Conecta más de 7 dispositivos a la vez con la mejor conexión.</li>
+								</ul>
+							</li>
+							<li class="vfms-offer-details-features-item">
+								<div class="vfms-feature-header">
+									<span class="vfms-feature-icon">
+										<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+											<g fill="none" fill-rule="evenodd">
+												<path fill="#D8D8D8" fill-opacity="0" d="M0 0h30v30H0z" />
+												<g stroke-linecap="round" stroke-linejoin="round" stroke-width=".85">
+													<path fill="#FFF" stroke="#333"
+														d="M15.052 24.556a1.925 1.925 0 0 1-1.925-1.926V5.026c0-1.063.862-1.925 1.925-1.925h8.802c1.064 0 1.926.862 1.926 1.925V22.63a1.925 1.925 0 0 1-1.926 1.926h-8.802z" />
+													<path stroke="#333" d="M17.803 22.355h3.301" />
+												</g>
+												<g stroke-linecap="round" stroke-linejoin="round" stroke-width=".85">
+													<path fill="#FFF" stroke="#333"
+														d="M6.146 27.056A1.925 1.925 0 0 1 4.22 25.13V7.526c0-1.063.862-1.925 1.926-1.925h8.802c1.063 0 1.925.862 1.925 1.925V25.13a1.925 1.925 0 0 1-1.925 1.926H6.146z" />
+													<path stroke="#333" d="M8.897 24.855h3.3" />
+												</g>
+											</g>
+										</svg>
+									</span>
+									<h2 class="vfes-title vfes-title--5 vfes-color--vodafone-red vfms-feature-title">Dos
+										líneas móviles</h2>
+								</div>
+								<ul class="vfms-feature-content">
+									<li>Una línea con datos ilimitados (velocidad de descarga y subida de datos de 2Mbps) y
+										llamadas ilimitadas.</li>
+									<li>Una línea adicional incluida con 4GB de datos y 200 minutos durante 1 año.</li>
+									<li>Ambas líneas con Roaming incluido en Europa, Reino Unido y EEUU.</li>
+								</ul>
+							</li>
+							<li class="vfms-offer-details-features-item">
+								<div class="vfms-feature-header">
+									<span class="vfms-feature-icon">
+										<svg class="js-icon-tv js-icon-business-phone" height="35" width="35"
+											xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+											<title>TV</title>
+											<use class="icon3-business-phone" xlink:href="#icon3-business-phone"></use>
+										</svg>
+									</span>
+									<h2 class="vfes-title vfes-title--5 vfes-color--vodafone-red vfms-feature-title">Fijo
+									</h2>
+								</div>
+								<ul class="vfms-feature-content">
+									<li>Llamadas nacionales ilimitadas a fijos y móviles.</li>
+								</ul>
+							</li>
+							{{!-- <li class="vfms-offer-details-features-item">
+								<div class="vfms-feature-header">
+									<span class="vfms-feature-icon">
+										<svg class="js-icon-mobile" height="30" width="30"
+											xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+											<title>MOVIL</title>
+											<use class="icon3-sim" xlink:href="#icon3-sim"></use>
+										</svg>
+									</span>
+									<h2 class="vfes-title vfes-title--5 vfes-color--vodafone-red vfms-feature-title">Línea adicional incluida</h2>
+								</div>
+								<ul class="vfms-feature-content">
+									<li>Línea adicional mini con 4GB y 200min</li>
+								</ul>
+							</li> --}}
+							<li class="vfms-offer-details-features-item">
+								<div class="vfms-feature-header">
+									<span class="vfms-feature-icon">
+										<svg class="js-icon-tv js-icon-business-phone" height="35" width="35"
+											xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+											<title>TV</title>
+											<use class="icon3-tv" xlink:href="#icon3-tv"></use>
+										</svg>
+									</span>
+									<h2 class="vfes-title vfes-title--5 vfes-color--vodafone-red vfms-feature-title">
+										Televisión</h2>
+								</div>
+								<ul class="vfms-feature-content">
+									<li>Pack Seriefans GRATIS con HBO España.</li>
+								</ul>
+							</li>
+	
+							<li class="vfms-offer-details-features-item">
+								<div class="vfms-feature-header">
+									<h2 class="vfes-title vfes-title--5 vfes-color--vodafone-red vfms-feature-title">Y
+										además:</h2>
+								</div>
+								<ul class="vfms-feature-content">
+									<li>OneNumber GRATIS: Servicio MultiSIM, sal de casa sin tu smartphone y sigue
+										disfrutando de él, durante 3 meses.</li>
+									<li>Secure Net para usar tu Smartphone con seguridad, gratis 3 meses, después 1€/mes.
+									</li>
+								</ul>
+							</li>
+	
+	
+						</ul>
+					</div>
+					<div class="vfms-offer-details-conditions">
+						<div class="vfms-offer-details-conditions-item">
+							<h2 class="vfes-title vfes-title--5 vfes-color--vodafone-red vfms-feature-title">Condiciones:
+							</h2>
+							<ul class="vfms-offer-details-conditions-container">
+								<li class="vfms-offer-details-conditions-container__item">Móvil + Fibra + TV (Pack Seriefans
+									GRATIS) tiene <span class="vfes-title--regular vfes-title--bold">todo un año de
+										descuentos:</span>
+									{{!-- Móvil + Fibra por 28,99€/mes durante 3 meses de descuento. Del mes 4 al mes 12 57,99€/mes. Y a partir del mes 13 por 67,99€/mes. --}}
+									<ul class="vfms-offer-details-conditions-container__item-features">
+										<li>Tres primeros meses: 31,99 €/mes.</li>
+										<li>Después, hasta completar el año: 64,99€/mes</li>
+									</ul>
+								</li>
+								<li class="vfms-offer-details-conditions-container__item">Permanencia: un año</li>
+								<li class="vfms-offer-details-conditions-container__item">Tarifa <span
+										class="vfes-colours--vodafone-red">después del primer año</span>: 74,99 €/mes.</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</section>
+			{{!-- End One Ilimitada --}}
+	
+			{{!-- Tarifa Ilimitada Total --}}
+			<section id="offer-details-ilimitada-total"
+				class="vfes-modal-channel vfes-modal__item js-modal-item vfms-tarifaMovil" aria-hidden="true" role="dialog">
+				<div class="vfes-modal__head">
+					<button class="vfes-modal__close js-modal-close" aria-hidden="false"><svg
+							class="icon vfes-color--vodafone-gray" xmlns="http://www.w3.org/2000/svg"
+							xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px">
+							<title>Close</title>
+							<use class="icon-v3" xlink:href="#icon3-close"></use>
+						</svg></button>
+				</div>
+				<div class="vfes-modal__content js-modal-content">
+	
+					<h1 class="vfes-title vfes-title--4 vfes-title--regular vfms-modal-title">Tu tarifa <span
+							class="vfes-title--bold">Vodafone Ilimitada Total</span> incluye</h1>
+	
+					<div class="vfms-offer-details-features">
+						<ul class="vfms-offer-details-features-container">
+							<li class="vfms-offer-details-features-item"> <span class="vfes-title--bold">Datos
+									ilimitados:</span> Máxima velocidad para ver vídeos en máxima calidad y videojuegos.
+							</li>
+							<li class="vfms-offer-details-features-item"> <span class="vfes-title--bold">¿Qué puedes hacer
+									con datos ilimitados?</span> Ya no tienes que buscar WiFi. Ahora con datos ilimitados
+								podrás tener siempre abiertas las redes sociales, escuchar música sin parar y pasar las
+								horas que quieras en Internet.
+							</li>
+							<li class="vfms-offer-details-features-item">Con Móvil ilimitada tendrás una velocidad de <span
+									class="vfes-title--bold">descarga y subida de datos de 300Mbps.</span>
+							</li>
+							<li class="vfms-offer-details-features-item">Te recomendamos esta tarifa para:
+								<ul class="vfms-rate-features-container">
+									<li>Chat</li>
+									<li>Redes Sociales</li>
+									<li>Música</li>
+									<li>Uso avanzado redes sociales</li>
+									<li>Vídeos de alta calidad</li>
+									<li>Música de alta calidad</li>
+									<li>Aplicación de navegación</li>
+									<li>Vídeos máxima calidad</li>
+									<li>Juegos</li>
+									<li>Descargar y subir archivos de gran tamaño</li>
+								</ul>
+							</li>
+							<li class="vfms-offer-details-features-item"><span class="vfes-title--bold">Llamadas
+									ilimitadas:</span> Llamadas ilimitadas a fijos y móviles.
+							</li>
+							<li class="vfms-offer-details-features-item"><span class="vfes-title--bold">Roaming:</span>
+								Roaming incluido en Europa, Reino Unido y EEUU.
+							</li>
+							<li class="vfms-offer-details-features-item"><span class="vfes-title--bold">Secure Net:</span>
+								Secure Net para usar tu Smartphone con seguridad, gratis 3 meses, después 1€/mes.
+							</li>
+							<li class="vfms-offer-details-features-item">Permanencia : 1 año.</li>
+	
+						</ul>
+					</div>
+				</div>
+			</section>
+			{{!-- End Tarifa Ilimitada Total --}}
+	
+			{{!-- Condiciones legales --}}
+	
+			<section id="legal-conditions"
+				class="vfes-modal-channel vfes-modal__item js-modal-item vfms-legal-conditions__modal" aria-hidden="true"
+				role="dialog">
+				<div class="vfes-modal__head">
+					<button class="vfes-modal__close js-modal-close" aria-hidden="false"><svg
+							class="icon vfes-color--vodafone-gray" xmlns="http://www.w3.org/2000/svg"
+							xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px">
+							<title>Close</title>
+							<use class="icon-v3" xlink:href="#icon3-close"></use>
+						</svg></button>
+				</div>
+				<div class="vfes-modal__content js-modal-content">
+	
+					<h4 class="vfes-title vfes-title--regular vfes-title--bold vfms-modal-title"
+						class="vfes-title vfes-title--regular vfes-title--bold vfms-modal-title">Condiciones Legales
+						Vodafone One</h4>
+					<p>Paquetes disponibles para nuevas altas, portabilidades, migración de prepago a contrato y Clientes de
+						cartera en modalidad contrato tanto para Clientes particulares, como microempresas. Los paquetes de
+						Vodafone One ofrecen tres (3) velocidades de Fibra (100Mbps, 600Mbps o 1Gbps) y una de ADSL (hasta
+						35Mbps) a combinar con una de estas cinco (5) tarifas de móvil: Mini, Extra, Ilimitada, Ilimitada
+						Súper, Ilimitada Total.</p>
+	
+					<h6>Precios de los paquetes:</h6>
+	
+					<img src="img/precios-paquetes-voz.png"
+						alt="Imagen de tabla de precios de los paquetes de tarifas móvil" class="vfms-precios-img">
+	
+					<h4 class="vfes-title vfes-title--regular vfes-title--bold vfms-modal-title">Promoción Líneas
+						adicionales:</h4>
+	
+					<p>Oferta válida hasta el 31/03/2020 en tarifas convergentes: Vodafone One Extra y Vodafone One
+						Ilimitadas (Ilimitada, Súper y Total) válido para altas nuevas de origen portabilidad que contraten,
+						al menos, una línea adicional portada de origen contrato a su tarifa convergente y para clientes
+						existentes de móvil o de fijo que se hagan convergentes que contraten, al menos , 2 nuevas líneas
+						adicionales portadas a su tarifa convergente. Descuento 10€/mes durante 12 meses sobre una de las
+						líneas adicionales portadas. Compromiso de 12 meses en la línea adicional que disfrute del
+						descuento, con penalización por baja anticipada de hasta 120 euros en función del descuento aplicado
+						y el tiempo que reste para el cumplimiento del compromiso.</p>
+	
+					<h4 class="vfes-title vfes-title--regular vfes-title--bold vfms-modal-title">Condiciones de la promoción
+						de descuento en la tarifa Ilimitada</h4>
+	
+					<p>Oferta válida para altas nuevas y portabilidades desde el 03/02/2020 hasta el 31/03/2020, ambos
+						incluidos. Descuento de 5€/mes en cuota durante 12 meses desde la contratación en la tarifa de móvil
+						Ilimitada con compromiso de permanencia en Vodafone de 12 meses y penalización por baja anticipada
+						por importe máximo de hasta 60 euros en función del tiempo que reste para el cumplimiento del
+						compromiso. Oferta no aplicable a clientes existentes. No acumulable a otras ofertas de fijo o móvil
+						y no compatible con la compra de un terminal. Precio tras promoción 40,99€/mes.</p>
+	
+					<h4 class="vfes-title vfes-title--regular vfes-title--bold vfms-modal-title">Condiciones legales de la
+						promo 50% de descuento 3 meses en las tarifas móviles ilimitadas</h4>
+	
+					<p>Oferta válida solo en web para altas nuevas y portabilidades hasta el 31/03/2020. Descuento en la
+						cuota de la tarifa durante los 3 primeros meses; descuento de 21€/mes en la tarifa de móvil
+						Ilimitada, descuento de 23€/mes en la tarifa de móvil Ilimitada Súper, y descuento de 25€/mes en la
+						tarifa móvil Ilimitada Total. Compromiso de 12 meses en Vodafone con penalización por baja
+						anticipada por importe máximo de hasta 75 euros en función del descuento aplicado y el tiempo que
+						reste para el cumplimiento del compromiso. Oferta no aplicable a clientes existentes y no acumulable
+						a otras ofertas de fijo o móvil.</p>
+					<p>Precio después de promoción: Tarifa móvil Ilimitada 40.99€, Tarifa móvil Ilimitada Súper 45.99€ y
+						Tarifa móvil One Ilimitada Total 49.99€</p>
+	
+					<h4 class="vfes-title vfes-title--regular vfes-title--bold vfms-modal-title">Promoción de 50% 3 meses en
+						Vodafone One Extra y tarifas Vodafone One Ilimitadas (Ilimitada, Súper y Total)</h4>
+					<p>Oferta válida hasta el 31/03/2020 en tarifas convergentes Vodafone One para nuevos clientes (altas
+						nuevas y portabilidades) y para clientes existentes de móvil o fijo que se hagan convergentes.
+						Condiciones de la promoción: descuento en la cuota de la tarifa durante los 3 primeros meses;
+						29€/mes en la tarifa Vodafone One Extra, 33€/mes en la tarifa Vodafone One Ilimitada, 43 € en
+						Vodafone One Ilimitada Súper, y 55€/mes en Vodafone One Ilimitada Total1Gbps. Compromiso de 12 meses
+						en Vodafone One, con penalización por baja anticipada de hasta 165 euros en función del descuento
+						aplicado y el tiempo que reste para el cumplimiento del compromiso. Oferta no acumulable con otras
+						ofertas de fibra y fijo, o móvil.</p>
+					<p>Precio después de promoción: Vodafone One Extra 57,99€, Vodafone One Ilimitada 64.99€, Vodafone One
+						Ilimitada Súper 84.99€ y Vodafone One Ilimitada Total 1Gbps 109,99€.</p>
+	
+					<h4 class="vfes-title vfes-title--regular vfes-title--bold vfms-modal-title">Promoción Bono 10GB en
+						Vodafone One Extra con línea adicional Mini</h4>
+	
+					<p>Oferta válida hasta 31/03/2020 en tarifa Vodafone One Extra para altas nuevas de origen portabilidad
+						que contraten, al menos, una línea adicional Vodafone Mini portada de origen contrato a su tarifa
+						convergente y para clientes existentes de móvil o de fijo que se hagan convergentes que contraten,
+						al menos, 2 nuevas líneas adicionales portadas a su tarifa convergente. Descuento de 10€/mes durante
+						12 meses sobre una de las líneas adicionales portadas con un compromiso de 12 meses en la línea
+						adicional que disfrute del descuento, con penalización por baja anticipada de hasta 120 euros en
+						función del descuento aplicado y el tiempo que reste para el cumplimiento del compromiso. Precio
+						después de promo: Vodafone Mini 9,99€/mes. Descuento de 29€/mes en la cuota de la tarifa Vodafone
+						One Extra durante 3 meses con compromiso de 12 meses en Vodafone One con penalización por baja
+						anticipada de hasta 87 euros en función del descuento aplicado y el tiempo que reste para el
+						cumplimiento del compromiso. En Vodafone Extra 10GB adicionales al mes durante 12 meses desde la
+						fecha de contratación para altas y portabilidades, no válido en líneas adicionales. Precio después
+						de promoción Vodafone One Extra 57,99€/. Oferta no acumulable con otras ofertas de fibra y fijo, o
+						móvil </p>
+	
+					<h4 class="vfes-title vfes-title--regular vfes-title--bold vfms-modal-title">TV</h4>
+	
+					<p>Pack Seriefans incluido en las tarifas Vodafone One ilimitada, Súper y Total. Pack Serielovers
+						10€/mes en estas tarifas. Para el resto de tarifas convergentes (Mini y Extra) el pack Seriefans
+						tiene un coste de 10€/mes y el pack Serielovers 20€/mes.</p>
+					<p>Condiciones de los Packs de TV: Sin permanencia y sin cuota de alta. Penalización por no devolución
+						del equipo en caso de baja de 120€. HBO España incluido en Seriefans y Serielovers y Amazon Prime
+						solamente incluido en Serielovers. Una vez dado de alta los paquetes de TV es necesario activar HBO
+						España y Amazon Prime en vodafone.es/entretenimiento. La baja de ambos paquetes implica la
+						cancelación del servicio de HBO España, y la baja del pack Serielovers implica la cancelación del
+						servicio Amazon Prime. Amazon Prime tiene un precio de 3,99€/mes fuera de pack. ©2019 Home Box
+						Office,Todos los derechos reservados. HBO® y sus canales y servicios asociados a su marca son
+						propiedad de Home Box Office, Inc. Amazon.com, Inc. y sus afiliados no son sponsor de esta
+						promoción. Todas las marcas Amazon ®, TM & © son propiedad intelectual de Amazon.com, Inc. o de sus
+						afiliados.</p>
+	
+					<h4 class="vfes-title vfes-title--regular vfes-title--bold vfms-modal-title">Condiciones legales
+						Promoción Hatch Premium</h4>
+					<p>Promoción “Hatch Premium 1 año de regalo” válida desde el 24/06/2019 hasta el 24/06/2020 para
+						clientes de contrato particulares y profesionales con una tarifa: Vodafone One ilimitada Total o
+						Tarifa Móvil Ilimitada Total. La promoción consiste en 1 año de regalo de la suscripción Premium de
+						Hatch. Después el precio de Hatch Premium fuera de promoción es de 6,99€/mes (i.i). Para activar el
+						servicio, gestionar la baja o más información en este enlace: </p>
+	
+					<h4 class="vfes-title vfes-title--regular vfes-title--bold vfms-modal-title">Condiciones de los
+						servicios de fijo de banda ancha incluidos en Vodafone One</h4>
+	
+					<h5>Vodafone Fibra</h5>
+	
+					<p>Por la instalación del Servicio de fibra Vodafone incurre en un coste de 150 euros. En el caso de que
+						el servicio se dé de baja dentro de los 12 primeros meses desde la instalación, Vodafone repercutirá
+						al cliente el citado coste por un importe de hasta 150 euros. Los servicios a través de Vodafone
+						Fibra y de Vodafone ADSL están sujetos a disponibilidad de cobertura.</p>
+					<p>Con Vodafone Fibra 100Mbps, el Cliente tendrá Acceso a Internet con conexión por cable Ethernet con
+						velocidad de hasta 100Mbps en bajada y 10Mbps o 100Mbps en subida.</p>
+					<p>Con Vodafone Fibra 600Mbps, el Cliente tendrá Acceso a Internet con conexión por cable Ethernet con
+						velocidad de hasta 600Mbps en bajada y 60Mbps o 600Mbps en subida.</p>
+					<p>Con Vodafone Fibra 1Gbps el Cliente tendrá acceso a Internet con conexión por cable Ethernet con
+						velocidad de hasta 1Gbps en bajada y 100Mbps o 1Gbps en subida. Velocidad no disponible para acceso
+						indirecto.</p>
+					<p>Servicio de Super Wifi incluido en la tarifa Vodafone One Ilimitada Total de 1Gbps</p>
+	
+					<h4 class="vfes-title vfes-title--regular vfes-title--bold vfms-modal-title">Vodafone OneNumber:
+						Condiciones del servicio</h4>
+					<p>Para Dispositivos tipo Watch, si la tarifa contratada con el Servicio Móvil es Mini, Extra,
+						Ilimitada, Ilimitada Súper o Ilimitada Total, el precio del Servicio es de cinco (5) euros al mes
+						por cada Dispositivo Watch que tenga activado el Servicio con una promoción de los primeros 3 meses
+						gratis desde la fecha de activación del Servicio.</p>
+					<p>Para el resto de Dispositivos, el precio del Servicio es de seis euros y cinco céntimos (6,05) al mes
+						por cada Dispositivo que tenga activado el Servicio, con una promoción de los primeros 3 meses
+						gratis desde la fecha de activación del Servicio.</p>
+					<p>En las tarifas One Ilimitada Súper o One Ilimitada Total, el primer Dispositivo que se active
+						asociado al Servicio Móvil principal de la tarifa, está incluido en el precio de la tarifa</p>
+					<p>El Servicio incluye la emisión y recepción de llamadas, mensajes y navegación desde cualquiera de los
+						Dispositivos adicionales (hasta 4 por cliente) en función de las características de cada uno de
+						ellos. Para los Dispositivos que permitan navegación, está podrá llevarse a cabo hasta alcanzar los
+						Gigas incluidos en la tarifa contratada por el Cliente en caso de que estos sean menos de 10GB y con
+						un máximo de 10GB por Dispositivo y mes para el resto de tarifas.</p>
+					<p>Consulta el resto de condiciones legales en: <a
+							href="https://www.vodafone.es/c/particulares/es/mas-con-vodafone/objetos-conectados/vodafone-onenumber/">https://www.vodafone.es/c/particulares/es/mas-con-vodafone/objetos-conectados/vodafone-onenumber/</a>
+					</p>
+	
+					<h4 class="vfes-title vfes-title--regular vfes-title--bold vfms-modal-title">Condiciones de SuperWifi
+						incluido:</h4>
+					<p>Por la instalación de este servicio, Vodafone incurre en un coste de 25€. Este coste solo será
+						repercutido en tu factura en caso de baja del servicio dentro de los tres primeros meses desde la
+						fecha de instalación, en caso de trascurrir esos tres meses con el servicio de Super WiFi en uso,
+						Vodafone renuncia al cobro de los 25€ de la instalación.</p>
+					<p>En caso de baja, deberás devolver a Vodafone los extensores cedidos en un estado de uso y con una
+						conservación adecuada en el plazo de un mes posterior a la baja del servicio. En caso de no
+						devolución en plazo, Vodafone penalizará con la cantidad de 45€ por extensor.</p>
+					<p>La baja del servicio de acceso a Internet de banda ancha de Vodafone, supondrá la baja de manera
+						automática del servicio de Super WiFi.</p>
+	
+					<h4 class="vfes-title vfes-title--regular vfes-title--bold vfms-modal-title">Condiciones de los tarifas
+						móviles</h4>
+	
+					<h5 class="vfms-rate-features-title">La tarifa Vodafone Mini incluye:</h5>
+	
+					<ul class="vfms-features-list">
+						<li>200 minutos con cualquier operador nacional las 24horas.</li>
+						<li>SMS ilimitados con cualquier operador nacional</li>
+						<li>4GB de navegación.</li>
+						<li>Roaming incluido en Europa, Reino Unido y EE.UU con las mismas condiciones de la tarifa.</li>
+						<li>Servicio Secure Net para usar tu Smartphone con seguridad, 1 euro al mes (gratis los 3 primeros
+							meses).</li>
+	
+					</ul>
+					<h5 class="vfms-rate-features-title">La tarifa Vodafone Extra incluye:</h5>
+	
+					<ul class="vfms-features-list">
+						<li>Llamadas y SMS ilimitados con cualquier operador nacional las 24 horas.</li>
+						<li>8GB de navegación.</li>
+						<li>Roaming incluido en Europa, Reino Unido y EE.UU con las mismas condiciones de la tarifa.</li>
+						<li>Servicio Secure Net para usar tu Smartphone con seguridad, 1 euro al mes (gratis los 3 primeros
+							meses).</li>
+					</ul>
+					<h5 class="vfms-rate-features-title">La tarifa Vodafone Ilimitada incluye:</h5>
+	
+					<ul class="vfms-features-list">
+						<li>Llamadas y SMS ilimitados con cualquier operador nacional las 24 horas.</li>
+						<li>Datos ilimitados de navegación a una velocidad de 2Mbps.</li>
+						<li>Roaming incluido en Europa, Reino Unido y EE.UU: llamadas y SMS ilimitados y 20GB de navegación.</li>
+						<li>Servicio Secure Net para usar tu Smartphone con seguridad, 1 euro al mes (gratis los 3 primeros
+							meses).</li>
+					</ul>
+					<h5 class="vfms-rate-features-title">La tarifa Vodafone Ilimitada Súper incluye:</h5>
+	
+					<ul class="vfms-features-list">
+						<li>Llamadas y SMS ilimitados con cualquier operador nacional las 24 horas.</li>
+						<li>Datos ilimitados de navegación a una velocidad de 10Mbps.</li>
+						<li>Roaming incluido en Europa, Reino Unido y EE.UU: llamadas y SMS ilimitados y 22GB de navegación.</li>
+						<li>Servicio Secure Net para usar tu Smartphone con seguridad, 1 euro al mes (gratis los 3 primeros
+							meses).</li>
+					</ul>
+					<h5 class="vfms-rate-features-title">La tarifa Vodafone Ilimitada Total incluye:</h5>
+	
+					<ul class="vfms-features-list">
+						<li>Llamadas y SMS ilimitados con cualquier operador nacional las 24 horas.</li>
+						<li>Datos ilimitados de navegación a máxima velocidad 5G.</li>
+						<li>Roaming incluido en Europa, Reino Unido y EE.UU: llamadas y SMS ilimitados y 24GB de navegación.</li>
+						<li>Servicio Secure Net para usar tu Smartphone con seguridad, 1 euro al mes (gratis los 3 primeros
+							meses).</li>
+					</ul>
+	
+					<h4 class="vfes-title vfes-title--regular vfes-title--bold vfms-modal-title">Condiciones Legales Tarifas
+						Móviles de contrato:</h4>
+					<p>Tarifas disponibles para nuevas altas, portabilidades, migración de prepago a contrato y Clientes de
+						cartera en modalidad contrato tanto para Clientes particulares, como microempresas.</p>
+					<h6>Precio(€)/mes</h6>
+	
+					<img src="img/precios-voz-movil.png" alt="Imagen de tabla de precios de los paquetes de tarifas móvil"
+						class="vfms-precios-img">
+					<h4 class="vfes-title vfes-title--regular vfes-title--bold vfms-modal-title">Características comunes a
+						todas las tarifas de Vodafone One y móviles de contrato comunicadas</h4>
+					<ul class="vfms-features-list">
+						<li>Todos los servicios de llamadas contarán con calidad de voz HD siempre que la línea destinataria
+							de la llamada sea también Vodafone.</li>
+						<li>El servicio móvil permite Voz sobre IP.</li>
+						<li>En la tarifa Mini, consumidos los 200 min, aplica el precio de 0,25€/min y 0,30€ de
+							establecimiento de llamada.</li>
+						<li>Excluidos los servicios Dicta SMS, Rellamada, MMS y SMS/MMS Premium.</li>
+						<li>Los minutos incluidos en todas las tarifas excluyen las llamadas a numeraciones especiales de
+							tarificación adicional (como los 700, 901 o 902), llamadas a inteligencia de red, llamadas
+							internacionales, llamadas a números guía (como los 118) y las llamadas no utilizadas para la
+							identificación de usuarios finales.</li>
+						<li>Roaming incluido en UE, EE.UU, Islandia, Noruega, Liechtenstein, Suiza, Turquía, Vaticano,
+							Kosovo y Mónaco (Zona1).Las llamadas en roaming realizadas y recibidas, SMS enviados y GB
+							consumidos en estos destinos se contabilizan en la tarifa nacional sin coste adicional.
+							Incluidas las llamadas realizadas con origen y destino en cualquier país de los indicados.
+							Llamadas realizadas desde zona 1 a cualquier destino, fuera de zona 1 ,se tarifica según la
+							tarifa Vodafone World. Más información y política de uso razonable en Vodafone.es/roaming.</li>
+						<li>Superados los GB incluidos en Roaming para las tarifas ilimitada, Súper y Total el precio de
+							cada Giga adicional es de 5,4€/GB.</li>
+						<li>Roaming en zona 2: Las tarifas de móvil tienen activada la Tarifa de Viaje Mundo con la que los
+							clientes de la tarifa Mini y Extra disfrutarán de 20 minutos, 20 SMS y 2GB al día en Roaming en
+							sus viajes en Zona 2 por 15€/día de uso. Los clientes de las tarifas Extra, Ilimitada, Ilimitada
+							Súper e Ilimitada Total disfrutarán de los minutos y SMS ilimitados y 2GB al día en roaming en
+							sus viajes en zona 2 por 15€/día de uso. Incluye las llamadas y sms realizados desde zona 2 a
+							cualquier destino de cualquier zona.</li>
+						<li>Las tarifas Mini y Extra, superados los datos de la tarifa, se podrá seguir navegando a máxima
+							velocidad activando el servicio +megas, por 4€ cada 200MB adicionales que consuma (hasta un
+							máximo de 1GB/mes, 20€), después la velocidad se reduce. Si el cliente no dispone de este
+							servicio, superados los datos de la tarifa, la velocidad se reduce. Si el cliente dispone de
+							este servicio y se cambia a una tarifa Mini o Extra el mismo se mantiene activado. Baja del
+							servicio +Megas a través de Mi Vodafone o llamando al 22123.</li>
+						<li>Roaming en Vodafone Pass: incluido en la UE, Islandia, Noruega, Liechtenstein, Suiza, Turquía,
+							Vaticano, Kosovo y Mónaco y EE.UU sin coste adicional hasta un máximo de 5GB por Pass, después
+							se utilizarán los datos incluidos en la tarifa nacional contratada.</li>
+						<li>Las Condiciones de uso del servicio Secure Net están disponibles en:
+							www.vodafone.es/tycsecurenet. El cliente se puede dar de baja en la suscripción de Secure Net en
+							el momento que desee desde la app de Mi Vodafone o llamando al 22123. Se podrá disfrutar una
+							única vez de la promoción de Secure Net 3 meses gratis. </li>
+						<li>El disfrute de la promoción está vinculado al mantenimiento de la tarifa.</li>
+						<li>Los servicios que incluyen todas las tarifas están sujetos a la política de uso razonable de
+							Vodafone que comprende el uso no abusivo o para fines razonables teniendo en cuenta la causa y/o
+							fin por el que Vodafone pone a disposición de los servicios en el mercado. (disponible en
+							www.vodafone.es/conocenos.es/Vodafone-
+							españa/quienes-somos/legal-y-regulatorio/política-de-uso/)</li>
+						<li>Cuotas mensuales prorrateables en el alta y en la baja.</li>
+						<li>En el caso de las tarifas Vodafone Mini, Extra e Ilimitada Total la navegación 5G es a una
+							velocidad de bajada de hasta 1Gbps y con una velocidad de subida de hasta 150Mbps. La velocidad
+							está condicionada al acceso a tecnología 5G para lo que será necesario disponer de una tarifa
+							comercializable de contrato y prepago de Vodafone y de Vodafone bit con terminal móvil
+							compatible con 5G dentro de las zonas de cobertura Vodafone 5G (actualmente en estas ciudades:
+							Madrid, Barcelona, Valencia, Sevilla, Málaga, Bilbao, Zaragoza, Pamplona, Vitoria, San
+							Sebastián, Santander, Logroño, A Coruña, Vigo, Gijón). En caso contrario, la velocidad máxima
+							será la que permita la tecnología correspondiente.</li>
+						<li>Condiciones de permanencia: si el cliente se da de baja dentro de un periodo de compromiso,
+							deberá pagar a Vodafone en concepto de penalización por incumplimiento la cantidad que
+							corresponda en función del tiempo que reste para cumplir el compromiso adquirido hasta el máximo
+							del beneficio obtenido por el cliente.</li>
+						<li>Compatible con resto de Vodafone Pass.</li>
+					</ul>
+	
+					<h4 class="vfes-title vfes-title--regular vfes-title--bold vfms-modal-title">Líneas Adicionales</h4>
+					<p>Más información de condiciones legales en
+						www.vodafone.es/c/particulares/es/productos-y-servicios/movil/contrato/mas-lineas/</p>
+					<h4 class="vfes-title vfes-title--regular vfes-title--bold vfms-modal-title">Condiciones legales
+						Vodafone Fibra</h4>
+					<p>Paquetes disponibles para nuevas altas, portabilidades, migración de prepago a contrato y Clientes de
+						cartera en modalidad contrato tanto para Clientes particulares, como microempresas. Vodafone Fibra
+						se ofrece con tres (3) velocidades de Fibra (100Mbps, 600Mbps o 1Gbps) y una de ADSL (hasta 35Mbps).
+					</p>
+					<img src="img/precios-fibra.png" alt="Imagen de tabla de precios de los paquetes de tarifas móvil"
+						class="vfms-precios-img">
+					<p>Los precios incluyen un compromiso de permanencia de 24 meses. Transcurrido este periodo los precios
+						pasarán a ser:</p>
+					<img src="img/precios-fibra-sin-descuento.png"
+						alt="Imagen de tabla de precios de los paquetes de tarifas móvil" class="vfms-precios-img">
+					<p>El precio de la Fibra incluye el alquiler del router de 3 euros/mes.</p>
+					<h4 class="vfes-title vfes-title--regular vfes-title--bold vfms-modal-title">Vodafone ADSL</h4>
+	
+					<p>Con ADSL hasta 35Mbps, el Cliente tendrá conexión ADSL con velocidad de hasta 35 Mbps en bajada y 1
+						Mbps en subida.</p>
+	
+					<p> <span class="vfes-title vfes-title--regular vfes-title--bold">Nota:</span> Los precios recogidos en
+						esta comunicación están expresados con el IVA aplicable en Península y Baleares. En Canarias, Ceuta
+						y Melilla, los precios resultarán de aplicar el porcentaje impositivo correspondiente a los precios
+						sin IVA incluidos en esta comunicación.</p>
+	
+	
+				</div>
+			</section>
+			{{!-- End Condiciones legales --}}
+	
+	
+			{{!-- Política de Privacidad--}}
+	
+	
+			<section id="privacy" class="vfes-modal-channel vfes-modal__item js-modal-item vfms-tarifaMovil"
+				aria-hidden="true" role="dialog">
+				<div class="vfes-modal__head">
+					<button class="vfes-modal__close js-modal-close" aria-hidden="false"><svg
+							class="icon vfes-color--vodafone-gray" xmlns="http://www.w3.org/2000/svg"
+							xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px">
+							<title>Close</title>
+							<use class="icon-v3" xlink:href="#icon3-close"></use>
+						</svg></button>
+				</div>
+				<div class="vfes-modal__content js-modal-content">
+	
+					<h4 class="vfes-title vfes-title--regular vfes-title--bold vfms-modal-title">Política de Privacidad</h4>
+	
+					<div class="vfms-offer-details-features">
+						<p>
+							Los datos que nos facilitas en el registro formarán parte de una base de datos de Vodafone
+							España. S.A.U., con domicilio en Avda. América 115, 28042 de Madrid y serán tratados para
+							facilitarte la información solicitada y poder contactar contigo en el futuro para llevar a cabo
+							acciones comerciales, en caso de que nos hayas proporcionado tu consentimiento marcando el check
+							habilitado al efecto.
+						</p>
+						<p>
+							Podrás ejercitar los derechos de acceso, rectificación, cancelación, oposición, limitación
+							dirigiéndote a Vodafone España a la dirección antes indicada. Mantendremos tus datos mientras no
+							ejerzas tu derecho de cancelación. Podrás ponerte en contacto con el Delegado de Protección de
+							Datos (DPO) a través de: DPO-SPAIN@vodafone.com
+						</p>
+					</div>
+				</div>
+			</section>
+			{{!-- End Política de Privacidad --}}
+		</div>
+	</div>
+
+</div>
+<script src="js/ws2r.v15.js"></script>
+<script src="js/main.js"></script>

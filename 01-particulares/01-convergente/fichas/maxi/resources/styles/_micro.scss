@@ -1,0 +1,286 @@
+// CSS del microsite
+.vfes-ms-content{
+
+  // Breadcrumbs
+  .vf-breadcrumbs{
+    & li {
+      list-style: none;
+
+      &:first-child {
+        display: none;
+        @media screen and (min-width: 970px) {
+          display: block;
+        }
+      }
+
+      &:last-child {
+        display: none;
+        @media screen and (min-width: 970px) {
+          display: block;
+        }
+      }
+
+      &:nth-child(2n) {
+        & a{
+          &:before{
+            border-width: .0625rem;
+            border-right: .0625rem solid #333;
+            border-top: .0625rem solid #333;
+            display: block;
+            width: .75rem;
+            height: .75rem;
+            transform: rotate(-135deg);
+            content: "";
+            display: inline-block;
+            vertical-align: baseline;
+            position: relative;
+
+            @media screen and (min-width: 970px) {
+              display: none;
+            }
+
+          }
+
+        }
+      }
+    }
+
+    &__link {
+      display: flex;
+      align-items: center;
+      @media screen and (min-width: 970px){
+        &:after{
+          border-width: .0625rem;
+          border-right: .0625rem solid #333;
+          border-top: .0625rem solid #333;
+          display: block;
+          width: .75rem;
+          height: .75rem;
+          transform: rotate(45deg);
+          content: "";
+          display: inline-block;
+          vertical-align: baseline;
+          position: relative;
+        }
+      }
+
+    }
+
+  }
+  // clase genérica arreglo radio buttons
+
+  .ws10-c-form__radio:checked+.ws10-c-form__label::after {
+    background-color: #007c92;
+  }
+  .wfms__legal{
+    font-size: 14px;
+  }
+  .vfms-link{
+    color:#E60000;
+  }
+  //banner terminal
+  .vfms__banner-terminal{
+    display: flex;
+  }
+
+  // clase genérica
+
+  .vf-banner{
+    position: relative;
+    background-image: url("../img/banner/bg-banner-mv.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    @media screen and (min-width: 970px) {
+      background-image: url("../img/banner/bg-banner-desktop.jpg");
+      background-attachment: fixed;
+      background-position-y: -150px;
+    }
+    &__textcontainer {
+      padding-top: 20px;
+        @media screen and (min-width: 768px) {
+          padding-top: 50px;
+        }
+        @media screen and (min-width: 970px) {
+        padding-top: 98px;
+        padding-bottom: 98px;
+        }
+    }
+  }
+
+  .vf-terminales{
+    &__container{
+      &--text{
+        font-size: 14px;
+      }
+      .ws10-c-button{
+        width: 100%;
+      }
+      .ws10-text--underline{
+        text-decoration: underline;
+      }
+    }
+    img{
+      max-width: 74px;
+    }
+  }
+
+  .ws10-c-carousel__arrow.ws10-c-carousel__arrow--right{
+    @media screen and (min-width: 768px) {
+      right: 5rem;
+    }
+    @media screen and (min-width: 970px) {
+      right: 7rem;
+    }
+  }
+  .vf-mobile{
+    &__animation{
+      padding: 30px 0;
+      position: relative;
+      &--img{
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        margin: auto;
+      }
+    }
+    &__apps{
+      overflow: hidden;
+      min-height: 290px;
+      position: relative;
+      display: flex;
+      align-items: center;
+      box-sizing: border-box;
+      &:before {
+        content: "";
+        position: absolute;
+        max-height: 280px;
+        top: 20px;
+        left: 0;
+        right: -100%;
+        bottom: 0;
+        animation: slide 20s linear infinite;
+        background-size: cover;
+        background: url("../img/section-mobile/appilimitada.png") 0 100%;
+      }
+
+      @-webkit-keyframes slide {
+        100% {
+          transform: translateX(-50%);
+        }
+      }
+
+    }
+  }
+  .vf-terminal {
+    border-radius: 6px;
+    overflow: hidden;
+    flex-direction: column;
+    @media screen and (min-width: 768px) {
+      flex-direction: row;
+    }
+    &__content {
+      order: 2;
+      text-align: center;
+      @media screen and (min-width: 768px) {
+        order: 1;
+        text-align: left;
+      }
+    }
+    &__imgdesktop {
+      display: none;
+      @media screen and (min-width: 768px) {
+        display: block;
+        order: 2;
+      }
+    }
+    &__imgmobile {
+      order: 1;
+      @media screen and (min-width: 768px) {
+        display: none;
+      }
+    }
+  }
+  .vf-tv{
+    &__flexdirection{
+      flex-direction: column;
+      @media screen and (min-width: 768px){
+        flex-direction: row;
+      }
+
+    }
+  }
+  .vf-fiber{
+    &__flexdirection{
+      flex-direction: column;
+      @media screen and (min-width: 970px){
+        flex-direction: row;
+      }
+
+    }
+  }
+  .vf-superWifi{
+    &__flexdirection{
+      flex-direction: column;
+      @media screen and (min-width: 970px){
+        flex-direction: row-reverse;
+      }
+    }
+    &__img{
+      max-width: 300px;
+      @media screen and (min-width: 970px) {
+        max-width: 450px;
+      }
+    }
+  }
+  .vf-form{
+    margin-top: 10px;
+    padding:0 0 0 0;
+    &__box{
+      width: initial;
+      &:first-child{
+        padding-right: 20px;
+      }
+    }
+  }
+  .vf-timeline{
+    .ws10-c-timeline-steps__title{
+      max-width: initial;
+    }
+    .ws10-c-timeline-steps__item{
+      min-width: 20%;
+    }
+  }
+  .vf-ticket{
+    position: relative;
+
+    @media screen and (min-width: 768px){
+      position: absolute;
+      right: 1rem;
+      padding-top: 16px;
+    }
+
+    &__floating{
+      position: sticky;
+      width: inherit;
+      width: 100%;
+      max-width: 400px;
+      padding-top: 8px;
+    }
+
+    &__opacity0{
+      opacity: 0;
+    }
+
+  }
+  .vf-sticky {
+    position: fixed;
+    z-index: 1;
+    bottom: 0;
+    width: 100%;
+    @media screen and (min-width: 970px) {
+      display: none;
+    }
+  }
+}

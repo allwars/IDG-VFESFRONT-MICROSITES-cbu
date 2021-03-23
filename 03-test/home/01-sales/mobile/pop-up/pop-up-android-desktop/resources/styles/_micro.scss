@@ -1,0 +1,95 @@
+// CSS del microsite
+.vfms-overlay {
+    background: rgba(0,0,0,.85);
+    position: fixed;
+    z-index: 3;
+    height: 100vh;
+    width: 100vw;
+}
+.vfes-ms-content{
+    display: none;
+    @media all and (min-width: 640px) {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        .vfms-popup{
+            width: 598px;
+            height: 350px;
+            background: #fff;
+            background-size: cover;
+            background-repeat: no-repeat;
+            border-radius: 6px;
+            padding: 0 26px;
+    
+            .vfms-close{
+                position: absolute;
+                right: 0;
+                top: -30px;
+            }
+    
+            .vfms-device {
+                display: flex;
+                justify-content: center;
+                max-height: 239px;
+            }
+    
+            .vfms-special--size {
+                font-size: 20px;
+            }
+    
+            .vfes-button{
+                width: 256px;
+                height: 44px;
+                font-size: 18px;
+            }
+    
+        }  
+    }
+    @media all and (min-width: 1024px) {
+        .vfms-popup{
+            width: 690px;
+            height: 350px;
+            background: #fff;
+            background-size: cover;
+            background-repeat: no-repeat;
+            border-radius: 6px;
+            padding: 0 57px;
+    
+            .vfms-close{
+                position: absolute;
+                right: -30px;
+                top: -40px;
+            }
+
+            .vfms-info {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+            }
+
+            .vfms-info {
+                padding: 0;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+            }
+    
+            .vfms-device {
+                display: flex;
+                justify-content: center;
+                max-height: 248px;
+            }
+    
+            .vfms-special--size {
+                font-size: 20px;
+            }
+    
+            .vfes-button{
+                width: 256px;
+                height: 44px;
+                font-size: 18px;
+            }
+    
+        }  
+    }
+}

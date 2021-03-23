@@ -1,0 +1,340 @@
+<div data-spritesheet="svg/sprite.mid.svg"></div><main>
+		<section>
+			<div>
+				<div>
+					<div>
+						<p>Internet
+							Segundas Residencias</p>
+						<p>
+							<span>Por ser cliente de Vodafone One disfruta
+								de<span> datos ilimitados</span> en<span> tu segunda residencia</span>.
+						</span></p>
+					</div>
+				</div>
+			</div>
+		</section>
+		<div>
+			<div>
+				<section>
+					<div>
+						<div>
+							
+							<p>
+								Autoinstalable</p>
+							<p>No hace falta ir a tu residencia para citarte con el
+								instalador, es tan sencillo que se autoinstala muy facilmente.</p>
+						</div>
+						<div>
+							
+							<p>
+								Sin cables</p>
+							<p>Sin agujeros, sin cables, olvídate de preocuparte sobre
+								dónde colocar el router o cómo ocultar el cableado.</p>
+						</div>
+						<div>
+							
+							<p>
+								Segunda residencia</p>
+							<p>Sigue disfrutando de conexión en tu segunda residencia. Tus
+								vacaciones más conectadas que nunca.</p>
+						</div>
+					</div>
+				</section>
+				<section vfms-data-show="sticky">
+					<h2>Wifi segunda residencia</h2>
+					<h3>
+						Datos ilimitados con alta velocidad para utilizar con el router 4G
+					</h3>
+					
+					
+					<div>
+						<ul>
+							<li>
+								<div>
+									<div>
+										
+									</div>
+									<p><span>Datos
+											ilimitados</span></p>
+								</div>
+							</li>
+							<li>
+								<div>
+									<div>
+										<svg width="44" height="44">
+											<title>icon-router-mid_2</title>
+											<use xlink:href="#icon-router-mid_2"></use>
+										</svg>
+									</div>
+									<p><span>Router 4G</span> con
+										ranura para<span> introducir la SIM</span> (150Mbps de
+										bajada y de subida).<span> GRATIS</span></p>
+								</div>
+							</li>
+							<li>
+								<div>
+									<div>
+										<svg width="44" height="44">
+											<title>icon-broadband-or-wifi-mid</title>
+											<use xlink:href="#icon-broadband-or-wifi-mid" <="" use="">
+										</use></svg>
+									</div>
+									<p><span>Cobertura de red
+											móvil.</span> No te preocupes si la red de fibra no llegan a tu hogar. Este
+										servicio se posiciona sobre la mejor red de datos móviles.</p>
+								</div>
+							</li>
+						</ul>
+					</div>
+				</section>
+				<section>
+					<div>
+						<h3>
+							<span>Sin sorpresas.</span>
+							<span>No escondemos nada</span>
+						</h3>
+						<p>Impuestos y cuota incluidos.</p>
+						<p>Router GRATUITO.</p>
+						<p>Sin cuota de instalación</p>
+						<p>El coste de envío de la SIM y el Router es de 9€.</p>
+						<p>Permanencia de 12 meses desde el momento de la contratación.</p>
+						<p>Después de 12 meses seguirás pagando 24€ al mes.</p>
+						<p>O si lo prefieres disfruta de Segundas Residencias sin
+							Permanencia de 12 meses abonando 75€ en concepto de compra de router.</p>
+						<p>El precio de la cuota seguirá siendo de 24€/mes.</p>
+						<a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/internet-segunda-residencia/legales/" target="_new" data-analytics-id="1500075987427-0007460515586">Ver Condiciones Legales</a>
+					</div>
+				</section>
+				<section>
+					<h3>
+						¿Cómo contratar internet para segundas residencias?</h3>
+					<div>
+						<ul>
+							<li>
+								<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="68px" height="68px">
+									<title>icon-shopping-trolley-mi</title>
+									<use xlink:href="#icon-shopping-trolley-mid"></use>
+								</svg>
+								<h4><span>Compra</span></h4>
+								<p>Una vez hayas terminado la contratación con el agente
+									recibirás un email de confirmación con el detalle de tu pedido y próximos pasos.</p>
+							</li>
+							<li>
+								<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="68px" height="68px">
+									<title>icon-business-mid</title>
+									<use xlink:href="#icon-business-mid"></use>
+								</svg>
+								<h4><span>Recibe
+										la SIM y el Router</span></h4>
+								<p>El envío puede tardar entre 2-3 días laborables (en la
+									península) y 5-7 (a Baleares y Canarias, Ceuta o Melilla).</p>
+							</li>
+							<li>
+								<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="68px" height="68px">
+									<title>icon-bundles-mid</title>
+									<use xlink:href="#icon-bundles-mid"></use>
+								</svg>
+								<h4><span>Colócalo</span></h4>
+								<p> Introduce la SIM en el router y sigue las instrucciones que
+									están incluidas en la caja.</p>
+							</li>
+							<li>
+								<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="68px" height="68px">
+									<title>icon-unified-communication-mid</title>
+									<use xlink:href="#icon-unified-communication-mid"></use>
+								</svg>
+								<h4><span>Navega</span></h4>
+								<p>Ahora en tu segunda residencia, en vacaciones, siempre
+									conectado.</p>
+							</li>
+						</ul>
+					</div>
+				</section>
+			</div>
+			<!-- TICKET -->
+			<div>
+				<div>
+					<h2>Vodafone Segunda Residencia</h2>
+					<ul>
+						<li>
+							<div>
+								<svg style="width: 28px; height: 60px;">
+									<title>Soporte 24h</title>
+									<use xlink:href="#icon3-router"></use>
+								</svg>
+							</div>
+							<div>
+								<p><span>Datos ilimitados</span>
+								</p>
+								<p><span>+ Router 4G GRATIS</span></p>
+							</div>
+						</li>
+						<li>
+							<div>
+								<p>Permanencia 12 meses
+								</p>
+								<p>24€/mes</p>
+							</div>
+							<div>
+								<a title="Lo quiero" style="cursor: pointer;" onclick="window.parent.document.ws_popup.open('Internet Segundas Residencias', '24€/mes');" target="_parent" data-analytics-id="1500075987427-0005820368154">Lo
+									quiero</a>
+							</div>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<!-- SECTION BANNER SEO-->
+		<section>
+			<div>
+				<div>
+					<div>
+						<h2>
+							Disfruta de internet en tu segunda residencia</h2>
+						<p>
+							Desde Vodafone somos conscientes de lo importante que es tener<span> wifi en tu segunda residencia</span>, ya sea para tener
+							internet en vacaciones o para tener línea en tu casa del pueblo. No tendrás que preocuparte
+							si llega o no la fibra a tu segunda vivienda, con Vodafone segundas residencias, tendrás
+							toda velocidad del 4G para que puedas<span> seguir navegando por
+								internet con total comodidad y sin interrupciones.</span>
+						</p>
+						<p>
+							Si lo que buscas es<span> internet para tu casa de verano o de
+								vacaciones</span>, Vodafone Segunda Residencias es lo que necesitas. Llévate<span> toda la potencia de la mejor red móvil a tu segunda
+								residencia.</span> Además, no hace falta que vaya a tu hogar un instalador, es muy
+							sencillo, se autoinstala muy fácilmente sin cables ni agujeros.
+						</p>
+					</div>
+					
+					
+				</div>
+			</div>
+		</section>
+		<!-- STICKY TICKET MOBILE-->
+		<section vfms-data-show="show">
+			<div>
+				<div>
+					<div>
+						<span>24€<span>/mes</span></span>
+						<p>Permanencia 12 meses</p>
+					</div>
+					<div>
+						<a title="Lo quiero" style="cursor: pointer;" onclick="window.parent.document.ws_popup.open('Internet Segundas Residencias', '24€/mes');" target="_parent" data-analytics-id="1500075987427-0005820368134">Lo quiero</a>
+					</div>
+				</div>
+			</div>
+		</section>
+	</main><aside>
+		<div>
+			<h2>Preguntas Frecuentes</h2>
+			<div>
+				<div>
+					<div>
+						<div>
+							<button aria-expanded="false" aria-controls="accordion-content-0">
+								<h3>¿Cuáles son los pasos que tienes que
+									seguir para instalar el router?</h3>
+							</button>
+							<div aria-hidden="true">
+								<div>
+									<p>
+										Ten en cuenta que al introducir la SIM que te hemos entregado, debes seguir
+										estos pasos para que funcione tu servicio de Internet</p>
+
+								
+										<p>
+											1. <strong>Llama al 1550</strong> para que <strong>te faciliten el PIN de la
+												tarjeta SIM</strong> (viene preactivada y todavía no funciona).
+										</p>
+										<p>2. Se te solicita que <strong>indiques el nº de teléfono a
+												activar</strong>(aparece en el sobre de la SIM).
+										</p>
+
+
+										<p>3. <strong>Cuando configures la conexión wifi en tu PC o móvil, busca el
+												nombre del router y pulsa “Conectar”.</strong>
+										</p>
+
+										<p>4. Aparece un mensaje de que el router no ha podido conectarse a Internet y
+											tienes que <strong>pulsar la rueda de ajustes</strong>, al lado del nombre
+											del router.
+										</p>
+
+										<p>5. Entra en <strong>“Administrar router”</strong>.</p>
+
+										<p>6. <strong>Introduce el PIN que facilitado por teléfono.</strong></p>
+
+										<p>7. Desde ese momento, el router 4G empieza a funcionar y ya puedes usar
+											Internet con datos ilimitados de alta velocidad <strong>en la red móvil, ya
+												que no necesitas cobertura de fibra.</strong></p>
+									
+								</div>
+							</div>
+						</div>
+
+
+
+						<div>
+							<button aria-expanded="false" aria-controls="accordion-content-0">
+								<h3>Cuando se habla de datos ilimitados,
+									¿existe algún límite?</h3>
+							</button>
+							<div aria-hidden="true">
+								<div>
+									<p>
+										No existe un límite siempre que el uso comprenda en primer lugar el uso personal
+										para fines del uso particular y para fines razonables. Así mismo, el uso
+										responsable y no fraudulento.
+									</p>
+								</div>
+							</div>
+						</div>
+						<div>
+							<button aria-expanded="false" aria-controls="accordion-content-0">
+								<h3>¿Puedo usarlo desde el momento en el
+									que lo reciba o requiere algún tipo de instalación?</h3>
+							</button>
+							<div aria-hidden="true">
+								<div>
+									<p>
+										El router 4G no requiere ningún tipo de instalación. Solo tendrás que introducir
+										la SIM que recibas, seguir las instrucciones y en ese momento empezará a
+										funcionar. Sin instalación y sin cables. Solo hay que enchufarlo y navegar.
+									</p>
+								</div>
+							</div>
+						</div>
+						<div>
+							<button aria-expanded="false" aria-controls="accordion-content-0">
+								<h3>¿La oferta de Segunda Residencia tiene
+									una permanencia asociada?</h3>
+							</button>
+							<div aria-hidden="true">
+								<div>
+									<p>
+										Esta oferta tiene un compromiso en Vodafone 12 meses. Si se da de baja antes
+										tendrá un coste de 50€.
+									</p>
+								</div>
+							</div>
+						</div>
+						<div>
+							<button aria-expanded="false" aria-controls="accordion-content-0">
+								<h3>¿Es compatible con Vodafone TV?</h3>
+							</button>
+							<div aria-hidden="true">
+								<div>
+									<p>Este producto está disponible para clientes de Vodafone
+										One (fibra+móvil). Si ya tienes contratado Vodafone TV, puedes verlo en tu
+										segunda residencia y sin coste adicional a través de la App Vodafone TV, que
+										tienes que descargarte en los dispositivos compatibles determinados modelos de
+										Smart TV, móvil, tablet, PC y Chromecast. Más información en <a href="https://ayudacliente.vodafone.es/particulares/television/" target="_new">https://ayudacliente.vodafone.es/particulares/television/</a>
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</aside>

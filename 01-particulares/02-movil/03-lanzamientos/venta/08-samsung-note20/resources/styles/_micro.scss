@@ -1,0 +1,151 @@
+// CSS del microsite
+.vfes-ms-content{
+    // HERO
+    .vfms-hero{
+        min-height: 180px;
+        @media screen and (min-width: 640px) {
+            min-height: 232px;
+            background-image: url('../img/bg-tb.png');
+            background-position: center;
+            background-size: cover;
+            background-repeat: no-repeat;
+        }
+        @media screen and (min-width: 970px) {
+            min-height: 234px;
+            background-image: url('../img/bg-dsk.png');
+            background-size: cover;
+            background-position: center;
+        }       
+        &__title {
+            text-align: center;
+            @media screen and (min-width:768px) {
+                text-align: left;
+                font-size: 40px;
+            }
+        }
+        &__item {
+            @media screen and (min-width: 970px) {
+                min-width: 508px;
+            }
+        }
+    } 
+    // TABS
+    .vfms-large {
+        width: 100%;
+    }
+    .vfes-tabs__tab {
+        max-width: 160px;
+    }
+    .vfes-tabs__tab-button {
+        padding: 15px 0;
+    }
+    .vfms-mobile{
+        &-card{
+            padding: 20px;
+        }
+        .vfes-tag-label__outstanding{
+            left:0;
+            display: flex;
+
+            .vfms-icon{
+                width: 20px;
+                height: 20px;
+            }
+        }
+        &-img{
+            position: relative;
+            display: block;
+            margin: 0 auto;
+        }
+        &-colors {
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            margin: 0 auto;
+            &__list {
+                margin-left: -10px;
+            }
+            &__shadow {
+                box-shadow: 0 1px 1px 1px #ddd;
+            }
+            &__black {
+                background-color: #3d3936;
+            }
+            &__pink {
+                background-color: #9a716e;
+            }
+            &__green {
+                background-color: #b1c0bc;
+            }
+        }
+        &-prices{
+            text-align: center;
+            &-big{
+                font-size: 20px;
+                @media screen and (min-width: 640px) {
+                    font-size: 23px;
+                }
+            }
+        }
+        .vfms-flex{
+            display: flex;
+            width: 100%;
+            border-top: 1px solid #ccc;
+            padding: 12px 0 16px 0;
+            justify-content: space-between;
+            &:nth-child(3){
+                border-bottom: 1px solid #ccc;
+            }
+            &-left{
+                display: flex;
+                &__title{
+                    padding-left: 9px;
+                }
+                &__img {
+                    min-width: 20px;
+                }
+            }
+            &-right{
+                p{
+                    margin-bottom: 0;
+                }
+                display: flex;
+                flex-direction: column;
+                text-align: right;
+            }
+
+    
+        }
+    }
+    .vfms-watch__battery {
+        @media screen and (min-width: 970px){
+            min-height: 95px;
+        }
+    }
+    // WHY SECTION
+    .vfms-why{
+        &__icons {
+            width: 60px;
+            height: 60px;
+            @media screen and (min-width: 640px) {
+                width: 80px;
+                height: 80px;
+            }
+        }
+        &__size {
+            width: 100px;
+            height: 100px;
+            @media screen and (min-width: 640px) {
+                width: 130px;
+                height: 130px;
+            }
+        }
+    } 
+    p.vfes-why-vodafone__title {
+        font-size: 1.75rem;
+    }
+}
+
+
+
+    

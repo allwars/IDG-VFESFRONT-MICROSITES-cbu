@@ -1,0 +1,104 @@
+.vfes-nudge-serielovers {
+  .vfes-button--tertiary{
+    border: none;
+  }
+  .vfes-button--tertiary:hover{
+    border: none;
+  }
+  .vfms-bg{
+    background-image: url("https://www.vodafone.es/c/statics/imagen/ndg2-bg_mobile.png");
+    background-size: cover;
+    padding: 2.5rem 0;
+  }
+
+  .vfms-text{
+    align-items: center;
+  }
+
+  .vfms-contenido{
+    flex-direction: column;
+  }
+
+  .vfms-img-desktop{
+    display: none;
+  }
+
+  .vfms-title--2 {
+    font-size: 1.75rem;
+    line-height: 1.15;
+  }
+
+  .vfms-title--4 {
+    font-size: 1.25rem;
+    line-height: 1.23;
+  }
+
+  .vfms-button {
+    padding: .5625rem .875rem .6875rem;
+    font-family: VodafoneRegular,Helvetica,Arial,sans-serif;
+    text-align: center;
+    border: 0;
+    text-decoration: none;
+    cursor: pointer;
+    display: inline-block;
+    box-sizing: border-box;
+    border-radius: .375rem;
+    line-height: 1.25;
+    width: 100%;
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .vfms-button--primary {
+    background-color: #e60000;
+    color: #fff;
+}
+
+@media screen and (min-width: 640px) {
+
+
+  .vfms-img-mobile{
+    display: none;
+  }
+
+  .vfms-img-desktop{
+    display: block;
+  }
+  .vfms-contenido{
+    flex-direction: row;
+  }
+  .vfms-bg{
+    background-image: url("https://www.vodafone.es/c/statics/imagen/ndg2-bg_tablet.png");
+    background-size: cover;
+    padding: 3.5rem 0;
+  }
+  .vfms-title--2 {
+    font-size: 1.875rem;
+  }
+  .vfms-title--4 {
+    font-size: 1.5rem;
+  }
+  .vfms-button {
+    padding: .625rem 1.25rem .75rem;
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+    width: auto;
+  }
+}
+
+  @media screen and (min-width: 970px) {
+
+  .vfms-bg{
+    background-image: url("https://www.vodafone.es/c/statics/imagen/ndg2-bg_desktop.png");
+    background-size: cover;
+    padding: 3.75rem 0;
+  }
+  .vfms-title--2 {
+    font-size: 2.25rem;
+  }
+  .vfms-title--4 {
+    font-size: 1.625rem;
+  }
+}
+
+}

@@ -1,0 +1,359 @@
+// CSS del microsite
+.vfes-ms-content{
+
+  .vfms-hero__sin{
+    // max-width: 250px;
+    max-width: 260px;
+    width: 100%;
+    margin: 0 auto;
+  }
+  .vfms-hero__img-container img{
+    width:100%;
+
+  }
+  .vfms-test-alternative{
+   display:none;
+  }
+  .vfms-container{
+    margin-left: 0;
+  }
+  .vfms-video-container{
+    height: auto;
+    max-height: 350px;
+    display:block;
+  
+    @media screen and (max-width: 768px) {      
+      display:none;   
+    }
+
+  }
+  .vfms-content{
+    width: 100%;
+    display: flex;
+  }
+  /*
+  .vfms-container{
+    // position: absolute;
+    z-index: 5;
+    width: 100%;
+    top: 55px;
+    left:0;
+    padding-left:40px;
+    right: 0;
+    @media screen and (max-width: 768px) {      
+      position: relative; 
+      padding:10px 10px;
+      top: 0;
+      left: 0;
+      right: 0;
+      padding-left:0;
+    }
+    
+  }*/
+
+  .vf-banner{
+    background: url('https://www.vodafone.es/c/statics/imagen/bg-banner.jpg') no-repeat center;
+    background-size: cover;
+    position: relative;
+  }
+  .vfms-banner-title{
+    width: 50%;
+    position: relative;
+    padding-left: 30px;
+    @media screen and (max-width:768px) {
+      width: 100%;
+    }
+
+    /*&__bolo{
+      width:100px;
+      height:auto;
+      position: absolute;
+      right: 0;
+      display: none;
+      @media screen and (min-width:768px) {
+        display: block;
+      }
+    }*/
+  }
+  .vfms__banner-mobile{
+   display:none;
+
+    @media screen and (max-width: 768px) {      
+      display:block;
+      text-align: center;
+      margin: 0 auto;
+    }
+
+  }
+  .vfms-banner {
+    &-container {
+      background-image: url('../img/bg-banner-mobile.png');
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      @media screen and (min-width: 640px) {
+        background-image: url('../img/bg-banner-tablet.png');
+      }
+      @media screen and (min-width: 790px) {
+        background-image: none
+      }
+      @media only screen and (max-width: 1200px) and (min-width: 1024px) {
+        margin-bottom: 120px;
+      }
+      @media only screen and (max-width: 1400px) and (min-width: 1200px) {
+        margin-bottom: 50px;
+      }
+    }
+    &__title {
+      @media screen and (min-width: 640px) {
+        max-width: 450px;
+      }
+      @media screen and (min-width: 970px) {
+        max-width: 730px;
+        padding-right: 170px;
+      }
+      @media only screen and (max-width: 1200px) and (min-width: 1023px) {
+        max-width: 650px;
+        padding-right: 0;
+      }
+    }
+    &__contain {
+      @media screen and (min-width: 970px) {
+        position: absolute;
+        top: 1%;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        margin: 0 auto; 
+      }
+    }
+    &__img {
+      &-container {
+        position: relative;
+      }
+    }
+    // Hero image
+    &__mpv {
+      position: absolute;
+      max-width: 70px;
+      top: 0;
+      left: 10px;
+      @media screen and (min-width: 640px) {
+        max-width: 80px;
+        left: -40px;
+        top: 20px;
+      }
+      @media screen and (min-width: 970px) {
+        max-width: 90px;
+        left: 0;
+        top: 0;
+      }
+      // Horizontal tablet
+      @media only screen and (max-width: 1200px) and (min-width: 970px) {
+        max-width: 80px;
+        top: 20px;
+      }
+    }
+    &__info {
+      position: absolute;
+      bottom: 10px;
+      width: 120px;
+      z-index: 1;
+      @media screen and (min-width: 640px)  {
+        width: 100px;
+        bottom: 0;
+      }
+      @media screen and (min-width: 970px) {
+        width: 130px;
+      }
+      // Horizontal tablet
+      @media only screen and (max-width: 1200px) and (min-width: 970px) {
+        width: 100px;
+      }
+    }
+    &__5g {
+      position: absolute;
+      bottom: 0;
+      right: 30px;
+      z-index: 1;
+      @media screen and (min-width: 640px)  {
+        right: 40px;
+        max-width: 60px;
+      }
+      @media screen and (min-width: 970px)  {
+        right: 120px;
+        max-width: none;
+      }
+      // Horizontal tablet
+      @media only screen and (max-width: 1200px) and (min-width: 970px) {
+        max-width: 60px;
+        right: 50px;
+      }
+    }
+    &__animated {
+      position: absolute;
+      @media screen and (min-width: 970px)  {
+        left: 90px;
+        max-width: 65%;
+      }
+      // Horizontal tablet
+      @media only screen and (max-width: 1200px) and (min-width: 970px) {
+        right: 0;
+        left: auto;
+        max-width: 80%;
+        bottom: 0;
+      }
+    }
+    &__static {
+      position: absolute;
+      max-width: 80%;
+      right: 0;
+      bottom: 10px;
+      @media screen and (min-width: 640px) {
+        max-width: 90%;
+      }
+    }
+    // SEO banner
+    &__seo {
+      &-align {
+        align-items: flex-start;
+        @media screen and (min-width: 970px)  {
+          align-items: center;
+        }
+      }
+    }
+  }
+  .vfms-hero__img {
+    position: relative;
+    min-width: 350px;
+    min-height: 230px;
+    margin-top: 30px;
+    @media screen and (min-width: 640px) {
+      min-width: 250px;
+      min-height: 225px;
+      margin-top: 0;
+    }
+    @media screen and (min-width: 970px)  {
+      min-width: 500px;
+      min-height: 250px;
+    }
+    // Horizontal tablet
+    @media only screen and (max-width: 1200px) and (min-width: 970px) {
+      min-width: 300px;
+      min-height: 250px;
+    }
+  }
+  .vfms-video {
+    display: none;
+    @media screen and (min-width: 970px) {
+      display: block;
+      width: 100%;
+    }
+  }
+
+  .ws10-c-form__radio:checked+.ws10-c-form__label::after {
+    background-color: #007c92;
+  }
+
+  .vf-bold{
+    font-family: "Vodafone";
+    src: local("Vodafone Rg Bold"),url("https://www.vodafone.es/c/statics/fonts/vodafonergbd-webfont.woff") format("woff"),url(fonts/vodafone-bold.woff) format("woff");
+    font-style: "normal";
+    font-weight: 700;
+    font-display: swap
+  }
+  .vf-form{
+    padding:10px 0 0 24px;
+    &__box{
+      width: initial;
+      &:first-child{
+        padding-right: 20px;
+      }
+    }
+  }
+
+  .vf-rates{
+    &__container{
+      @media screen and (min-width: 768px){
+        align-items: start;
+        align-items: start;
+      }
+      @media screen and (min-width: 970px){
+        align-items: flex-end;
+        align-items: flex-end;
+      }
+    }
+  }
+
+  .vf-banner50{
+    &__img{
+      max-width: 100%;
+      @media screen and (min-width: 970px){
+        max-width: 100%;
+      }
+    }
+
+    &__container1{
+      @media screen and (min-width: 970px) {
+        order: 2;
+      }
+    }
+
+    &__container2{
+      @media screen and (min-width: 970px) {
+        order: 1;
+      }
+    }
+  }
+  .hide--lrg {
+    @media screen and (min-width: 970px) {
+      display: none;
+    }
+  }
+  .hide--xs {
+    display: none;
+    @media screen and (min-width: 640px) {
+      display: block;
+    }
+  }
+  .hide--sm {
+    @media screen and (min-width: 640px) {
+      display: none;
+    }
+    @media screen and (min-width: 970px) {
+      display: block;
+    }
+  }
+  .vf-tv-mobile {
+    max-width: 310px;
+    @media screen and (min-width: 640px) {
+      max-width: 100%;
+    }
+  }
+  .ws10-c-card-rate {
+    opacity: 1;
+  }
+  .vf-block {
+    display: block;
+  }
+  .vfms-addons--card {
+    @media screen and (min-width: 970px) {
+      min-height: 270px;
+    }
+  }
+  .vf-addons{
+    &--height {
+      height: 100%;
+    }
+    &--sim {
+      max-width: 220px;
+    }
+  }
+  // TARIFAS PREPAGO
+  .vf-inline--block {
+    display: inline-block;
+  }
+  .vf-bench--img {
+    max-width: 125px;
+  }
+}

@@ -1,0 +1,177 @@
+.vfes-tab-group {
+  font-family: 'VodafoneRegular';
+  text-align: left;
+
+  &__container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+    &-item {
+      &:first-of-type .vfes-tab-group__tab {
+        border-radius: 6px 0 0 6px;
+      }
+
+      &:last-of-type .vfes-tab-group__tab {
+        border-radius: 0 6px 6px 0;
+      }
+
+      &--active .vfes-tab-group__tab {
+        background-color: #e60000;
+        color: #fff;
+      }
+    }
+  }
+
+  &__tab {
+    font-size: 16px;
+    // max-width: 150px;
+    width: 100%;
+    padding: 10px 40px 12px;
+    background-color: #ccc;
+    color: #333333;
+    border: 1px solid transparent;
+  }
+
+  &__content {
+    display: none;
+
+    &[aria-expanded='true'] {
+      display: block;
+    }
+  }
+
+  &--grey {
+    .vfes-tab-group__container-item--active .vfes-tab-group__tab {
+      background-color: #e60000;
+      color: #fff;
+    }
+
+    & .vfes-tab-group__tab {
+      background-color: #fff;
+    }
+  }
+
+  &--dark {
+    .vfes-tab-group__container-item--active .vfes-tab-group__tab {
+      background-color: #fff;
+      color: #333333;
+    }
+
+    & .vfes-tab-group__tab {
+      background-color: #333333;
+      border-color: #fff;
+      color: #fff;
+
+    }
+  }
+
+  @media only screen and (max-width: 640px) {
+    &--dropdown {
+      position: relative;
+      padding-top: 43px;
+
+      .vfes-tab-group__container {
+        flex-direction: column;
+        position: absolute;
+        justify-content: flex-start;
+        top: 0;
+        height: 43px;
+        z-index: 1;
+        overflow: hidden;
+        width: 100%;
+        border-radius: 6px;
+
+        &::after {
+          content: '';
+          right: 16px;
+          position: absolute;
+          top: 12px;
+          transform: translate(-50%, 0) rotate(135deg);
+        }
+
+        &-item {
+          width: 100%;
+          order: 1;
+          background-color: #F4F4F4;
+
+          &--active {
+            order: 0;
+            background-color: #ccc;
+
+            .vfes-tab-group__tab {
+              background-color: #F4F4F4;
+              color: #333333;
+            }
+          }
+
+          &:hover {
+            background-color: #ccc;
+          }
+        }
+
+        &[aria-expanded="true"] {
+          height: auto;
+
+          &::after {
+            transform: translate(-50%, 50%) rotate(-45deg);
+          }
+
+          .vfes-c-tabs-group__container-item {
+            border-radius: 0;
+          }
+        }
+      }
+
+      .vfes-tab-group__tab {
+        width: 100%;
+        color: #333333;
+        background-color: transparent;
+        border-color: transparent;
+      }
+
+      &.vfes-tab-group--grey {
+        .vfes-tab-group__container-item {
+          background-color: #fff;
+
+          &:hover {
+            background-color: #F4F4F4;
+          }
+
+          &--active {
+            background-color: #fff;
+
+            .vfes-tab-group__tab {
+              background-color: transparent;
+            }
+          }
+        }
+
+      }
+
+      &.vfes-tab-group--dark {
+        .vfes-tab-group__container {
+          &:after {
+            border-color: #fff;
+          }
+
+          &-item {
+            &:hover {
+              background-color: #666;
+            }
+
+            &--active .vfes-tab-group__tab {
+              border-color: transparent;
+              background-color: transparent;
+            }
+
+            .vfes-tab-group__tab {
+              color: #fff;
+            }
+          }
+        }
+      }
+    }
+  }
+}

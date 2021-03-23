@@ -1,0 +1,131 @@
+// CSS del microsite
+.vfes-ms-content{
+    .ws10-c-call-to-action-app {
+        width: 100%;
+        background-image: linear-gradient(45deg, #333333 0%, #333333 55%, #333333 100%);
+        padding: 2rem 0;
+    }
+    .ws10-c-card-discovery-standard-full-width--right-img {
+        align-items: center;
+    }
+    
+
+    background-color: #333333;
+    .vfms-title{
+        margin-bottom: .5rem
+    }
+    .device{
+        background-color: transparent;
+        border: none;
+        text-decoration: underline;
+    }
+    .vfms-badge{
+        width:87px;
+    }
+    .vfms-badge2{
+        width:65px;
+    }
+    .device:hover{
+        color:#222222;
+    }
+    .vf-block {
+        display: block;
+    }
+    .vf-field {
+        max-width: 450px;
+    }
+    .vf-esCliente {
+        margin: 0 auto;
+    }
+    .vf-device{
+        &--img {
+            width: auto;
+        }
+        &--icon {
+            width: auto;
+        }
+        &--item {
+            border-bottom: 2px solid #f4f4f4;
+        }
+    } 
+    .vf-input__shadow {
+        box-shadow: none;
+    }
+    .vf-input__shadow:focus {
+        box-shadow: none;
+    }
+    .vfms-minicard2{
+        min-height: 400px;
+        @media screen and (min-width: 640px) {
+            min-height: 650px;
+        }
+    }
+    .vfms-minicard{
+        min-height: 400px;
+        @media screen and (min-width: 640px) {
+            min-height: 484px;
+        }
+    }
+    .vfms-img-minicard{
+        margin-top:20px;
+    }
+    .ws10-c-card-discovery-product__image {
+        width: 100%;
+        height: auto;
+        -o-object-fit: cover;
+        object-fit: cover;
+    }
+    .ws10-c-card-discovery-standard-full-width__content-inner {
+        padding-right: 0;
+        padding-left: 0;
+    }
+    .ws10-c-card-discovery-product__image-vfms {
+    
+    }
+    .vfms-sticky-app{
+        position: sticky;
+        bottom: 0;
+        background-color: #333333!important;
+    }
+    .vf-banner{
+        background: rgb(244,244,244);
+        background: linear-gradient(180deg, rgba(244,244,244,1) 0%, rgba(199,214,232,1) 100%);
+        background-size: cover;
+        position: relative;
+        color: #000000;
+
+        @media screen and (min-width: 640px) {
+            background: rgb(244,244,244);
+            background: linear-gradient(180deg, rgba(244,244,244,1) 0%, rgba(199,214,232,1) 100%);
+            background-size: cover;           
+          }
+      &__title{
+        max-width: 800px;
+      }
+      &__subtitle{
+          font-size:32px;
+      }
+     
+    }
+    .ws10-c-link-chevron__icon {
+        width: 3rem;
+        height: 1.5rem;
+        margin-left: 0.25rem;
+        color: #e60000;
+        flex-shrink: 0;
+    }
+    .ws10-c-filter--active .ws10-c-filter__label svg .path{
+        fill: #fff;
+    }
+    .vfms-svg {
+
+        fill: #fff;
+
+    }
+
+
+   
+
+
+
+}

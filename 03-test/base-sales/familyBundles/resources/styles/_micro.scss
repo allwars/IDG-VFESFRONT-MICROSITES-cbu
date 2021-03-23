@@ -1,0 +1,28 @@
+.vf-bs{
+  &__family{
+    background-image: url("https://www.vodafone.es/c/statics/imagen/448_Base_Salesbg-mobile.jpg");
+    @media screen and (min-width: 760px){
+      background-image: url("https://www.vodafone.es/c/statics/imagen/448_Base_Salesbg-table.jpg");
+    }
+
+    @media screen and (min-width: 970px){
+      background-image: url("https://www.vodafone.es/c/statics/imagen/448_Base_Salesbg-desktop.jpg");
+    }
+  }
+  .vf-img-bundles{
+    width: 360px;
+    max-width: 100%;
+
+    &__mobile{
+      @media screen and (min-width: 970px){
+        display: none;
+      }
+    }
+    &__desktop{
+      display: none;
+      @media screen and (min-width: 970px){
+        display: block;
+      }
+    }
+  }
+}

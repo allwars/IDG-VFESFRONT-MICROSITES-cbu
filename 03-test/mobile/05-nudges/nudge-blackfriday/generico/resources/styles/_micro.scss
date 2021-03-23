@@ -1,0 +1,150 @@
+// CSS del microsite
+.vfes-ms-content-bf{
+    .vfms-banner{
+        background-color: #000000;
+        background-image: url('https://www.vodafone.es/c/statics/imagen/nudge-blackfriday-mobile-v2.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 390px;
+        background-position: center;
+        @media screen and (min-width: 768px) {
+            background-image: url('https://www.vodafone.es/c/statics/imagen/nudge-blackfriday-tablet-v2.png');
+            height: auto;
+        }
+        @media screen and (min-width: 1025px) {
+            background-image: url('https://www.vodafone.es/c/statics/imagen/nudge-blackfriday-desktop-v2.png');
+        }
+        .vfes-paragraph--large {
+            font-size: 20px;
+        }
+        &-content{
+            padding: 13px;
+
+            .vfms-tel{
+
+                margin-bottom:30px!important;
+
+
+            }
+
+            .vfms-text{
+                color:  #ffffff!important;
+
+
+                margin-top:50px!important;
+
+                @media screen and (min-width: 1024px) {
+
+
+                    margin-top:10px!important;
+                   
+                }
+
+                
+
+                &__size {
+                    font-size: 24px;
+                    @media screen and (min-width: 768px) {
+                        font-size: 34px;
+                    }
+                 }
+
+                &__bold {
+                    font-family: "VodafoneRegularBold", Helvetica, Arial, sans-serif;
+                    color: #ffffff!important;
+                }
+
+                &__width {
+                    color: #ffffff!important;
+                    margin: 0 auto;
+                    margin-bottom: 16px;
+                    @media screen and (min-width: 768px){
+                        max-width: 330px;
+                    }
+                    @media screen and (min-width: 1024px) {
+                        max-width: 600px;
+                    }
+                }
+                &__margin {
+                    margin-bottom: 5px;
+                    @media screen and (min-width: 1024px) {
+                        max-width: 410px;
+                        margin: 0 auto;
+                    }
+                }
+
+                .vfes-title{
+                    margin-bottom: 20px;
+                }
+            }
+            .vfms-main__text {
+                font-size: 24px;
+                @media screen and (min-width: 768px) {
+                    font-size: 34px;
+                    max-width: 493px;
+                    margin: 0 auto;
+                    margin-bottom: 16px;
+                }
+                @media screen and (min-width: 1024px) {
+                    max-width: 650px;
+                }
+            }
+            .vfms-special-size {
+                @media screen and (min-width: 768px) {
+                    font-size: 24px;
+                }
+            }
+
+            .vfms-button-mobile{
+                display:block;
+                margin:0 auto;
+                text-align: center;
+
+
+                @media screen and (min-width: 1024px) {
+                    display:none;
+                   
+                }
+                a{
+
+                    margin-top:30px!important;
+                    margin: 0 auto;
+                    color:#ffffff!important;
+
+                }
+
+            }
+
+
+           
+            .vfms-button{
+
+                display:none;
+                margin:0 auto;
+                text-align: center;
+
+                @media screen and (min-width: 1024px) {
+                    display: block;
+                    margin:0 auto;
+                    text-align: center;
+               
+                    margin-top: 20px;
+                    width: 300px;
+          
+                
+                }
+                a{
+                  
+                    color:#ffffff!important;
+                    text-decoration: none!important;
+
+                }
+       
+                .vfes-button{
+                    margin-bottom: 10px;
+                }
+            }
+        }
+
+    }
+}
